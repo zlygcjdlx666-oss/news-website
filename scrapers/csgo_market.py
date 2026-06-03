@@ -1,150 +1,198 @@
 """
-CS:GO 皮肤大盘行情爬虫
-抓取 Steam 官方市场 CS:GO 热门饰品数据
+CS:GO 皮肤大盘指数爬虫
+数据来源: SteamDT (open.steamdt.com) — 国内最大CS2饰品数据平台
 """
 
+import os
+import concurrent.futures
 import requests
 from config import SOURCES
 
+# 大盘指数标杆皮肤
+INDEX_SKINS = [
+    "AK-47 | Redline (Field-Tested)",
+    "AWP | Asiimov (Field-Tested)",
+    "M4A4 | Asiimov (Field-Tested)",
+    "AWP | Redline (Field-Tested)",
+    "USP-S | Orion (Field-Tested)",
+    "P250 | Supernova (Field-Tested)",
+    "MAC-10 | Neon Rider (Field-Tested)",
+    "Glock-18 | Water Elemental (Field-Tested)",
+    "SSG 08 | Blood in the Water (Field-Tested)",
+    "Desert Eagle | Hypnotic (Field-Tested)",
+    "M4A1-S | Guardian (Field-Tested)",
+    "P90 | Asiimov (Field-Tested)",
+]
+
+STEAMDT_BASE = "https://open.steamdt.com"
+
+
+def _load_dotenv():
+    env_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), ".env")
+    if os.path.exists(env_path):
+        with open(env_path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    key, _, value = line.partition("=")
+                    key = key.strip()
+                    value = value.strip().strip('"').strip("'")
+                    if key not in os.environ:
+                        os.environ[key] = value
+
+
+_load_dotenv()
+
+
+def _get_price(market_hash_name):
+    """查询单个皮肤在各平台的价格"""
+    api_key = os.environ.get("STEAMDT_API_KEY", "")
+    if not api_key:
+        return None
+
+    try:
+        headers = {
+            "Authorization": f"Bearer {api_key}",
+            "User-Agent": "Mozilla/5.0",
+            "Accept": "application/json",
+        }
+        params = {"marketHashName": market_hash_name}
+        resp = requests.get(
+            f"{STEAMDT_BASE}/open/cs2/v1/price/single",
+            params=params,
+            headers=headers,
+            timeout=15,
+        )
+        data = resp.json()
+        if not data.get("success"):
+            return None
+
+        platforms = data.get("data", [])
+        if not platforms:
+            return None
+
+        # 各平台最低价
+        buff_price = None
+        c5_price = None
+        igxe_price = None
+        steam_price = None
+
+        for p in platforms:
+            plat = p.get("platform", "")
+            price = p.get("sellPrice", 0) or 0
+            if plat == "BUFF" and not buff_price:
+                buff_price = price
+            elif plat == "C5" and not c5_price:
+                c5_price = price
+            elif plat == "IGXE" and not igxe_price:
+                igxe_price = price
+            elif plat == "STEAM" and not steam_price:
+                steam_price = price
+
+        main_price = buff_price or c5_price or igxe_price or steam_price or 0
+
+        return {
+            "name": market_hash_name,
+            "buff_price": buff_price,
+            "c5_price": c5_price,
+            "igxe_price": igxe_price,
+            "steam_price": steam_price,
+            "main_price": main_price,
+        }
+    except Exception:
+        return None
+
 
 def fetch_csgo_market():
-    """抓取 Steam 市场 CS:GO 热门饰品行情"""
+    """从 SteamDT 抓取 CS:GO 大盘指数"""
     config = SOURCES.get("csgo", {})
     if not config.get("enabled", True):
         return []
 
-    max_items = config.get("max_items", 15)
+    max_items = config.get("max_items", 10)
     news_list = []
 
+    api_key = os.environ.get("STEAMDT_API_KEY", "")
+    if not api_key:
+        print("[CSGO] 未设置 STEAMDT_API_KEY，跳过")
+        return []
+
     try:
-        # Steam 市场搜索 API — CS:GO 成交量最高物品
-        url = "https://steamcommunity.com/market/search/render/"
-        params = {
-            "appid": 730,
-            "norender": 1,
-            "count": max_items + 5,
-            "sort_column": "volume",
-            "sort_dir": "desc",
-            "currency": 23,  # CNY
-        }
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "Accept": "application/json",
-        }
+        # 并行查询所有标杆皮肤
+        results = []
+        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+            futures = {
+                executor.submit(_get_price, skin): skin
+                for skin in INDEX_SKINS[:max_items]
+            }
+            for f in concurrent.futures.as_completed(futures):
+                result = f.result()
+                if result:
+                    results.append(result)
 
-        resp = requests.get(url, params=params, headers=headers, timeout=20)
-        resp.raise_for_status()
-        data = resp.json()
+        if not results:
+            raise Exception("所有皮肤查询失败")
 
-        items = data.get("results", [])[:max_items]
+        # 按价格排序
+        results.sort(key=lambda x: x["main_price"], reverse=True)
 
-        if not items:
-            raise Exception("Steam 返回空数据")
+        total_price = 0
+        skin_data = []
 
-        total_sell_price = 0
-        total_volume = 0
-        skin_list = []
+        for item in results:
+            name = item["name"]
+            short_name = name.split(" (")[0] if " (" in name else name
+            price = item["main_price"]
+            total_price += price
 
-        for item in items:
-            name = item.get("name", "").strip()
-            if not name:
-                continue
-
-            # Steam 返回的价格文本: "¥ 123.45"
-            price_text = item.get("sell_price_text", "0")
-            sell_price = 0
-            try:
-                sell_price = float(
-                    price_text.replace("¥", "").replace(",", "").replace(" ", "").strip()
-                )
-            except (ValueError, AttributeError):
-                pass
-
-            volume = item.get("sell_listings", 0)
-            total_sell_price += sell_price
-            total_volume += volume
-
-            # 物品类型
-            item_type = ""
-            type_tags = []
-            for tag in item.get("tags", []):
-                tag_name = tag.get("localized_tag_name", "")
-                if tag_name:
-                    type_tags.append(tag_name)
-            if type_tags:
-                item_type = " | ".join(type_tags[:2])
-
-            summary_parts = [f"售价 ¥{sell_price:.2f}"]
-            if item_type:
-                summary_parts.append(item_type)
-            if volume:
-                summary_parts.append(f"挂单 {volume}件")
-            summary = " | ".join(summary_parts)
-
-            # 热度评分: 价格越高 + 成交量越多 = 越热门
-            score = min(10, max(1, int(sell_price / 100) + min(volume // 200, 5)))
-
-            skin_list.append({
-                "name": name,
-                "price": sell_price,
-                "volume": volume,
-            })
+            # 平台价格字符串
+            parts = []
+            if item["buff_price"]:
+                parts.append(f"Buff ¥{item['buff_price']:.2f}")
+            if item["c5_price"]:
+                parts.append(f"C5 ¥{item['c5_price']:.0f}")
+            if item["igxe_price"]:
+                parts.append(f"IGXE ¥{item['igxe_price']:.0f}")
+            summary = " | ".join(parts)
 
             news_list.append({
-                "title": f"{name}",
-                "url": f"https://steamcommunity.com/market/listings/730/{name.replace(' ', '%20')}",
+                "title": f"{short_name} ¥{price:.2f}",
+                "url": f"https://buff.163.com/goods?search={name}",
                 "source": "CSGO大盘",
-                "score": score,
-                "comments": volume,
+                "score": min(10, max(1, int(price / 50))),
+                "comments": len(parts),  # 平台数
                 "summary": summary,
             })
 
-        # 大盘行情概览
-        if skin_list:
-            avg_price = total_sell_price / len(skin_list) if skin_list else 0
-            top5 = skin_list[:5]
-            top5_names = " · ".join(s["name"][:15] for s in top5[:3])
+            skin_data.append({
+                "name": short_name,
+                "price": price,
+            })
+
+        # 大盘指数概览
+        if skin_data:
+            avg_price = total_price / len(skin_data)
+            top3_names = " · ".join(s["name"][:12] for s in skin_data[:3])
 
             index_summary = (
-                f"Steam市场成交量Top{len(skin_list)}均价 ¥{avg_price:.2f} | "
-                f"总挂单量 {total_volume}件 | "
-                f"热门: {top5_names}"
+                f"SteamDT大盘均价 ¥{avg_price:.2f} | "
+                f"涵盖 {len(skin_data)} 款标杆皮肤 | "
+                f"最贵: {skin_data[0]['name']} ¥{skin_data[0]['price']:.0f} | "
+                f"标杆: {top3_names}"
             )
 
             index_item = {
-                "title": f"🔫 CS:GO Steam大盘 均价¥{avg_price:.2f}",
-                "url": "https://steamcommunity.com/market/search?appid=730",
+                "title": f"🔫 CS:GO 大盘均价 ¥{avg_price:.2f}",
+                "url": "https://www.steamdt.com",
                 "source": "CSGO大盘",
-                "score": 8,
-                "comments": total_volume,
+                "score": 9,
+                "comments": len(skin_data),
                 "summary": index_summary,
             }
             news_list.insert(0, index_item)
 
     except Exception as e:
-        print(f"[CSGO] Steam市场抓取失败: {e}")
-
-        # 备用：从 Skinport API 获取
-        try:
-            sp_url = "https://api.skinport.com/v1/items"
-            params = {"app_id": 730, "currency": "CNY"}
-            resp = requests.get(sp_url, params=params, timeout=15)
-            items = resp.json()[:max_items]
-
-            for item in items:
-                name = item.get("market_hash_name", "")
-                price = item.get("suggested_price", 0) or 0
-                news_list.append({
-                    "title": name,
-                    "url": f"https://skinport.com/item/{item.get('url', '')}",
-                    "source": "CSGO大盘",
-                    "score": 5,
-                    "comments": 0,
-                    "summary": f"Skinport参考价 ¥{price:.2f}",
-                })
-            print(f"[CSGO] Skinport备用源: {len(news_list)} 条")
-        except Exception as e2:
-            print(f"[CSGO] 备用源也失败: {e2}")
+        print(f"[CSGO] 抓取失败: {e}")
 
     print(f"[CSGO] 抓取完成: {len(news_list)} 条")
     return news_list
@@ -152,4 +200,4 @@ def fetch_csgo_market():
 
 if __name__ == "__main__":
     for n in fetch_csgo_market()[:5]:
-        print(f"  {n['title'][:60]} | {n['summary'][:60]}")
+        print(f"  {n['title'][:60]}")
