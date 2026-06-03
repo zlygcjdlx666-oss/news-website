@@ -14,7 +14,7 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>每日全球新闻精选 — {date_str}</title>
+<title>磊哥新闻网 — {date_str}</title>
 <style>
 :root {{
     --bg: #f8f9fa;
@@ -376,7 +376,7 @@ body {{
 <body data-theme="light">
 
 <div class="header">
-    <h1>🌍 每日全球新闻精选</h1>
+    <h1>🌍 磊哥新闻网</h1>
     <div class="date">{date_str}</div>
     <div class="meta">由 AI 从 {source_count} 个新闻源中筛选 · 共 {total_news} 条精选</div>
 </div>
