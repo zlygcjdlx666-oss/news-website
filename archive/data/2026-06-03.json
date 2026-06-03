@@ -1,13 +1,13 @@
 {
   "date": "2026-06-03",
-  "commentary": "哎，各位老铁，今天这新闻堆里啊，磊哥我得挑几个硬核的喷一喷。\n\n先说那个Anthropic，估值奔着一万亿美金去了，超过OpenAI。这俩AI巨头搁这儿玩“比谁更吸金”呢？一个烧钱讲开放，一个闷声搞IPO，说白了都是资本捧出来的新神。但磊哥得提醒各位，别光看估值，这玩意儿没落地前就是纸面富贵，哪天泡沫破了，哭的可不光是程序员。\n\n再说中国那脑机接口，瘫痪六年的患者能写字了。这消息磊哥得竖个大拇指！这才是科技该干的正事儿，比那些整天琢磨怎么让你多刷俩小时手机的破算法强一万倍。技术就该拿来救人，别光想着割韭菜。\n\n最后看那报告，说人平均36%的手机时间是无目的刷屏。磊哥笑了，这数据还是保守了，我看不少人得奔着60%去。你以为是你在玩手机？其实是手机在玩你，把你的注意力和时间当韭菜割。\n\n今日金句：科技要么让你站起来，要么让你躺下去刷个不停——别让发明你的工具，最后变成埋葬你的坟墓。",
+  "commentary": "好，各位老铁，咱们今天聊点硬核的。\n\n先说微软那个量子芯片，Majorana 2，可靠性提了1000倍。听着吓人，但磊哥得泼盆冷水：从实验室里的1000倍到造出能解决实际问题的量子计算机，中间隔着一整个太平洋。这就像有人告诉你他造出了时速1000公里的跑车，但得等到2030年才能上路——听着很牛，但你先卖我一辆行不？\n\n再来看Anthropic秘密提交IPO，估值直奔万亿美金。这事儿太魔幻了，一个还在烧钱的大模型公司，估值快赶上整个石油帝国。磊哥就想问：这到底是AI太值钱，还是美元太不值钱了？资本市场的狂欢，最后买单的还是咱们这些普通人。\n\n最后说说中国那个脑机接口，瘫痪6年的病人能握笔写字了。这才是真正的科技该有的样子！不整虚的，不画大饼，直接扎进手术室救人。磊哥要喊一句：这种新闻，天天上头条我都不嫌烦。\n\n今日金句：量子计算还在画饼，脑机接口已经上桌了——有些科技是给资本家讲故事，有些科技是给病人当拐杖。",
   "news": [
     {
-      "title": "微软称新量子芯片可靠性比前代提升1000倍",
+      "title": "微软发布新型量子芯片，可靠性提升1000倍",
       "url": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "score": 9,
-      "summary": "微软发布Majorana 2量子芯片，声称其可靠性比前代提升1000倍，并预测在本十年末将拥有能解决商业问题的量子计算机。",
+      "summary": "微软宣布其新型Majorana 2量子芯片可靠性比前代提升1000倍，并预测本十年末将造出能解决商业问题的量子计算机。",
       "categories": [
         "科技",
         "科学"
@@ -16,11 +16,11 @@
       "original_comments": 0
     },
     {
-      "title": "Anthropic秘密提交IPO申请，估值逼近9650亿美元",
+      "title": "Anthropic秘密提交IPO申请，估值逼近1万亿美元",
       "url": "https://www.solidot.org/story?sid=84458",
       "source": "Solidot",
       "score": 9,
-      "summary": "AI公司Anthropic已向SEC秘密提交IPO招股说明书，其估值在上周融资后达到9650亿美元，超过OpenAI的8520亿美元。",
+      "summary": "AI公司Anthropic已向SEC秘密提交IPO招股说明书，最新估值达9650亿美元，计划今年晚些时候向公众发售股票。",
       "categories": [
         "财经",
         "科技"
@@ -29,7 +29,7 @@
       "original_comments": 0
     },
     {
-      "title": "美国与伊朗互相发动新打击，停火谈判陷入僵局",
+      "title": "美国与伊朗发动新打击，停火谈判陷入僵局",
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "score": 9,
@@ -41,25 +41,12 @@
       "original_comments": 0
     },
     {
-      "title": "普京对乌克兰立场强硬，但俄罗斯国内战争舆论正在变化",
+      "title": "普京在乌克兰问题上仍不妥协，但俄罗斯国内战争言论悄然变化",
       "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "score": 8,
-      "summary": "俄罗斯加大对乌克兰的攻势，但超过四年的战争引发包括普京支持者在内的广泛担忧，国内舆论出现微妙变化。",
+      "summary": "俄罗斯加大对乌克兰攻击力度，但四年多的战争甚至让普京的忠诚支持者也开始感到担忧。",
       "categories": [
-        "国际"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "加拿大正式请求将北美自由贸易协定续签16年",
-      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 8,
-      "summary": "加拿大贸易部长致信美加墨三国，正式请求续签USMCA贸易协定，寻求16年的长期稳定合作。",
-      "categories": [
-        "财经",
         "国际"
       ],
       "original_score": 0,
@@ -70,7 +57,7 @@
       "url": "https://www.solidot.org/story?sid=84454",
       "source": "Solidot",
       "score": 8,
-      "summary": "一名因车祸瘫痪6年的患者在中国脑机接口芯片试验中，通过植入芯片成功握笔写字，标志着该技术取得重大突破。",
+      "summary": "一名因车祸瘫痪6年的患者在中国脑机接口芯片试验中成功握笔写字，该芯片于2024年11月植入其脑部。",
       "categories": [
         "科学",
         "科技"
@@ -83,7 +70,7 @@
       "url": "https://www.solidot.org/story?sid=84453",
       "source": "Solidot",
       "score": 8,
-      "summary": "III期临床试验显示，新药daraxonrasib使胰腺癌患者中位生存期达13.2个月，优于化疗的9.3个月，为患者带来新希望。",
+      "summary": "III期临床试验显示，新药daraxonrasib使胰腺癌扩散患者中位生存期达13.2个月，优于化疗组。",
       "categories": [
         "科学"
       ],
@@ -91,14 +78,14 @@
       "original_comments": 0
     },
     {
-      "title": "宝马称人形机器人是汽车制造的“未来”",
-      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+      "title": "Instagram AI聊天机器人被黑客利用，导致他人账户被接管",
+      "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "score": 8,
-      "summary": "宝马正在欧洲工厂引入人形机器人，继美国类似项目后，进一步推动汽车制造自动化。",
+      "summary": "亲伊朗黑客通过诱骗Meta AI机器人，短时间内接管了包括奥巴马在内的多个Instagram名人账号。",
       "categories": [
         "科技",
-        "财经"
+        "社会"
       ],
       "original_score": 0,
       "original_comments": 0
@@ -108,7 +95,7 @@
       "url": "https://www.solidot.org/story?sid=84462",
       "source": "Solidot",
       "score": 8,
-      "summary": "中国修订《商业秘密保护规定》，首次将数据、算法等数字资产纳入保护，并对远程办公和跨境合作提出更严格安全要求。",
+      "summary": "中国新修订的《商业秘密保护规定》正式施行，首次明确将数据、算法等数字资产纳入保护，并对远程办公提出更严要求。",
       "categories": [
         "科技",
         "财经"
@@ -117,66 +104,14 @@
       "original_comments": 0
     },
     {
-      "title": "AI巨头Anthropic计划在美国上市，估值逼近1万亿美元",
-      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "title": "中国打击快餐行业“幽灵外卖”，新规要求线上线下信息一致",
+      "url": "https://www.solidot.org/story?sid=84463",
+      "source": "Solidot",
       "score": 8,
-      "summary": "AI公司Anthropic计划今年晚些时候向公众出售股票，其估值已接近1万亿美元，成为AI领域最受关注的公司之一。",
-      "categories": [
-        "财经",
-        "科技"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "报告称人们平均36%的手机使用时间是无目的刷屏",
-      "url": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "score": 7,
-      "summary": "Virgin Media O2报告显示，人们平均36%的手机使用时间缺乏明确目的，揭示了普遍的“无意识刷屏”现象。",
+      "summary": "中国新规要求外卖平台商家信息必须与实体店相符，并注明是否提供堂食，以打击无实体店的“幽灵外卖”。",
       "categories": [
         "社会",
-        "科技"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "黑客利用Meta AI机器人接管Instagram名人账号",
-      "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "score": 7,
-      "summary": "亲伊朗黑客通过简单方法诱骗Meta AI机器人，短时间内接管了包括奥巴马在内的多个Instagram名人账号并发布亲伊朗内容。",
-      "categories": [
-        "科技",
-        "国际"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "特朗普签署缩减版AI行政令，此前经历数周反复",
-      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-      "source": "Hacker News",
-      "score": 7,
-      "summary": "特朗普签署了一份规模缩小的AI行政令，此前该政策经历了数周的反复和调整，引发业界关注。",
-      "categories": [
-        "科技",
-        "国际"
-      ],
-      "original_score": 186,
-      "original_comments": 131
-    },
-    {
-      "title": "能源危机推动37国电动汽车销量创新高",
-      "url": "https://www.solidot.org/story?sid=84461",
-      "source": "Solidot",
-      "score": 7,
-      "summary": "受中东危机导致燃料价格上涨影响，3月和4月共有37个国家电动汽车单月销量创历史新高，包括澳大利亚和巴西。",
-      "categories": [
-        "财经",
-        "科技"
+        "财经"
       ],
       "original_score": 0,
       "original_comments": 0
@@ -186,57 +121,59 @@
       "url": "https://www.solidot.org/story?sid=84451",
       "source": "Solidot",
       "score": 7,
-      "summary": "马来西亚新网络安全法规生效，要求社媒平台验证用户年龄并禁止16岁以下儿童注册，适用于Facebook、TikTok等。",
-      "categories": [
-        "国际",
-        "社会"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "中国打击“幽灵外卖”以整治食品配送行业乱象",
-      "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "score": 7,
-      "summary": "中国新规要求外卖平台商家信息必须与实体店相符，并注明是否提供堂食，以打击无实体店的“幽灵外卖”食品安全问题。",
+      "summary": "马来西亚新网络安全法规生效，要求Facebook、TikTok等平台验证用户年龄，禁止16岁以下儿童注册账户。",
       "categories": [
         "社会",
-        "财经"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "研究发现地球熔融核心在2010年突然逆转流动方向",
-      "url": "https://www.solidot.org/story?sid=84449",
-      "source": "Solidot",
-      "score": 7,
-      "summary": "卫星地磁场测量显示，太平洋下方地球熔融核心在2010年从西向流动突然转为东向，科学家正研究其成因。",
-      "categories": [
-        "科学"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "开放媒体联盟AOMedia正式发布AV2视频编解码器规范",
-      "url": "https://www.solidot.org/story?sid=84452",
-      "source": "Solidot",
-      "score": 7,
-      "summary": "由Amazon、Google等组成的AOMedia发布AV2编解码器，在AV1基础上提高压缩效率，实现更低比特率的高质量视频传输。",
-      "categories": [
         "科技"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "Red Hat官方NPM账号被入侵，软件包植入恶意程序",
+      "title": "特朗普签署缩减版AI行政令，此前经历数周政策反复",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "特朗普签署了一项规模缩小的AI行政令，此前其AI政策经历了数周的反复和逆转。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 188,
+      "original_comments": 134
+    },
+    {
+      "title": "AI巨头Anthropic计划在美国上市，估值逼近1万亿美元",
+      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "AI公司Anthropic计划今年晚些时候向公众发售股票，其估值已接近1万亿美元。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加州总检察长起诉23andMe继任公司，涉2023年数据泄露",
+      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "加州总检察长指控23andMe继任公司就2023年数据泄露的严重性撒谎，并提起诉讼。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Hat官方NPM账号被入侵，软件包被植入窃密恶意程序",
       "url": "https://www.solidot.org/story?sid=84459",
       "source": "Solidot",
       "score": 7,
-      "summary": "Red Hat官方NPM账号@redhat-cloud-services被入侵，多个软件包被植入窃取凭证的恶意程序，影响广泛。",
+      "summary": "Red Hat官方NPM账号@redhat-cloud-services被入侵，多个软件包被植入窃取凭证的恶意程序。",
       "categories": [
         "科技"
       ],
@@ -248,109 +185,159 @@
       "url": "https://blog.ammaraskar.com/github-token-stealing/",
       "source": "Hacker News",
       "score": 7,
-      "summary": "安全研究人员发现VSCode存在一个严重漏洞，攻击者可通过一次点击窃取用户的GitHub令牌，威胁开发者安全。",
+      "summary": "安全研究人员发现VSCode存在一个漏洞，攻击者可通过一次点击窃取用户的GitHub令牌。",
       "categories": [
         "科技"
       ],
-      "original_score": 76,
-      "original_comments": 13
+      "original_score": 102,
+      "original_comments": 14
     },
     {
-      "title": "斯坦福法学院研究显示AI在法律考试中表现优于教授",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "title": "CT扫描揭示比亚迪汽车零部件内部结构",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
       "source": "Hacker News",
       "score": 7,
-      "summary": "一项斯坦福法学院的研究发现，AI在法律考试中的表现超过了人类法学教授，引发对AI在法律领域应用的讨论。",
+      "summary": "一项技术展示通过CT扫描比亚迪汽车零部件，揭示了其内部精密构造和制造工艺。",
       "categories": [
         "科技",
-        "社会"
+        "趣闻"
       ],
-      "original_score": 129,
-      "original_comments": 118
+      "original_score": 275,
+      "original_comments": 114
     },
     {
-      "title": "西雅图监控基础设施徒步导览：揭露城市监控网络",
-      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "title": "用户因Gmail智能功能过于“愚蠢”而弃用",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
       "source": "Hacker News",
       "score": 6,
-      "summary": "一篇2020年的文章通过徒步导览形式，详细揭露了西雅图市内的监控基础设施分布，引发对隐私的思考。",
-      "categories": [
-        "社会",
-        "科技"
-      ],
-      "original_score": 383,
-      "original_comments": 260
-    },
-    {
-      "title": "广告联盟正在入侵你的网页浏览器",
-      "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
-      "source": "Hacker News",
-      "score": 6,
-      "summary": "文章揭露广告行业通过技术手段在浏览器中建立“广告卡特尔”，对用户隐私和浏览体验构成威胁。",
+      "summary": "一名用户因不满Gmail的智能功能（如自动分类和回复建议）而决定彻底放弃使用Gmail。",
       "categories": [
         "科技",
-        "社会"
+        "趣闻"
       ],
-      "original_score": 146,
-      "original_comments": 42
-    },
-    {
-      "title": "KDE Plasma即将发布最后一个支持X11的版本",
-      "url": "https://blog.davidedmundson.co.uk/blog/596/",
-      "source": "Hacker News",
-      "score": 6,
-      "summary": "KDE Plasma桌面环境宣布即将发布最后一个支持X11显示服务器的版本，标志着向Wayland的全面过渡。",
-      "categories": [
-        "科技"
-      ],
-      "original_score": 157,
-      "original_comments": 189
+      "original_score": 703,
+      "original_comments": 425
     },
     {
       "title": "惠普重新发布经典计算机科学计算器HP-16C",
       "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
       "source": "Hacker News",
       "score": 6,
-      "summary": "惠普宣布重新发布经典的HP-16C计算器，这款在程序员和工程师中备受推崇的工具时隔多年再次面世。",
+      "summary": "惠普宣布重新推出经典计算机科学计算器HP-16C，引发怀旧和技术爱好者的关注。",
       "categories": [
         "科技",
         "趣闻"
       ],
-      "original_score": 137,
-      "original_comments": 87
+      "original_score": 138,
+      "original_comments": 88
     },
     {
-      "title": "用户因Gmail“认为我蠢”而愤然离开",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "title": "斯坦福法学院研究：AI在法律考试中表现优于教授",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
       "source": "Hacker News",
+      "score": 7,
+      "summary": "斯坦福法学院一项研究发现，AI在法律考试中的表现超过了人类教授，引发对法律教育未来的讨论。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 133,
+      "original_comments": 123
+    },
+    {
+      "title": "开放媒体联盟正式发布AV2视频编解码器规范",
+      "url": "https://www.solidot.org/story?sid=84452",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "由Amazon、Google等组成的开放媒体联盟发布AV2编解码器，在AV1基础上进一步提高压缩效率。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究发现地球熔融核心在2010年突然逆转流动方向",
+      "url": "https://www.solidot.org/story?sid=84449",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "卫星地磁场测量显示，太平洋下方地球熔融核心在2010年从西向流动突然转为东向流动。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究揭示信鸽利用肝脏富铁免疫细胞感知地磁场导航",
+      "url": "https://www.solidot.org/story?sid=84465",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "《科学》杂志研究指出，信鸽肝脏中的富铁免疫细胞可能赋予了其磁罗盘般的导航能力。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NASA低音爆超音速飞机X-59本月将首次尝试突破音速",
+      "url": "https://www.solidot.org/story?sid=84464",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "NASA宣布X-59 Quess低音爆超音速飞机将在本月首次尝试突破音速，其设计可消除传统音爆。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "能源危机推动37国电动汽车销量创新高",
+      "url": "https://www.solidot.org/story?sid=84461",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "受中东危机导致燃料价格上涨影响，3月和4月间全球37个国家电动汽车销量创下历史新高。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "海盗湾被警方搜查20周年：从盗版圣地到文化符号",
+      "url": "https://www.solidot.org/story?sid=84460",
+      "source": "Solidot",
       "score": 6,
-      "summary": "一位用户因不满Gmail的智能功能（如自动分类和回复建议）而决定放弃使用，认为这些功能低估了用户能力。",
+      "summary": "回顾2006年瑞典警方突袭海盗湾服务器事件，20年后该网站仍作为文化符号存在。",
       "categories": [
         "科技",
         "趣闻"
       ],
-      "original_score": 685,
-      "original_comments": 415
+      "original_score": 0,
+      "original_comments": 0
     },
     {
-      "title": "比亚迪汽车零件CT扫描图公开，展示内部结构",
-      "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "source": "Hacker News",
+      "title": "Paint.net项目通过诉讼成功拿回Paint.net域名",
+      "url": "https://www.solidot.org/story?sid=84448",
+      "source": "Solidot",
       "score": 6,
-      "summary": "一组比亚迪汽车零件的CT扫描图在网络上公开，详细展示了其内部结构和制造工艺，引发技术爱好者关注。",
+      "summary": "经过22年，Paint.net项目通过法律诉讼从原所有者手中拿回了Paint.net域名。",
       "categories": [
         "科技",
         "趣闻"
       ],
-      "original_score": 265,
-      "original_comments": 103
+      "original_score": 0,
+      "original_comments": 0
     },
     {
-      "title": "XKCD漫画：阳光光束",
+      "title": "XKCD漫画：阳光射线",
       "url": "https://xkcd.com/3253/",
       "source": "XKCD",
       "score": 5,
-      "summary": "XKCD漫画调侃天文学家和天文摄影师拥有无意识召唤云层的能力，幽默地讽刺了天气控制与观测的矛盾。",
+      "summary": "XKCD漫画调侃天文学家和天文摄影师无意中召唤云层的能力，幽默诠释天气控制。",
       "categories": [
         "趣闻"
       ],
@@ -362,7 +349,7 @@
       "url": "https://xkcd.com/3252/",
       "source": "XKCD",
       "score": 5,
-      "summary": "XKCD漫画以幽默方式建议对祖先基因组的研究“无需进一步研究”，因为这不关我们的事，讽刺了基因隐私。",
+      "summary": "XKCD漫画以幽默方式建议对祖先基因组的研究“无需进一步研究”，因为这不关我们的事。",
       "categories": [
         "趣闻"
       ],
@@ -374,7 +361,7 @@
       "url": "https://xkcd.com/3251/",
       "source": "XKCD",
       "score": 5,
-      "summary": "XKCD漫画以时间旅行为背景，调侃没有指南针也能航海，但需要从波利尼西亚人那里获得“剧透”。",
+      "summary": "XKCD漫画调侃在没有指南针的情况下航海，需要从波利尼西亚人那里获取一些“剧透”。",
       "categories": [
         "趣闻"
       ],
@@ -386,7 +373,7 @@
       "url": "https://xkcd.com/3250/",
       "source": "XKCD",
       "score": 5,
-      "summary": "XKCD漫画建议每个地方都应该有自己的“皮克特兽”，一种历史艺术中画得极其怪异、无人能识别的生物。",
+      "summary": "XKCD漫画建议每个地方都应该有自己的神秘生物，比如历史艺术中画得怪异的“皮克特兽”。",
       "categories": [
         "趣闻"
       ],
@@ -398,7 +385,7 @@
       "url": "https://xkcd.com/3249/",
       "source": "XKCD",
       "score": 5,
-      "summary": "XKCD漫画调侃中微子探测器放在矿井中是为了屏蔽，但绝对不是为了躲避资助方。",
+      "summary": "XKCD漫画调侃中微子探测器放在矿井中是为了屏蔽，而不是为了躲避资助方。",
       "categories": [
         "趣闻"
       ],
@@ -406,127 +393,113 @@
       "original_comments": 0
     },
     {
-      "title": "B站UP主手工打造千机伞，能变十三个形态",
+      "title": "B站UP主自制千机伞，可变十三个形态",
       "url": "https://www.bilibili.com/video/BV11BVU6mEUe",
       "source": "B站热门",
       "score": 5,
-      "summary": "B站UP主“o小庄o”自制了一把可变换13种形态的千机伞，视频播放量超226万，展现惊人手工技艺。",
+      "summary": "B站UP主o小庄o自制了一把能变十三个形态的千机伞，视频播放量超228万，创意十足。",
       "categories": [
         "趣闻"
       ],
-      "original_score": 2269394,
-      "original_comments": 1140
+      "original_score": 2280671,
+      "original_comments": 1144
     },
     {
-      "title": "B站UP主分享12个脑洞大开的做饭方式",
+      "title": "央视新闻发布回忆视频，播放量超244万",
+      "url": "https://www.bilibili.com/video/BV1QzVR63E3L",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "央视新闻发布题为“回忆永远都是加分项”的视频，引发网友共鸣，播放量达244万。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 2443767,
+      "original_comments": 18945
+    },
+    {
+      "title": "B站UP主展示12个脑洞大开的做饭方式",
       "url": "https://www.bilibili.com/video/BV1H9V86REuf",
       "source": "B站热门",
       "score": 5,
-      "summary": "B站UP主“胡仔一人食”展示了12种创意十足的做饭方式，视频播放量超83万，引发网友热议。",
+      "summary": "B站UP主胡仔一人食分享12种创意烹饪方法，视频播放量超84万，趣味十足。",
       "categories": [
         "趣闻"
       ],
-      "original_score": 836248,
-      "original_comments": 175
+      "original_score": 839648,
+      "original_comments": 176
     },
     {
-      "title": "B站视频“小时候以为的事情”引发共鸣",
+      "title": "B站视频引发童年回忆：小时候以为的事情",
       "url": "https://www.bilibili.com/video/BV1izVB6TE7i",
       "source": "B站热门",
       "score": 5,
-      "summary": "B站UP主“西维西师傅”制作的视频回顾了童年时那些天真的误解，播放量超129万，唤起集体回忆。",
+      "summary": "B站UP主西维西师傅的视频引发网友对童年天真想法的回忆，播放量超133万。",
       "categories": [
         "趣闻"
       ],
-      "original_score": 1292330,
-      "original_comments": 122
+      "original_score": 1334356,
+      "original_comments": 126
     },
     {
-      "title": "B站鬼畜视频“卡布达买瓜”爆火",
-      "url": "https://www.bilibili.com/video/BV1eoVZ64EDP",
+      "title": "网红IShowSpeed发布世界杯主题曲，B站播放超151万",
+      "url": "https://www.bilibili.com/video/BV1jwV663EjR",
       "source": "B站热门",
       "score": 5,
-      "summary": "B站UP主“增殖的发呆”制作的“卡布达买瓜”鬼畜视频播放量超93万，将经典角色与网络梗结合，趣味十足。",
-      "categories": [
-        "趣闻"
-      ],
-      "original_score": 935049,
-      "original_comments": 925
-    },
-    {
-      "title": "PawPause：防止猫咪在键盘上捣乱的锁键工具",
-      "url": "https://www.producthunt.com/products/pawpause-cat-proof-your-mac",
-      "source": "Product Hunt",
-      "score": 5,
-      "summary": "Product Hunt新品PawPause可锁定键盘，防止猫咪踩踏导致混乱，是养猫人士的实用小工具。",
+      "summary": "网红IShowSpeed发布歌曲《World Cup (Champions)》，在B站获得超151万播放量。",
       "categories": [
         "趣闻",
-        "产品"
+        "娱乐"
       ],
-      "original_score": 0,
-      "original_comments": 0
+      "original_score": 1509944,
+      "original_comments": 730
     },
     {
-      "title": "Enshittifier：Chrome扩展将“AI”替换为💩表情",
-      "url": "https://www.producthunt.com/products/enshittifier",
-      "source": "Product Hunt",
+      "title": "B站UP主串烧34首老番歌曲，引发二次元怀旧热潮",
+      "url": "https://www.bilibili.com/video/BV1B75w6zEG1",
+      "source": "B站热门",
       "score": 5,
-      "summary": "Product Hunt上出现一款Chrome扩展，可将网页中的“AI”一词替换为💩表情，讽刺AI过度炒作。",
+      "summary": "B站UP主鹿火CAVY演唱34首经典动漫歌曲串烧，播放量超66万，勾起二次元童年回忆。",
       "categories": [
         "趣闻",
-        "科技"
+        "娱乐"
       ],
-      "original_score": 0,
-      "original_comments": 0
+      "original_score": 662743,
+      "original_comments": 1716
     },
     {
-      "title": "RingDisk：为视频通话增添不同色调的环形灯",
-      "url": "https://www.producthunt.com/products/ringdisk",
-      "source": "Product Hunt",
-      "score": 4,
-      "summary": "Product Hunt新品RingDisk是一款环形灯配件，可为视频通话提供多种色调的补光，提升通话体验。",
+      "title": "硬核功夫对抗AI铁甲，B站视频展现传统武术魅力",
+      "url": "https://www.bilibili.com/video/BV1MDVf6nEy1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主含亮老师展示以地道功夫硬刚AI铁甲，视频播放量超73万，传承武术精神。",
       "categories": [
-        "产品",
         "趣闻"
       ],
-      "original_score": 0,
-      "original_comments": 0
+      "original_score": 736261,
+      "original_comments": 328
     },
     {
-      "title": "Trovelo：私密旅行计划与追踪应用",
-      "url": "https://www.producthunt.com/products/trovelo-private-trip-planner",
-      "source": "Product Hunt",
-      "score": 4,
-      "summary": "Product Hunt新品Trovelo是一款注重隐私的旅行规划工具，帮助用户私下计划和追踪行程。",
+      "title": "B站UP主将奥迪E7X开上火星，创意视频引热议",
+      "url": "https://www.bilibili.com/video/BV1QQVb6TEC9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主狗哥FastDog制作创意视频，将奥迪E7X“开上”火星，播放量超45万。",
       "categories": [
-        "产品",
         "趣闻"
       ],
-      "original_score": 0,
-      "original_comments": 0
+      "original_score": 450095,
+      "original_comments": 455
     },
     {
-      "title": "Mirowl：通过本地OCR搜索所有截图的AI工具",
-      "url": "https://www.producthunt.com/products/mirowl",
+      "title": "Fundraisly：AI融资代理，自动寻找投资者并安排会议",
+      "url": "https://www.producthunt.com/products/fundraisly",
       "source": "Product Hunt",
-      "score": 4,
-      "summary": "Product Hunt新品Mirowl利用本地OCR技术，让用户通过AI搜索所有截图中的文字内容，保护隐私。",
+      "score": 6,
+      "summary": "Product Hunt新品Fundraisly利用AI自动寻找投资者并安排会议，帮助初创企业高效融资。",
       "categories": [
-        "产品",
-        "科技"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "Rodeo by TwelveLabs：描述场景即可自动生成视频初剪",
-      "url": "https://www.producthunt.com/products/twelvelabs",
-      "source": "Product Hunt",
-      "score": 4,
-      "summary": "Product Hunt新品Rodeo允许用户通过文字描述镜头，AI自动构建视频初剪，简化视频制作流程。",
-      "categories": [
-        "产品",
-        "科技"
+        "科技",
+        "财经"
       ],
       "original_score": 0,
       "original_comments": 0
@@ -535,47 +508,8 @@
       "title": "Overline：为浏览器视频提供实时AI字幕和翻译",
       "url": "https://www.producthunt.com/products/overline-2",
       "source": "Product Hunt",
-      "score": 4,
-      "summary": "Product Hunt新品Overline可为任何浏览器视频添加实时AI字幕和翻译，打破语言障碍。",
-      "categories": [
-        "产品",
-        "科技"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "choclift：用iPhone在Mac上打开应用和网站",
-      "url": "https://www.producthunt.com/products/choclift-workflow-sweetener",
-      "source": "Product Hunt",
-      "score": 4,
-      "summary": "Product Hunt新品choclift允许用户通过iPhone远程打开Mac上的应用、Apple快捷指令和网站，提升跨设备协作。",
-      "categories": [
-        "产品",
-        "科技"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "Vokal：面向10倍效率团队的AI协作空间",
-      "url": "https://www.producthunt.com/products/vokal-2",
-      "source": "Product Hunt",
-      "score": 4,
-      "summary": "Product Hunt新品Vokal是一个专为高效团队设计的AI协作空间，旨在提升团队生产力。",
-      "categories": [
-        "产品",
-        "科技"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "微软开源Markitdown：文件与办公文档转Markdown工具",
-      "url": "https://github.com/microsoft/markitdown",
-      "source": "GitHub Trending",
-      "score": 4,
-      "summary": "微软开源Python工具Markitdown，可高效将各类文件和办公文档转换为Markdown格式，今日获3618星。",
+      "score": 6,
+      "summary": "Product Hunt新品Overline可为任何浏览器视频添加实时AI字幕和翻译，提升观看体验。",
       "categories": [
         "科技",
         "产品"
@@ -584,37 +518,92 @@
       "original_comments": 0
     },
     {
-      "title": "OpenBMB开源VoxCPM2：无分词器多语言语音生成模型",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "source": "GitHub Trending",
-      "score": 4,
-      "summary": "OpenBMB发布VoxCPM2，一款无分词器的TTS模型，支持多语言语音生成、创意声音设计和逼真语音克隆。",
+      "title": "Enshittifier：Chrome扩展将网页中“AI”替换为💩表情",
+      "url": "https://www.producthunt.com/products/enshittifier",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt上一款Chrome扩展Enshittifier，幽默地将网页中所有“AI”字样替换为💩表情。",
       "categories": [
+        "趣闻",
         "科技"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "Headroom：压缩LLM输入工具，减少60-95%令牌数",
-      "url": "https://github.com/chopratejas/headroom",
-      "source": "GitHub Trending",
-      "score": 4,
-      "summary": "开源项目Headroom可压缩工具输出、日志和文件，在保持答案不变的前提下减少60-95%的LLM令牌消耗。",
+      "title": "GlowPulse：用Mac摄像头测量心率",
+      "url": "https://www.producthunt.com/products/glowpulse",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品GlowPulse利用Mac摄像头作为心率传感器，实现无接触健康监测。",
       "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Rodeo by TwelveLabs：用文字描述自动生成视频初剪",
+      "url": "https://www.producthunt.com/products/twelvelabs",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Rodeo可根据用户描述自动构建视频初剪，大幅提升视频编辑效率。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Co-Invest：在ChatGPT和Claude中直接交易500+市场",
+      "url": "https://www.producthunt.com/products/liquid-5",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Co-Invest允许用户在ChatGPT和Claude界面中直接交易超过500个市场。",
+      "categories": [
+        "财经",
         "科技"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "Scrapling：自适应网页抓取框架，支持单请求到全规模爬取",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "source": "GitHub Trending",
-      "score": 4,
-      "summary": "开源项目Scrapling是一个自适应网页抓取框架，可处理从单个请求到全规模爬取的各种任务。",
+      "title": "Mirowl：通过本地OCR AI搜索所有截图",
+      "url": "https://www.producthunt.com/products/mirowl",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Mirowl利用本地OCR AI技术，让用户快速搜索所有截图中的内容。",
       "categories": [
-        "科技"
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "choclift：用iPhone在Mac上打开应用和网站",
+      "url": "https://www.producthunt.com/products/choclift-workflow-sweetener",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品choclift允许用户通过iPhone在Mac上打开应用、Apple快捷指令和网站。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Trovelo：私密旅行规划与追踪工具",
+      "url": "https://www.producthunt.com/products/trovelo-private-trip-planner",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Trovelo提供私密的旅行规划和追踪功能，保护用户隐私。",
+      "categories": [
+        "产品",
+        "趣闻"
       ],
       "original_score": 0,
       "original_comments": 0
