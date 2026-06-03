@@ -986,7 +986,7 @@ def generate_site(news_list, output_dir=None, commentary=None):
 
     # 日期
     yesterday = datetime.now() - timedelta(days=1)
-    date_str = f"{yesterday.strftime("%Y年%m月%d日")} 新闻汇总"
+    date_str = f'{yesterday.strftime("%Y年%m月%d日")} 新闻汇总'
 
     # 计算统计数据
     scores = [n.get("score", 5) for n in news_list]
