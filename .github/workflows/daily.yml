@@ -39,3 +39,4 @@ jobs:
           publish_dir: ./output
           publish_branch: gh-pages
           exclude_assets: 'debug_*.json'
+          keep_files: true

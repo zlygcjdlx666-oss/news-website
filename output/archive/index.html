@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>历史归档 — 磊哥新闻网</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📅</text></svg>">
+<style>
+:root {
+    --bg: #f8f9fa; --card-bg: #ffffff; --text: #212529; --text-secondary: #6c757d;
+    --border: #dee2e6; --accent: #2563eb; --accent-hover: #1d4ed8;
+    --tag-bg: #e9ecef; --score-bg: #dbeafe; --score-text: #1e40af;
+    --shadow: 0 1px 3px rgba(0,0,0,0.08); --shadow-hover: 0 4px 12px rgba(0,0,0,0.12);
+    --gradient-start: #2563eb; --gradient-end: #7c3aed;
+}
+[data-theme="dark"] {
+    --bg: #1a1b1e; --card-bg: #25262b; --text: #e9ecef; --text-secondary: #adb5bd;
+    --border: #373a40; --accent: #60a5fa; --accent-hover: #93bbfd;
+    --tag-bg: #373a40; --score-bg: #1e3a5f; --score-text: #93bbfd;
+    --shadow: 0 1px 3px rgba(0,0,0,0.3); --shadow-hover: 0 4px 12px rgba(0,0,0,0.5);
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.6; transition: background 0.3s, color 0.3s;
+}
+.header {
+    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+    color: #fff; padding: 30px 20px 40px; text-align: center; position: relative; overflow: hidden;
+}
+.header::after {
+    content: ''; position: absolute; bottom: -20px; left: 0; right: 0; height: 40px;
+    background: var(--bg); border-radius: 50% 50% 0 0;
+}
+.header h1 { font-size: 1.6rem; font-weight: 800; }
+.header .subtitle { margin-top: 6px; font-size: 0.9rem; opacity: 0.85; }
+.back-link {
+    display: inline-block; margin-top: 12px; color: #fff; text-decoration: none;
+    padding: 6px 16px; border: 1.5px solid rgba(255,255,255,0.4); border-radius: 20px;
+    font-size: 0.85rem; transition: all 0.2s;
+}
+.back-link:hover { background: rgba(255,255,255,0.15); }
+
+.navigator {
+    max-width: 960px; margin: -10px auto 20px; padding: 0 20px;
+    display: flex; gap: 12px; align-items: center; justify-content: center; position: relative; z-index: 1;
+}
+.nav-btn {
+    padding: 8px 16px; border-radius: 20px; border: 1.5px solid var(--border);
+    background: var(--card-bg); color: var(--accent); cursor: pointer;
+    font-size: 0.9rem; transition: all 0.2s; font-family: inherit;
+}
+.nav-btn:hover { border-color: var(--accent); background: var(--score-bg); }
+.nav-btn:disabled { opacity: 0.4; cursor: default; }
+.date-display { font-size: 1.1rem; font-weight: 700; min-width: 140px; text-align: center; color: var(--text); }
+.theme-toggle {
+    margin-left: auto; padding: 6px 12px; border-radius: 20px;
+    border: 1.5px solid var(--border); background: var(--card-bg);
+    color: var(--text-secondary); cursor: pointer; font-size: 0.85rem; font-family: inherit;
+}
+
+.container { max-width: 960px; margin: 0 auto; padding: 0 20px 60px; }
+.news-grid { display: flex; flex-direction: column; gap: 12px; }
+.news-card {
+    background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px;
+    padding: 20px 24px; box-shadow: var(--shadow); transition: all 0.25s; cursor: pointer; position: relative;
+}
+.news-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
+.source-tag { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: 0.75rem; font-weight: 600; color: #fff; margin-bottom: 8px; }
+.source-hn { background: #ff6600; } .source-reddit { background: #ff4500; } .source-bbc { background: #bb1919; }
+.source-github { background: #24292e; } .source-zhihu { background: #0066ff; }
+.source-weibo { background: #e6162d; } .source-xkcd { background: #96a8c8; }
+.source-ph { background: #da552f; } .source-bili { background: #fb7299; }
+.card-title { font-size: 1.1rem; font-weight: 700; margin-bottom: 6px; line-height: 1.5; }
+.card-summary { font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 10px; line-height: 1.6; }
+.card-footer { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.score-badge {
+    display: flex; align-items: center; gap: 4px; background: var(--score-bg);
+    color: var(--score-text); padding: 2px 10px; border-radius: 12px; font-size: 0.78rem; font-weight: 700;
+}
+.cat-tag {
+    display: inline-block; padding: 2px 8px; border-radius: 10px;
+    background: var(--tag-bg); color: var(--text-secondary); font-size: 0.73rem;
+}
+
+.modal-overlay {
+    position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.6);
+    z-index: 1000; display: flex; align-items: center; justify-content: center; padding: 20px;
+}
+.modal-overlay.hidden { display: none; }
+.modal {
+    background: var(--card-bg); border-radius: 16px; max-width: 600px; width: 100%;
+    max-height: 80vh; overflow-y: auto; padding: 32px; position: relative;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+}
+.modal-close {
+    position: absolute; top: 16px; right: 20px; width: 36px; height: 36px;
+    border-radius: 50%; border: none; background: var(--tag-bg); color: var(--text-secondary);
+    font-size: 1.2rem; cursor: pointer; display: flex; align-items: center; justify-content: center;
+}
+.modal-source { display: inline-block; padding: 3px 12px; border-radius: 12px; font-size: 0.8rem; font-weight: 600; color: #fff; margin-bottom: 12px; }
+.modal-title { font-size: 1.3rem; font-weight: 800; line-height: 1.4; margin-bottom: 12px; }
+.modal-summary { font-size: 1rem; line-height: 1.8; color: var(--text-secondary); padding: 16px; background: var(--tag-bg); border-radius: 10px; }
+.modal-link { display: inline-flex; align-items: center; gap: 6px; padding: 10px 20px; background: var(--accent); color: #fff; text-decoration: none; border-radius: 8px; font-size: 0.9rem; font-weight: 600; margin-top: 16px; }
+
+.empty { text-align: center; padding: 80px 20px; color: var(--text-secondary); }
+.empty .icon { font-size: 3rem; margin-bottom: 16px; }
+.loading { text-align: center; padding: 40px; color: var(--text-secondary); }
+
+@media (max-width: 640px) {
+    .header h1 { font-size: 1.3rem; } .news-card { padding: 14px 16px; }
+    .card-title { font-size: 1rem; } .navigator { gap: 8px; } .nav-btn { padding: 6px 12px; font-size: 0.8rem; }
+}
+</style>
+</head>
+<body data-theme="light">
+
+<div class="header">
+    <h1>📅 历史归档</h1>
+    <div class="subtitle" id="pageDate">选择日期查看过往新闻</div>
+    <a class="back-link" href="./index.html">← 返回今日新闻</a>
+</div>
+
+<div class="navigator">
+    <button class="nav-btn" id="prevBtn" onclick="changeDay(-1)">← 前一天</button>
+    <span class="date-display" id="dateDisplay">加载中...</span>
+    <button class="nav-btn" id="nextBtn" onclick="changeDay(1)">后一天 →</button>
+    <button class="theme-toggle" id="themeToggle">🌙</button>
+</div>
+
+<div class="container">
+    <div class="news-grid" id="newsGrid"></div>
+    <div id="loading" class="loading">⏳ 加载中...</div>
+    <div id="emptyMsg" class="empty" style="display:none;">
+        <div class="icon">📭</div>
+        <p id="emptyText">这一天还没有新闻数据</p>
+    </div>
+</div>
+
+<script>
+const newsGrid = document.getElementById('newsGrid');
+const loading = document.getElementById('loading');
+const emptyMsg = document.getElementById('emptyMsg');
+const emptyText = document.getElementById('emptyText');
+const dateDisplay = document.getElementById('dateDisplay');
+const pageDate = document.getElementById('pageDate');
+const prevBtn = document.getElementById('prevBtn');
+const nextBtn = document.getElementById('nextBtn');
+
+const today = new Date();
+let currentDate = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+
+function formatDate(d) {
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, '0');
+    const day = String(d.getDate()).padStart(2, '0');
+    return y + '-' + m + '-' + day;
+}
+
+const SOURCE_CSS = {
+    'Hacker News': 'source-hn', 'Reddit': 'source-reddit', 'BBC': 'source-bbc',
+    'GitHub': 'source-github', 'GitHub Trending': 'source-github', 'Solidot': 'source-zhihu',
+    '微博热搜': 'source-weibo', '微博': 'source-weibo', 'XKCD': 'source-xkcd',
+    'Product Hunt': 'source-ph', 'B站热门': 'source-bili', 'B站': 'source-bili',
+};
+
+function getSourceCss(source) {
+    for (const [k, v] of Object.entries(SOURCE_CSS)) {
+        if (source.includes(k)) return v;
+    }
+    return 'source-hn';
+}
+
+function loadDate(dateStr) {
+    newsGrid.innerHTML = '';
+    loading.style.display = 'block';
+    emptyMsg.style.display = 'none';
+    prevBtn.disabled = true;
+    nextBtn.disabled = true;
+
+    fetch('data/' + dateStr + '.json')
+        .then(res => {
+            if (!res.ok) throw new Error('No data');
+            return res.json();
+        })
+        .then(data => {
+            loading.style.display = 'none';
+            prevBtn.disabled = false;
+            const d = new Date(dateStr + 'T00:00:00');
+            const tomorrow = new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1);
+            nextBtn.disabled = d.getTime() >= tomorrow.getTime();
+
+            // Handle wrapped format {news: [...], commentary: "..."}
+            var newsList = Array.isArray(data) ? data : (data.news || []);
+            var commentary = data.commentary || null;
+
+            if (newsList.length === 0) {
+                emptyText.textContent = '这一天没有新闻';
+                emptyMsg.style.display = 'block';
+                return;
+            }
+
+            // Show commentary if available
+            if (commentary) {
+                var cmtDiv = document.createElement('div');
+                cmtDiv.style.cssText = 'background:var(--card-bg);border:1.5px solid var(--accent);border-radius:14px;padding:16px 20px;margin-bottom:16px;';
+                cmtDiv.innerHTML = '<span style=\"display:inline-block;background:linear-gradient(135deg,var(--gradient-start),var(--gradient-end));color:#fff;padding:3px 12px;border-radius:12px;font-size:0.8rem;font-weight:700;margin-bottom:10px;\">🔥 磊哥锐评</span><p style=\"line-height:1.8;color:var(--text);\">' + commentary.replace(/\\n/g, '<br>') + '</p>';
+                newsGrid.appendChild(cmtDiv);
+            }
+
+            newsList.forEach((n, i) => {
+                const css = getSourceCss(n.source || '');
+                const cats = (n.categories || ['其他']).slice(0, 3);
+                const stars = '⭐'.repeat(Math.min(10, Math.max(1, n.score || 5)));
+                const card = document.createElement('article');
+                card.className = 'news-card';
+                card.innerHTML =
+                    '<span class="source-tag ' + css + '">' + (n.source || '') + '</span>' +
+                    '<h2 class="card-title">' + (n.title || '') + '</h2>' +
+                    '<p class="card-summary">' + (n.summary || '') + '</p>' +
+                    '<div class="card-footer">' +
+                        '<span class="score-badge">' + stars + ' ' + (n.score || 5) + '分</span>' +
+                        cats.map(function(c) { return '<span class="cat-tag">' + c + '</span>'; }).join('') +
+                    '</div>';
+                card.addEventListener('click', function() { openModal(n); });
+                newsGrid.appendChild(card);
+            });
+
+            const weekDays = ['日','一','二','三','四','五','六'];
+            pageDate.textContent = dateStr + ' 星期' + weekDays[d.getDay()];
+        })
+        .catch(function() {
+            loading.style.display = 'none';
+            emptyText.textContent = dateStr + ' 还没有新闻数据';
+            emptyMsg.style.display = 'block';
+            prevBtn.disabled = false;
+            const d = new Date(dateStr + 'T00:00:00');
+            const tomorrow = new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1);
+            nextBtn.disabled = d.getTime() >= tomorrow.getTime();
+        });
+}
+
+function changeDay(offset) {
+    currentDate.setDate(currentDate.getDate() + offset);
+    var ds = formatDate(currentDate);
+    dateDisplay.textContent = ds;
+    history.pushState(null, '', '?date=' + ds);
+    loadDate(ds);
+}
+
+function openModal(n) {
+    var overlay = document.createElement('div');
+    overlay.className = 'modal-overlay';
+    var css = getSourceCss(n.source || '');
+    overlay.innerHTML =
+        '<div class="modal">' +
+            '<button class="modal-close">✕</button>' +
+            '<span class="modal-source ' + css + '">' + (n.source || '') + '</span>' +
+            '<h2 class="modal-title">' + (n.title || '') + '</h2>' +
+            '<div class="modal-summary">' + (n.summary || '暂无摘要') + '</div>' +
+            '<a class="modal-link" href="' + (n.url || '#') + '" target="_blank">🔗 查看原文</a>' +
+        '</div>';
+    document.body.appendChild(overlay);
+    function close() { document.body.removeChild(overlay); }
+    overlay.querySelector('.modal-close').addEventListener('click', close);
+    overlay.addEventListener('click', function(e) { if (e.target === overlay) close(); });
+    document.addEventListener('keydown', function esc(e) { if (e.key === 'Escape') { close(); document.removeEventListener('keydown', esc); } });
+}
+
+var themeToggle = document.getElementById('themeToggle');
+var savedTheme = localStorage.getItem('news-theme') || 'light';
+document.body.dataset.theme = savedTheme;
+themeToggle.textContent = savedTheme === 'light' ? '🌙' : '☀️';
+themeToggle.addEventListener('click', function() {
+    var next = document.body.dataset.theme === 'light' ? 'dark' : 'light';
+    document.body.dataset.theme = next;
+    localStorage.setItem('news-theme', next);
+    themeToggle.textContent = next === 'light' ? '🌙' : '☀️';
+});
+
+var params = new URLSearchParams(window.location.search);
+var initialDate = params.get('date') || formatDate(today);
+currentDate = new Date(initialDate + 'T00:00:00');
+dateDisplay.textContent = initialDate;
+loadDate(initialDate);
+</script>
+</body>
+</html>

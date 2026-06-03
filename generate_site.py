@@ -480,7 +480,7 @@ body {{
 <div class="header">
     <h1>🌍 磊哥新闻网</h1>
     <div class="date">{date_str}</div>
-    <div class="meta">由 AI 从 {source_count} 个新闻源中筛选 · 共 {total_news} 条精选</div>
+    <div class="meta">由 AI 从 {source_count} 个新闻源中筛选 · 共 {total_news} 条精选 · <a href="./archive/" style="color:#fff;opacity:0.9;">📅 历史归档</a></div>
 </div>
 
 {commentary_section}
@@ -869,7 +869,31 @@ def generate_site(news_list, output_dir=None, commentary=None):
 
     print(f"[生成] 网站已生成: {output_path}")
     print(f"[生成] 共 {len(news_list)} 条新闻, {len(sources_set)} 个来源")
+
+    # 生成归档浏览页
+    generate_archive_page(output_dir)
+
     return output_path
+
+
+def generate_archive_page(output_dir=None):
+    """生成历史归档浏览页面（从模板复制）"""
+    import shutil
+    if output_dir is None:
+        from config import OUTPUT_DIR
+        output_dir = OUTPUT_DIR
+
+    template_path = os.path.join(os.path.dirname(__file__), 'archive_template.html')
+    archive_dir = os.path.join(output_dir, 'archive')
+    os.makedirs(archive_dir, exist_ok=True)
+
+    dest = os.path.join(archive_dir, 'index.html')
+    if os.path.exists(template_path):
+        shutil.copy2(template_path, dest)
+        print(f'[生成] 归档页面已生成: {dest}')
+    else:
+        print(f'[生成] ⚠️ 归档模板未找到: {template_path}')
+    return dest
 
 
 if __name__ == "__main__":

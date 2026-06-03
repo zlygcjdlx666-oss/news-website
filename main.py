@@ -174,6 +174,21 @@ def main():
     print("\n[4/4] 生成静态网站...")
     output_path = generate_site(processed, commentary=commentary)
 
+    # 5. 保存归档数据
+    print("\n[5/5] 保存归档数据...")
+    archive_dir = os.path.join(OUTPUT_DIR, "archive", "data")
+    os.makedirs(archive_dir, exist_ok=True)
+    date_str = datetime.now().strftime("%Y-%m-%d")
+    archive_path = os.path.join(archive_dir, f"{date_str}.json")
+    archive_data = {
+        "date": date_str,
+        "commentary": commentary,
+        "news": processed,
+    }
+    with open(archive_path, "w", encoding="utf-8") as f:
+        json.dump(archive_data, f, ensure_ascii=False, indent=2)
+    print(f"[归档] 数据已保存: {archive_path}")
+
     elapsed = time.time() - start_time
     print(f"\n{'=' * 50}")
     print(f"✅ 完成! 耗时 {elapsed:.1f} 秒")
