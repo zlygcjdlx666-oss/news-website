@@ -189,6 +189,38 @@ body {{
 }}
 .theme-toggle:hover {{ background: var(--tag-bg); }}
 
+/* ---- News Grid ---- */.stats-bar {{
+    max-width: 960px;
+    margin: -10px auto 24px;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    position: relative;
+    z-index: 1;
+}}
+.stat-card {{
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: var(--shadow);
+}}
+.stat-value {{
+    font-size: 1.5rem;
+    font-weight: 800;
+    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}}
+.stat-label {{
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    margin-top: 4px;
+}}
+
 /* ---- News Grid ---- */
 .container {{
     max-width: 960px;
@@ -196,21 +228,63 @@ body {{
     padding: 0 20px 60px;
 }}
 
-.news-grid {{
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-}}
-
-.news-card {{
+/* Hero */
+.hero-card {{
     background: var(--card-bg);
     border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 20px 24px;
+    border-left: 4px solid var(--accent);
+    border-radius: 0 14px 14px 0;
+    padding: 28px 28px 24px;
     box-shadow: var(--shadow);
     transition: all 0.25s;
     cursor: pointer;
     position: relative;
+    margin-bottom: 20px;
+}}
+.hero-card:hover {{
+    box-shadow: var(--shadow-hover);
+    transform: translateY(-2px);
+}}
+.hero-title {{
+    font-size: 1.35rem;
+    font-weight: 800;
+    line-height: 1.45;
+    margin-bottom: 10px;
+    color: var(--text);
+}}
+.hero-summary {{
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    line-height: 1.75;
+    margin-bottom: 14px;
+}}
+
+/* Grid */
+.news-grid {{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+}}
+.section-title {{
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text-secondary);
+    margin: 24px 0 14px;
+    padding-left: 4px;
+}}
+
+/* Cards (grid items) */
+.news-card {{
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 18px 20px;
+    box-shadow: var(--shadow);
+    transition: all 0.25s;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    flex-direction: column;
 }}
 .news-card:hover {{
     box-shadow: var(--shadow-hover);
@@ -376,19 +450,15 @@ body {{
 .source-bili {{ background: #fb7299; color: #fff; }}
 
 .card-title {{
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 700;
-    margin-bottom: 6px;
-    line-height: 1.5;
+    margin-bottom: 4px;
+    line-height: 1.45;
+    flex: 1;
 }}
 
 
-.card-summary {{
-    font-size: 0.9rem;
-    color: var(--text-secondary);
-    margin-bottom: 10px;
-    line-height: 1.6;
-}}
+
 
 .card-footer {{
     display: flex;
@@ -466,12 +536,19 @@ body {{
 }}
 
 @media (max-width: 640px) {{
-    .header h1 {{ font-size: 1.4rem; }}
+    .header h1 {{ font-size: 1.3rem; }}
     .header {{ padding: 30px 16px 40px; }}
+    .stats-bar {{ grid-template-columns: repeat(2, 1fr); gap: 8px; }}
+    .stat-card {{ padding: 12px; }}
+    .stat-value {{ font-size: 1.2rem; }}
+    .news-grid {{ grid-template-columns: 1fr; gap: 10px; }}
     .news-card {{ padding: 14px 16px; }}
-    .card-title {{ font-size: 1rem; }}
+    .hero-card {{ padding: 20px; }}
+    .hero-title {{ font-size: 1.15rem; }}
     .controls {{ gap: 6px; }}
     .filter-btn {{ padding: 5px 12px; font-size: 0.78rem; }}
+    .search-box {{ width: 140px; }}
+    .search-box:focus {{ width: 160px; }}
 }}
 </style>
 </head>
@@ -483,6 +560,7 @@ body {{
     <div class="meta">由 AI 从 {source_count} 个新闻源中筛选 · 共 {total_news} 条精选 · <a href="./archive/" style="color:#fff;opacity:0.9;">📅 历史归档</a></div>
 </div>
 
+{stats_bar}
 {commentary_section}
 
 <div class="controls" id="controls">
@@ -494,6 +572,17 @@ body {{
 </div>
 
 <div class="container">
+    <div class="hero-card hidden" id="heroCard" style="display:none;">
+        <button class="bookmark-btn" id="heroBookmark" title="☆" onclick="event.stopPropagation()">☆</button>
+        <span class="source-tag" id="heroSource"></span>
+        <h2 class="hero-title" id="heroTitle"></h2>
+        <p class="hero-summary" id="heroSummary"></p>
+        <div class="card-footer">
+            <span class="score-badge" id="heroScore"></span>
+            <span id="heroCats"></span>
+        </div>
+    </div>
+    <div class="section-title" id="sectionTitle">📰 更多新闻</div>
     <div class="news-grid" id="newsGrid">
         {news_cards}
     </div>
@@ -691,6 +780,65 @@ document.addEventListener('keydown', (e) => {{
     if (e.key === 'Escape') closeModal();
 }});
 
+// ---- 头条渲染 ----
+const heroCard = document.getElementById('heroCard');
+const heroData = {hero_data};
+
+function renderHero(data) {{
+    if (!data) {{
+        heroCard.style.display = 'none';
+        document.getElementById('sectionTitle').style.display = 'none';
+        return;
+    }}
+    heroCard.style.display = '';
+    heroCard.dataset.url = data.url;
+    heroCard.dataset.source = data.source;
+    heroCard.dataset.title = data.title;
+    heroCard.dataset.score = data.score;
+    heroCard.dataset.summary = data.summary;
+    heroCard.dataset.categories = data.categories.join(',');
+    heroCard.dataset.sourceCss = data.source_css;
+
+    document.getElementById('heroSource').textContent = data.source;
+    document.getElementById('heroSource').className = 'source-tag ' + data.source_css;
+    document.getElementById('heroTitle').textContent = data.title;
+    document.getElementById('heroSummary').textContent = data.summary;
+    document.getElementById('heroScore').innerHTML = data.score_stars + ' ' + data.score + '分';
+    document.getElementById('heroCats').innerHTML = data.categories.map(c => '<span class="cat-tag">' + c + '</span>').join('');
+    document.getElementById('heroBookmark').dataset.url = data.url;
+}}
+
+if (heroData) {{
+    renderHero(heroData);
+    heroCard.addEventListener('click', function(e) {{
+        if (e.target.classList.contains('bookmark-btn')) return;
+        openModal(heroCard);
+    }});
+
+    // Hero bookmark
+    const heroBookmark = document.getElementById('heroBookmark');
+    if (heroBookmark) {{
+        heroBookmark.addEventListener('click', function(e) {{
+            e.stopPropagation();
+            const url = heroBookmark.dataset.url;
+            if (bookmarks.has(url)) {{
+                bookmarks.delete(url);
+                heroBookmark.textContent = '\u2606';
+                heroBookmark.classList.remove('active');
+            }} else {{
+                bookmarks.add(url);
+                heroBookmark.textContent = '\u2b50';
+                heroBookmark.classList.add('active');
+            }}
+            saveBookmarks();
+        }});
+        if (bookmarks.has(heroBookmark.dataset.url)) {{
+            heroBookmark.textContent = '\u2b50';
+            heroBookmark.classList.add('active');
+        }}
+    }}
+}}
+
 // ---- 搜索过滤 ----
 const searchBox = document.getElementById('searchBox');
 searchBox.addEventListener('input', () => {{
@@ -773,11 +921,8 @@ def generate_news_card(news, index):
 
     return f'''<article class="news-card" data-categories="{cats_str}" data-url="{url}" data-source="{source}" data-title="{title}" data-score="{score}" data-summary="{summary}" data-source-css="{source_css}" style="animation-delay:{index * 0.03}s">
     <button class="bookmark-btn" data-url="{url}" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <div class="card-header">
-        <span class="source-tag {source_css}">{source}</span>
-    </div>
+    <span class="source-tag {source_css}" style="align-self:flex-start;margin-bottom:6px;">{source}</span>
     <h2 class="card-title">{title}</h2>
-    <p class="card-summary">{summary}</p>
     <div class="card-footer">
         <span class="score-badge">{score_stars} {score}分</span>
         {cat_tags}
@@ -839,9 +984,42 @@ def generate_site(news_list, output_dir=None, commentary=None):
         f'<button class="filter-btn" data-filter="{c}">{c} ({cat_count.get(c, 0)})</button>' for c in sorted_cats
     )
 
-    # 生成新闻卡片
+    # 日期
+    yesterday = datetime.now() - timedelta(days=1)
+    date_str = f"{yesterday.strftime("%Y年%m月%d日")} 新闻汇总"
+
+    # 计算统计数据
+    scores = [n.get("score", 5) for n in news_list]
+    avg_score = sum(scores) / len(scores) if scores else 0
+    stats_bar = f'''<div class="stats-bar">
+    <div class="stat-card"><div class="stat-value">{len(news_list)}</div><div class="stat-label">📰 今日新闻</div></div>
+    <div class="stat-card"><div class="stat-value">{len(sources_set)}</div><div class="stat-label">📡 新闻来源</div></div>
+    <div class="stat-card"><div class="stat-value">{avg_score:.1f}</div><div class="stat-label">⭐ 平均评分</div></div>
+    <div class="stat-card"><div class="stat-value">{date_str[:11]}</div><div class="stat-label">📅 日期</div></div>
+</div>'''
+
+    # 分离头条和网格新闻
+    sorted_by_score = sorted(news_list, key=lambda x: x.get("score", 0), reverse=True)
+    hero_news = sorted_by_score[0] if sorted_by_score else None
+    grid_news = sorted_by_score[1:] if len(sorted_by_score) > 1 else []
+
+    # 头条 JSON 数据
+    hero_data = "null"
+    if hero_news:
+        hero_data = json.dumps({
+            "title": hero_news.get("title", ""),
+            "url": hero_news.get("url", ""),
+            "source": hero_news.get("source", ""),
+            "score": hero_news.get("score", 0),
+            "summary": hero_news.get("summary", ""),
+            "categories": hero_news.get("categories", ["\u5176\u4ed6"]),
+            "source_css": get_source_css(hero_news.get("source", "")),
+            "score_stars": "\u2b50" * min(10, max(1, hero_news.get("score", 0))),
+        }, ensure_ascii=False)
+
+    # 生成新闻卡片（网格用）
     news_cards = "\n        ".join(
-        generate_news_card(n, i) for i, n in enumerate(news_list)
+        generate_news_card(n, i) for i, n in enumerate(grid_news)
     )
 
     # 日期
@@ -860,6 +1038,8 @@ def generate_site(news_list, output_dir=None, commentary=None):
         news_cards=news_cards,
         sources_list=sources_list,
         commentary_section=commentary_section,
+        stats_bar=stats_bar,
+        hero_data=hero_data,
     )
 
     # 写入文件
