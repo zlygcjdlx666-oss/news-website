@@ -44,3 +44,11 @@ jobs:
             git commit -m "📰 每日新闻自动更新 — $(date +'%Y-%m-%d')"
             git push
           fi
+
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: gh-pages
+          exclude_assets: 'debug_*.json'
