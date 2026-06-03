@@ -582,10 +582,7 @@ body {{
             <span id="heroCats"></span>
         </div>
     </div>
-    <div class="section-title" id="sectionTitle">📰 更多新闻</div>
-    <div class="news-grid" id="newsGrid">
-        {news_cards}
-    </div>
+    {sections_html}
     <div id="emptyMsg" class="empty" style="display:none;">
         <div class="icon">🔍</div>
         <p>没有匹配的新闻</p>
@@ -1022,6 +1019,38 @@ def generate_site(news_list, output_dir=None, commentary=None):
         generate_news_card(n, i) for i, n in enumerate(grid_news)
     )
 
+    # 按板块分组
+    _sections_order = [
+        ("global", "🌍 全球新闻", ["Hacker News", "Reddit", "BBC", "Solidot"]),
+        ("tech", "💻 科技", ["GitHub Trending", "Product Hunt", "GitHub"]),
+        ("hot", "🔥 热搜", ["微博热搜", "微博"]),
+        ("finance", "📈 财经", ["财经"]),
+        ("game", "🎮 游戏", ["Steam"]),
+        ("music", "🎵 音乐", ["网易云音乐"]),
+        ("fun", "🎬 娱乐", ["B站热门", "B站"]),
+        ("relax", "😂 轻松一刻", ["XKCD"]),
+    ]
+    _grouped = {}
+    for n in grid_news:
+        src = n.get("source", "")
+        for _key, _title, _sources in _sections_order:
+            if any(s in src for s in _sources):
+                _grouped.setdefault(_key, []).append(n)
+                break
+    sections_parts = []
+    for _key, _title, _sources in _sections_order:
+        _items = _grouped.get(_key, [])
+        if not _items:
+            continue
+        _cards = "\n        ".join(
+            generate_news_card(n, i) for i, n in enumerate(_items)
+        )
+        sections_parts.append(f'''<div class="section-title">{_title} ({len(_items)})</div>
+    <div class="news-grid">
+        {_cards}
+    </div>''')
+    sections_html = "\n    ".join(sections_parts) if sections_parts else "<div class=\"empty\"><p>暂无新闻</p></div>" 
+
     # 日期
     yesterday = datetime.now() - timedelta(days=1)
     date_str = f"{yesterday.strftime('%Y年%m月%d日')} 新闻汇总"
@@ -1035,7 +1064,7 @@ def generate_site(news_list, output_dir=None, commentary=None):
         source_count=len(sources_set),
         total_news=len(news_list),
         filter_buttons=filter_buttons,
-        news_cards=news_cards,
+        sections_html=sections_html,
         sources_list=sources_list,
         commentary_section=commentary_section,
         stats_bar=stats_bar,

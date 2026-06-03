@@ -31,6 +31,9 @@ from scrapers import (
     fetch_xkcd,
     fetch_producthunt,
     fetch_bilibili,
+    fetch_steam,
+    fetch_music,
+    fetch_finance,
 )
 from ai_processor import process_news, generate_commentary
 from generate_site import generate_site
@@ -46,6 +49,9 @@ SCRAPERS = {
     "xkcd": fetch_xkcd,
     "producthunt": fetch_producthunt,
     "bilibili": fetch_bilibili,
+    "steam": fetch_steam,
+    "music": fetch_music,
+    "finance": fetch_finance,
 }
 
 

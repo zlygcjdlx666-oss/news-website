@@ -71,6 +71,18 @@ SOURCES = {
         "enabled": True,
         "max_items": 20,
     },
+    "steam": {
+        "enabled": True,
+        "max_items": 15,
+    },
+    "music": {
+        "enabled": True,
+        "max_items": 10,
+    },
+    "finance": {
+        "enabled": True,
+        "max_items": 15,
+    },
 }
 
 # 输出目录
