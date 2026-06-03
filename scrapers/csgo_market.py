@@ -1,130 +1,165 @@
 """
-CS:GO 皮肤大盘指数 — 抓取自 firepulse.com.cn
-FirePulse 是百万 CS2 玩家使用的饰品行情平台
+CS:GO 皮肤大盘行情爬虫
+数据来源: Steam 官方社区市场 + FirePulse 指数（国内访问优先）
 """
 
-import time
 import requests
 from config import SOURCES
 
+STEAM_API = "https://steamcommunity.com/market/search/render/"
 FIREPULSE_API = "https://api.firepulse.com.cn/v1/market/facade/category/large_cap"
 
 
+def _fetch_firepulse():
+    """尝试从 FirePulse 获取大盘指数（国内可访问）"""
+    try:
+        headers = {
+            "Content-Type": "application/json",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Referer": "https://firepulse.com.cn/",
+        }
+        resp = requests.post(FIREPULSE_API, json={}, headers=headers, timeout=15)
+        data = resp.json()
+        if data.get("code") == 200:
+            index = data["data"]["index_basic_info"]
+            trade = data["data"]["trade_basic_info"]
+            updown = data["data"]["updown_basic_info"]
+            return {
+                "current_index": index["current_index"],
+                "change_index": index["change_index"],
+                "change_percent": index["change_index_percent"],
+                "max_index": index["max_index"],
+                "min_index": index["min_index"],
+                "change_day": index["change_day"],
+                "latest_time": index["latest_time"],
+                "today_amount": trade["today_amount"] / 10000,
+                "today_volume": trade["today_volume"],
+                "up_count": updown["up_count"],
+                "flat_count": updown["flat_count"],
+                "down_count": updown["down_count"],
+            }
+    except Exception:
+        pass
+    return None
+
+
+def _fetch_steam():
+    """从 Steam 市场获取热门饰品行情（海外可访问）"""
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Accept": "application/json",
+        }
+        params = {
+            "appid": 730,
+            "norender": 1,
+            "count": 10,
+            "sort_column": "volume",
+            "sort_dir": "desc",
+            "currency": 23,
+        }
+        resp = requests.get(STEAM_API, params=params, headers=headers, timeout=20)
+        data = resp.json()
+        items = data.get("results", [])[:10]
+
+        if not items:
+            return None
+
+        total_price = 0
+        item_count = 0
+        results = []
+        for item in items:
+            name = item.get("name", "").strip()
+            if not name:
+                continue
+            price_text = item.get("sell_price_text", "0")
+            try:
+                price = float(price_text.replace("¥", "").replace(",", "").replace(" ", ""))
+            except (ValueError, AttributeError):
+                price = 0
+            if price <= 0:
+                continue
+
+            volume = item.get("sell_listings", 0)
+            total_price += price
+            item_count += 1
+            results.append({"name": name, "price": price, "volume": volume})
+
+        if item_count == 0:
+            return None
+
+        avg = total_price / item_count
+        total_vol = sum(r["volume"] for r in results)
+        top3 = " · ".join(r["name"][:15] for r in results[:3])
+        return {
+            "avg_price": avg,
+            "item_count": item_count,
+            "total_volume": total_vol,
+            "top_items": results,
+            "top3": top3,
+            "source": "Steam",
+        }
+    except Exception:
+        return None
+
+
 def fetch_csgo_market():
-    """从 FirePulse 抓取 CS:GO 大盘指数"""
+    """获取 CS:GO 大盘行情"""
     config = SOURCES.get("csgo", {})
     if not config.get("enabled", True):
         return []
 
     news_list = []
 
-    try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "Content-Type": "application/json",
-            "Accept": "application/json",
-            "Referer": "https://firepulse.com.cn/",
-        }
-        # 多重重试（国内 API 从海外访问可能较慢）
-        resp = None
-        for attempt in range(3):
-            try:
-                resp = requests.post(FIREPULSE_API, json={}, headers=headers, timeout=30)
-                break
-            except requests.exceptions.Timeout:
-                print(f"[CSGO] 第{attempt+1}次超时，重试...")
-                time.sleep(2)
-        if resp is None:
-            raise Exception("FirePulse API 3次尝试均超时")
-        data = resp.json()
-
-        if data.get("code") != 200:
-            raise Exception(f"API错误: {data.get('message', 'unknown')}")
-
-        result = data.get("data", {})
-
-        # 大盘指数基本信息
-        index_info = result.get("index_basic_info", {})
-        current_index = index_info.get("current_index", 0)
-        change_index = index_info.get("change_index", 0)
-        change_percent = index_info.get("change_index_percent", 0)
-        max_index = index_info.get("max_index", 0)
-        min_index = index_info.get("min_index", 0)
-        change_day = index_info.get("change_day", 0)
-        latest_time = index_info.get("latest_time", "")
-
-        # 交易数据
-        trade_info = result.get("trade_basic_info", {})
-        today_amount = trade_info.get("today_amount", 0) / 10000  # 转万元
-        today_volume = trade_info.get("today_volume", 0)
-        mom_amount = trade_info.get("mom_trade_amount", 0)
-
-        # 涨跌统计
-        updown = result.get("updown_basic_info", {})
-        up_count = updown.get("up_count", 0)
-        flat_count = updown.get("flat_count", 0)
-        down_count = updown.get("down_count", 0)
-
-        # 涨跌方向
-        direction = "📈" if change_index > 0 else "📉" if change_index < 0 else "➡"
-        change_sign = "+" if change_index >= 0 else ""
-
-        # 大盘指数概览
-        index_title = f"🔫 CS:GO 大盘指数 {current_index} {direction}{change_sign}{change_index}({change_sign}{change_percent}%)"
-        index_summary = (
-            f"今日 {current_index} | "
-            f"{direction} {change_sign}{change_index} ({change_sign}{change_percent}%) | "
-            f"最高 {max_index} 最低 {min_index} | "
-            f"连涨 {change_day} 天 | "
-            f"成交额 ¥{today_amount:.0f}万 | "
-            f"成交量 {today_volume}件 | "
-            f"涨 {up_count} / 平 {flat_count} / 跌 {down_count}"
-        )
-
-        index_item = {
-            "title": index_title,
-            "url": "https://firepulse.com.cn/#/home",
-            "source": "CSGO大盘",
-            "score": min(10, max(6, int(abs(change_percent) + 5))),
-            "comments": today_volume,
-            "summary": index_summary,
-        }
-        news_list.append(index_item)
-
-        # 涨跌分布
-        total = up_count + flat_count + down_count
-        if total > 0:
-            up_pct = up_count * 100 / total
-            down_pct = down_count * 100 / total
-            dist_summary = (
-                f"📊 涨跌分布: 📈{up_count}({up_pct:.0f}%) "
-                f"➡{flat_count}({flat_count*100/total:.0f}%) "
-                f"📉{down_count}({down_pct:.0f}%)"
-            )
-            news_list.append({
-                "title": f"📊 涨跌分布 {latest_time}",
-                "url": "https://firepulse.com.cn/#/home",
-                "source": "CSGO大盘",
-                "score": 6,
-                "comments": total,
-                "summary": dist_summary,
-            })
-
-        # 交易量
+    # 先尝试 FirePulse（国内）
+    fp = _fetch_firepulse()
+    if fp:
+        direction = "📈" if fp["change_index"] > 0 else "📉" if fp["change_index"] < 0 else "➡"
+        sign = "+" if fp["change_index"] >= 0 else ""
         news_list.append({
-            "title": f"💹 今日成交额 ¥{today_amount:.0f}万",
+            "title": f"🔫 CS:GO 大盘指数 {fp['current_index']} {direction}{sign}{fp['change_index']}({sign}{fp['change_percent']}%)",
             "url": "https://firepulse.com.cn/#/home",
             "source": "CSGO大盘",
-            "score": 5,
-            "comments": today_volume,
-            "summary": f"成交额 ¥{today_amount:.0f}万 | 成交量 {today_volume}件 | 环比 {mom_amount:.1f}%",
+            "score": 9,
+            "comments": fp["today_volume"],
+            "summary": (
+                f"今日 {fp['current_index']} | {direction} {sign}{fp['change_index']}({sign}{fp['change_percent']}%) | "
+                f"最高 {fp['max_index']} 最低 {fp['min_index']} | 连涨 {fp['change_day']}天 | "
+                f"成交额 ¥{fp['today_amount']:.0f}万 | 成交量 {fp['today_volume']}件 | "
+                f"📈{fp['up_count']} ➡{fp['flat_count']} 📉{fp['down_count']}"
+            ),
         })
+        print(f"[CSGO] FirePulse 大盘: {fp['current_index']} ({sign}{fp['change_percent']}%)")
+        return news_list
 
-    except Exception as e:
-        print(f"[CSGO] FirePulse抓取失败: {e}")
+    # 回退到 Steam 市场
+    steam = _fetch_steam()
+    if steam:
+        news_list.append({
+            "title": f"🔫 CS:GO Steam大盘均价 ¥{steam['avg_price']:.2f}",
+            "url": "https://steamcommunity.com/market/search?appid=730",
+            "source": "CSGO大盘",
+            "score": 8,
+            "comments": steam["total_volume"],
+            "summary": (
+                f"Steam成交量Top{steam['item_count']}均价 ¥{steam['avg_price']:.2f} | "
+                f"总挂单 {steam['total_volume']}件 | 热门: {steam['top3']}"
+            ),
+        })
+        for item in steam["top_items"][:6]:
+            news_list.append({
+                "title": f"{item['name'][:40]} ¥{item['price']:.2f}",
+                "url": f"https://steamcommunity.com/market/listings/730/{item['name']}",
+                "source": "CSGO大盘",
+                "score": min(10, max(2, int(item['price'] / 100))),
+                "comments": item["volume"],
+                "summary": f"Steam市场 ¥{item['price']:.2f} | 挂单 {item['volume']}件",
+            })
+        print(f"[CSGO] Steam大盘: ¥{steam['avg_price']:.2f} ({steam['item_count']}款)")
+        return news_list
 
-    print(f"[CSGO] 抓取完成: {len(news_list)} 条")
-    return news_list
+    print("[CSGO] 所有数据源均失败")
+    return []
 
 
 if __name__ == "__main__":
