@@ -81,6 +81,23 @@ body {
     padding: 20px 24px;
     box-shadow: var(--shadow);
 }
+.commentary-toggle {
+    float: right;
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 1.1rem;
+    cursor: pointer;
+    padding: 2px 6px;
+    transition: transform 0.3s;
+}
+.commentary-toggle.collapsed {
+    transform: rotate(-90deg);
+}
+.commentary-text.collapsed {
+    display: none;
+}
+
 .commentary-label {
     display: inline-flex;
     align-items: center;
@@ -412,14 +429,6 @@ body {
     transform: translateY(-1px);
 }
 
-.card-header {
-    display: flex;
-    gap: 8px;
-    align-items: center;
-    flex-wrap: wrap;
-    margin-bottom: 8px;
-}
-
 .source-tag {
     display: inline-block;
     padding: 2px 10px;
@@ -546,19 +555,19 @@ body {
 <div class="header">
     <h1>🌍 磊哥新闻网</h1>
     <div class="date">2026年06月02日 新闻汇总</div>
-    <div class="meta">由 AI 从 8 个新闻源中筛选 · 共 53 条精选 · <a href="./archive/" style="color:#fff;opacity:0.9;">📅 历史归档</a></div>
+    <div class="meta">由 AI 从 8 个新闻源中筛选 · 共 51 条精选 · <a href="./archive/" style="color:#fff;opacity:0.9;">📅 历史归档</a></div>
 </div>
 
 <div class="stats-bar">
-    <div class="stat-card"><div class="stat-value">53</div><div class="stat-label">📰 今日新闻</div></div>
+    <div class="stat-card"><div class="stat-value">51</div><div class="stat-label">📰 今日新闻</div></div>
     <div class="stat-card"><div class="stat-value">8</div><div class="stat-label">📡 新闻来源</div></div>
     <div class="stat-card"><div class="stat-value">7.6</div><div class="stat-label">⭐ 平均评分</div></div>
     <div class="stat-card"><div class="stat-value">2026年06月02日</div><div class="stat-label">📅 日期</div></div>
 </div>
 <div class="commentary">
     <div class="commentary-card">
-        <span class="commentary-label">🔥 磊哥锐评</span>
-        <div class="commentary-text"><p>兄弟们，今天这新闻热闹啊！磊哥先盯着那AI巨头Anthropic，估值奔着1万亿美元去了，还偷偷交IPO申请，比OpenAI还拽。我就想问一句：你们这些AI公司到底是在造未来，还是在印钞票？估值快赶上几个国家的GDP了，可普通人连用个AI还得掏会员费。咱能不能先把那个“替代我写周报”的功能做得靠谱点，别光顾着给资本讲故事？</p><p>再看中东，伊朗无人机直接干到科威特机场了，航班全停。磊哥只能说，这仗打得跟打地鼠似的，你打我一下我砸你一下，最后倒霉的是谁？是那些飞不了、回不了家的老百姓。美国、伊朗、以色列、真主党，一个个都跟打了鸡血似的，可油价倒是先涨上天了，全球电动汽车销量反而因此创新高——这算不算“因祸得福”？讽刺到家了。</p><p>最后那个Red Hat账号被黑，NPM包直接植入恶意代码。磊哥得说，连开源老大哥都被偷家了，你们那些小公司还敢随便“npm install”吗？这年头，黑客比产品经理还懂用户痛点。</p><p>今日金句：**“AI忙着上市割韭菜，中东忙着放无人机点外卖，我们普通人只求代码别崩、油价别飙。”**</p></div>
+        <span class="commentary-label">🔥 磊哥锐评 <button class="commentary-toggle" id="commentaryToggle" title="折叠/展开">▼</button></span>
+        <div class="commentary-text" id="commentaryText"><p>哎哟我去，今天这新闻看得我脑瓜子嗡嗡的。先说特朗普，这老小子签个行政令，让AI公司提前30天把新模型给政府“验货”。说白了就是：好东西我先尝尝，觉得不安全就给你掐了。这不就是科技版的“先交保护费再营业”吗？AI还没成精，先被美国政府PUA上了。</p><p>再说Anthropic，估值奔着1万亿美元去了。一个搞AI的还没赚到钱，股价先飞上天。这泡沫吹得我都替它脸红，但反过来想，资本疯成这样，说明AI这赛道是真有东西，只是别最后变成“烧钱大赛”。</p><p>最离谱的是Instagram那个AI聊天机器人，黑客直接用这玩意儿偷账户。你说你搞个AI来聊天，结果成了黑客的万能钥匙。这哪是智能，这是智障啊！</p><p>**今日金句：AI还没学会做人，人类先学会了利用AI做鬼。**</p></div>
     </div>
 </div>
 
@@ -566,14 +575,14 @@ body {
     <input type="text" class="search-box" id="searchBox" placeholder="🔍 搜索新闻...">
     <button class="filter-btn active" data-filter="all">全部</button>
     <button class="filter-btn" data-filter="bookmarked">⭐ 我的收藏</button>
-    <button class="filter-btn" data-filter="科技">科技 (26)</button>
-    <button class="filter-btn" data-filter="国际">国际 (12)</button>
-    <button class="filter-btn" data-filter="科学">科学 (3)</button>
-    <button class="filter-btn" data-filter="财经">财经 (13)</button>
-    <button class="filter-btn" data-filter="产品">产品 (6)</button>
-    <button class="filter-btn" data-filter="趣闻">趣闻 (11)</button>
-    <button class="filter-btn" data-filter="娱乐">娱乐 (2)</button>
-    <button class="filter-btn" data-filter="社会">社会 (13)</button>
+    <button class="filter-btn" data-filter="科技">科技 (18)</button>
+    <button class="filter-btn" data-filter="国际">国际 (7)</button>
+    <button class="filter-btn" data-filter="科学">科学 (6)</button>
+    <button class="filter-btn" data-filter="财经">财经 (8)</button>
+    <button class="filter-btn" data-filter="产品">产品 (8)</button>
+    <button class="filter-btn" data-filter="趣闻">趣闻 (13)</button>
+    <button class="filter-btn" data-filter="娱乐">娱乐 (3)</button>
+    <button class="filter-btn" data-filter="社会">社会 (18)</button>
     <button class="theme-toggle" id="themeToggle" title="切换深色/浅色模式">🌙 深色模式</button>
 </div>
 
@@ -588,480 +597,465 @@ body {
             <span id="heroCats"></span>
         </div>
     </div>
-    <div class="section-title">🌍 全球新闻 (35)</div>
+    <div class="section-title">🌍 全球新闻 (29)</div>
     <div class="news-grid">
-        <article class="news-card" data-categories="国际" data-url="https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="美国和伊朗发动新一轮打击，科威特机场遭伊朗无人机袭击" data-score="10" data-summary="中东局势升级，科威特称其国际机场被伊朗无人机严重损坏，航班暂停；美国与伊朗互相发动新打击。" data-source-css="source-bbc" style="animation-delay:0.0s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
-    <h2 class="card-title">美国和伊朗发动新一轮打击，科威特机场遭伊朗无人机袭击</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 10分</span>
-        <span class="cat-tag">国际</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技,科学" data-url="https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="微软发布新型量子芯片，可靠性提升 1000 倍" data-score="9" data-summary="微软宣布 Majorana 2 量子芯片可靠性是前代的 1000 倍，并预测本十年末将造出解决商业问题的量子计算机。" data-source-css="source-bbc" style="animation-delay:0.03s">
+        <article class="news-card" data-categories="科技,科学" data-url="https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="微软称新量子芯片可靠性比前代高1000倍" data-score="10" data-summary="微软宣布其新量子芯片Majorana 2可靠性提升1000倍，并预测本十年末将建成可解决商业问题的量子计算机。" data-source-css="source-bbc" style="animation-delay:0.0s">
     <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
-    <h2 class="card-title">微软发布新型量子芯片，可靠性提升 1000 倍</h2>
+    <h2 class="card-title">微软称新量子芯片可靠性比前代高1000倍</h2>
     <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐⭐ 9分</span>
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 10分</span>
         <span class="cat-tag">科技</span><span class="cat-tag">科学</span>
     </div>
 </article>
-        <article class="news-card" data-categories="国际" data-url="https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="以色列打击黎巴嫩南部，但与真主党的部分停火协议似乎维持" data-score="9" data-summary="以色列继续在黎巴嫩南部行动，但未袭击贝鲁特，美国宣布的停火协议暂未破裂。" data-source-css="source-bbc" style="animation-delay:0.06s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+        <article class="news-card" data-categories="国际" data-url="https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="美国和伊朗发动新打击，科威特机场遭伊朗无人机袭击" data-score="9" data-summary="科威特称其国际机场被伊朗无人机严重损坏，交通暂停；美国与伊朗同时发动新打击，中东局势持续紧张。" data-source-css="source-bbc" style="animation-delay:0.03s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
-    <h2 class="card-title">以色列打击黎巴嫩南部，但与真主党的部分停火协议似乎维持</h2>
+    <h2 class="card-title">美国和伊朗发动新打击，科威特机场遭伊朗无人机袭击</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐⭐ 9分</span>
         <span class="cat-tag">国际</span>
     </div>
 </article>
-        <article class="news-card" data-categories="国际" data-url="https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="乌克兰俄控区巴士遭无人机袭击致 7 人死亡" data-score="9" data-summary="一辆从莫斯科开往克里米亚的巴士在俄控乌克兰地区被无人机击中，造成 7 人死亡。" data-source-css="source-bbc" style="animation-delay:0.09s">
+        <article class="news-card" data-categories="国际" data-url="https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="俄控乌克兰地区巴士遭无人机袭击致7死" data-score="9" data-summary="一辆从莫斯科开往克里米亚的巴士在俄控乌克兰地区被无人机击中，造成7人死亡，俄乌冲突持续升级。" data-source-css="source-bbc" style="animation-delay:0.06s">
     <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
-    <h2 class="card-title">乌克兰俄控区巴士遭无人机袭击致 7 人死亡</h2>
+    <h2 class="card-title">俄控乌克兰地区巴士遭无人机袭击致7死</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐⭐ 9分</span>
         <span class="cat-tag">国际</span>
     </div>
 </article>
-        <article class="news-card" data-categories="财经,科技" data-url="https://www.solidot.org/story?sid=84462" data-source="Solidot" data-title="中国将数据和算法纳入商业秘密保护范围" data-score="9" data-summary="中国修订《商业秘密保护规定》，首次将数据、算法等数字资产纳入保护，对远程办公和跨境合作提出更严要求。" data-source-css="source-zhihu" style="animation-delay:0.12s">
+        <article class="news-card" data-categories="国际" data-url="https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="普京对乌克兰立场强硬，但俄国内战争讨论出现变化" data-score="9" data-summary="俄罗斯在乌克兰加强攻势，但四年多的战争引发普京支持者担忧，国内关于战争的公开讨论正在微妙变化。" data-source-css="source-bbc" style="animation-delay:0.09s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
+    <h2 class="card-title">普京对乌克兰立场强硬，但俄国内战争讨论出现变化</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐⭐ 9分</span>
+        <span class="cat-tag">国际</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="财经,科技" data-url="https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="AI巨头Anthropic计划公开售股，估值逼近1万亿美元" data-score="9" data-summary="AI公司Anthropic（Claude背后公司）计划今年晚些时候向公众出售股份，估值接近1万亿美元，显示AI行业资本热潮。" data-source-css="source-bbc" style="animation-delay:0.12s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
+    <h2 class="card-title">AI巨头Anthropic计划公开售股，估值逼近1万亿美元</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐⭐ 9分</span>
+        <span class="cat-tag">财经</span><span class="cat-tag">科技</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科技,国际" data-url="https://www.solidot.org/story?sid=84462" data-source="Solidot" data-title="中国将数据和算法纳入商业秘密保护范围" data-score="9" data-summary="中国修订《商业秘密保护规定》，首次明确将数据、算法等数字资产纳入保护，并对远程办公和跨境合作提出更严安全要求。" data-source-css="source-zhihu" style="animation-delay:0.15s">
     <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84462" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
     <h2 class="card-title">中国将数据和算法纳入商业秘密保护范围</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐⭐ 9分</span>
-        <span class="cat-tag">财经</span><span class="cat-tag">科技</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技,财经" data-url="https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="英国出版商可选择退出 Google AI 搜索结果" data-score="8" data-summary="英国竞争与市场管理局表示，此举将使出版商在与 Google 谈判内容交易时处于更有利地位。" data-source-css="source-bbc" style="animation-delay:0.15s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
-    <h2 class="card-title">英国出版商可选择退出 Google AI 搜索结果</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">财经</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技,财经" data-url="https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="英国九家银行获 OpenAI 提供网络 AI 工具，替代被 Anthropic 封锁的 Mythos" data-score="8" data-summary="因 Anthropic 阻止其网络 AI 工具预览，九家英国银行转而获得 OpenAI 的 GPT 5.5 Cyber 访问权。" data-source-css="source-bbc" style="animation-delay:0.18s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
-    <h2 class="card-title">英国九家银行获 OpenAI 提供网络 AI 工具，替代被 Anthropic 封锁的 Mythos</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">财经</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技,社会" data-url="https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="加州总检察长起诉 23andMe 继任公司 2023 年数据泄露" data-score="8" data-summary="加州总检察长指控 23andMe 继任公司就 2023 年数据泄露的严重性撒谎。" data-source-css="source-bbc" style="animation-delay:0.21s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
-    <h2 class="card-title">加州总检察长起诉 23andMe 继任公司 2023 年数据泄露</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">社会</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技" data-url="https://www.solidot.org/story?sid=84459" data-source="Solidot" data-title="Red Hat 官方 NPM 账号被入侵，软件包植入恶意程序" data-score="8" data-summary="Red Hat 的 NPM 账号 @redhat-cloud-services 被黑，多个软件包被植入窃取凭证的恶意代码。" data-source-css="source-zhihu" style="animation-delay:0.24s">
-    <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84459" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
-    <h2 class="card-title">Red Hat 官方 NPM 账号被入侵，软件包植入恶意程序</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">科技</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技,国际" data-url="https://www.solidot.org/story?sid=84457" data-source="Solidot" data-title="黑客利用 Meta AI 机器人接管 Instagram 名人账号" data-score="8" data-summary="亲伊朗黑客通过简单方法诱骗 Meta AI 机器人，短时间内接管了包括奥巴马在内的多个 Instagram 名人账号。" data-source-css="source-zhihu" style="animation-delay:0.27s">
-    <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84457" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
-    <h2 class="card-title">黑客利用 Meta AI 机器人接管 Instagram 名人账号</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
         <span class="cat-tag">科技</span><span class="cat-tag">国际</span>
     </div>
 </article>
-        <article class="news-card" data-categories="科技,国际" data-url="https://www.solidot.org/story?sid=84468" data-source="Solidot" data-title="欧洲议会默认搜索引擎从 Google 切换到法国 Qwant" data-score="8" data-summary="出于数字主权和隐私考虑，欧洲议会内部计算机的默认搜索引擎将于 6 月 4 日起从 Google 切换到法国隐私搜索引擎 Qwant。" data-source-css="source-zhihu" style="animation-delay:0.3s">
-    <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84468" title="收藏" onclick="event.stopPropagation()">☆</button>
+        <article class="news-card" data-categories="社会" data-url="https://www.solidot.org/story?sid=84463" data-source="Solidot" data-title="中国打击快餐行业幽灵外卖，新规要求实体店信息一致" data-score="8" data-summary="中国实施新规打击无实体店的“幽灵外卖”，要求外卖平台商家信息与实体店相符，并注明是否提供堂食，保障食品安全。" data-source-css="source-zhihu" style="animation-delay:0.18s">
+    <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84463" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
-    <h2 class="card-title">欧洲议会默认搜索引擎从 Google 切换到法国 Qwant</h2>
+    <h2 class="card-title">中国打击快餐行业幽灵外卖，新规要求实体店信息一致</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">国际</span>
+        <span class="cat-tag">社会</span>
     </div>
 </article>
-        <article class="news-card" data-categories="财经,科技" data-url="https://www.solidot.org/story?sid=84461" data-source="Solidot" data-title="能源危机推动 37 国电动汽车销量创新高" data-score="8" data-summary="受中东危机导致燃料价格上涨影响，3 月和 4 月全球 37 个国家电动汽车销量创历史新高。" data-source-css="source-zhihu" style="animation-delay:0.32999999999999996s">
+        <article class="news-card" data-categories="财经,科技" data-url="https://www.solidot.org/story?sid=84461" data-source="Solidot" data-title="能源危机推动37国电动汽车销量创新高" data-score="8" data-summary="受中东危机导致燃料价格上涨影响，3月和4月全球37个国家电动汽车销量创历史新高，包括澳大利亚、巴西等。" data-source-css="source-zhihu" style="animation-delay:0.21s">
     <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84461" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
-    <h2 class="card-title">能源危机推动 37 国电动汽车销量创新高</h2>
+    <h2 class="card-title">能源危机推动37国电动汽车销量创新高</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
         <span class="cat-tag">财经</span><span class="cat-tag">科技</span>
     </div>
 </article>
-        <article class="news-card" data-categories="财经,科技" data-url="https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="AI 巨头 Anthropic 计划在美国上市，估值逼近 1 万亿美元" data-score="8" data-summary="AI 公司 Anthropic 秘密提交 IPO，估值达 9650 亿美元，计划今年晚些时候上市。" data-source-css="source-bbc" style="animation-delay:0.36s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
-    <h2 class="card-title">AI 巨头 Anthropic 计划在美国上市，估值逼近 1 万亿美元</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">财经</span><span class="cat-tag">科技</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="国际,社会" data-url="https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="壳牌被曝多年明知污染仍通过尼日利亚管道输送石油" data-score="8" data-summary="文件显示壳牌在尼日利亚的管道多年泄漏污染，公司辩称文件忽略了复杂运营环境的背景。" data-source-css="source-bbc" style="animation-delay:0.39s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
-    <h2 class="card-title">壳牌被曝多年明知污染仍通过尼日利亚管道输送石油</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">国际</span><span class="cat-tag">社会</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="国际" data-url="https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="英国夫妇在伊朗被判刑上诉失败" data-score="8" data-summary="Lindsay 和 Craig Foreman 夫妇 2025 年 1 月在全球摩托车旅行中被捕，其上诉被伊朗驳回。" data-source-css="source-bbc" style="animation-delay:0.42s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
-    <h2 class="card-title">英国夫妇在伊朗被判刑上诉失败</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">国际</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="国际" data-url="https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="基辅居民区遭俄军袭击，居民从避难所走出后满目疮痍" data-score="8" data-summary="俄罗斯大规模袭击后，基辅一个宁静的社区被摧毁，居民从地下避难所出来面对废墟。" data-source-css="source-bbc" style="animation-delay:0.44999999999999996s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
-    <h2 class="card-title">基辅居民区遭俄军袭击，居民从避难所走出后满目疮痍</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">国际</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="国际,社会" data-url="https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="神秘失踪的众议员获特朗普支持后赢得初选" data-score="8" data-summary="共和党议员 Tom Kean Jr. 已数月未在华盛顿或选区露面，但在特朗普支持下赢得初选。" data-source-css="source-bbc" style="animation-delay:0.48s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
-    <h2 class="card-title">神秘失踪的众议员获特朗普支持后赢得初选</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">国际</span><span class="cat-tag">社会</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="国际,财经" data-url="https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="加拿大正式请求续签北美自由贸易协定 16 年" data-score="8" data-summary="加拿大贸易部长致信北美同行，提议三国续签 USMCA 贸易协定。" data-source-css="source-bbc" style="animation-delay:0.51s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
-    <h2 class="card-title">加拿大正式请求续签北美自由贸易协定 16 年</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">国际</span><span class="cat-tag">财经</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="国际,社会" data-url="https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="意大利移民农场工人被烧死，两人被捕" data-score="8" data-summary="监控显示两人从外堵住货车门并向内泼洒液体纵火，导致四名移民农场工人死亡。" data-source-css="source-bbc" style="animation-delay:0.54s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
-    <h2 class="card-title">意大利移民农场工人被烧死，两人被捕</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">国际</span><span class="cat-tag">社会</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="国际,社会" data-url="https://www.bbc.com/news/articles/clyp4e87dq6o?at_medium=RSS&at_campaign=rss" data-source="BBC World" data-title="南非警方调查两名莫桑比克男子被杀事件" data-score="8" data-summary="在针对非法移民的暴力抗议一天后，两名莫桑比克男子在莫塞尔湾被杀。" data-source-css="source-bbc" style="animation-delay:0.57s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/clyp4e87dq6o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC World</span>
-    <h2 class="card-title">南非警方调查两名莫桑比克男子被杀事件</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">国际</span><span class="cat-tag">社会</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技" data-url="https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="微软测试面向办公室员工的穿戴式 AI 设备" data-score="8" data-summary="微软表示其员工正在测试一种“可穿戴访问徽章”和桌面设备。" data-source-css="source-bbc" style="animation-delay:0.6s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+        <article class="news-card" data-categories="科技,国际" data-url="https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="英国出版商可选择退出谷歌AI搜索结果" data-score="8" data-summary="英国竞争与市场管理局允许出版商选择不被谷歌AI搜索抓取，增强其与谷歌谈判内容交易的地位。" data-source-css="source-bbc" style="animation-delay:0.24s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
-    <h2 class="card-title">微软测试面向办公室员工的穿戴式 AI 设备</h2>
+    <h2 class="card-title">英国出版商可选择退出谷歌AI搜索结果</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">科技</span>
+        <span class="cat-tag">科技</span><span class="cat-tag">国际</span>
     </div>
 </article>
-        <article class="news-card" data-categories="科技" data-url="https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="Instagram AI 聊天机器人被黑客利用，可访问他人账户" data-score="8" data-summary="黑客诱骗 Meta AI 机器人，导致多个高知名度 Instagram 账户被劫持。" data-source-css="source-bbc" style="animation-delay:0.63s">
+        <article class="news-card" data-categories="科技,产品" data-url="https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="宝马称人形机器人是汽车制造的未来" data-score="8" data-summary="宝马计划在欧洲工厂引入人形机器人，延续类似项目，认为人形机器人将改变汽车制造业的未来。" data-source-css="source-bbc" style="animation-delay:0.27s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
+    <h2 class="card-title">宝马称人形机器人是汽车制造的未来</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">科技</span><span class="cat-tag">产品</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="产品,财经" data-url="https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="Valve将Steam Deck价格上调超40%，归因于成本上升" data-score="8" data-summary="Valve宣布Steam Deck掌机涨价超40%，称未改变硬件但组件成本上涨，引发玩家热议。" data-source-css="source-bbc" style="animation-delay:0.3s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
+    <h2 class="card-title">Valve将Steam Deck价格上调超40%，归因于成本上升</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">产品</span><span class="cat-tag">财经</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科技,社会" data-url="https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="Instagram AI聊天机器人被黑客利用窃取账户访问权限" data-score="8" data-summary="黑客利用Instagram AI聊天机器人漏洞获取他人账户访问权限，可能与近期高知名度账户被劫持事件有关。" data-source-css="source-bbc" style="animation-delay:0.32999999999999996s">
     <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
-    <h2 class="card-title">Instagram AI 聊天机器人被黑客利用，可访问他人账户</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">科技</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技,社会" data-url="https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="佛罗里达州起诉 OpenAI，称 ChatGPT 协助大规模枪击者" data-score="8" data-summary="佛罗里达州总检察长指控 OpenAI 和 Altman 构建了“欺骗之网”，让 ChatGPT 协助大规模枪击者。" data-source-css="source-bbc" style="animation-delay:0.6599999999999999s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
-    <h2 class="card-title">佛罗里达州起诉 OpenAI，称 ChatGPT 协助大规模枪击者</h2>
+    <h2 class="card-title">Instagram AI聊天机器人被黑客利用窃取账户访问权限</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
         <span class="cat-tag">科技</span><span class="cat-tag">社会</span>
     </div>
 </article>
-        <article class="news-card" data-categories="科技,娱乐" data-url="https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="下一部《使命召唤》设定为朝鲜入侵，引发争议" data-score="8" data-summary="开发商 Infinity Ward 称新作将“基于该系列闻名的军事真实性”，但设定引发争议。" data-source-css="source-bbc" style="animation-delay:0.69s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
-    <h2 class="card-title">下一部《使命召唤》设定为朝鲜入侵，引发争议</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">娱乐</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技,财经" data-url="https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="宝马称人形机器人是汽车制造的“未来”" data-score="8" data-summary="宝马正在欧洲工厂引入人形机器人，延续类似项目在美国的成功。" data-source-css="source-bbc" style="animation-delay:0.72s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
-    <h2 class="card-title">宝马称人形机器人是汽车制造的“未来”</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">财经</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技,财经" data-url="https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="Valve 将 Steam Deck 价格提高 40% 以上，归因于成本上升" data-score="8" data-summary="Valve 称手持设备未变，但涨价反映了“组件成本的当前状态”。" data-source-css="source-bbc" style="animation-delay:0.75s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
-    <h2 class="card-title">Valve 将 Steam Deck 价格提高 40% 以上，归因于成本上升</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">财经</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科学,科技" data-url="https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="伦敦国王学院团队获准使用谷歌尖端量子芯片" data-score="8" data-summary="研究人员希望该芯片能帮助回答关于最重要自然过程的先前无法回答的问题。" data-source-css="source-bbc" style="animation-delay:0.78s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
-    <h2 class="card-title">伦敦国王学院团队获准使用谷歌尖端量子芯片</h2>
+        <article class="news-card" data-categories="科学,科技" data-url="https://www.solidot.org/story?sid=84464" data-source="Solidot" data-title="NASA低音爆超音速飞机X-59将首次尝试突破音速" data-score="8" data-summary="NASA宣布X-59 QueSST飞机本月将首次尝试超音速飞行，其设计可产生更安静的“砰砰声”而非音爆。" data-source-css="source-zhihu" style="animation-delay:0.36s">
+    <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84464" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
+    <h2 class="card-title">NASA低音爆超音速飞机X-59将首次尝试突破音速</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
         <span class="cat-tag">科学</span><span class="cat-tag">科技</span>
     </div>
 </article>
-        <article class="news-card" data-categories="财经,社会" data-url="https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="报告称四分之三工人无法达到“中等”养老金收入" data-score="8" data-summary="新报告显示，退休后中等生活方式单人需 32,700 英镑，双人需 45,400 英镑。" data-source-css="source-bbc" style="animation-delay:0.8099999999999999s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
-    <h2 class="card-title">报告称四分之三工人无法达到“中等”养老金收入</h2>
+        <article class="news-card" data-categories="科学,趣闻" data-url="https://www.solidot.org/story?sid=84466" data-source="Solidot" data-title="深海蓝色章鱼被确认为全新物种" data-score="8" data-summary="2015年在加拉帕戈斯群岛深海发现的蓝色小章鱼被科学家确认为全新物种，体型可放手掌上。" data-source-css="source-zhihu" style="animation-delay:0.39s">
+    <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84466" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
+    <h2 class="card-title">深海蓝色章鱼被确认为全新物种</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">科学</span><span class="cat-tag">趣闻</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科学" data-url="https://www.solidot.org/story?sid=84465" data-source="Solidot" data-title="富铁免疫细胞帮助信鸽感知地磁场导航" data-score="8" data-summary="研究发现信鸽肝脏中的富铁巨噬细胞可能赋予其磁罗盘能力，紧邻神经元帮助导航。" data-source-css="source-zhihu" style="animation-delay:0.42s">
+    <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84465" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
+    <h2 class="card-title">富铁免疫细胞帮助信鸽感知地磁场导航</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">科学</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科学,趣闻" data-url="https://www.solidot.org/story?sid=84467" data-source="Solidot" data-title="科学家15年尝试杀死土壤未果，揭示微生物顽强生命力" data-score="8" data-summary="法国生化学家15年来用伽马射线灭菌土壤，但土壤仍持续释放二氧化碳，显示微生物呼吸难以彻底停止。" data-source-css="source-zhihu" style="animation-delay:0.44999999999999996s">
+    <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84467" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
+    <h2 class="card-title">科学家15年尝试杀死土壤未果，揭示微生物顽强生命力</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">科学</span><span class="cat-tag">趣闻</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科技,社会" data-url="https://www.solidot.org/story?sid=84460" data-source="Solidot" data-title="海盗湾被警方搜查20周年：从服务器到去中心化" data-score="8" data-summary="2006年瑞典警方突袭海盗湾服务器20年后，该网站已转向去中心化模式，继续运营，成为互联网历史标志。" data-source-css="source-zhihu" style="animation-delay:0.48s">
+    <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84460" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
+    <h2 class="card-title">海盗湾被警方搜查20周年：从服务器到去中心化</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">科技</span><span class="cat-tag">社会</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科技,国际" data-url="https://www.solidot.org/story?sid=84468" data-source="Solidot" data-title="欧洲议会默认搜索引擎从Google切换至法国Qwant" data-score="7" data-summary="欧洲议会将于6月4日起将默认搜索引擎从Google改为法国隐私搜索引擎Qwant，强调数字主权和隐私保护。" data-source-css="source-zhihu" style="animation-delay:0.51s">
+    <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84468" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
+    <h2 class="card-title">欧洲议会默认搜索引擎从Google切换至法国Qwant</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">科技</span><span class="cat-tag">国际</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科技" data-url="https://www.solidot.org/story?sid=84469" data-source="Solidot" data-title="Vim Classic 8.3发布：反对AI代码的分支" data-score="7" data-summary="因对Vim项目接受AI代码不满，开发者创建无AI代码分支Vim Classic 8.3，引发开源社区关于AI使用的讨论。" data-source-css="source-zhihu" style="animation-delay:0.54s">
+    <button class="bookmark-btn" data-url="https://www.solidot.org/story?sid=84469" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-zhihu" style="align-self:flex-start;margin-bottom:6px;">Solidot</span>
+    <h2 class="card-title">Vim Classic 8.3发布：反对AI代码的分支</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">科技</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科技,产品" data-url="https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="微软测试面向办公室员工的穿戴式AI设备" data-score="7" data-summary="微软正在内部测试一款“可穿戴访问徽章”和桌面设备，旨在为办公室员工提供AI辅助功能。" data-source-css="source-bbc" style="animation-delay:0.57s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
+    <h2 class="card-title">微软测试面向办公室员工的穿戴式AI设备</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">科技</span><span class="cat-tag">产品</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科技,社会" data-url="https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="佛罗里达州起诉OpenAI：ChatGPT协助大规模枪击案" data-score="7" data-summary="佛罗里达州总检察长起诉OpenAI，指控ChatGPT协助大规模枪击案凶手，称其构建“欺骗之网”。" data-source-css="source-bbc" style="animation-delay:0.6s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
+    <h2 class="card-title">佛罗里达州起诉OpenAI：ChatGPT协助大规模枪击案</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">科技</span><span class="cat-tag">社会</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科技,社会" data-url="https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss" data-source="BBC Technology" data-title="加州总检察长起诉23andMe继任公司2023年数据泄露" data-score="7" data-summary="加州总检察长起诉23andMe继任公司，指控其隐瞒2023年数据泄露的严重性，涉及数百万用户基因数据。" data-source-css="source-bbc" style="animation-delay:0.63s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Technology</span>
+    <h2 class="card-title">加州总检察长起诉23andMe继任公司2023年数据泄露</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">科技</span><span class="cat-tag">社会</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="社会" data-url="https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="英国水务公司因寄生虫爆发被罚180万英镑" data-score="7" data-summary="英国一家水务公司因寄生虫爆发导致4人住院、超140人患病，被罚款180万英镑。" data-source-css="source-bbc" style="animation-delay:0.6599999999999999s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
+    <h2 class="card-title">英国水务公司因寄生虫爆发被罚180万英镑</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">社会</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="社会" data-url="https://www.bbc.com/news/articles/c4g01xv08weo?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="伦敦地铁罢工因谈判破裂而进行" data-score="7" data-summary="伦敦地铁RMT工会成员因工作时间争议举行罢工，周二开始，周四还有进一步行动，影响通勤。" data-source-css="source-bbc" style="animation-delay:0.69s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c4g01xv08weo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
+    <h2 class="card-title">伦敦地铁罢工因谈判破裂而进行</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">社会</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="社会" data-url="https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="中国打击“幽灵厨房”整治外卖平台乱象" data-score="7" data-summary="中国针对数千家无实体店的“幽灵厨房”展开整治，这些线上店铺引发食品安全担忧。" data-source-css="source-bbc" style="animation-delay:0.72s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
+    <h2 class="card-title">中国打击“幽灵厨房”整治外卖平台乱象</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">社会</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="财经,娱乐" data-url="https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="斯蒂芬·库里与Under Armour分手后签约中国品牌" data-score="7" data-summary="NBA球星斯蒂芬·库里在结束与Under Armour合作后，签约中国品牌，显示中国品牌争夺国际巨星趋势。" data-source-css="source-bbc" style="animation-delay:0.75s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
+    <h2 class="card-title">斯蒂芬·库里与Under Armour分手后签约中国品牌</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">财经</span><span class="cat-tag">娱乐</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="社会,财经" data-url="https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="三分之一英国人认为大学学位不值，学生贷款调查启动" data-score="7" data-summary="英国议会启动学生贷款调查，三分之一受访者认为大学学位不值，毕业生担忧债务规模和利率。" data-source-css="source-bbc" style="animation-delay:0.78s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
+    <h2 class="card-title">三分之一英国人认为大学学位不值，学生贷款调查启动</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">社会</span><span class="cat-tag">财经</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="财经,社会" data-url="https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="四分之三工人退休金不足以维持中等生活水平" data-score="7" data-summary="报告显示四分之三工人退休储蓄不足，中等退休生活单人需32,700英镑，双人需45,400英镑。" data-source-css="source-bbc" style="animation-delay:0.8099999999999999s">
+    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
+    <h2 class="card-title">四分之三工人退休金不足以维持中等生活水平</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
         <span class="cat-tag">财经</span><span class="cat-tag">社会</span>
     </div>
 </article>
-        <article class="news-card" data-categories="社会,趣闻" data-url="https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="英格兰银行征集新纸币上的动物图案" data-score="8" data-summary="英格兰银行向公众征求意见，哪些动物应出现在未来的纸币上。" data-source-css="source-bbc" style="animation-delay:0.84s">
+        <article class="news-card" data-categories="社会,趣闻" data-url="https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="英格兰银行征集新纸币上的动物图案" data-score="7" data-summary="英格兰银行向公众征集18种候选动物，用于未来纸币图案，包括猫、狗、蜜蜂等。" data-source-css="source-bbc" style="animation-delay:0.84s">
     <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
     <h2 class="card-title">英格兰银行征集新纸币上的动物图案</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">社会</span><span class="cat-tag">趣闻</span>
+    </div>
+</article>
+    </div>
+    <div class="section-title">💻 科技 (3)</div>
+    <div class="news-grid">
+        <article class="news-card" data-categories="科技,产品" data-url="https://github.com/chopratejas/headroom" data-source="GitHub Trending" data-title="开源项目Headroom：压缩工具输出和日志减少60-95%令牌" data-score="8" data-summary="GitHub热门项目Headroom可压缩工具输出、日志和RAG块，减少60-95%令牌数而不影响答案质量，提升LLM效率。" data-source-css="source-github" style="animation-delay:0.0s">
+    <button class="bookmark-btn" data-url="https://github.com/chopratejas/headroom" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-github" style="align-self:flex-start;margin-bottom:6px;">GitHub Trending</span>
+    <h2 class="card-title">开源项目Headroom：压缩工具输出和日志减少60-95%令牌</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">科技</span><span class="cat-tag">产品</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科技,产品" data-url="https://github.com/microsoft/markitdown" data-source="GitHub Trending" data-title="微软开源MarkItDown：将文件和办公文档转为Markdown" data-score="8" data-summary="微软发布Python工具MarkItDown，可高效将各类文件和办公文档转换为Markdown格式，今日获3618星。" data-source-css="source-github" style="animation-delay:0.03s">
+    <button class="bookmark-btn" data-url="https://github.com/microsoft/markitdown" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-github" style="align-self:flex-start;margin-bottom:6px;">GitHub Trending</span>
+    <h2 class="card-title">微软开源MarkItDown：将文件和办公文档转为Markdown</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">科技</span><span class="cat-tag">产品</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="科技,产品" data-url="https://github.com/OpenBMB/VoxCPM" data-source="GitHub Trending" data-title="OpenBMB发布VoxCPM2：无分词器多语言语音生成与克隆" data-score="8" data-summary="开源项目VoxCPM2实现无分词器文本转语音，支持多语言语音生成、创意声音设计和逼真语音克隆。" data-source-css="source-github" style="animation-delay:0.06s">
+    <button class="bookmark-btn" data-url="https://github.com/OpenBMB/VoxCPM" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-github" style="align-self:flex-start;margin-bottom:6px;">GitHub Trending</span>
+    <h2 class="card-title">OpenBMB发布VoxCPM2：无分词器多语言语音生成与克隆</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">科技</span><span class="cat-tag">产品</span>
+    </div>
+</article>
+    </div>
+    <div class="section-title">🔥 热搜 (6)</div>
+    <div class="news-grid">
+        <article class="news-card" data-categories="财经" data-url="https://s.weibo.com/weibo?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E6%9E%B63%E5%B9%B4%E6%9C%9F5%E5%B9%B4%E6%9C%9F%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE&t=31" data-source="微博热搜" data-title="多家银行下架3年期5年期定期存款产品" data-score="8" data-summary="多家银行近期下架3年期和5年期定期存款产品，可能为降低负债成本或调整利率策略，引发储户关注。" data-source-css="source-weibo" style="animation-delay:0.0s">
+    <button class="bookmark-btn" data-url="https://s.weibo.com/weibo?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E6%9E%B63%E5%B9%B4%E6%9C%9F5%E5%B9%B4%E6%9C%9F%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE&t=31" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-weibo" style="align-self:flex-start;margin-bottom:6px;">微博热搜</span>
+    <h2 class="card-title">多家银行下架3年期5年期定期存款产品</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">财经</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="财经" data-url="https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%B7%B2%E5%A4%A7%E9%99%8D300%E5%85%83&t=31" data-source="微博热搜" data-title="金饰克价已大降300元" data-score="8" data-summary="黄金饰品价格大幅下跌，每克降价约300元，消费者关注是否迎来购买时机，市场波动明显。" data-source-css="source-weibo" style="animation-delay:0.03s">
+    <button class="bookmark-btn" data-url="https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%B7%B2%E5%A4%A7%E9%99%8D300%E5%85%83&t=31" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-weibo" style="align-self:flex-start;margin-bottom:6px;">微博热搜</span>
+    <h2 class="card-title">金饰克价已大降300元</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">财经</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="社会" data-url="https://s.weibo.com/weibo?q=%E5%A4%9A%E5%9C%B0%E7%9C%81%E9%95%BF%E5%AF%86%E9%9B%86%E4%B8%8B%E7%9F%BF&t=31" data-source="微博热搜" data-title="多地省长密集下矿调研" data-score="8" data-summary="中国多个省份省长近期密集前往煤矿等矿区调研，可能涉及能源安全或安全生产议题，引发社会关注。" data-source-css="source-weibo" style="animation-delay:0.06s">
+    <button class="bookmark-btn" data-url="https://s.weibo.com/weibo?q=%E5%A4%9A%E5%9C%B0%E7%9C%81%E9%95%BF%E5%AF%86%E9%9B%86%E4%B8%8B%E7%9F%BF&t=31" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-weibo" style="align-self:flex-start;margin-bottom:6px;">微博热搜</span>
+    <h2 class="card-title">多地省长密集下矿调研</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">社会</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="社会" data-url="https://s.weibo.com/weibo?q=1290%E4%B8%87%E4%BA%BA%E6%8A%A5%E5%90%8D2026%E9%AB%98%E8%80%83&t=31" data-source="微博热搜" data-title="1290万人报名2026年高考" data-score="8" data-summary="2026年全国高考报名人数达1290万，再创历史新高，教育竞争压力持续增大。" data-source-css="source-weibo" style="animation-delay:0.09s">
+    <button class="bookmark-btn" data-url="https://s.weibo.com/weibo?q=1290%E4%B8%87%E4%BA%BA%E6%8A%A5%E5%90%8D2026%E9%AB%98%E8%80%83&t=31" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-weibo" style="align-self:flex-start;margin-bottom:6px;">微博热搜</span>
+    <h2 class="card-title">1290万人报名2026年高考</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
+        <span class="cat-tag">社会</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="社会,趣闻" data-url="https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B8%AD6022%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%9D%9A%E6%8C%81%E4%B8%8D%E6%8A%95%E8%B5%84%E4%B8%8D%E6%8C%A5%E9%9C%8D&t=31" data-source="微博热搜" data-title="男子中6022万彩票坚持不投资不挥霍" data-score="8" data-summary="一名男子中得6022万元彩票大奖后表示不投资不挥霍，计划稳健理财，引发网友热议。" data-source-css="source-weibo" style="animation-delay:0.12s">
+    <button class="bookmark-btn" data-url="https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B8%AD6022%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%9D%9A%E6%8C%81%E4%B8%8D%E6%8A%95%E8%B5%84%E4%B8%8D%E6%8C%A5%E9%9C%8D&t=31" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-weibo" style="align-self:flex-start;margin-bottom:6px;">微博热搜</span>
+    <h2 class="card-title">男子中6022万彩票坚持不投资不挥霍</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
         <span class="cat-tag">社会</span><span class="cat-tag">趣闻</span>
     </div>
 </article>
-        <article class="news-card" data-categories="社会" data-url="https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="邮政丑闻最年长受害者称国王告诉她此事“可怕”" data-score="8" data-summary="92 岁的 Betty Brown 表示她代表所有受害者接受荣誉。" data-source-css="source-bbc" style="animation-delay:0.87s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
-    <h2 class="card-title">邮政丑闻最年长受害者称国王告诉她此事“可怕”</h2>
+        <article class="news-card" data-categories="社会" data-url="https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B9%B034%E5%B1%82%E6%88%BF%E6%94%B6%E6%88%BF%E5%BE%97%E7%9F%A5%E5%8F%AA%E7%9B%96%E5%88%B032%E5%B1%82&t=31" data-source="微博热搜" data-title="男子买34层房收房得知只盖到32层" data-score="8" data-summary="一男子购买34层住宅，收房时发现实际只建到32层，开发商涉嫌违规，引发维权纠纷。" data-source-css="source-weibo" style="animation-delay:0.15s">
+    <button class="bookmark-btn" data-url="https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B9%B034%E5%B1%82%E6%88%BF%E6%94%B6%E6%88%BF%E5%BE%97%E7%9F%A5%E5%8F%AA%E7%9B%96%E5%88%B032%E5%B1%82&t=31" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-weibo" style="align-self:flex-start;margin-bottom:6px;">微博热搜</span>
+    <h2 class="card-title">男子买34层房收房得知只盖到32层</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
         <span class="cat-tag">社会</span>
     </div>
 </article>
-        <article class="news-card" data-categories="社会" data-url="https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="水务公司因寄生虫爆发被罚款 180 万英镑" data-score="8" data-summary="德文郡爆发寄生虫病，4 人住院，超 140 人患病，水务公司被罚。" data-source-css="source-bbc" style="animation-delay:0.8999999999999999s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
-    <h2 class="card-title">水务公司因寄生虫爆发被罚款 180 万英镑</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">社会</span>
     </div>
-</article>
-        <article class="news-card" data-categories="社会,财经" data-url="https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="三分之一的人认为大学学位不值，学生贷款调查启动" data-score="8" data-summary="议员将听取毕业生关于学生债务规模和利率的担忧。" data-source-css="source-bbc" style="animation-delay:0.9299999999999999s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
-    <h2 class="card-title">三分之一的人认为大学学位不值，学生贷款调查启动</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">社会</span><span class="cat-tag">财经</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="财经,娱乐" data-url="https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="斯蒂芬·库里与 Under Armour 分手后签约中国品牌" data-score="8" data-summary="中国公司争相与巨星签约，以推动成为全球品牌。" data-source-css="source-bbc" style="animation-delay:0.96s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
-    <h2 class="card-title">斯蒂芬·库里与 Under Armour 分手后签约中国品牌</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">财经</span><span class="cat-tag">娱乐</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="社会" data-url="https://www.bbc.com/news/articles/c4g01xv08weo?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="伦敦地铁罢工在谈判失败后继续进行" data-score="8" data-summary="RMT 工会成员因工作时间纠纷周二罢工，周四还有进一步行动。" data-source-css="source-bbc" style="animation-delay:0.99s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/c4g01xv08weo?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
-    <h2 class="card-title">伦敦地铁罢工在谈判失败后继续进行</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">社会</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="社会,财经" data-url="https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss" data-source="BBC Business" data-title="中国打击“幽灵厨房”以整顿外卖平台" data-score="8" data-summary="数千家不存在的“幽灵厨房”让中国消费者不安，新规要求外卖平台信息与实体店一致。" data-source-css="source-bbc" style="animation-delay:1.02s">
-    <button class="bookmark-btn" data-url="https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-bbc" style="align-self:flex-start;margin-bottom:6px;">BBC Business</span>
-    <h2 class="card-title">中国打击“幽灵厨房”以整顿外卖平台</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐⭐ 8分</span>
-        <span class="cat-tag">社会</span><span class="cat-tag">财经</span>
-    </div>
-</article>
-    </div>
-    <div class="section-title">💻 科技 (8)</div>
+    <div class="section-title">🎬 娱乐 (7)</div>
     <div class="news-grid">
-        <article class="news-card" data-categories="科技,产品" data-url="https://github.com/chopratejas/headroom" data-source="GitHub Trending" data-title="headroom：压缩工具输出、日志和 RAG 块，减少 60-95% token" data-score="7" data-summary="开源 Python 工具，在到达 LLM 前压缩数据，可大幅减少 token 消耗，同时保持答案质量。" data-source-css="source-github" style="animation-delay:0.0s">
-    <button class="bookmark-btn" data-url="https://github.com/chopratejas/headroom" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-github" style="align-self:flex-start;margin-bottom:6px;">GitHub Trending</span>
-    <h2 class="card-title">headroom：压缩工具输出、日志和 RAG 块，减少 60-95% token</h2>
+        <article class="news-card" data-categories="社会,趣闻" data-url="https://www.bilibili.com/video/BV1QzVR63E3L" data-source="B站热门" data-title="回忆永远都是加分项" data-score="7" data-summary="央视新闻发布B站热门视频，播放量251万，弹幕1.9万，引发网友对回忆的共鸣讨论。" data-source-css="source-bili" style="animation-delay:0.0s">
+    <button class="bookmark-btn" data-url="https://www.bilibili.com/video/BV1QzVR63E3L" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bili" style="align-self:flex-start;margin-bottom:6px;">B站热门</span>
+    <h2 class="card-title">回忆永远都是加分项</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">产品</span>
+        <span class="cat-tag">社会</span><span class="cat-tag">趣闻</span>
     </div>
 </article>
-        <article class="news-card" data-categories="科技,产品" data-url="https://github.com/microsoft/markitdown" data-source="GitHub Trending" data-title="microsoft/markitdown：将文件和办公文档转换为 Markdown 的 Python 工具" data-score="7" data-summary="微软开源工具，支持多种文件格式转 Markdown，今日获 3618 星。" data-source-css="source-github" style="animation-delay:0.03s">
-    <button class="bookmark-btn" data-url="https://github.com/microsoft/markitdown" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-github" style="align-self:flex-start;margin-bottom:6px;">GitHub Trending</span>
-    <h2 class="card-title">microsoft/markitdown：将文件和办公文档转换为 Markdown 的 Python 工具</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">产品</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技,科学" data-url="https://github.com/OpenBMB/VoxCPM" data-source="GitHub Trending" data-title="VoxCPM2：无分词器的多语言语音生成与克隆开源模型" data-score="7" data-summary="OpenBMB 发布 VoxCPM2，支持多语言语音生成、创意语音设计和逼真语音克隆。" data-source-css="source-github" style="animation-delay:0.06s">
-    <button class="bookmark-btn" data-url="https://github.com/OpenBMB/VoxCPM" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-github" style="align-self:flex-start;margin-bottom:6px;">GitHub Trending</span>
-    <h2 class="card-title">VoxCPM2：无分词器的多语言语音生成与克隆开源模型</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">科学</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技,产品" data-url="https://github.com/supermemoryai/supermemory" data-source="GitHub Trending" data-title="supermemory：极快、可扩展的 AI 时代记忆引擎和 API" data-score="7" data-summary="开源 TypeScript 项目，提供高速可扩展的记忆存储服务，专为 AI 应用设计。" data-source-css="source-github" style="animation-delay:0.09s">
-    <button class="bookmark-btn" data-url="https://github.com/supermemoryai/supermemory" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-github" style="align-self:flex-start;margin-bottom:6px;">GitHub Trending</span>
-    <h2 class="card-title">supermemory：极快、可扩展的 AI 时代记忆引擎和 API</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">产品</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="科技,趣闻" data-url="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" data-source="GitHub Trending" data-title="Open-LLM-VTuber：与任何 LLM 进行免提语音交互的开源项目" data-score="7" data-summary="支持语音交互、中断和 Live2D 面部动画，可在本地跨平台运行。" data-source-css="source-github" style="animation-delay:0.12s">
-    <button class="bookmark-btn" data-url="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-github" style="align-self:flex-start;margin-bottom:6px;">GitHub Trending</span>
-    <h2 class="card-title">Open-LLM-VTuber：与任何 LLM 进行免提语音交互的开源项目</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
-        <span class="cat-tag">科技</span><span class="cat-tag">趣闻</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="产品,科技" data-url="https://www.producthunt.com/products/dispatch-cae30304-5c83-4bd1-acc5-d5a9630193f1" data-source="Product Hunt" data-title="Dispatch：应用发布中心，含 ASO 审计、关键词和广告" data-score="6" data-summary="Product Hunt 新品，帮助开发者管理应用发布，提供 ASO 审计、关键词和广告功能。" data-source-css="source-ph" style="animation-delay:0.15s">
-    <button class="bookmark-btn" data-url="https://www.producthunt.com/products/dispatch-cae30304-5c83-4bd1-acc5-d5a9630193f1" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-ph" style="align-self:flex-start;margin-bottom:6px;">Product Hunt</span>
-    <h2 class="card-title">Dispatch：应用发布中心，含 ASO 审计、关键词和广告</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
-        <span class="cat-tag">产品</span><span class="cat-tag">科技</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="产品,科技" data-url="https://www.producthunt.com/products/walkable-2" data-source="Product Hunt" data-title="Walkable：安全优先的步行导航应用" data-score="6" data-summary="Product Hunt 新品，提供以安全为首要目标的步行路线导航。" data-source-css="source-ph" style="animation-delay:0.18s">
-    <button class="bookmark-btn" data-url="https://www.producthunt.com/products/walkable-2" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-ph" style="align-self:flex-start;margin-bottom:6px;">Product Hunt</span>
-    <h2 class="card-title">Walkable：安全优先的步行导航应用</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
-        <span class="cat-tag">产品</span><span class="cat-tag">科技</span>
-    </div>
-</article>
-        <article class="news-card" data-categories="产品,科技" data-url="https://www.producthunt.com/products/radiancekit" data-source="Product Hunt" data-title="RadianceKit：在 Mac 上将照片转换为 3D 高斯泼溅" data-score="6" data-summary="Product Hunt 新品，可在 Mac 上轻松将照片转化为 3D 高斯泼溅模型。" data-source-css="source-ph" style="animation-delay:0.21s">
-    <button class="bookmark-btn" data-url="https://www.producthunt.com/products/radiancekit" title="收藏" onclick="event.stopPropagation()">☆</button>
-    <span class="source-tag source-ph" style="align-self:flex-start;margin-bottom:6px;">Product Hunt</span>
-    <h2 class="card-title">RadianceKit：在 Mac 上将照片转换为 3D 高斯泼溅</h2>
-    <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
-        <span class="cat-tag">产品</span><span class="cat-tag">科技</span>
-    </div>
-</article>
-    </div>
-    <div class="section-title">🎬 娱乐 (4)</div>
-    <div class="news-grid">
-        <article class="news-card" data-categories="趣闻" data-url="https://www.bilibili.com/video/BV11BVU6mEUe" data-source="B站热门" data-title="做了一把千机伞，能变十三个形态的那种｜最强的武器一定是自制的" data-score="6" data-summary="B站UP主手工制作了可变换13种形态的千机伞，播放量超236万。" data-source-css="source-bili" style="animation-delay:0.0s">
+        <article class="news-card" data-categories="趣闻" data-url="https://www.bilibili.com/video/BV11BVU6mEUe" data-source="B站热门" data-title="做了一把千机伞，能变十三个形态" data-score="7" data-summary="B站UP主手工制作可变换13种形态的千机伞，播放237万，展现创意手工技艺。" data-source-css="source-bili" style="animation-delay:0.03s">
     <button class="bookmark-btn" data-url="https://www.bilibili.com/video/BV11BVU6mEUe" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-bili" style="align-self:flex-start;margin-bottom:6px;">B站热门</span>
-    <h2 class="card-title">做了一把千机伞，能变十三个形态的那种｜最强的武器一定是自制的</h2>
+    <h2 class="card-title">做了一把千机伞，能变十三个形态</h2>
     <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
         <span class="cat-tag">趣闻</span>
     </div>
 </article>
-        <article class="news-card" data-categories="趣闻" data-url="https://www.bilibili.com/video/BV1eoVZ64EDP" data-source="B站热门" data-title="卡 布 达 买 瓜" data-score="6" data-summary="B站热门恶搞视频，将经典角色卡布达与买瓜梗结合，播放量超104万。" data-source-css="source-bili" style="animation-delay:0.03s">
-    <button class="bookmark-btn" data-url="https://www.bilibili.com/video/BV1eoVZ64EDP" title="收藏" onclick="event.stopPropagation()">☆</button>
+        <article class="news-card" data-categories="娱乐,产品" data-url="https://www.bilibili.com/video/BV1VtVr6GE5H" data-source="B站热门" data-title="《影之刃零》50秒先导预告片发布" data-score="7" data-summary="游戏《影之刃零》在State of Play发布50秒先导预告，播放150万，引发玩家期待。" data-source-css="source-bili" style="animation-delay:0.06s">
+    <button class="bookmark-btn" data-url="https://www.bilibili.com/video/BV1VtVr6GE5H" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-bili" style="align-self:flex-start;margin-bottom:6px;">B站热门</span>
-    <h2 class="card-title">卡 布 达 买 瓜</h2>
+    <h2 class="card-title">《影之刃零》50秒先导预告片发布</h2>
     <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
-        <span class="cat-tag">趣闻</span>
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">娱乐</span><span class="cat-tag">产品</span>
     </div>
 </article>
-        <article class="news-card" data-categories="趣闻" data-url="https://www.bilibili.com/video/BV1WBVZ6zEZF" data-source="B站热门" data-title="朋克的扑满完整版！六一变身巴啦啦小魔丸！" data-score="6" data-summary="B站UP主发布朋克风格扑满完整版，六一变身巴啦啦小魔丸，播放量34万。" data-source-css="source-bili" style="animation-delay:0.06s">
-    <button class="bookmark-btn" data-url="https://www.bilibili.com/video/BV1WBVZ6zEZF" title="收藏" onclick="event.stopPropagation()">☆</button>
+        <article class="news-card" data-categories="科学,趣闻" data-url="https://www.bilibili.com/video/BV1YcVf69ECW" data-source="B站热门" data-title="此树扎根之时 便是沧海化桑田之始" data-score="7" data-summary="B站UP主芳斯塔芙发布自然科普视频，播放118万，探讨树木生长与地质变迁。" data-source-css="source-bili" style="animation-delay:0.09s">
+    <button class="bookmark-btn" data-url="https://www.bilibili.com/video/BV1YcVf69ECW" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-bili" style="align-self:flex-start;margin-bottom:6px;">B站热门</span>
-    <h2 class="card-title">朋克的扑满完整版！六一变身巴啦啦小魔丸！</h2>
+    <h2 class="card-title">此树扎根之时 便是沧海化桑田之始</h2>
     <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
-        <span class="cat-tag">趣闻</span>
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">科学</span><span class="cat-tag">趣闻</span>
     </div>
 </article>
-        <article class="news-card" data-categories="趣闻" data-url="https://www.bilibili.com/video/BV1jBVS6qEPK" data-source="B站热门" data-title="竹丝镶嵌" data-score="6" data-summary="B站UP主展示传统竹丝镶嵌工艺，播放量27.5万，弹幕1476条。" data-source-css="source-bili" style="animation-delay:0.09s">
-    <button class="bookmark-btn" data-url="https://www.bilibili.com/video/BV1jBVS6qEPK" title="收藏" onclick="event.stopPropagation()">☆</button>
+        <article class="news-card" data-categories="社会" data-url="https://www.bilibili.com/video/BV1pAVz6DEDB" data-source="B站热门" data-title="5.14马尔代夫潜水事故，5人洞穴潜水全部遇难" data-score="7" data-summary="马尔代夫发生潜水事故，5名洞穴潜水者全部遇难，播放82万，引发安全警示。" data-source-css="source-bili" style="animation-delay:0.12s">
+    <button class="bookmark-btn" data-url="https://www.bilibili.com/video/BV1pAVz6DEDB" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-bili" style="align-self:flex-start;margin-bottom:6px;">B站热门</span>
-    <h2 class="card-title">竹丝镶嵌</h2>
+    <h2 class="card-title">5.14马尔代夫潜水事故，5人洞穴潜水全部遇难</h2>
     <div class="card-footer">
-        <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
-        <span class="cat-tag">趣闻</span>
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">社会</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="社会,趣闻" data-url="https://www.bilibili.com/video/BV1RvVo6QEpm" data-source="B站热门" data-title="95后浙江女生继承亿万工厂，除了拍视频还会干嘛？" data-score="7" data-summary="B站视频讲述95后女生继承家族工厂的故事，播放76万，探讨二代接班与创业。" data-source-css="source-bili" style="animation-delay:0.15s">
+    <button class="bookmark-btn" data-url="https://www.bilibili.com/video/BV1RvVo6QEpm" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bili" style="align-self:flex-start;margin-bottom:6px;">B站热门</span>
+    <h2 class="card-title">95后浙江女生继承亿万工厂，除了拍视频还会干嘛？</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">社会</span><span class="cat-tag">趣闻</span>
+    </div>
+</article>
+        <article class="news-card" data-categories="娱乐,产品" data-url="https://www.bilibili.com/video/BV1CYVy6vETT" data-source="B站热门" data-title="《战神：劳菲》深度玩法演示在State of Play发布" data-score="7" data-summary="IGN中国发布《战神：劳菲》深度玩法演示，播放45.7万，弹幕6099，游戏社区热议。" data-source-css="source-bili" style="animation-delay:0.18s">
+    <button class="bookmark-btn" data-url="https://www.bilibili.com/video/BV1CYVy6vETT" title="收藏" onclick="event.stopPropagation()">☆</button>
+    <span class="source-tag source-bili" style="align-self:flex-start;margin-bottom:6px;">B站热门</span>
+    <h2 class="card-title">《战神：劳菲》深度玩法演示在State of Play发布</h2>
+    <div class="card-footer">
+        <span class="score-badge">⭐⭐⭐⭐⭐⭐⭐ 7分</span>
+        <span class="cat-tag">娱乐</span><span class="cat-tag">产品</span>
     </div>
 </article>
     </div>
     <div class="section-title">😂 轻松一刻 (5)</div>
     <div class="news-grid">
-        <article class="news-card" data-categories="趣闻" data-url="https://xkcd.com/3253/" data-source="XKCD" data-title="XKCD 漫画：Sunbeam（阳光束）" data-score="6" data-summary="漫画调侃天文学家和天文摄影师无意中召唤云层的能力，就像一种超能力。" data-source-css="source-xkcd" style="animation-delay:0.0s">
+        <article class="news-card" data-categories="趣闻" data-url="https://xkcd.com/3253/" data-source="XKCD" data-title="XKCD漫画：Sunbeam（阳光束）" data-score="6" data-summary="XKCD漫画调侃天文学家和天文摄影师无意识召唤云层的能力，幽默对比天气控制超能力。" data-source-css="source-xkcd" style="animation-delay:0.0s">
     <button class="bookmark-btn" data-url="https://xkcd.com/3253/" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-xkcd" style="align-self:flex-start;margin-bottom:6px;">XKCD</span>
-    <h2 class="card-title">XKCD 漫画：Sunbeam（阳光束）</h2>
+    <h2 class="card-title">XKCD漫画：Sunbeam（阳光束）</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
         <span class="cat-tag">趣闻</span>
     </div>
 </article>
-        <article class="news-card" data-categories="趣闻" data-url="https://xkcd.com/3252/" data-source="XKCD" data-title="XKCD 漫画：Ancestral Genomes（祖先基因组）" data-score="6" data-summary="漫画建议未来研究无需进行，因为这不关我们的事。" data-source-css="source-xkcd" style="animation-delay:0.03s">
+        <article class="news-card" data-categories="趣闻" data-url="https://xkcd.com/3252/" data-source="XKCD" data-title="XKCD漫画：Ancestral Genomes（祖先基因组）" data-score="6" data-summary="XKCD漫画幽默建议不要进一步研究祖先基因组，因为“这不关我们的事”。" data-source-css="source-xkcd" style="animation-delay:0.03s">
     <button class="bookmark-btn" data-url="https://xkcd.com/3252/" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-xkcd" style="align-self:flex-start;margin-bottom:6px;">XKCD</span>
-    <h2 class="card-title">XKCD 漫画：Ancestral Genomes（祖先基因组）</h2>
+    <h2 class="card-title">XKCD漫画：Ancestral Genomes（祖先基因组）</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
         <span class="cat-tag">趣闻</span>
     </div>
 </article>
-        <article class="news-card" data-categories="趣闻" data-url="https://xkcd.com/3251/" data-source="XKCD" data-title="XKCD 漫画：Time Machine Conversation（时光机对话）" data-score="6" data-summary="漫画指出没有指南针也能航海，但需要从波利尼西亚人那里获得一些剧透。" data-source-css="source-xkcd" style="animation-delay:0.06s">
+        <article class="news-card" data-categories="趣闻" data-url="https://xkcd.com/3251/" data-source="XKCD" data-title="XKCD漫画：Time Machine Conversation（时间机器对话）" data-score="6" data-summary="XKCD漫画调侃没有指南针的海上导航，暗示需要从波利尼西亚人那里获取“剧透”。" data-source-css="source-xkcd" style="animation-delay:0.06s">
     <button class="bookmark-btn" data-url="https://xkcd.com/3251/" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-xkcd" style="align-self:flex-start;margin-bottom:6px;">XKCD</span>
-    <h2 class="card-title">XKCD 漫画：Time Machine Conversation（时光机对话）</h2>
+    <h2 class="card-title">XKCD漫画：Time Machine Conversation（时间机器对话）</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
         <span class="cat-tag">趣闻</span>
     </div>
 </article>
-        <article class="news-card" data-categories="趣闻" data-url="https://xkcd.com/3250/" data-source="XKCD" data-title="XKCD 漫画：Flag Design（旗帜设计）" data-score="6" data-summary="漫画说每个地方都有当地的神秘生物，更多地方需要当地皮克特野兽——一种历史艺术中画得如此怪异以至于无人能识别的生物。" data-source-css="source-xkcd" style="animation-delay:0.09s">
+        <article class="news-card" data-categories="趣闻" data-url="https://xkcd.com/3250/" data-source="XKCD" data-title="XKCD漫画：Flag Design（旗帜设计）" data-score="6" data-summary="XKCD漫画建议每个地方都需要自己的“皮克特野兽”，一种历史艺术中画得怪异到无人能识别的生物。" data-source-css="source-xkcd" style="animation-delay:0.09s">
     <button class="bookmark-btn" data-url="https://xkcd.com/3250/" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-xkcd" style="align-self:flex-start;margin-bottom:6px;">XKCD</span>
-    <h2 class="card-title">XKCD 漫画：Flag Design（旗帜设计）</h2>
+    <h2 class="card-title">XKCD漫画：Flag Design（旗帜设计）</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
         <span class="cat-tag">趣闻</span>
     </div>
 </article>
-        <article class="news-card" data-categories="趣闻" data-url="https://xkcd.com/3249/" data-source="XKCD" data-title="XKCD 漫画：Neutrino Project（中微子项目）" data-score="6" data-summary="漫画调侃把游泳池放在矿井里是为了屏蔽，绝对不是为了躲避资助者。" data-source-css="source-xkcd" style="animation-delay:0.12s">
+        <article class="news-card" data-categories="趣闻" data-url="https://xkcd.com/3249/" data-source="XKCD" data-title="XKCD漫画：Neutrino Project（中微子项目）" data-score="6" data-summary="XKCD漫画调侃将游泳池放在矿井中用于屏蔽中微子，实际上是为了躲避资助方。" data-source-css="source-xkcd" style="animation-delay:0.12s">
     <button class="bookmark-btn" data-url="https://xkcd.com/3249/" title="收藏" onclick="event.stopPropagation()">☆</button>
     <span class="source-tag source-xkcd" style="align-self:flex-start;margin-bottom:6px;">XKCD</span>
-    <h2 class="card-title">XKCD 漫画：Neutrino Project（中微子项目）</h2>
+    <h2 class="card-title">XKCD漫画：Neutrino Project（中微子项目）</h2>
     <div class="card-footer">
         <span class="score-badge">⭐⭐⭐⭐⭐⭐ 6分</span>
         <span class="cat-tag">趣闻</span>
@@ -1076,7 +1070,7 @@ body {
 
 <button class="back-to-top" id="backToTop" title="回到顶部">⬆</button>
 <div class="footer">
-    <p>🤖 数据由 DeepSeek AI 筛选整理 · 每日自动更新 · 新闻来源: BBC Business · BBC Technology · BBC World · B站热门 · GitHub Trending · Product Hunt · Solidot · XKCD</p>
+    <p>🤖 数据由 DeepSeek AI 筛选整理 · 每日自动更新 · 新闻来源: BBC Business · BBC Technology · BBC World · B站热门 · GitHub Trending · Solidot · XKCD · 微博热搜</p>
 </div>
 
 <!-- 新闻详情弹窗 -->
@@ -1136,6 +1130,18 @@ themeToggle.addEventListener('click', () => {
 
 function updateThemeButton(theme) {
     themeToggle.textContent = theme === 'light' ? '🌙 深色模式' : '☀️ 浅色模式';
+}
+
+// ---- 折叠锐评 ----
+const commentaryToggle = document.getElementById('commentaryToggle');
+const commentaryText = document.getElementById('commentaryText');
+if (commentaryToggle && commentaryText) {
+    commentaryToggle.addEventListener('click', (e) => {
+        e.stopPropagation();
+        commentaryText.classList.toggle('collapsed');
+        commentaryToggle.classList.toggle('collapsed');
+    });
+    // 默认展开，点击折叠
 }
 
 // ---- 收藏功能 ----
@@ -1264,7 +1270,7 @@ document.addEventListener('keydown', (e) => {
 
 // ---- 头条渲染 ----
 const heroCard = document.getElementById('heroCard');
-const heroData = {"title": "Anthropic 秘密提交 IPO 申请，估值逼近 1 万亿美元", "url": "https://www.solidot.org/story?sid=84458", "source": "Solidot", "score": 10, "summary": "AI 公司 Anthropic 向 SEC 秘密提交 IPO 招股书，估值达 9650 亿美元，超过 OpenAI，计划今年晚些时候上市。", "categories": ["财经", "科技"], "source_css": "source-zhihu", "score_stars": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐"};
+const heroData = {"title": "特朗普签署行政令要求AI公司让政府先行评估新模型", "url": "https://www.solidot.org/story?sid=84470", "source": "Solidot", "score": 10, "summary": "美国总统特朗普签署行政令，要求AI公司在发布新模型前提前最多30天给予政府访问权限，并参与基准测试以评估高级网络能力。", "categories": ["国际", "科技"], "source_css": "source-zhihu", "score_stars": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐"};
 
 function renderHero(data) {
     if (!data) {
