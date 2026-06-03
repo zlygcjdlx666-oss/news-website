@@ -10,6 +10,7 @@ from .bilibili import fetch_bilibili
 from .steam import fetch_steam
 from .music import fetch_music
 from .finance import fetch_finance
+from .csgo_market import fetch_csgo_market
 
 __all__ = [
     "fetch_hackernews",
@@ -24,4 +25,5 @@ __all__ = [
     "fetch_steam",
     "fetch_music",
     "fetch_finance",
+    "fetch_csgo_market",
 ]

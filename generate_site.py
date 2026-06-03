@@ -92,6 +92,23 @@ body {{
     padding: 20px 24px;
     box-shadow: var(--shadow);
 }}
+.commentary-toggle {{
+    float: right;
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 1.1rem;
+    cursor: pointer;
+    padding: 2px 6px;
+    transition: transform 0.3s;
+}}
+.commentary-toggle.collapsed {{
+    transform: rotate(-90deg);
+}}
+.commentary-text.collapsed {{
+    display: none;
+}}
+
 .commentary-label {{
     display: inline-flex;
     align-items: center;
@@ -423,14 +440,6 @@ body {{
     transform: translateY(-1px);
 }}
 
-.card-header {{
-    display: flex;
-    gap: 8px;
-    align-items: center;
-    flex-wrap: wrap;
-    margin-bottom: 8px;
-}}
-
 .source-tag {{
     display: inline-block;
     padding: 2px 10px;
@@ -651,6 +660,18 @@ themeToggle.addEventListener('click', () => {{
 
 function updateThemeButton(theme) {{
     themeToggle.textContent = theme === 'light' ? '🌙 深色模式' : '☀️ 浅色模式';
+}}
+
+// ---- 折叠锐评 ----
+const commentaryToggle = document.getElementById('commentaryToggle');
+const commentaryText = document.getElementById('commentaryText');
+if (commentaryToggle && commentaryText) {{
+    commentaryToggle.addEventListener('click', (e) => {{
+        e.stopPropagation();
+        commentaryText.classList.toggle('collapsed');
+        commentaryToggle.classList.toggle('collapsed');
+    }});
+    // 默认展开，点击折叠
 }}
 
 // ---- 收藏功能 ----
@@ -948,8 +969,8 @@ def generate_site(news_list, output_dir=None, commentary=None):
         paragraphs = commentary.replace("\n\n", "</p><p>").replace("\n", "<br>")
         commentary_section = f'''<div class="commentary">
     <div class="commentary-card">
-        <span class="commentary-label">🔥 磊哥锐评</span>
-        <div class="commentary-text"><p>{paragraphs}</p></div>
+        <span class="commentary-label">🔥 磊哥锐评 <button class="commentary-toggle" id="commentaryToggle" title="折叠/展开">▼</button></span>
+        <div class="commentary-text" id="commentaryText"><p>{paragraphs}</p></div>
     </div>
 </div>'''
     else:
@@ -1028,6 +1049,7 @@ def generate_site(news_list, output_dir=None, commentary=None):
         ("game", "🎮 游戏", ["Steam"]),
         ("music", "🎵 音乐", ["网易云音乐"]),
         ("fun", "🎬 娱乐", ["B站热门", "B站"]),
+        ("csgo", "💰 CSGO大盘", ["CSGO大盘"]),
         ("relax", "😂 轻松一刻", ["XKCD"]),
     ]
     _grouped = {}

@@ -34,6 +34,7 @@ from scrapers import (
     fetch_steam,
     fetch_music,
     fetch_finance,
+    fetch_csgo_market,
 )
 from ai_processor import process_news, generate_commentary
 from generate_site import generate_site
@@ -52,6 +53,7 @@ SCRAPERS = {
     "steam": fetch_steam,
     "music": fetch_music,
     "finance": fetch_finance,
+    "csgo": fetch_csgo_market,
 }
 
 

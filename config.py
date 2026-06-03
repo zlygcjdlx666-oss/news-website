@@ -83,6 +83,10 @@ SOURCES = {
         "enabled": True,
         "max_items": 15,
     },
+    "csgo": {
+        "enabled": True,
+        "max_items": 12,
+    },
 }
 
 # 输出目录
