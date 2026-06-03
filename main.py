@@ -174,16 +174,22 @@ def main():
                 "categories": ["其他"],
             } for n in raw_news[:30]]
 
-    # 3. 生成 AI 锐评
-    print("\n[3/4] 生成 AI 锐评...")
+    # 3. 补充非新闻类数据（CSGO大盘等绕过AI筛选）
+    for n in raw_news:
+        if n.get("source") == "CSGO大盘":
+            processed.append(n)
+            print(f"[Main] CSGO大盘数据已追加: {n['title'][:50]}")
+
+    # 4. 生成 AI 锐评
+    print("\n[4/5] 生成 AI 锐评...")
     commentary = generate_commentary(processed) if not args.skip_ai else None
 
-    # 4. 生成网站
-    print("\n[4/4] 生成静态网站...")
+    # 5. 生成网站
+    print("\n[5/5] 生成静态网站...")
     output_path = generate_site(processed, commentary=commentary)
 
-    # 5. 保存归档数据
-    print("\n[5/5] 保存归档数据...")
+    # 6. 保存归档数据
+    print("\n[6/6] 保存归档数据...")
     archive_dir = os.path.join(OUTPUT_DIR, "archive", "data")
     os.makedirs(archive_dir, exist_ok=True)
     date_str = datetime.now().strftime("%Y-%m-%d")
