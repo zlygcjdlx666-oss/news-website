@@ -14,6 +14,7 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌍</text></svg>">
 <title>磊哥新闻网 — {date_str}</title>
 <style>
 :root {{
@@ -122,6 +123,26 @@ body {{
     border-color: var(--accent);
     color: var(--accent);
     background: var(--score-bg);
+}}
+
+.search-box {{
+    padding: 6px 16px;
+    border-radius: 20px;
+    border: 1.5px solid var(--border);
+    background: var(--card-bg);
+    color: var(--text);
+    font-size: 0.85rem;
+    outline: none;
+    transition: all 0.2s;
+    font-family: inherit;
+    width: 180px;
+}}
+.search-box:focus {{
+    border-color: var(--accent);
+    width: 220px;
+}}
+.search-box::placeholder {{
+    color: var(--text-secondary);
 }}
 .theme-toggle {{
     margin-left: auto;
@@ -304,11 +325,7 @@ body {{
     margin-bottom: 6px;
     line-height: 1.5;
 }}
-.card-title a {{
-    color: var(--text);
-    text-decoration: none;
-}}
-.card-title a:hover {{ color: var(--accent); }}
+
 
 .card-summary {{
     font-size: 0.9rem;
@@ -363,6 +380,35 @@ body {{
     margin-top: 20px;
 }}
 
+.back-to-top {{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: none;
+    background: var(--accent);
+    color: #fff;
+    font-size: 1.2rem;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    opacity: 0;
+    transform: translateY(16px);
+    transition: all 0.3s;
+    pointer-events: none;
+    z-index: 99;
+}}
+.back-to-top.visible {{
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+}}
+.back-to-top:hover {{
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+}}
+
 @media (max-width: 640px) {{
     .header h1 {{ font-size: 1.4rem; }}
     .header {{ padding: 30px 16px 40px; }}
@@ -382,6 +428,7 @@ body {{
 </div>
 
 <div class="controls" id="controls">
+    <input type="text" class="search-box" id="searchBox" placeholder="🔍 搜索新闻...">
     <button class="filter-btn active" data-filter="all">全部</button>
     {filter_buttons}
     <button class="theme-toggle" id="themeToggle" title="切换深色/浅色模式">🌙 深色模式</button>
@@ -397,6 +444,7 @@ body {{
     </div>
 </div>
 
+<button class="back-to-top" id="backToTop" title="回到顶部">⬆</button>
 <div class="footer">
     <p>🤖 数据由 DeepSeek AI 筛选整理 · 每日自动更新 · 新闻来源: {sources_list}</p>
 </div>
@@ -510,6 +558,44 @@ modalOverlay.addEventListener('click', (e) => {{
 document.addEventListener('keydown', (e) => {{
     if (e.key === 'Escape') closeModal();
 }});
+
+// ---- 搜索过滤 ----
+const searchBox = document.getElementById('searchBox');
+searchBox.addEventListener('input', () => {{
+    const query = searchBox.value.toLowerCase().trim();
+    let visible = 0;
+    cards.forEach(card => {{
+        const title = card.dataset.title.toLowerCase();
+        const summary = card.dataset.summary.toLowerCase();
+        const match = !query || title.includes(query) || summary.includes(query);
+        const catHidden = card.classList.contains('hidden');
+        card.style.display = (match && !catHidden) ? '' : 'none';
+        if (match && !catHidden) visible++;
+    }});
+    emptyMsg.style.display = visible === 0 ? 'block' : 'none';
+}});
+
+// 搜索时同步考虑分类筛选
+const origFilterClick = filterBtns[0].onclick;
+filterBtns.forEach(btn => {{
+    btn.addEventListener('click', () => {{
+        // 重新触发搜索以保持一致性
+        setTimeout(() => searchBox.dispatchEvent(new Event('input')), 10);
+    }});
+}});
+
+// ---- 回到顶部 ----
+const backToTop = document.getElementById('backToTop');
+window.addEventListener('scroll', () => {{
+    if (window.scrollY > 600) {{
+        backToTop.classList.add('visible');
+    }} else {{
+        backToTop.classList.remove('visible');
+    }}
+}});
+backToTop.addEventListener('click', () => {{
+    window.scrollTo({{ top: 0, behavior: 'smooth' }});
+}});
 </script>
 </body>
 </html>'''
@@ -592,12 +678,18 @@ def generate_site(news_list, output_dir=None):
         for c in n.get("categories", []):
             all_categories.add(c)
 
-    # 生成筛选按钮
+    # 统计每个分类的新闻数量
+    cat_count = {}
+    for n in news_list:
+        for c in n.get("categories", []):
+            cat_count[c] = cat_count.get(c, 0) + 1
+
+    # 生成筛选按钮（带数量）
     cat_order = ["科技", "国际", "科学", "财经", "产品", "趣闻", "娱乐", "社会", "其他"]
     sorted_cats = [c for c in cat_order if c in all_categories]
     sorted_cats += [c for c in sorted(all_categories) if c not in cat_order]
     filter_buttons = "\n    ".join(
-        f'<button class="filter-btn" data-filter="{c}">{c}</button>' for c in sorted_cats
+        f'<button class="filter-btn" data-filter="{c}">{c} ({cat_count.get(c, 0)})</button>' for c in sorted_cats
     )
 
     # 生成新闻卡片
