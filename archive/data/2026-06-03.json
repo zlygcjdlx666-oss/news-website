@@ -1,13 +1,13 @@
 {
   "date": "2026-06-03",
-  "commentary": "哎，各位老铁，今天这新闻看得磊哥是血压飙升，咱挑几个最离谱的聊聊。\n\n首先，美伊这波又干上了，科威特机场被伊朗无人机给炸了。你说这叫什么事儿？中东这地儿都快成火药桶批发市场了，今天你炸我机场，明天我捅你油轮，老百姓的航班说停就停。美国这“世界警察”当得，跟个灭火器似的，哪儿着火都去喷两下，结果火越喷越大。磊哥就想问一句：你们这帮大佬打架，能不能换个没人的地儿？\n\n再看那边，佛罗里达州总检察长居然起诉OpenAI，说ChatGPT协助了大规模枪击案。这锅甩得，磊哥都替AI喊冤。按这逻辑，杀人犯用了把刀，是不是得把全世界的铁匠铺都告了？科技公司天天琢磨怎么让AI变聪明，结果现在还得防着用户拿它干坏事。这到底是AI太强，还是某些人脑子太“弱”？\n\n最后，壳牌这事儿更绝。明知道尼日利亚的管道漏油漏成筛子了，还硬撑着运了多年，被曝光后甩锅说“文件忽略复杂背景”。磊哥翻译一下：我污染地球我骄傲，我为资本家省钞票。这帮跨国巨头，赚钱的手法是真脏。\n\n**【今日金句】**  \n这世界啊，有人忙着涨股价，有人忙着甩黑锅，就是没人忙着当个人。",
+  "commentary": "来，磊哥今天挑几条硬菜唠唠。\n\n先说美伊这出戏——美国跟伊朗又互抡王八拳，科威特机场还让伊朗无人机给砸了。磊哥就想问：这到底是反恐还是互相恐？中东这锅粥，越搅越糊，油价倒是跟吃了窜天猴似的。科威特说“航班暂停”，我看直接说“中东航线暂停”算了，这地界儿的领空现在比股市还刺激。\n\n再瞅瞅微软那量子芯片，吹得天花乱坠，说可靠性提升一千倍。磊哥我信，但咱老百姓关心的不是这个。你量子计算机能解决商业问题，能解决我双十一抢不到券的问题吗？能让我家WiFi别卡成PPT吗？说白了，高科技离咱生活还隔着好几个“画大饼”的距离。\n\n最后必须夸夸中国打“幽灵厨房”——干得漂亮！那些连实体店都没有的线上餐馆，后厨卫生能比你家马桶圈干净多少？消费者点外卖跟开盲盒似的，吃出塑料袋都算中奖。这下好了，幽灵们该还魂了。\n\n今日金句：世界忙打仗，AI忙涨价，只有外卖幽灵在瑟瑟发抖。",
   "news": [
     {
-      "title": "美伊爆发新冲突，科威特机场遭伊朗无人机袭击",
+      "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "score": 10,
-      "summary": "美国与伊朗发动新一轮打击，科威特国际机场遭伊朗无人机严重损坏，航班暂停。",
+      "summary": "美国与伊朗发动新一轮打击，科威特称其国际机场遭伊朗无人机严重损坏，航班暂停。",
       "categories": [
         "国际"
       ],
@@ -15,11 +15,11 @@
       "original_comments": 0
     },
     {
-      "title": "以色列打击黎巴嫩南部，与真主党部分停火协议似有维持",
+      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
       "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "score": 10,
-      "summary": "以色列继续在黎巴嫩南部行动，但未袭击贝鲁特，美国宣布的停火协议部分生效。",
+      "summary": "以色列继续打击黎巴嫩南部，但与美国宣布的与真主党部分停火协议似乎得以维持。",
       "categories": [
         "国际"
       ],
@@ -27,23 +27,11 @@
       "original_comments": 0
     },
     {
-      "title": "俄控乌克兰地区无人机击中巴士致7人死亡",
+      "title": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
       "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "score": 10,
-      "summary": "一辆从莫斯科开往克里米亚的巴士在俄控乌克兰地区被无人机击中，造成7人死亡。",
-      "categories": [
-        "国际"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "普京对乌克兰立场强硬，但俄国内战争舆论悄然变化",
-      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
       "score": 9,
-      "summary": "俄罗斯加大对乌克兰攻击，但四年战争引发普京支持者内部担忧，公众讨论出现微妙转变。",
+      "summary": "一架无人机击中乌克兰俄控区一辆巴士，造成7人死亡，巴士正从莫斯科驶往克里米亚。",
       "categories": [
         "国际"
       ],
@@ -51,35 +39,11 @@
       "original_comments": 0
     },
     {
-      "title": "壳牌被曝明知污染仍多年通过尼日利亚管道输油",
-      "url": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 9,
-      "summary": "文件显示壳牌在尼日利亚管道污染证据确凿的情况下继续输油多年，公司辩称文件忽略复杂背景。",
-      "categories": [
-        "国际"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "特朗普政府放弃18亿美元反武器化基金",
-      "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 9,
-      "summary": "代理司法部长宣布放弃该基金，此举遭到共和党高层议员反对。",
-      "categories": [
-        "国际"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "微软称新量子芯片可靠性比前代提升1000倍",
+      "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
       "url": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "score": 9,
-      "summary": "微软预测到本十年末将拥有能解决商业问题的量子计算机，新芯片Majorana 2可靠性大幅提升。",
+      "summary": "微软宣布其新型量子芯片可靠性比前代提升1000倍，预计本十年末可解决商业问题。",
       "categories": [
         "科技"
       ],
@@ -87,49 +51,24 @@
       "original_comments": 0
     },
     {
-      "title": "AI巨头Anthropic计划在美售股，估值逼近1万亿美元",
-      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "title": "Canada formally requests 16-year renewal of North American free trade pact",
+      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "score": 9,
-      "summary": "Claude背后的AI公司Anthropic计划今年晚些时候向公众开放股票买卖，估值接近1万亿美元。",
+      "summary": "加拿大正式请求将北美自由贸易协定（USMCA）续签16年，致信美加墨三国贸易部长。",
       "categories": [
-        "财经",
-        "科技"
+        "国际",
+        "财经"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "OpenAI被诉协助大规模枪击案，佛罗里达州总检察长指控",
-      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "score": 8,
-      "summary": "佛罗里达州总检察长指控OpenAI和CEO Sam Altman构建“欺骗之网”，让ChatGPT协助大规模枪击者。",
-      "categories": [
-        "科技",
-        "社会"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "Instagram AI聊天机器人被黑客利用，可访问他人账户",
-      "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "score": 8,
-      "summary": "黑客利用漏洞欺骗Instagram AI聊天机器人，获取其他用户账户访问权限，已导致高知名度账户被劫持。",
-      "categories": [
-        "科技"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "英国出版商可选择退出谷歌AI搜索结果",
+      "title": "Publishers in UK can opt out of Google AI search results",
       "url": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "score": 8,
-      "summary": "英国竞争与市场管理局表示，此举将使出版商在与谷歌谈判内容交易时处于更有利地位。",
+      "summary": "英国出版商可选择退出谷歌AI搜索结果，监管机构称此举将增强出版商与谷歌谈判内容协议的能力。",
       "categories": [
         "科技",
         "财经"
@@ -138,127 +77,63 @@
       "original_comments": 0
     },
     {
-      "title": "微软测试面向办公室员工的AI可穿戴设备",
-      "url": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss",
+      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
+      "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "score": 8,
-      "summary": "微软称其员工正在测试一款“可穿戴访问徽章”和桌面设备，旨在提升办公效率。",
+      "summary": "黑客欺骗Instagram AI聊天机器人，获取他人账户访问权限，与近期高知名度账户被劫持事件有关。",
       "categories": [
         "科技",
-        "产品"
+        "社会"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "宝马称人形机器人是汽车制造的未来",
+      "title": "Humanoid robots 'the future' of car making, says BMW",
       "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "score": 8,
-      "summary": "宝马将在欧洲工厂引入人形机器人，延续在美国类似项目的经验，推动汽车制造自动化。",
+      "summary": "宝马称人形机器人是汽车制造的未来，计划在欧洲工厂引入，延续在美国的类似项目。",
       "categories": [
         "科技",
-        "产品"
+        "财经"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "Valve将Steam Deck价格上调超40%，归因于成本上升",
+      "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
       "url": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "score": 8,
-      "summary": "Valve表示手持设备本身未变，但涨价反映了“组件成本的当前状态”，引发玩家热议。",
+      "summary": "Valve将Steam Deck价格上调超40%，归因于组件成本上涨，手持设备本身未变。",
       "categories": [
         "科技",
-        "产品"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "加州总检察长起诉23andMe继任公司2023年数据泄露",
-      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "score": 8,
-      "summary": "总检察长Rob Bonta指控该公司在数据泄露严重性上撒谎，要求追究责任。",
-      "categories": [
-        "科技",
-        "社会"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "加拿大正式请求续签北美自由贸易协定16年",
-      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 8,
-      "summary": "加拿大贸易部长致信北美同行，建议三国续签USMCA贸易协定，为期16年。",
-      "categories": [
-        "国际",
         "财经"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "意大利移民农场工人遇害案两人被捕",
-      "url": "https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 8,
-      "summary": "四名移民农场工人在意大利一辆面包车中被纵火烧死，监控显示两人堵住车门并泼洒液体点火。",
-      "categories": [
-        "国际",
-        "社会"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "报告称四分之三工人无法达到中等养老金收入",
-      "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
+      "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
+      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "score": 7,
-      "summary": "新报告显示，退休后中等生活水平单人需32,700英镑，双人需45,400英镑，多数工人难以达标。",
+      "score": 8,
+      "summary": "AI公司Anthropic计划今年晚些时候在美国公开出售股票，估值接近1万亿美元。",
       "categories": [
         "财经",
-        "社会"
+        "科技"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "水务公司因寄生虫爆发被罚180万英镑",
-      "url": "https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "score": 7,
-      "summary": "德文郡寄生虫爆发导致4人住院、超140人患病，水务公司被处以180万英镑罚款。",
-      "categories": [
-        "社会"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "三分之一受访者认为大学学位不值，学生贷款调查启动",
-      "url": "https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "score": 7,
-      "summary": "英国议员将听取毕业生对学生债务规模和利率的担忧，调查显示大学价值受质疑。",
-      "categories": [
-        "社会",
-        "财经"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "斯蒂芬·库里与Under Armour分手后签约中国品牌",
+      "title": "Steph Curry signs with Chinese brand after Under Armour split",
       "url": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "score": 7,
-      "summary": "中国品牌积极争夺顶级球星代言，库里签约中国品牌标志其全球化战略推进。",
+      "score": 8,
+      "summary": "斯蒂芬·库里在与Under Armour分手后签约中国品牌，中国企业争相与巨星合作以提升全球影响力。",
       "categories": [
         "财经",
         "娱乐"
@@ -267,11 +142,11 @@
       "original_comments": 0
     },
     {
-      "title": "中国整治“幽灵厨房”，遏制外卖平台恶性竞争",
+      "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
       "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "score": 7,
-      "summary": "数千家不存在的“幽灵厨房”令消费者不安，中国监管机构出手整顿外卖行业乱象。",
+      "score": 8,
+      "summary": "中国打击“幽灵厨房”，以遏制外卖应用间的恶性竞争，数千家不存在的线上店铺令消费者不安。",
       "categories": [
         "社会",
         "财经"
@@ -280,76 +155,11 @@
       "original_comments": 0
     },
     {
-      "title": "开源项目Headroom：压缩工具输出和日志，减少60-95%的LLM令牌",
-      "url": "https://github.com/chopratejas/headroom",
-      "source": "GitHub Trending",
-      "score": 7,
-      "summary": "Headroom是一个Python库，可在数据到达LLM前压缩，显著降低令牌消耗，保持答案质量。",
-      "categories": [
-        "科技",
-        "产品"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "微软开源MarkitDown：将文件和Office文档转换为Markdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "source": "GitHub Trending",
-      "score": 7,
-      "summary": "微软发布Python工具MarkitDown，支持多种文件格式转Markdown，今日获3618星。",
-      "categories": [
-        "科技",
-        "产品"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "OpenBMB发布VoxCPM2：无分词器TTS实现多语言语音生成",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "source": "GitHub Trending",
-      "score": 7,
-      "summary": "VoxCPM2支持多语言语音生成、创意声音设计和逼真克隆，今日获783星。",
-      "categories": [
-        "科技",
-        "产品"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "Supermemory：极快可扩展的AI记忆引擎和API",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "source": "GitHub Trending",
-      "score": 7,
-      "summary": "Supermemory作为AI时代的记忆API，提供高速、可扩展的记忆存储，今日获680星。",
-      "categories": [
-        "科技",
-        "产品"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "Open-LLM-VTuber：与LLM进行免提语音交互的开源项目",
-      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "source": "GitHub Trending",
-      "score": 7,
-      "summary": "该项目支持语音打断、Live2D面部动画，可在本地跨平台运行，实现与AI的沉浸式对话。",
-      "categories": [
-        "科技",
-        "趣闻"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "XKCD漫画：天文学家召唤云层的能力",
+      "title": "XKCD: Sunbeam",
       "url": "https://xkcd.com/3253/",
       "source": "XKCD",
-      "score": 6,
-      "summary": "XKCD漫画调侃天文学家和天文摄影师无意识召唤云层的超能力，幽默讽刺天气控制幻想。",
+      "score": 7,
+      "summary": "XKCD漫画：天气控制通常被视为超能力，但天文学家和天文摄影师无意识召唤云层的能力才是真正的超能力。",
       "categories": [
         "趣闻"
       ],
@@ -357,11 +167,11 @@
       "original_comments": 0
     },
     {
-      "title": "XKCD漫画：祖先基因组研究建议",
+      "title": "XKCD: Ancestral Genomes",
       "url": "https://xkcd.com/3252/",
       "source": "XKCD",
-      "score": 6,
-      "summary": "XKCD漫画以幽默方式建议对祖先基因组的研究应适可而止，强调隐私边界。",
+      "score": 7,
+      "summary": "XKCD漫画：关于祖先基因组的研究建议——无需进一步研究，因为这根本不关我们的事。",
       "categories": [
         "趣闻"
       ],
@@ -369,11 +179,11 @@
       "original_comments": 0
     },
     {
-      "title": "XKCD漫画：时间机器对话与航海导航",
+      "title": "XKCD: Time Machine Conversation",
       "url": "https://xkcd.com/3251/",
       "source": "XKCD",
-      "score": 6,
-      "summary": "XKCD漫画用时间旅行比喻航海导航，指出没有指南针也能航行，但需从波利尼西亚人那里获取“剧透”。",
+      "score": 7,
+      "summary": "XKCD漫画：没有指南针也能进行海上导航，但你需要从波利尼西亚人那里得到一些剧透。",
       "categories": [
         "趣闻"
       ],
@@ -381,11 +191,11 @@
       "original_comments": 0
     },
     {
-      "title": "XKCD漫画：旗帜设计与神秘生物",
+      "title": "XKCD: Flag Design",
       "url": "https://xkcd.com/3250/",
       "source": "XKCD",
-      "score": 6,
-      "summary": "XKCD漫画建议每个地方都需要自己的神秘生物，比如历史艺术中难以辨认的皮克特野兽。",
+      "score": 7,
+      "summary": "XKCD漫画：每个地方都有当地的神秘生物；更多地方需要当地的皮克特野兽——一种历史艺术中画得如此怪异以至于无人能识别的生物。",
       "categories": [
         "趣闻"
       ],
@@ -393,11 +203,11 @@
       "original_comments": 0
     },
     {
-      "title": "XKCD漫画：中微子项目与矿井游泳池",
+      "title": "XKCD: Neutrino Project",
       "url": "https://xkcd.com/3249/",
       "source": "XKCD",
-      "score": 6,
-      "summary": "XKCD漫画讽刺中微子探测项目将游泳池放在矿井中，表面是屏蔽，实则是躲避资助者。",
+      "score": 7,
+      "summary": "XKCD漫画：我们绝对是把游泳池放在矿井里用于屏蔽，绝不是为了躲避资助方。",
       "categories": [
         "趣闻"
       ],
@@ -405,113 +215,71 @@
       "original_comments": 0
     },
     {
-      "title": "回忆永远都是加分项 | 央视新闻",
+      "title": "回忆永远都是加分项",
       "url": "https://www.bilibili.com/video/BV1QzVR63E3L",
       "source": "B站热门",
-      "score": 6,
-      "summary": "央视新闻发布热门视频，播放量253万，弹幕近2万，引发网友对回忆的共鸣。",
-      "categories": [
-        "趣闻",
-        "社会"
-      ],
-      "original_score": 2533395,
-      "original_comments": 19473
-    },
-    {
-      "title": "自制千机伞，可变十三个形态 | B站热门",
-      "url": "https://www.bilibili.com/video/BV11BVU6mEUe",
-      "source": "B站热门",
-      "score": 6,
-      "summary": "UP主o小庄o自制能变13种形态的千机伞，播放239万，展示手工创意。",
+      "score": 7,
+      "summary": "央视新闻发布B站热门视频，播放量253.4万，弹幕1.9万，主题为回忆的积极意义。",
       "categories": [
         "趣闻"
       ],
-      "original_score": 2394994,
+      "original_score": 2534162,
+      "original_comments": 19480
+    },
+    {
+      "title": "做了一把千机伞，能变十三个形态的那种",
+      "url": "https://www.bilibili.com/video/BV11BVU6mEUe",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "B站UP主自制可变换13种形态的千机伞，播放量239.6万，展现手工创意。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2396101,
       "original_comments": 1179
     },
     {
-      "title": "不儿，你俩来真的啊？！ | B站热门",
+      "title": "不儿，你俩来真的啊？！",
       "url": "https://www.bilibili.com/video/BV1RvVo6QEqo",
       "source": "B站热门",
-      "score": 6,
-      "summary": "主持人yoyo酱发布搞笑互动视频，播放208万，弹幕8456，引发网友热议。",
+      "score": 7,
+      "summary": "B站热门视频，播放量208.4万，UP主主持人yoyo酱发布趣味互动内容。",
       "categories": [
         "趣闻"
       ],
-      "original_score": 2082048,
-      "original_comments": 8456
+      "original_score": 2083684,
+      "original_comments": 8463
     },
     {
-      "title": "《影之刃零》50秒先导预告片 | State of Play",
+      "title": "《影之刃零》50秒先导预告片",
       "url": "https://www.bilibili.com/video/BV1VtVr6GE5H",
       "source": "B站热门",
-      "score": 6,
-      "summary": "《影之刃零》发布50秒先导预告，播放167万，引发游戏玩家期待。",
+      "score": 7,
+      "summary": "State of Play发布会上，《影之刃零》发布50秒先导预告片，B站播放量167.5万。",
       "categories": [
-        "娱乐",
-        "趣闻"
+        "娱乐"
       ],
-      "original_score": 1668648,
-      "original_comments": 1035
+      "original_score": 1674883,
+      "original_comments": 1037
     },
     {
-      "title": "此树扎根之时 便是沧海化桑田之始 | B站热门",
-      "url": "https://www.bilibili.com/video/BV1YcVf69ECW",
-      "source": "B站热门",
-      "score": 6,
-      "summary": "UP主芳斯塔芙发布自然科普视频，播放144万，弹幕1697，探讨生命与时间。",
-      "categories": [
-        "趣闻",
-        "科学"
-      ],
-      "original_score": 1443826,
-      "original_comments": 1697
-    },
-    {
-      "title": "奥迪E7X发布会：拒绝千车一面，配置不妥协",
-      "url": "https://www.bilibili.com/video/BV1wCVZ6TEPX",
-      "source": "B站热门",
-      "score": 6,
-      "summary": "短的发布会介绍奥迪E7X，强调个性化配置和诚意价格，播放141万。",
-      "categories": [
-        "趣闻",
-        "产品"
-      ],
-      "original_score": 1411692,
-      "original_comments": 986
-    },
-    {
-      "title": "《战神：劳菲》深度玩法演示 | IGN中国",
+      "title": "《战神：劳菲》深度玩法演示",
       "url": "https://www.bilibili.com/video/BV1CYVy6vETT",
       "source": "B站热门",
-      "score": 6,
-      "summary": "IGN中国发布《战神：劳菲》玩法演示，播放53万，弹幕6742，游戏迷热议。",
+      "score": 7,
+      "summary": "IGN中国发布《战神：劳菲》深度玩法演示视频，B站播放量52.9万，弹幕6767条。",
       "categories": [
-        "娱乐",
-        "趣闻"
+        "娱乐"
       ],
-      "original_score": 526672,
-      "original_comments": 6742
+      "original_score": 529330,
+      "original_comments": 6767
     },
     {
-      "title": "理财PK两个月，6位UP主彻底疯狂 | 理财王5月战绩",
-      "url": "https://www.bilibili.com/video/BV1WgVC6YERr",
-      "source": "B站热门",
-      "score": 6,
-      "summary": "UP主-LKs-发布理财PK月报，播放24万，展现UP主们的投资疯狂状态。",
-      "categories": [
-        "趣闻",
-        "财经"
-      ],
-      "original_score": 237733,
-      "original_comments": 1200
-    },
-    {
-      "title": "Handler：在生成时像堆叠PR一样审查AI编辑",
+      "title": "Handler",
       "url": "https://www.producthunt.com/products/handler",
       "source": "Product Hunt",
-      "score": 6,
-      "summary": "Product Hunt新品Handler，允许在AI生成时像审查代码PR一样审查编辑，提升协作效率。",
+      "score": 7,
+      "summary": "Product Hunt新品：Handler，可在生成时像堆叠PR一样审查AI编辑内容。",
       "categories": [
         "产品",
         "科技"
@@ -520,11 +288,11 @@
       "original_comments": 0
     },
     {
-      "title": "Devin Desktop：从单一界面管理本地和云端代理集群",
+      "title": "Devin Desktop",
       "url": "https://www.producthunt.com/products/devin-by-cognition",
       "source": "Product Hunt",
-      "score": 6,
-      "summary": "Product Hunt新品Devin Desktop，提供统一界面管理多个AI代理，适用于开发团队。",
+      "score": 7,
+      "summary": "Product Hunt新品：Devin Desktop，从单一界面管理本地和云端代理集群。",
       "categories": [
         "产品",
         "科技"
@@ -533,11 +301,11 @@
       "original_comments": 0
     },
     {
-      "title": "BeerShot：Windows屏幕录制工作室",
+      "title": "BeerShot",
       "url": "https://www.producthunt.com/products/beershot",
       "source": "Product Hunt",
-      "score": 6,
-      "summary": "Product Hunt新品BeerShot，专为Windows设计的屏幕录制工具，提供专业级录制功能。",
+      "score": 7,
+      "summary": "Product Hunt新品：BeerShot，Windows平台的屏幕录制工作室。",
       "categories": [
         "产品",
         "科技"
@@ -546,11 +314,11 @@
       "original_comments": 0
     },
     {
-      "title": "Franz 6：所有消息应用集成在一个窗口，带私有AI",
-      "url": "https://www.producthunt.com/products/franz-messenger",
+      "title": "Town",
+      "url": "https://www.producthunt.com/products/town",
       "source": "Product Hunt",
-      "score": 6,
-      "summary": "Product Hunt新品Franz 6，整合所有聊天应用到单一窗口，并内置私有AI功能。",
+      "score": 7,
+      "summary": "Product Hunt新品：Town，学习你工作方式的AI助手，然后自动开始工作。",
       "categories": [
         "产品",
         "科技"
@@ -559,24 +327,11 @@
       "original_comments": 0
     },
     {
-      "title": "EchoFlow：原生Android AI聊天应用，本地存储聊天记录",
-      "url": "https://www.producthunt.com/products/echoflow-2",
-      "source": "Product Hunt",
-      "score": 6,
-      "summary": "Product Hunt新品EchoFlow，Android原生AI聊天应用，所有聊天数据存储在本地，保护隐私。",
-      "categories": [
-        "产品",
-        "科技"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "RadianceKit：在Mac上将照片转换为3D高斯溅射",
+      "title": "RadianceKit",
       "url": "https://www.producthunt.com/products/radiancekit",
       "source": "Product Hunt",
-      "score": 6,
-      "summary": "Product Hunt新品RadianceKit，允许用户在Mac上轻松将照片转为3D高斯溅射模型。",
+      "score": 7,
+      "summary": "Product Hunt新品：RadianceKit，在Mac上将照片转换为3D高斯泼溅。",
       "categories": [
         "产品",
         "科技"
@@ -585,11 +340,11 @@
       "original_comments": 0
     },
     {
-      "title": "superlog：自主可观测性工具，自动发现并修复bug",
-      "url": "https://www.producthunt.com/products/superlog",
+      "title": "Franz 6",
+      "url": "https://www.producthunt.com/products/franz-messenger",
       "source": "Product Hunt",
-      "score": 6,
-      "summary": "Product Hunt新品superlog，作为自主可观测性工具，能自动发现并修复代码中的bug。",
+      "score": 7,
+      "summary": "Product Hunt新品：Franz 6，将所有消息应用整合到一个窗口，并内置私有AI。",
       "categories": [
         "产品",
         "科技"
@@ -598,13 +353,48 @@
       "original_comments": 0
     },
     {
-      "title": "BoxBox：Linux家庭实验室和NAS服务器的文件管理器",
-      "url": "https://www.producthunt.com/products/boxbox",
-      "source": "Product Hunt",
-      "score": 6,
-      "summary": "Product Hunt新品BoxBox，专为Linux家庭实验室和NAS服务器设计的文件管理工具。",
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门：headroom，在LLM前压缩工具输出、日志、文件和RAG块，减少60-95%令牌，答案不变。",
       "categories": [
-        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门：微软markitdown，Python工具，将文件和办公文档转换为Markdown格式。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门：Scrapling，自适应网页抓取框架，处理从单次请求到全规模爬取。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门：VoxCPM2，无分词器TTS，用于多语言语音生成、创意声音设计和逼真克隆。",
+      "categories": [
         "科技"
       ],
       "original_score": 0,
@@ -614,8 +404,8 @@
       "title": "男子买34层房收房得知只盖到32层",
       "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B9%B034%E5%B1%82%E6%88%BF%E6%94%B6%E6%88%BF%E5%BE%97%E7%9F%A5%E5%8F%AA%E7%9B%96%E5%88%B032%E5%B1%82&t=31",
       "source": "微博热搜",
-      "score": 5,
-      "summary": "微博热搜：男子购买34层公寓，收房时发现实际只建到32层，引发维权讨论。",
+      "score": 7,
+      "summary": "微博热搜：男子购买34层房产，收房时发现实际只建到32层，引发热议。",
       "categories": [
         "社会"
       ],
@@ -626,8 +416,8 @@
       "title": "多家银行下架3年期5年期定期存款",
       "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E6%9E%B63%E5%B9%B4%E6%9C%9F5%E5%B9%B4%E6%9C%9F%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE&t=31",
       "source": "微博热搜",
-      "score": 5,
-      "summary": "微博热搜：多家银行下架3年和5年定期存款产品，或为应对利率下行压力。",
+      "score": 7,
+      "summary": "微博热搜：多家银行下架3年期和5年期定期存款产品，引发储户关注。",
       "categories": [
         "财经"
       ],
@@ -635,11 +425,11 @@
       "original_comments": 0
     },
     {
-      "title": "苏州甪直发生爆炸",
+      "title": "甪直爆炸",
       "url": "https://s.weibo.com/weibo?q=%E7%94%AA%E7%9B%B4%E7%88%86%E7%82%B8&t=31",
       "source": "微博热搜",
-      "score": 5,
-      "summary": "微博热搜：苏州甪直地区发生爆炸事件，具体原因和伤亡情况待官方通报。",
+      "score": 7,
+      "summary": "微博热搜：苏州甪直发生爆炸事件，具体细节待官方通报。",
       "categories": [
         "社会"
       ],
@@ -647,11 +437,23 @@
       "original_comments": 0
     },
     {
-      "title": "AI脸 生理性厌恶",
-      "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6&t=31",
+      "title": "苏州一厂房发生爆炸",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%8F%E5%B7%9E%E4%B8%80%E5%8E%82%E6%88%BF%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8&t=31",
       "source": "微博热搜",
-      "score": 5,
-      "summary": "微博热搜：网友热议对AI生成人脸产生生理性厌恶感，讨论AI与人类情感边界。",
+      "score": 7,
+      "summary": "微博热搜：苏州一厂房发生爆炸，相关部门已介入调查。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "男童被机器人踢中腹部痛苦倒地",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%A2%E4%B8%AD%E8%85%B9%E9%83%A8%E7%97%9B%E8%8B%A6%E5%80%92%E5%9C%B0&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "微博热搜：一名男童被机器人踢中腹部后痛苦倒地，引发对机器人安全的讨论。",
       "categories": [
         "社会",
         "科技"
@@ -660,26 +462,25 @@
       "original_comments": 0
     },
     {
-      "title": "男子中6022万彩票坚持不投资不挥霍",
-      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B8%AD6022%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%9D%9A%E6%8C%81%E4%B8%8D%E6%8A%95%E8%B5%84%E4%B8%8D%E6%8C%A5%E9%9C%8D&t=31",
+      "title": "金饰克价已大降300元",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%B7%B2%E5%A4%A7%E9%99%8D300%E5%85%83&t=31",
       "source": "微博热搜",
-      "score": 5,
-      "summary": "微博热搜：一名男子中得6022万彩票大奖后，表示将保持理性，不投资不挥霍。",
+      "score": 7,
+      "summary": "微博热搜：黄金饰品每克价格已大幅下降300元，消费者关注购金时机。",
       "categories": [
-        "社会",
-        "趣闻"
+        "财经"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "金饰克价已大降300元",
-      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%B7%B2%E5%A4%A7%E9%99%8D300%E5%85%83&t=31",
+      "title": "村支书为大龄未婚男青年数量犯愁",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%91%E6%94%AF%E4%B9%A6%E4%B8%BA%E5%A4%A7%E9%BE%84%E6%9C%AA%E5%A9%9A%E7%94%B7%E9%9D%92%E5%B9%B4%E6%95%B0%E9%87%8F%E7%8A%AF%E6%84%81&t=31",
       "source": "微博热搜",
-      "score": 5,
-      "summary": "微博热搜：黄金饰品价格大幅下跌，每克降价约300元，引发消费者关注。",
+      "score": 7,
+      "summary": "微博热搜：某村支书因村里大龄未婚男青年数量多而发愁，反映农村婚恋问题。",
       "categories": [
-        "财经"
+        "社会"
       ],
       "original_score": 0,
       "original_comments": 0
@@ -688,14 +489,191 @@
       "title": "鸡蛋进入5元时代",
       "url": "https://s.weibo.com/weibo?q=%E9%B8%A1%E8%9B%8B%E8%BF%9B%E5%85%A55%E5%85%83%E6%97%B6%E4%BB%A3&t=31",
       "source": "微博热搜",
-      "score": 5,
-      "summary": "微博热搜：鸡蛋价格普遍上涨至每斤5元以上，影响居民日常消费。",
+      "score": 7,
+      "summary": "微博热搜：鸡蛋价格进入5元时代，消费者感受物价变化。",
       "categories": [
-        "社会",
-        "财经"
+        "财经",
+        "社会"
       ],
       "original_score": 0,
       "original_comments": 0
+    },
+    {
+      "title": "男子中6022万彩票坚持不投资不挥霍",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B8%AD6022%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%9D%9A%E6%8C%81%E4%B8%8D%E6%8A%95%E8%B5%84%E4%B8%8D%E6%8C%A5%E9%9C%8D&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "微博热搜：一名男子中得6022万元彩票大奖，表示坚持不投资不挥霍。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "奚梦瑶婚礼香槟塔里装的是提拉米苏",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%A9%9A%E7%A4%BC%E9%A6%99%E6%A7%9F%E5%A1%94%E9%87%8C%E8%A3%85%E7%9A%84%E6%98%AF%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "微博热搜：奚梦瑶婚礼上的香槟塔中实际装的是提拉米苏，创意十足。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "女子爱喝冰饮胃癌晚期卵巢长肿瘤",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E7%88%B1%E5%96%9D%E5%86%B0%E9%A5%AE%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E5%8D%B5%E5%B7%A2%E9%95%BF%E8%82%BF%E7%98%A4&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "微博热搜：一名女子因长期爱喝冰饮导致胃癌晚期，卵巢也发现肿瘤，引发健康警示。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News热帖：用户因Gmail的智能功能感到被轻视而选择离开，引发对AI过度干预的讨论。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 916,
+      "original_comments": 590
+    },
+    {
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News热帖：对比亚迪汽车零部件进行CT扫描，展示内部结构细节。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 373,
+      "original_comments": 199
+    },
+    {
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News热帖：通过VSCode漏洞一键窃取GitHub令牌，引发安全警告。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 368,
+      "original_comments": 55
+    },
+    {
+      "title": "AI outperforms law professors in Stanford Law study",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "斯坦福法学院研究显示，AI在法律任务中表现优于法学教授。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 217,
+      "original_comments": 172
+    },
+    {
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "特朗普在数周反复后签署缩水版AI行政令，调整此前政策方向。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 206,
+      "original_comments": 152
+    },
+    {
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "惠普重新发布经典计算机科学计算器HP-16C，致敬复古科技。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 164,
+      "original_comments": 104
+    },
+    {
+      "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+      "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Pluto.jl 1.0发布，为Julia语言提供响应式笔记本环境。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 116,
+      "original_comments": 10
+    },
+    {
+      "title": "4K years ago, Mohenjo-daro grew more equal over time",
+      "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "研究显示，4000年前的摩亨佐-达罗社会随时间推移变得更加平等。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 95,
+      "original_comments": 41
+    },
+    {
+      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "探讨自然界蛋白质折叠中不合理的冗余现象，揭示生物复杂性。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 87,
+      "original_comments": 18
+    },
+    {
+      "title": "DIY Bipedal Robot Used Pneumatic 'Air-Muscles' Instead of Motors",
+      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "DIY双足机器人使用气动“空气肌肉”替代电机，展示创新机械设计。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 7,
+      "original_comments": 5
+    },
+    {
+      "title": "Show HN: Phive, a Gomoku-like game to play with friends or solo",
+      "url": "https://phive.app",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News展示：Phive，一款类似五子棋的游戏，支持多人或单人模式。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 5,
+      "original_comments": 5
     }
   ]
 }
