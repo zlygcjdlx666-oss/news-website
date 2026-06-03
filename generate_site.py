@@ -218,6 +218,31 @@ body {{
 }}
 .news-card.hidden {{ display: none; }}
 
+.bookmark-btn {{
+    position: absolute;
+    top: 10px;
+    right: 14px;
+    background: none;
+    border: none;
+    font-size: 1.3rem;
+    cursor: pointer;
+    opacity: 0.3;
+    transition: all 0.2s;
+    z-index: 2;
+    padding: 4px;
+    line-height: 1;
+}}
+.news-card:hover .bookmark-btn {{
+    opacity: 0.6;
+}}
+.bookmark-btn.active {{
+    opacity: 1 !important;
+}}
+.bookmark-btn:hover {{
+    opacity: 1 !important;
+    transform: scale(1.2);
+}}
+
 /* ---- Modal ---- */
 .modal-overlay {{
     position: fixed;
@@ -463,6 +488,7 @@ body {{
 <div class="controls" id="controls">
     <input type="text" class="search-box" id="searchBox" placeholder="🔍 搜索新闻...">
     <button class="filter-btn active" data-filter="all">全部</button>
+    <button class="filter-btn" data-filter="bookmarked">⭐ 我的收藏</button>
     {filter_buttons}
     <button class="theme-toggle" id="themeToggle" title="切换深色/浅色模式">🌙 深色模式</button>
 </div>
@@ -540,6 +566,79 @@ themeToggle.addEventListener('click', () => {{
 function updateThemeButton(theme) {{
     themeToggle.textContent = theme === 'light' ? '🌙 深色模式' : '☀️ 浅色模式';
 }}
+
+// ---- 收藏功能 ----
+const STORAGE_KEY = 'news-bookmarks';
+let bookmarks = new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'));
+let showBookmarkedOnly = false;
+
+// 恢复已收藏的星标状态
+function restoreBookmarks() {{
+    document.querySelectorAll('.bookmark-btn').forEach(btn => {{
+        if (bookmarks.has(btn.dataset.url)) {{
+            btn.textContent = '⭐';
+            btn.classList.add('active');
+        }}
+    }});
+}}
+
+// 更新 localStorage
+function saveBookmarks() {{
+    localStorage.setItem(STORAGE_KEY, JSON.stringify([...bookmarks]));
+}}
+
+// 收藏切换
+document.querySelectorAll('.bookmark-btn').forEach(btn => {{
+    btn.addEventListener('click', (e) => {{
+        e.stopPropagation();
+        const url = btn.dataset.url;
+        if (bookmarks.has(url)) {{
+            bookmarks.delete(url);
+            btn.textContent = '☆';
+            btn.classList.remove('active');
+        }} else {{
+            bookmarks.add(url);
+            btn.textContent = '⭐';
+            btn.classList.add('active');
+        }}
+        saveBookmarks();
+        // 如果正在看收藏列表，刷新显示
+        if (showBookmarkedOnly) filterBookmarked();
+    }});
+}});
+
+// 筛选收藏
+function filterBookmarked() {{
+    let visible = 0;
+    cards.forEach(card => {{
+        const url = card.querySelector('.bookmark-btn')?.dataset.url;
+        const isBookmarked = bookmarks.has(url);
+        if (!isBookmarked) {{
+            card.classList.add('hidden');
+        }} else {{
+            card.classList.remove('hidden');
+            visible++;
+        }}
+    }});
+    emptyMsg.style.display = visible === 0 ? 'block' : 'none';
+    searchBox.value = '';
+}}
+
+// 扩展分类筛选以支持收藏
+filterBtns.forEach(btn => {{
+    const origHandler = btn.onclick;
+    btn.addEventListener('click', () => {{
+        if (btn.dataset.filter === 'bookmarked') {{
+            showBookmarkedOnly = true;
+            filterBookmarked();
+        }} else {{
+            showBookmarkedOnly = false;
+        }}
+    }});
+}});
+
+// 初始化
+restoreBookmarks();
 
 // ---- 卡片点击打开详情弹窗 ----
 const modalOverlay = document.getElementById('modalOverlay');
@@ -673,6 +772,7 @@ def generate_news_card(news, index):
     score_stars = "⭐" * min(10, max(1, score))
 
     return f'''<article class="news-card" data-categories="{cats_str}" data-url="{url}" data-source="{source}" data-title="{title}" data-score="{score}" data-summary="{summary}" data-source-css="{source_css}" style="animation-delay:{index * 0.03}s">
+    <button class="bookmark-btn" data-url="{url}" title="收藏" onclick="event.stopPropagation()">☆</button>
     <div class="card-header">
         <span class="source-tag {source_css}">{source}</span>
     </div>
