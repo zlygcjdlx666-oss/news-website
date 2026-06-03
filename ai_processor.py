@@ -146,6 +146,61 @@ def process_news(news_list, client=None):
         return []
 
 
+def generate_commentary(news_list, client=None):
+    """
+    基于今日新闻生成一段 AI 锐评
+
+    Args:
+        news_list: 已处理的新闻列表
+        client: OpenAI 客户端实例（可选）
+
+    Returns:
+        str: 200-400字的每日锐评，或 None（失败时）
+    """
+    if not news_list:
+        return None
+
+    # 取前15条最重要新闻作为素材
+    top_news = sorted(news_list, key=lambda x: x.get("score", 0), reverse=True)[:15]
+    summaries = "\n".join(
+        f"- [{n['source']}] {n['title']}：{n['summary']}" for n in top_news
+    )
+
+    prompt = f"""你是一个非常有个性的新闻评论员"磊哥"，风格犀利幽默、一针见血。
+
+以下是今天最重要的新闻：
+
+{summaries}
+
+请写一段 200-350 字的"磊哥锐评"，要求：
+1. 挑 2-3 条最值得关注的新闻点评
+2. 有态度、有观点，不要复述新闻
+3. 语言口语化、有网感，像跟朋友聊天
+4. 可以在结尾给一个"今日金句"
+
+直接输出锐评文字，不要加标题或署名。"""
+
+    if client is None:
+        client = OpenAI(
+            api_key=DEEPSEEK_API_KEY,
+            base_url=DEEPSEEK_BASE_URL,
+        )
+
+    try:
+        response = client.chat.completions.create(
+            model=DEEPSEEK_MODEL,
+            temperature=0.9,
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=600,
+        )
+        commentary = response.choices[0].message.content.strip()
+        print(f"[AI] 锐评生成成功 ({len(commentary)} 字)")
+        return commentary
+    except Exception as e:
+        print(f"[AI] 锐评生成失败: {e}")
+        return None
+
+
 if __name__ == "__main__":
     # 测试：假数据
     test_news = [

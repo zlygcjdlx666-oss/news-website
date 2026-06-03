@@ -32,7 +32,7 @@ from scrapers import (
     fetch_producthunt,
     fetch_bilibili,
 )
-from ai_processor import process_news
+from ai_processor import process_news, generate_commentary
 from generate_site import generate_site
 
 # 所有爬虫函数映射
@@ -166,9 +166,13 @@ def main():
                 "categories": ["其他"],
             } for n in raw_news[:30]]
 
-    # 3. 生成网站
-    print("\n[3/3] 生成静态网站...")
-    output_path = generate_site(processed)
+    # 3. 生成 AI 锐评
+    print("\n[3/4] 生成 AI 锐评...")
+    commentary = generate_commentary(processed) if not args.skip_ai else None
+
+    # 4. 生成网站
+    print("\n[4/4] 生成静态网站...")
+    output_path = generate_site(processed, commentary=commentary)
 
     elapsed = time.time() - start_time
     print(f"\n{'=' * 50}")

@@ -78,6 +78,37 @@ body {{
     background: var(--bg);
     border-radius: 50% 50% 0 0;
 }}
+.commentary {{
+    max-width: 960px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+    position: relative;
+    z-index: 1;
+}}
+.commentary-card {{
+    background: var(--card-bg);
+    border: 1.5px solid var(--accent);
+    border-radius: 14px;
+    padding: 20px 24px;
+    box-shadow: var(--shadow);
+}}
+.commentary-label {{
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+    color: #fff;
+    padding: 4px 14px;
+    border-radius: 14px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+}}
+.commentary-text {{
+    font-size: 1rem;
+    line-height: 1.9;
+    color: var(--text);
+}}
 .header h1 {{
     font-size: 2rem;
     font-weight: 800;
@@ -427,6 +458,8 @@ body {{
     <div class="meta">由 AI 从 {source_count} 个新闻源中筛选 · 共 {total_news} 条精选</div>
 </div>
 
+{commentary_section}
+
 <div class="controls" id="controls">
     <input type="text" class="search-box" id="searchBox" placeholder="🔍 搜索新闻...">
     <button class="filter-btn active" data-filter="all">全部</button>
@@ -653,18 +686,32 @@ def generate_news_card(news, index):
 
 
 
-def generate_site(news_list, output_dir=None):
+def generate_site(news_list, output_dir=None, commentary=None):
     """
     生成静态网站
 
     Args:
         news_list: AI 处理后的新闻列表
         output_dir: 输出目录（默认使用 config 中的 OUTPUT_DIR）
+        commentary: AI 生成的每日锐评（可选）
     """
     if output_dir is None:
         output_dir = OUTPUT_DIR
 
     os.makedirs(output_dir, exist_ok=True)
+
+    # 生成锐评区域
+    if commentary:
+        # 按段落分割
+        paragraphs = commentary.replace("\n\n", "</p><p>").replace("\n", "<br>")
+        commentary_section = f'''<div class="commentary">
+    <div class="commentary-card">
+        <span class="commentary-label">🔥 磊哥锐评</span>
+        <div class="commentary-text"><p>{paragraphs}</p></div>
+    </div>
+</div>'''
+    else:
+        commentary_section = ""
 
     # 统计来源
     sources_set = set()
@@ -712,6 +759,7 @@ def generate_site(news_list, output_dir=None):
         filter_buttons=filter_buttons,
         news_cards=news_cards,
         sources_list=sources_list,
+        commentary_section=commentary_section,
     )
 
     # 写入文件
