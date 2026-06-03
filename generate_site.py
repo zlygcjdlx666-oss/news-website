@@ -166,6 +166,112 @@ body {{
 }}
 .news-card.hidden {{ display: none; }}
 
+/* ---- Modal ---- */
+.modal-overlay {{
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.2s ease;
+    padding: 20px;
+}}
+.modal-overlay.hidden {{ display: none; }}
+
+@keyframes fadeIn {{
+    from {{ opacity: 0; }}
+    to {{ opacity: 1; }}
+}}
+
+.modal {{
+    background: var(--card-bg);
+    border-radius: 16px;
+    max-width: 640px;
+    width: 100%;
+    max-height: 80vh;
+    overflow-y: auto;
+    padding: 32px;
+    position: relative;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+}}
+
+.modal-close {{
+    position: absolute;
+    top: 16px;
+    right: 20px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: none;
+    background: var(--tag-bg);
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+}}
+.modal-close:hover {{
+    background: var(--border);
+    color: var(--text);
+}}
+
+.modal-source {{
+    display: inline-block;
+    padding: 3px 12px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+}}
+
+.modal-title {{
+    font-size: 1.4rem;
+    font-weight: 800;
+    line-height: 1.4;
+    margin-bottom: 16px;
+    color: var(--text);
+}}
+
+.modal-meta {{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}}
+
+.modal-summary {{
+    font-size: 1rem;
+    line-height: 1.8;
+    color: var(--text-secondary);
+    margin-bottom: 24px;
+    padding: 16px;
+    background: var(--tag-bg);
+    border-radius: 10px;
+}}
+
+.modal-link {{
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 20px;
+    background: var(--accent);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: all 0.2s;
+}}
+.modal-link:hover {{
+    background: var(--accent-hover);
+    transform: translateY(-1px);
+}}
+
 .card-header {{
     display: flex;
     gap: 8px;
@@ -295,6 +401,23 @@ body {{
     <p>🤖 数据由 DeepSeek AI 筛选整理 · 每日自动更新 · 新闻来源: {sources_list}</p>
 </div>
 
+<!-- 新闻详情弹窗 -->
+<div class="modal-overlay hidden" id="modalOverlay">
+    <div class="modal">
+        <button class="modal-close" id="modalClose">✕</button>
+        <span class="modal-source" id="modalSource"></span>
+        <h2 class="modal-title" id="modalTitle"></h2>
+        <div class="modal-meta">
+            <span class="score-badge" id="modalScore"></span>
+            <span id="modalCats"></span>
+        </div>
+        <div class="modal-summary" id="modalSummary"></div>
+        <a class="modal-link" id="modalLink" href="#" target="_blank" rel="noopener">
+            🔗 查看原文
+        </a>
+    </div>
+</div>
+
 <script>
 // ---- 分类筛选 ----
 const filterBtns = document.querySelectorAll('.filter-btn');
@@ -337,14 +460,55 @@ function updateThemeButton(theme) {{
     themeToggle.textContent = theme === 'light' ? '🌙 深色模式' : '☀️ 浅色模式';
 }}
 
-// ---- 卡片点击打开链接 ----
+// ---- 卡片点击打开详情弹窗 ----
+const modalOverlay = document.getElementById('modalOverlay');
+const modalClose = document.getElementById('modalClose');
+const modalSource = document.getElementById('modalSource');
+const modalTitle = document.getElementById('modalTitle');
+const modalScore = document.getElementById('modalScore');
+const modalCats = document.getElementById('modalCats');
+const modalSummary = document.getElementById('modalSummary');
+const modalLink = document.getElementById('modalLink');
+
+function openModal(card) {{
+    const source = card.dataset.source;
+    const title = card.dataset.title;
+    const url = card.dataset.url;
+    const score = card.dataset.score;
+    const summary = card.dataset.summary;
+    const cats = card.dataset.categories.split(',');
+    const sourceCss = card.dataset.sourceCss;
+
+    modalSource.textContent = source;
+    modalSource.className = 'modal-source ' + sourceCss;
+    modalTitle.textContent = title;
+    modalScore.innerHTML = '⭐ ' + score + '分';
+    modalCats.innerHTML = cats.map(c => '<span class="cat-tag">' + c + '</span>').join('');
+    modalSummary.textContent = summary;
+    modalLink.href = url;
+    modalLink.style.display = url ? 'inline-flex' : 'none';
+    modalOverlay.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+}}
+
+function closeModal() {{
+    modalOverlay.classList.add('hidden');
+    document.body.style.overflow = '';
+}}
+
 cards.forEach(card => {{
     card.addEventListener('click', (e) => {{
-        // 不拦截链接点击
         if (e.target.tagName === 'A') return;
-        const url = card.dataset.url;
-        if (url) window.open(url, '_blank');
+        openModal(card);
     }});
+}});
+
+modalClose.addEventListener('click', closeModal);
+modalOverlay.addEventListener('click', (e) => {{
+    if (e.target === modalOverlay) closeModal();
+}});
+document.addEventListener('keydown', (e) => {{
+    if (e.key === 'Escape') closeModal();
 }});
 </script>
 </body>
@@ -389,17 +553,18 @@ def generate_news_card(news, index):
     cat_tags = "".join(f'<span class="cat-tag">{c}</span>' for c in categories[:3])
     score_stars = "⭐" * min(10, max(1, score))
 
-    return f'''<article class="news-card" data-categories="{cats_str}" data-url="{url}" style="animation-delay:{index * 0.03}s">
+    return f'''<article class="news-card" data-categories="{cats_str}" data-url="{url}" data-source="{source}" data-title="{title}" data-score="{score}" data-summary="{summary}" data-source-css="{source_css}" style="animation-delay:{index * 0.03}s">
     <div class="card-header">
         <span class="source-tag {source_css}">{source}</span>
     </div>
-    <h2 class="card-title"><a href="{url}" target="_blank" rel="noopener">{title}</a></h2>
+    <h2 class="card-title">{title}</h2>
     <p class="card-summary">{summary}</p>
     <div class="card-footer">
         <span class="score-badge">{score_stars} {score}分</span>
         {cat_tags}
     </div>
 </article>'''
+
 
 
 def generate_site(news_list, output_dir=None):
