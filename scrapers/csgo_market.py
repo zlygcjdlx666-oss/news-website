@@ -3,6 +3,7 @@ CS:GO 皮肤大盘指数 — 抓取自 firepulse.com.cn
 FirePulse 是百万 CS2 玩家使用的饰品行情平台
 """
 
+import time
 import requests
 from config import SOURCES
 
@@ -24,7 +25,17 @@ def fetch_csgo_market():
             "Accept": "application/json",
             "Referer": "https://firepulse.com.cn/",
         }
-        resp = requests.post(FIREPULSE_API, json={}, headers=headers, timeout=15)
+        # 多重重试（国内 API 从海外访问可能较慢）
+        resp = None
+        for attempt in range(3):
+            try:
+                resp = requests.post(FIREPULSE_API, json={}, headers=headers, timeout=30)
+                break
+            except requests.exceptions.Timeout:
+                print(f"[CSGO] 第{attempt+1}次超时，重试...")
+                time.sleep(2)
+        if resp is None:
+            raise Exception("FirePulse API 3次尝试均超时")
         data = resp.json()
 
         if data.get("code") != 200:
