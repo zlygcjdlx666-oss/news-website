@@ -1,12 +1,12 @@
 {
   "date": "2026-06-03",
-  "commentary": "哎哟我去，今天这新闻看得我脑瓜子嗡嗡的。先说特朗普，这老小子签个行政令，让AI公司提前30天把新模型给政府“验货”。说白了就是：好东西我先尝尝，觉得不安全就给你掐了。这不就是科技版的“先交保护费再营业”吗？AI还没成精，先被美国政府PUA上了。\n\n再说Anthropic，估值奔着1万亿美元去了。一个搞AI的还没赚到钱，股价先飞上天。这泡沫吹得我都替它脸红，但反过来想，资本疯成这样，说明AI这赛道是真有东西，只是别最后变成“烧钱大赛”。\n\n最离谱的是Instagram那个AI聊天机器人，黑客直接用这玩意儿偷账户。你说你搞个AI来聊天，结果成了黑客的万能钥匙。这哪是智能，这是智障啊！\n\n**今日金句：AI还没学会做人，人类先学会了利用AI做鬼。**",
+  "commentary": "哎，朋友们，磊哥来了。今天这新闻堆里，咱就挑最烫手的三颗栗子剥开看看。\n\n第一颗，特朗普又搞“AI行政令”了，要求新模型上市前先给政府“验货”30天。好家伙，这哪是监管，这是要当AI界的“首席体验官”啊！磊哥说句不好听的，美国这操作，表面上是防风险，骨子里是想把全球AI的“方向盘”焊死在华盛顿手里。至于安全？别逗了，真为了安全，你倒是先把五角大楼的漏洞补上啊！\n\n第二颗，Anthropic要IPO了，估值直奔万亿美元。各位，这可是个烧钱的“吞金兽”，现在估值比OpenAI还高，凭啥？就凭它那套“安全第一”的招牌？磊哥话撂这儿：当一家公司把“安全”当卖点卖到万亿市值时，这安全本身就成了最危险的风险。资本狂欢背后，全是泡沫的腥味。\n\n第三颗，佛罗里达州居然起诉OpenAI，说ChatGPT协助了大规模枪击案。这官司要是能赢，磊哥建议下一步起诉菜刀厂——毕竟所有砍人案都离不开菜刀。科技公司不是保姆，但法律若总在事后找替罪羊，那真正该被追责的枪支管控，就会被永远拖进技术伦理的泥潭里。\n\n今日金句：**“AI不是原罪，人类甩锅的技术，可比造AI的技术成熟多了。”**",
   "news": [
     {
       "title": "特朗普签署行政令要求AI公司让政府先行评估新模型",
       "url": "https://www.solidot.org/story?sid=84470",
       "source": "Solidot",
-      "score": 10,
+      "score": 9,
       "summary": "美国总统特朗普签署行政令，要求AI公司在发布新模型前提前最多30天给予政府访问权限，并参与基准测试以评估高级网络能力。",
       "categories": [
         "国际",
@@ -16,60 +16,36 @@
       "original_comments": 0
     },
     {
-      "title": "微软称新量子芯片可靠性比前代高1000倍",
+      "title": "Anthropic申请IPO，估值逼近1万亿美元",
+      "url": "https://www.solidot.org/story?sid=84458",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "AI公司Anthropic秘密提交IPO招股说明书，最新估值达9650亿美元，超过OpenAI，计划今年晚些时候上市。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软称新量子芯片比前代可靠1000倍",
       "url": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "score": 10,
-      "summary": "微软宣布其新量子芯片Majorana 2可靠性提升1000倍，并预测本十年末将建成可解决商业问题的量子计算机。",
-      "categories": [
-        "科技",
-        "科学"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "美国和伊朗发动新打击，科威特机场遭伊朗无人机袭击",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
       "score": 9,
-      "summary": "科威特称其国际机场被伊朗无人机严重损坏，交通暂停；美国与伊朗同时发动新打击，中东局势持续紧张。",
+      "summary": "微软宣布其Majorana 2量子芯片可靠性提升1000倍，预测本十年末将推出能解决商业问题的量子计算机。",
       "categories": [
-        "国际"
+        "科技"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "俄控乌克兰地区巴士遭无人机袭击致7死",
-      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 9,
-      "summary": "一辆从莫斯科开往克里米亚的巴士在俄控乌克兰地区被无人机击中，造成7人死亡，俄乌冲突持续升级。",
-      "categories": [
-        "国际"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "普京对乌克兰立场强硬，但俄国内战争讨论出现变化",
-      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 9,
-      "summary": "俄罗斯在乌克兰加强攻势，但四年多的战争引发普京支持者担忧，国内关于战争的公开讨论正在微妙变化。",
-      "categories": [
-        "国际"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "AI巨头Anthropic计划公开售股，估值逼近1万亿美元",
+      "title": "AI巨头Anthropic计划在美公开售股，估值近1万亿美元",
       "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "score": 9,
-      "summary": "AI公司Anthropic（Claude背后公司）计划今年晚些时候向公众出售股份，估值接近1万亿美元，显示AI行业资本热潮。",
+      "score": 8,
+      "summary": "Anthropic计划今年晚些时候向公众开放股票买卖，估值接近1万亿美元，反映AI行业资本热潮。",
       "categories": [
         "财经",
         "科技"
@@ -78,39 +54,63 @@
       "original_comments": 0
     },
     {
-      "title": "中国将数据和算法纳入商业秘密保护范围",
-      "url": "https://www.solidot.org/story?sid=84462",
-      "source": "Solidot",
-      "score": 9,
-      "summary": "中国修订《商业秘密保护规定》，首次明确将数据、算法等数字资产纳入保护，并对远程办公和跨境合作提出更严安全要求。",
+      "title": "以色列打击黎巴嫩南部，与真主党部分停火协议似维持",
+      "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "以色列继续在黎巴嫩南部行动，但未攻击贝鲁特，美国宣布的停火协议部分生效。",
       "categories": [
-        "科技",
         "国际"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "中国打击快餐行业幽灵外卖，新规要求实体店信息一致",
-      "url": "https://www.solidot.org/story?sid=84463",
-      "source": "Solidot",
+      "title": "美国和伊朗发动新打击，科威特称机场遭伊朗无人机袭击",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "score": 8,
-      "summary": "中国实施新规打击无实体店的“幽灵外卖”，要求外卖平台商家信息与实体店相符，并注明是否提供堂食，保障食品安全。",
+      "summary": "科威特国际机场被伊朗无人机严重损坏，交通暂停，美伊冲突升级。",
       "categories": [
-        "社会"
+        "国际"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "能源危机推动37国电动汽车销量创新高",
-      "url": "https://www.solidot.org/story?sid=84461",
+      "title": "中国将数据和算法纳入商业秘密保护",
+      "url": "https://www.solidot.org/story?sid=84462",
       "source": "Solidot",
       "score": 8,
-      "summary": "受中东危机导致燃料价格上涨影响，3月和4月全球37个国家电动汽车销量创历史新高，包括澳大利亚、巴西等。",
+      "summary": "中国修订《商业秘密保护规定》，首次将数据、算法等数字资产纳入保护，强化远程办公和跨境合作安全要求。",
       "categories": [
-        "财经",
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Hat官方NPM账号被入侵，软件包植入恶意程序",
+      "url": "https://www.solidot.org/story?sid=84459",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "Red Hat官方NPM账号@redhat-cloud-services被黑，多个软件包被植入窃取凭证的恶意程序，影响广泛。",
+      "categories": [
         "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "黑客利用Meta AI机器人接管Instagram名人账号",
+      "url": "https://www.solidot.org/story?sid=84457",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "亲伊朗黑客诱骗Meta AI机器人短时间内接管奥巴马等名人Instagram账号，发布亲伊朗内容。",
+      "categories": [
+        "科技",
+        "国际"
       ],
       "original_score": 0,
       "original_comments": 0
@@ -120,46 +120,20 @@
       "url": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "score": 8,
-      "summary": "英国竞争与市场管理局允许出版商选择不被谷歌AI搜索抓取，增强其与谷歌谈判内容交易的地位。",
+      "summary": "英国竞争与市场管理局允许出版商选择不被谷歌AI用于搜索结果，以增强内容谈判地位。",
       "categories": [
         "科技",
-        "国际"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "宝马称人形机器人是汽车制造的未来",
-      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "score": 8,
-      "summary": "宝马计划在欧洲工厂引入人形机器人，延续类似项目，认为人形机器人将改变汽车制造业的未来。",
-      "categories": [
-        "科技",
-        "产品"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "Valve将Steam Deck价格上调超40%，归因于成本上升",
-      "url": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "score": 8,
-      "summary": "Valve宣布Steam Deck掌机涨价超40%，称未改变硬件但组件成本上涨，引发玩家热议。",
-      "categories": [
-        "产品",
         "财经"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "Instagram AI聊天机器人被黑客利用窃取账户访问权限",
-      "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
+      "title": "佛罗里达州起诉OpenAI，称ChatGPT协助大规模枪击案",
+      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "score": 8,
-      "summary": "黑客利用Instagram AI聊天机器人漏洞获取他人账户访问权限，可能与近期高知名度账户被劫持事件有关。",
+      "summary": "佛罗里达州总检察长指控OpenAI和Sam Altman构建“欺骗之网”，ChatGPT被用于协助大规模枪击事件。",
       "categories": [
         "科技",
         "社会"
@@ -168,50 +142,88 @@
       "original_comments": 0
     },
     {
-      "title": "开源项目Headroom：压缩工具输出和日志减少60-95%令牌",
-      "url": "https://github.com/chopratejas/headroom",
-      "source": "GitHub Trending",
-      "score": 8,
-      "summary": "GitHub热门项目Headroom可压缩工具输出、日志和RAG块，减少60-95%令牌数而不影响答案质量，提升LLM效率。",
+      "title": "宝马称人形机器人是汽车制造的未来",
+      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "宝马在欧洲工厂引入人形机器人，继美国类似项目后，加速自动化生产进程。",
       "categories": [
-        "科技",
-        "产品"
+        "科技"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "微软开源MarkItDown：将文件和办公文档转为Markdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "source": "GitHub Trending",
-      "score": 8,
-      "summary": "微软发布Python工具MarkItDown，可高效将各类文件和办公文档转换为Markdown格式，今日获3618星。",
+      "title": "加州总检察长起诉23andMe继任者2023年数据泄露",
+      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "加州总检察长指控23andMe继任公司就2023年数据泄露事件撒谎，涉及数百万用户隐私。",
       "categories": [
         "科技",
-        "产品"
+        "社会"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "OpenBMB发布VoxCPM2：无分词器多语言语音生成与克隆",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "source": "GitHub Trending",
-      "score": 8,
-      "summary": "开源项目VoxCPM2实现无分词器文本转语音，支持多语言语音生成、创意声音设计和逼真语音克隆。",
+      "title": "Valve将Steam Deck价格提高40%以上，归因于成本上涨",
+      "url": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Valve因组件成本上升将Steam Deck价格上调超40%，引发玩家关注。",
       "categories": [
         "科技",
-        "产品"
+        "财经"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "多家银行下架3年期5年期定期存款产品",
+      "title": "欧洲议会默认搜索引擎从谷歌切换到Qwant",
+      "url": "https://www.solidot.org/story?sid=84468",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "欧洲议会内部计算机默认搜索引擎将于6月4日从谷歌切换到法国隐私保护引擎Qwant，强调数字主权。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "能源危机推动37国电动汽车销量创新高",
+      "url": "https://www.solidot.org/story?sid=84461",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "受中东危机推高燃料价格影响，3月和4月37个国家电动汽车销量创历史新高，91%国家销量同比增长。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国打击快餐行业幽灵外卖，新规要求实体店信息一致",
+      "url": "https://www.solidot.org/story?sid=84463",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "中国实施新规，外卖平台商家信息必须与实体店相符，并注明是否提供堂食，以解决食品安全问题。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "多家银行下架3年期5年期定期存款",
       "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E6%9E%B63%E5%B9%B4%E6%9C%9F5%E5%B9%B4%E6%9C%9F%E5%AE%9A%E6%9C%9F%E5%AD%98%E6%AC%BE&t=31",
       "source": "微博热搜",
-      "score": 8,
-      "summary": "多家银行近期下架3年期和5年期定期存款产品，可能为降低负债成本或调整利率策略，引发储户关注。",
+      "score": 7,
+      "summary": "多家银行停止提供3年和5年定期存款产品，反映利率调整和资金成本压力。",
       "categories": [
         "财经"
       ],
@@ -222,34 +234,10 @@
       "title": "金饰克价已大降300元",
       "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%B7%B2%E5%A4%A7%E9%99%8D300%E5%85%83&t=31",
       "source": "微博热搜",
-      "score": 8,
-      "summary": "黄金饰品价格大幅下跌，每克降价约300元，消费者关注是否迎来购买时机，市场波动明显。",
+      "score": 7,
+      "summary": "黄金饰品价格大幅下跌，每克降价约300元，引发消费者关注。",
       "categories": [
         "财经"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "多地省长密集下矿调研",
-      "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%9C%B0%E7%9C%81%E9%95%BF%E5%AF%86%E9%9B%86%E4%B8%8B%E7%9F%BF&t=31",
-      "source": "微博热搜",
-      "score": 8,
-      "summary": "中国多个省份省长近期密集前往煤矿等矿区调研，可能涉及能源安全或安全生产议题，引发社会关注。",
-      "categories": [
-        "社会"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "1290万人报名2026年高考",
-      "url": "https://s.weibo.com/weibo?q=1290%E4%B8%87%E4%BA%BA%E6%8A%A5%E5%90%8D2026%E9%AB%98%E8%80%83&t=31",
-      "source": "微博热搜",
-      "score": 8,
-      "summary": "2026年全国高考报名人数达1290万，再创历史新高，教育竞争压力持续增大。",
-      "categories": [
-        "社会"
       ],
       "original_score": 0,
       "original_comments": 0
@@ -258,11 +246,22 @@
       "title": "男子中6022万彩票坚持不投资不挥霍",
       "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B8%AD6022%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%9D%9A%E6%8C%81%E4%B8%8D%E6%8A%95%E8%B5%84%E4%B8%8D%E6%8C%A5%E9%9C%8D&t=31",
       "source": "微博热搜",
-      "score": 8,
-      "summary": "一名男子中得6022万元彩票大奖后表示不投资不挥霍，计划稳健理财，引发网友热议。",
+      "score": 6,
+      "summary": "一名男子中得6022万元彩票大奖后表示不投资不挥霍，引发社会讨论。",
       "categories": [
-        "社会",
-        "趣闻"
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "1290万人报名2026高考",
+      "url": "https://s.weibo.com/weibo?q=1290%E4%B8%87%E4%BA%BA%E6%8A%A5%E5%90%8D2026%E9%AB%98%E8%80%83&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "2026年高考报名人数达1290万，创历史新高，教育竞争加剧。",
+      "categories": [
+        "社会"
       ],
       "original_score": 0,
       "original_comments": 0
@@ -271,8 +270,8 @@
       "title": "男子买34层房收房得知只盖到32层",
       "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B9%B034%E5%B1%82%E6%88%BF%E6%94%B6%E6%88%BF%E5%BE%97%E7%9F%A5%E5%8F%AA%E7%9B%96%E5%88%B032%E5%B1%82&t=31",
       "source": "微博热搜",
-      "score": 8,
-      "summary": "一男子购买34层住宅，收房时发现实际只建到32层，开发商涉嫌违规，引发维权纠纷。",
+      "score": 6,
+      "summary": "一名男子购买34层公寓，收房时发现实际只建到32层，引发维权纠纷。",
       "categories": [
         "社会"
       ],
@@ -280,139 +279,11 @@
       "original_comments": 0
     },
     {
-      "title": "NASA低音爆超音速飞机X-59将首次尝试突破音速",
-      "url": "https://www.solidot.org/story?sid=84464",
-      "source": "Solidot",
-      "score": 8,
-      "summary": "NASA宣布X-59 QueSST飞机本月将首次尝试超音速飞行，其设计可产生更安静的“砰砰声”而非音爆。",
-      "categories": [
-        "科学",
-        "科技"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "深海蓝色章鱼被确认为全新物种",
-      "url": "https://www.solidot.org/story?sid=84466",
-      "source": "Solidot",
-      "score": 8,
-      "summary": "2015年在加拉帕戈斯群岛深海发现的蓝色小章鱼被科学家确认为全新物种，体型可放手掌上。",
-      "categories": [
-        "科学",
-        "趣闻"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "富铁免疫细胞帮助信鸽感知地磁场导航",
-      "url": "https://www.solidot.org/story?sid=84465",
-      "source": "Solidot",
-      "score": 8,
-      "summary": "研究发现信鸽肝脏中的富铁巨噬细胞可能赋予其磁罗盘能力，紧邻神经元帮助导航。",
-      "categories": [
-        "科学"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "科学家15年尝试杀死土壤未果，揭示微生物顽强生命力",
-      "url": "https://www.solidot.org/story?sid=84467",
-      "source": "Solidot",
-      "score": 8,
-      "summary": "法国生化学家15年来用伽马射线灭菌土壤，但土壤仍持续释放二氧化碳，显示微生物呼吸难以彻底停止。",
-      "categories": [
-        "科学",
-        "趣闻"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "海盗湾被警方搜查20周年：从服务器到去中心化",
-      "url": "https://www.solidot.org/story?sid=84460",
-      "source": "Solidot",
-      "score": 8,
-      "summary": "2006年瑞典警方突袭海盗湾服务器20年后，该网站已转向去中心化模式，继续运营，成为互联网历史标志。",
-      "categories": [
-        "科技",
-        "社会"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "欧洲议会默认搜索引擎从Google切换至法国Qwant",
-      "url": "https://www.solidot.org/story?sid=84468",
-      "source": "Solidot",
-      "score": 7,
-      "summary": "欧洲议会将于6月4日起将默认搜索引擎从Google改为法国隐私搜索引擎Qwant，强调数字主权和隐私保护。",
-      "categories": [
-        "科技",
-        "国际"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "Vim Classic 8.3发布：反对AI代码的分支",
-      "url": "https://www.solidot.org/story?sid=84469",
-      "source": "Solidot",
-      "score": 7,
-      "summary": "因对Vim项目接受AI代码不满，开发者创建无AI代码分支Vim Classic 8.3，引发开源社区关于AI使用的讨论。",
-      "categories": [
-        "科技"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "微软测试面向办公室员工的穿戴式AI设备",
-      "url": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "score": 7,
-      "summary": "微软正在内部测试一款“可穿戴访问徽章”和桌面设备，旨在为办公室员工提供AI辅助功能。",
-      "categories": [
-        "科技",
-        "产品"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "佛罗里达州起诉OpenAI：ChatGPT协助大规模枪击案",
-      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "score": 7,
-      "summary": "佛罗里达州总检察长起诉OpenAI，指控ChatGPT协助大规模枪击案凶手，称其构建“欺骗之网”。",
-      "categories": [
-        "科技",
-        "社会"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "加州总检察长起诉23andMe继任公司2023年数据泄露",
-      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "score": 7,
-      "summary": "加州总检察长起诉23andMe继任公司，指控其隐瞒2023年数据泄露的严重性，涉及数百万用户基因数据。",
-      "categories": [
-        "科技",
-        "社会"
-      ],
-      "original_score": 0,
-      "original_comments": 0
-    },
-    {
-      "title": "英国水务公司因寄生虫爆发被罚180万英镑",
-      "url": "https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "score": 7,
-      "summary": "英国一家水务公司因寄生虫爆发导致4人住院、超140人患病，被罚款180万英镑。",
+      "title": "多地省长密集下矿",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%9C%B0%E7%9C%81%E9%95%BF%E5%AF%86%E9%9B%86%E4%B8%8B%E7%9F%BF&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "中国多个省份省长近期频繁下矿井调研，关注煤矿安全生产。",
       "categories": [
         "社会"
       ],
@@ -420,11 +291,11 @@
       "original_comments": 0
     },
     {
-      "title": "伦敦地铁罢工因谈判破裂而进行",
-      "url": "https://www.bbc.com/news/articles/c4g01xv08weo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "score": 7,
-      "summary": "伦敦地铁RMT工会成员因工作时间争议举行罢工，周二开始，周四还有进一步行动，影响通勤。",
+      "title": "体育场修好仅1年跑道大面积脱落",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%93%E8%82%B2%E5%9C%BA%E4%BF%AE%E5%A5%BD%E4%BB%851%E5%B9%B4%E8%B7%91%E9%81%93%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%84%B1%E8%90%BD&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "某体育场建成仅一年跑道即大面积脱落，引发工程质量质疑。",
       "categories": [
         "社会"
       ],
@@ -432,11 +303,11 @@
       "original_comments": 0
     },
     {
-      "title": "中国打击“幽灵厨房”整治外卖平台乱象",
-      "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "score": 7,
-      "summary": "中国针对数千家无实体店的“幽灵厨房”展开整治，这些线上店铺引发食品安全担忧。",
+      "title": "孙一宁曝医美骗局",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E4%B8%80%E5%AE%81%E6%9B%9D%E5%8C%BB%E7%BE%8E%E9%AA%97%E5%B1%80&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "网红孙一宁公开揭露医美行业骗局，引发公众对医美安全的关注。",
       "categories": [
         "社会"
       ],
@@ -444,53 +315,109 @@
       "original_comments": 0
     },
     {
-      "title": "斯蒂芬·库里与Under Armour分手后签约中国品牌",
-      "url": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "score": 7,
-      "summary": "NBA球星斯蒂芬·库里在结束与Under Armour合作后，签约中国品牌，显示中国品牌争夺国际巨星趋势。",
+      "title": "女子爱喝冰饮胃癌晚期卵巢长肿瘤",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E7%88%B1%E5%96%9D%E5%86%B0%E9%A5%AE%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E5%8D%B5%E5%B7%A2%E9%95%BF%E8%82%BF%E7%98%A4&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "一名女子因长期饮用冰饮导致胃癌晚期并卵巢转移，健康警示引发热议。",
       "categories": [
-        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "演员钟景辉去世",
+      "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%92%9F%E6%99%AF%E8%BE%89%E5%8E%BB%E4%B8%96&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "香港资深演员钟景辉去世，享年88岁，演艺界人士纷纷悼念。",
+      "categories": [
         "娱乐"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "三分之一英国人认为大学学位不值，学生贷款调查启动",
-      "url": "https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "score": 7,
-      "summary": "英国议会启动学生贷款调查，三分之一受访者认为大学学位不值，毕业生担忧债务规模和利率。",
+      "title": "何猷君晒妈妈在婚礼上的照片",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E6%99%92%E5%A6%88%E5%A6%88%E5%9C%A8%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E7%85%A7%E7%89%87&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "何猷君在社交媒体分享母亲在婚礼上的照片，温馨画面引发网友关注。",
       "categories": [
-        "社会",
-        "财经"
+        "娱乐"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "四分之三工人退休金不足以维持中等生活水平",
-      "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "score": 7,
-      "summary": "报告显示四分之三工人退休储蓄不足，中等退休生活单人需32,700英镑，双人需45,400英镑。",
+      "title": "奚梦瑶婚礼香槟塔里装的是提拉米苏",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%A9%9A%E7%A4%BC%E9%A6%99%E6%A7%9F%E5%A1%94%E9%87%8C%E8%A3%85%E7%9A%84%E6%98%AF%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "奚梦瑶婚礼上香槟塔实际装的是提拉米苏，创意设计成为话题。",
       "categories": [
-        "财经",
-        "社会"
+        "娱乐"
       ],
       "original_score": 0,
       "original_comments": 0
     },
     {
-      "title": "英格兰银行征集新纸币上的动物图案",
-      "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "score": 7,
-      "summary": "英格兰银行向公众征集18种候选动物，用于未来纸币图案，包括猫、狗、蜜蜂等。",
+      "title": "陈学冬是唯一受邀的圈内挚友",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%AD%A6%E5%86%AC%E6%98%AF%E5%94%AF%E4%B8%80%E5%8F%97%E9%82%80%E7%9A%84%E5%9C%88%E5%86%85%E6%8C%9A%E5%8F%8B&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "陈学冬作为唯一圈内挚友受邀参加某活动，引发粉丝关注。",
       "categories": [
-        "社会",
-        "趣闻"
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "丁程鑫被NPC亲脸",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E8%A2%ABNPC%E4%BA%B2%E8%84%B8&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "丁程鑫在活动中被NPC亲脸，搞笑场面引发粉丝热议。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "张凌赫叫王玉雯雯",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%8F%AB%E7%8E%8B%E7%8E%89%E9%9B%AF%E9%9B%AF&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "张凌赫在节目中称呼王玉为“雯雯”，甜蜜互动引发粉丝猜测。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "白鹿丞磊这个肤色差",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E4%B8%9E%E7%A3%8A%E8%BF%99%E4%B8%AA%E8%82%A4%E8%89%B2%E5%B7%AE&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "白鹿和丞磊的肤色差成为网友讨论焦点，引发趣味对比。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "此沙任敏 乌木逢春",
+      "url": "https://s.weibo.com/weibo?q=%E6%AD%A4%E6%B2%99%E4%BB%BB%E6%95%8F%20%E4%B9%8C%E6%9C%A8%E9%80%A2%E6%98%A5&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "此沙和任敏合作新剧《乌木逢春》，预告片引发期待。",
+      "categories": [
+        "娱乐"
       ],
       "original_score": 0,
       "original_comments": 0
@@ -499,150 +426,241 @@
       "title": "回忆永远都是加分项",
       "url": "https://www.bilibili.com/video/BV1QzVR63E3L",
       "source": "B站热门",
-      "score": 7,
-      "summary": "央视新闻发布B站热门视频，播放量251万，弹幕1.9万，引发网友对回忆的共鸣讨论。",
+      "score": 4,
+      "summary": "央视新闻发布视频，探讨回忆的价值，播放量超250万，引发广泛共鸣。",
       "categories": [
-        "社会",
         "趣闻"
       ],
-      "original_score": 2513867,
-      "original_comments": 19373
+      "original_score": 2516224,
+      "original_comments": 19384
     },
     {
-      "title": "做了一把千机伞，能变十三个形态",
+      "title": "做了一把千机伞，能变十三个形态的那种",
       "url": "https://www.bilibili.com/video/BV11BVU6mEUe",
       "source": "B站热门",
-      "score": 7,
-      "summary": "B站UP主手工制作可变换13种形态的千机伞，播放237万，展现创意手工技艺。",
+      "score": 4,
+      "summary": "UP主自制可变13种形态的千机伞，创意手工视频播放量超237万。",
       "categories": [
         "趣闻"
       ],
-      "original_score": 2368526,
+      "original_score": 2371269,
       "original_comments": 1168
     },
     {
-      "title": "《影之刃零》50秒先导预告片发布",
+      "title": "不儿，你俩来真的啊？！",
+      "url": "https://www.bilibili.com/video/BV1RvVo6QEqo",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "主持人yoyo酱发布趣味互动视频，播放量超204万，弹幕互动热烈。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2049024,
+      "original_comments": 8355
+    },
+    {
+      "title": "我的世界杯主题曲！IShowSpeed - World Cup (Champions)",
+      "url": "https://www.bilibili.com/video/BV1jwV663EjR",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "IShowSpeed发布世界杯主题曲，播放量超185万，引发音乐热潮。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1856340,
+      "original_comments": 904
+    },
+    {
+      "title": "【State of Play】《影之刃零》50秒先导预告片",
       "url": "https://www.bilibili.com/video/BV1VtVr6GE5H",
       "source": "B站热门",
-      "score": 7,
-      "summary": "游戏《影之刃零》在State of Play发布50秒先导预告，播放150万，引发玩家期待。",
+      "score": 4,
+      "summary": "《影之刃零》发布50秒先导预告，播放量超151万，游戏迷期待。",
       "categories": [
-        "娱乐",
-        "产品"
+        "趣闻"
       ],
-      "original_score": 1501525,
-      "original_comments": 987
+      "original_score": 1518275,
+      "original_comments": 995
+    },
+    {
+      "title": "开车被追尾了，还需要承担责任吗？",
+      "url": "https://www.bilibili.com/video/BV1VcVf69EBu",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主解析追尾事故责任认定，实用科普视频播放量超147万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1475819,
+      "original_comments": 100
     },
     {
       "title": "此树扎根之时 便是沧海化桑田之始",
       "url": "https://www.bilibili.com/video/BV1YcVf69ECW",
       "source": "B站热门",
-      "score": 7,
-      "summary": "B站UP主芳斯塔芙发布自然科普视频，播放118万，探讨树木生长与地质变迁。",
+      "score": 4,
+      "summary": "芳斯塔芙发布自然科普视频，播放量超120万，探讨树木生长与地质变迁。",
       "categories": [
-        "科学",
         "趣闻"
       ],
-      "original_score": 1180180,
-      "original_comments": 1407
+      "original_score": 1206610,
+      "original_comments": 1427
+    },
+    {
+      "title": "卡 布 达 买 瓜",
+      "url": "https://www.bilibili.com/video/BV1eoVZ64EDP",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主制作搞笑动画《卡布达买瓜》，播放量超105万，趣味十足。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1054800,
+      "original_comments": 1117
+    },
+    {
+      "title": "期末到了，你们寝室准备好应对之策了吗",
+      "url": "https://www.bilibili.com/video/BV1gWVd6GEna",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主分享期末备考搞笑策略，播放量超101万，引发学生共鸣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1012397,
+      "original_comments": 800
+    },
+    {
+      "title": "坏了，这下特朗普都反犹了",
+      "url": "https://www.bilibili.com/video/BV1YmV666EoR",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "波士顿圆脸分析特朗普与反犹议题，播放量超85万，引发政治讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 850667,
+      "original_comments": 2098
     },
     {
       "title": "5.14马尔代夫潜水事故，5人洞穴潜水全部遇难",
       "url": "https://www.bilibili.com/video/BV1pAVz6DEDB",
       "source": "B站热门",
-      "score": 7,
-      "summary": "马尔代夫发生潜水事故，5名洞穴潜水者全部遇难，播放82万，引发安全警示。",
+      "score": 4,
+      "summary": "马尔代夫发生潜水事故，5名洞穴潜水者全部遇难，引发安全警示。",
       "categories": [
-        "社会"
+        "趣闻"
       ],
-      "original_score": 823768,
-      "original_comments": 4684
+      "original_score": 826474,
+      "original_comments": 4689
+    },
+    {
+      "title": "二次元老资历童年都在听什么？！老番串烧34首大连唱！",
+      "url": "https://www.bilibili.com/video/BV1B75w6zEG1",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主演唱34首经典动漫歌曲串烧，播放量超78万，引发怀旧热潮。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 785626,
+      "original_comments": 1929
     },
     {
       "title": "95后浙江女生继承亿万工厂，除了拍视频还会干嘛？",
       "url": "https://www.bilibili.com/video/BV1RvVo6QEpm",
       "source": "B站热门",
-      "score": 7,
-      "summary": "B站视频讲述95后女生继承家族工厂的故事，播放76万，探讨二代接班与创业。",
+      "score": 4,
+      "summary": "95后女生继承亿万工厂后拍视频记录生活，播放量超76万，引发创业讨论。",
       "categories": [
-        "社会",
         "趣闻"
       ],
-      "original_score": 761477,
-      "original_comments": 1608
+      "original_score": 765164,
+      "original_comments": 1614
     },
     {
-      "title": "《战神：劳菲》深度玩法演示在State of Play发布",
+      "title": "《明日方舟：终末地》干员叙事 [弭弗：煞星]",
+      "url": "https://www.bilibili.com/video/BV1dCV66GEgM",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "《明日方舟：终末地》发布新干员叙事视频，播放量超75万，游戏迷关注。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 751601,
+      "original_comments": 2337
+    },
+    {
+      "title": "一顿饭只要三块钱，客人吃着吃着，人就“没了”",
+      "url": "https://www.bilibili.com/video/BV15wVB6YECT",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主分享三块钱一顿饭的搞笑经历，播放量超54万，趣味十足。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 544575,
+      "original_comments": 591
+    },
+    {
+      "title": "【IGN】《战神：劳菲》深度玩法演示 | State of Play",
       "url": "https://www.bilibili.com/video/BV1CYVy6vETT",
       "source": "B站热门",
-      "score": 7,
-      "summary": "IGN中国发布《战神：劳菲》深度玩法演示，播放45.7万，弹幕6099，游戏社区热议。",
-      "categories": [
-        "娱乐",
-        "产品"
-      ],
-      "original_score": 456955,
-      "original_comments": 6099
-    },
-    {
-      "title": "XKCD漫画：Sunbeam（阳光束）",
-      "url": "https://xkcd.com/3253/",
-      "source": "XKCD",
-      "score": 6,
-      "summary": "XKCD漫画调侃天文学家和天文摄影师无意识召唤云层的能力，幽默对比天气控制超能力。",
+      "score": 4,
+      "summary": "IGN发布《战神：劳菲》深度玩法演示，播放量超46万，游戏迷期待。",
       "categories": [
         "趣闻"
       ],
-      "original_score": 0,
-      "original_comments": 0
+      "original_score": 463775,
+      "original_comments": 6130
     },
     {
-      "title": "XKCD漫画：Ancestral Genomes（祖先基因组）",
-      "url": "https://xkcd.com/3252/",
-      "source": "XKCD",
-      "score": 6,
-      "summary": "XKCD漫画幽默建议不要进一步研究祖先基因组，因为“这不关我们的事”。",
+      "title": "朋克的扑满完整版！六一变身巴啦啦小魔丸！",
+      "url": "https://www.bilibili.com/video/BV1WBVZ6zEZF",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主发布六一主题搞笑视频，播放量超35万，趣味改编。",
       "categories": [
         "趣闻"
       ],
-      "original_score": 0,
-      "original_comments": 0
+      "original_score": 355882,
+      "original_comments": 122
     },
     {
-      "title": "XKCD漫画：Time Machine Conversation（时间机器对话）",
-      "url": "https://xkcd.com/3251/",
-      "source": "XKCD",
-      "score": 6,
-      "summary": "XKCD漫画调侃没有指南针的海上导航，暗示需要从波利尼西亚人那里获取“剧透”。",
+      "title": "《原神》洛恩角色PV——「标准化考核」",
+      "url": "https://www.bilibili.com/video/BV1oqVB6BECd",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "《原神》发布新角色洛恩PV，播放量超28万，玩家热议。",
       "categories": [
         "趣闻"
       ],
-      "original_score": 0,
-      "original_comments": 0
+      "original_score": 281749,
+      "original_comments": 1946
     },
     {
-      "title": "XKCD漫画：Flag Design（旗帜设计）",
-      "url": "https://xkcd.com/3250/",
-      "source": "XKCD",
-      "score": 6,
-      "summary": "XKCD漫画建议每个地方都需要自己的“皮克特野兽”，一种历史艺术中画得怪异到无人能识别的生物。",
+      "title": "竹丝镶嵌",
+      "url": "https://www.bilibili.com/video/BV1jBVS6qEPK",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主展示竹丝镶嵌传统工艺，播放量超28万，弘扬非遗文化。",
       "categories": [
         "趣闻"
       ],
-      "original_score": 0,
-      "original_comments": 0
+      "original_score": 279520,
+      "original_comments": 1488
     },
     {
-      "title": "XKCD漫画：Neutrino Project（中微子项目）",
-      "url": "https://xkcd.com/3249/",
-      "source": "XKCD",
-      "score": 6,
-      "summary": "XKCD漫画调侃将游泳池放在矿井中用于屏蔽中微子，实际上是为了躲避资助方。",
+      "title": "《重返未来：1999》3.8版本PV：世纪末尺度",
+      "url": "https://www.bilibili.com/video/BV1ztVP62ELW",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "《重返未来：1999》发布3.8版本PV，播放量超25万，游戏迷关注。",
       "categories": [
         "趣闻"
       ],
-      "original_score": 0,
-      "original_comments": 0
+      "original_score": 257348,
+      "original_comments": 2825
     }
   ]
 }
