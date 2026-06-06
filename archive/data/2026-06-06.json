@@ -1,0 +1,655 @@
+{
+  "date": "2026-06-06",
+  "commentary": "各位老铁，今儿这新闻下饭程度堪比老干妈拌芥末——上头！磊哥挑几个硬菜说道说道。\n\n先说圣彼得堡挨无人机揍这事儿，俄方说“史无前例”，泽连斯基这是把战争打到莫斯科眼皮底下了。普京刚说见泽连斯基“毫无意义”，转头自家后院就冒烟，这脸打得比乌克兰无人机还响。战场不分前线后方，俩嘴炮王者谁也别说谁，老百姓跟着遭老罪了。\n\n再瞅瞅纳斯达克暴跌，英伟达一宿蒸发2.2万亿——好家伙，这跌得比我老婆清空购物车还干脆。AI泡沫论又冒头了，特朗普下周要跟AI巨头开会，早干嘛去了？一边炒概念一边割韭菜，现在又想做救世主，这操作跟街边卖大力丸的差不多，都是先吹后跑。\n\n最后唠点人间真实：撒哈拉沙漠渴死50人，SpaceX估值1.75万亿等着上天。一边是人被活活晒成干，一边是马老板忙着造火箭上市，这世界荒诞得像喝多了假酒——你在泥潭里挣扎，他在星空里数钱。\n\n【今日金句】大炮一响，黄金万两；泡沫一碎，韭菜两行。别管是无人机还是纳斯达克，在生存面前都是奢侈品。",
+  "news": [
+    {
+      "title": "乌克兰无人机袭击圣彼得堡，俄称'史无前例'",
+      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "乌克兰无人机袭击俄罗斯圣彼得堡，州长首次呼吁居民留在家中，俄方称此次袭击规模史无前例。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国与伊朗在波斯湾交火，停火协议面临考验",
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美军称打击了伊朗无人机和雷达站，伊朗随后攻击科威特和巴林的美军基地，双方在波斯湾直接交火。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "普京称与泽连斯基会面'毫无意义'，拒绝和谈",
+      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "俄罗斯总统普京拒绝与乌克兰总统泽连斯基会面，称在结束乌克兰战争问题上'没有意义'。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国科技股暴跌，纳斯达克创2025年以来最大单日跌幅",
+      "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "受大型科技公司担忧情绪影响，美国股市大幅下挫，纳斯达克指数遭遇2025年初以来最大单日跌幅。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英伟达市值一夜蒸发2.2万亿",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%912.2%E4%B8%87%E4%BA%BF&t=31",
+      "source": "微博热搜",
+      "score": 9,
+      "summary": "英伟达股价暴跌，市值单日蒸发约2.2万亿元人民币，引发市场对AI泡沫的担忧。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普将与AI领袖会面，讨论美国投资",
+      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "美国总统特朗普表示下周将与顶级AI公司领导人会面，讨论美国对AI领域的投资事宜。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic联合创始人警告：需阻止AI脱离人类自主发展",
+      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "Anthropic联合创始人杰克·克拉克向BBC表示，AI可能发展到无需人类输入即可自主进化的危险阶段。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX估值1.75万亿美元，瞄准史上最大IPO",
+      "url": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "马斯克的太空探索公司SpaceX设定目标股价，估值达1.75万亿美元，有望成为史上最大规模股票上市。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "撒哈拉沙漠近50人因卡车抛锚渴死",
+      "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "一辆卡车在撒哈拉沙漠抛锚，导致近50人因缺水死亡，仅两人徒步50多公里幸存并报警。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加拿大因食肉蝇疫情禁止进口得克萨斯州牛",
+      "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国得克萨斯州爆发食肉蝇疫情，第二头牛犊被感染，该州宣布进入灾难状态，加拿大随即禁止进口。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国巴伐利亚州取消微软合同，全面转向开源软件",
+      "url": "https://www.solidot.org/story?sid=84483",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "德国巴伐利亚州数字事务部宣布取消与微软近10亿欧元的合同，决定全面采用开源软件以保障数字主权。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟公布减少依赖美国科技公司的计划",
+      "url": "https://www.solidot.org/story?sid=84482",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "欧盟发布'欧洲技术主权计划'，旨在加强科技主权，减少对美国科技公司的依赖，敏感领域公共服务禁用外国服务。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "国际空间站空气泄漏加剧，宇航员被告知准备紧急撤离",
+      "url": "https://www.solidot.org/story?sid=84501",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "国际空间站俄罗斯舱段漏气量翻倍，NASA命令宇航员进入飞船待命，做好紧急撤离准备。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "火星探测器MAVEN失联半年后正式宣告任务终结",
+      "url": "https://www.solidot.org/story?sid=84490",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "2013年发射的火星探测器MAVEN在失联六个月后，NASA判定其因快速自旋耗尽电池，任务正式结束。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "新方法将海水转化为饮用水，且无废料产生",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "研究人员开发出一种新型海水淡化技术，可将海水高效转化为饮用水，同时不产生任何废弃物。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 400,
+      "original_comments": 167
+    },
+    {
+      "title": "机器人HTTP请求量已超过人类",
+      "url": "https://www.solidot.org/story?sid=84497",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "Cloudflare统计显示，AI智能体的HTTP请求流量占比已达57.5%，首次超过人类用户流量。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Google发布可在笔记本本地运行的开源模型Gemma 4 12B",
+      "url": "https://www.solidot.org/story?sid=84480",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "Google发布120亿参数的开源多模态模型Gemma 4 12B，可在16GB显存的笔记本电脑上本地运行。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Google发布Gemma 4 QAT模型，优化移动端和笔记本效率",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "Google推出Gemma 4量化感知训练模型，旨在提升在移动设备和笔记本电脑上的运行效率。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 358,
+      "original_comments": 109
+    },
+    {
+      "title": "微软开源数据库持久执行工具pg_durable",
+      "url": "https://github.com/microsoft/pg_durable",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "微软开源pg_durable项目，为PostgreSQL数据库提供持久执行能力，增强事务可靠性。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 413,
+      "original_comments": 93
+    },
+    {
+      "title": "标普500拒绝SpaceX，同时阻止OpenAI和Anthropic加入",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "标普500指数拒绝将SpaceX纳入，并同时阻止OpenAI和Anthropic等AI公司进入指数。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 624,
+      "original_comments": 208
+    },
+    {
+      "title": "rsync项目因AI辅助编程引发争议",
+      "url": "https://www.solidot.org/story?sid=84493",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "广泛使用的备份工具rsync因维护者大量使用AI编程导致版本故障，引发社区对AI辅助代码质量的争议。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软创建Rust Coreutils分支，专为Windows优化",
+      "url": "https://www.solidot.org/story?sid=84488",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "微软在Build 2026大会上宣布Coreutils for Windows项目，基于Rust重写Unix核心工具集以适配Windows。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "需求高涨，苹果将MacBook Neo产能翻倍至1000万台",
+      "url": "https://www.solidot.org/story?sid=84481",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "因入门级MacBook Neo需求远超预期，苹果将其产能从500万台提升至1000万台，售价599美元。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果称App Store生态系统规模突破1.4万亿美元",
+      "url": "https://www.solidot.org/story?sid=84496",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "苹果宣布全球App Store生态系统在2025年促成超1.4万亿美元开发者营业额与销售额，超90%归开发者所有。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Google申请释放3200万只不育雄蚊以控制蚊群",
+      "url": "https://www.solidot.org/story?sid=84495",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Google旗下Debug公司寻求在加州和佛州释放3200万只携带沃尔巴克氏体的不育雄蚊，通过生物方式减少蚊群数量。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "大规模研究证实：任何饮酒量都会增加癌症风险",
+      "url": "https://www.solidot.org/story?sid=84487",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "一项涵盖843项研究的分析显示，即使每天饮酒不足10克纯酒精，也会增加多种癌症的患病风险。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：超加工食品的加工过程本身可能与健康风险相关",
+      "url": "https://www.solidot.org/story?sid=84499",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "新研究表明，超加工食品的健康风险不仅来自营养成分，工业加工和添加剂过程本身可能起重要作用。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "大黄蜂能利用工具解决问题，展现基本智能",
+      "url": "https://www.solidot.org/story?sid=84498",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "《科学》杂志研究显示，大黄蜂能通过滚动聚苯乙烯球来够到食物，展现出类似黑猩猩的工具使用能力。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科幻作家姜峯楠：AI没有意识，只是在玩角色扮演",
+      "url": "https://www.solidot.org/story?sid=84491",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "知名科幻作家姜峯楠在《大西洋月刊》撰文指出，大模型能生成流畅文本不代表有意识，AI公司助长了误解。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国考试监管机构警告高科技作弊手段激增",
+      "url": "https://www.bbc.com/news/articles/cvgz22w4g9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国Ofqual负责人表示，监考人员正在接受培训以检测智能眼镜和隐藏耳机等高科技作弊设备。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国整治微短剧：打击软色情、暴力和拜金内容",
+      "url": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "中国监管部门对流行的微短剧进行整治，打击其中包含的软色情、暴力和物质主义等不良内容。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "台湾'太阳花女王'逃美7年被押解返台",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%A5%B3%E7%8E%8B%E9%80%83%E7%BE%8E7%E5%B9%B4%E8%A2%AB%E6%8A%BC%E8%A7%A3%E8%BF%94%E5%8F%B0&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "曾参与台湾太阳花学运的'太阳花女王'在美逃亡7年后被押解返回台湾，引发社会关注。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "上海一医院妇科专家挂号费5000元引争议",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%8C%BB%E9%99%A2%E5%A6%87%E7%A7%91%E4%B8%93%E5%AE%B6%E6%8C%82%E5%8F%B7%E8%B4%B95000%E5%85%83&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "上海某医院妇科专家门诊挂号费高达5000元，引发公众对医疗资源定价的广泛讨论。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "16岁女孩被捅重伤，行凶者轻生身亡",
+      "url": "https://s.weibo.com/weibo?q=16%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%8D%85%E9%87%8D%E4%BC%A4%E8%A1%8C%E5%87%B6%E8%80%85%E8%BD%BB%E7%94%9F%E8%BA%AB%E4%BA%A1&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "一名16岁女孩被刺成重伤，行凶者在作案后自杀身亡，案件正在调查中。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "网红狗被偷宰杀，警方已刑事立案",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E7%8B%97%E8%A2%AB%E5%81%B7%E5%AE%B0%E6%9D%80%E8%AD%A6%E6%96%B9%E5%B7%B2%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "一只网红宠物狗被偷走后遭宰杀，警方已对此事进行刑事立案调查。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "外卖员直言：人多了但单少了",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%8D%96%E5%91%98%E7%9B%B4%E8%A8%80%E4%BA%BA%E5%A4%9A%E4%BA%86%E4%BD%86%E5%8D%95%E5%B0%91%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "多位外卖员反映行业竞争加剧，骑手数量增加但订单量减少，收入面临压力。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "1499元茅台消失，平价茅台难觅踪迹",
+      "url": "https://s.weibo.com/weibo?q=1499%E5%85%83%E8%8C%85%E5%8F%B0%E6%B6%88%E5%A4%B1%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "市场上1499元官方指导价的飞天茅台几乎消失，消费者难以以平价购买到茅台酒。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Google Search Profiles：为创作者打造搜索个人主页",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Google推出Search Profiles功能，允许发布者和创作者在搜索结果中展示个人作品集。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "MAI-Image-2.5：精准场景控制的图像生成与编辑",
+      "url": "https://www.producthunt.com/products/mai-image-2-5",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "微软发布MAI-Image-2.5模型，支持通过精确场景控制进行图像生成和编辑。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Microsoft MAI-Voice-2：支持15种语言的语音克隆TTS",
+      "url": "https://www.producthunt.com/products/mai-image-2-3",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "微软推出MAI-Voice-2，具备表现力的文本转语音功能，支持15种语言的语音克隆。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "LocalClicky：用语音本地控制Mac",
+      "url": "https://www.producthunt.com/products/localclicky",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "LocalClicky是一款本地语音控制Mac的应用，无需联网即可通过语音操作电脑。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Treadmill Pro：用iPhone无线控制跑步机",
+      "url": "https://www.producthunt.com/products/treadmill-pro",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Treadmill Pro应用让你通过iPhone无线控制跑步机，实现智能化跑步体验。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "QWERTYS：键盘散架了？现在它成了你的问题",
+      "url": "https://www.producthunt.com/products/qwertys",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "一款名为QWERTYS的创意产品，将散架的键盘变成有趣的互动游戏，脑洞大开。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Moodloom：无广告的Pinterest替代品，AI内容过滤",
+      "url": "https://www.producthunt.com/products/moodloom",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Moodloom是一款无广告的图片灵感平台，使用AI进行内容过滤，作为Pinterest的替代选择。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "路边一块玉，也能变废为宝雕刻出精美题材",
+      "url": "https://www.bilibili.com/video/BV15iEc6VEfH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主展示如何将路边捡到的玉石废料雕刻成精美作品，播放量超528万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 5287291,
+      "original_comments": 3254
+    },
+    {
+      "title": "当父母说出了正确答案：搞笑家庭互动",
+      "url": "https://www.bilibili.com/video/BV16kV26TES7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，父母意外说出正确答案的搞笑家庭对话，播放量近500万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4964829,
+      "original_comments": 2088
+    },
+    {
+      "title": "一句'一氧化二氢'能钓出多少'读稿机'？",
+      "url": "https://www.bilibili.com/video/BV1rg7C6TEUm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "中国食品报融媒体用'一氧化二氢'梗测试网络反应，揭露盲目跟风现象，播放量超322万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 3228789,
+      "original_comments": 4582
+    },
+    {
+      "title": "如何在家制造浓汤宝：美食DIY教程",
+      "url": "https://www.bilibili.com/video/BV1df7r6REpB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主分享在家自制浓汤宝的详细教程，播放量超252万，引发网友模仿。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2528805,
+      "original_comments": 2786
+    },
+    {
+      "title": "织棉为布，非遗土布重现东方浪漫",
+      "url": "https://www.bilibili.com/video/BV1Zj7C6wEJY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主展示千年蓝染非遗土布工艺，用传统技艺织出极致的东方浪漫。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 622999,
+      "original_comments": 889
+    },
+    {
+      "title": "我给花朵加了个开关！创意手工",
+      "url": "https://www.bilibili.com/video/BV1Ja7k6AE1b",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主展示如何给花朵添加开关的创意手工，播放量近60万，脑洞大开。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 597204,
+      "original_comments": 331
+    },
+    {
+      "title": "XKCD漫画：行星科学",
+      "url": "https://xkcd.com/3255/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画调侃科研伦理审查，将审查委员会比作冲浪板的名字，幽默风趣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：探测器",
+      "url": "https://xkcd.com/3254/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画以探测器为主题，调侃没有其他实验有更低的假阴性率，科学幽默。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 956.33 📈+24.73(+2.65%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1791230,
+      "summary": "今日 956.33 | 📈 +24.73(+2.65%) | 最高 956.44 最低 931.71 | 连涨 6天 | 成交额 ¥9994万 | 成交量 1791230件 | 📈2694 ➡2162 📉2638"
+    }
+  ]
+}
