@@ -1,0 +1,652 @@
+{
+  "date": "2026-06-08",
+  "commentary": "磊哥今天得先跟各位说句大实话：中东这俩老冤家又干上了，你射30枚导弹，我两轮空袭，打完都说“收工”，跟小孩打架似的——你推我一下，我踢你一脚，然后各回各家喊妈。但问题是，油价跟着上蹿下跳，全世界股民跟着买单，这叫什么事儿？伊朗和以色列这出戏，演得比好莱坞还贵。\n\n再说英国那位首相，让苹果谷歌禁儿童手机裸图。磊哥就想问：您老是不是觉得科技公司都是自动挡？这功能本来就有，就看它们愿不愿意开。保护孩子是好事儿，但别甩锅给技术，管好自己家的App Store和搜索引擎，比啥都强。\n\n最后得聊聊AI能耗这事。联合国报告说AI数据中心到2030年耗电量相当于13亿人用水需求。磊哥听了一激灵：AI还没干翻人类呢，先把地球电干了、水喝光了。咱一边聊着“奇点临近”，一边觉得自己挺智能，结果发现智能是个“电老虎”。特朗普和Altman还在商量政府入股，我看不如先给地球交点儿电费吧。\n\n今日金句：世界天天在搞大新闻，可磊哥只关心明天早点能不能不涨。",
+  "news": [
+    {
+      "title": "伊朗与以色列在停火后首次交火后称已停止打击",
+      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "伊朗向以色列发射约30枚导弹，以色列发动两轮空袭，双方在首次交火后均宣布停止打击，中东局势再度紧张。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科技股抛售与中东冲突引发市场震荡",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "亚洲市场受科技股抛售影响，油价因伊朗和以色列互相攻击而波动，投资者情绪紧张。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "菲律宾南部发生7.8级强震致至少35人死亡",
+      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "菲律宾南部发生7.8级地震，引发小型海啸波及菲律宾、印尼和日本，已造成至少35人遇难。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国首相要求苹果和谷歌禁止儿童手机出现裸图",
+      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "英国首相斯塔默要求苹果和谷歌激活内置功能，阻止儿童在手机上访问露骨色情图片，加强未成年人保护。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "FTX创始人Sam Bankman-Fried寻求特朗普赦免",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "正在服25年刑期的FTX前创始人Sam Bankman-Fried正式向特朗普申请赦免，引发广泛关注。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泽连斯基欧洲盟友提出五项和平谈判条件",
+      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "乌克兰总统泽连斯基与欧洲盟友会晤，提出五项和平谈判条件，同时美国特朗普政府将重心转向伊朗战争。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普将与AI领袖会面讨论美国投资",
+      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "美国总统特朗普表示将于下周会见顶级AI公司领袖，商讨美国对AI企业的投资事宜。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国政府考虑在AI公司持有股份",
+      "url": "https://www.solidot.org/story?sid=84509",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "OpenAI CEO Altman与白宫就政府入股进行磋商，可能向美国政府捐赠股份，引发对AI监管的新讨论。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI能耗威胁数十亿人自然资源",
+      "url": "https://www.solidot.org/story?sid=84511",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "联合国报告预计到2030年，AI数据中心年耗电945 TWh，用水量相当于13亿人基本生活需求，土地占用超14500平方公里。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "亚美尼亚亲西方政府顶住俄罗斯压力赢得选举",
+      "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "亚美尼亚总理帕希尼扬的政党获得近50%选票，在俄罗斯压力下仍赢得大选，显示亲西方倾向。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "数百名被博科圣地绑架的人质获救",
+      "url": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "尼日利亚军方从博科圣地山区据点解救数百名被绑架者，其中多为妇女和儿童，系3月从喀麦隆附近被掳走。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic联合创始人警告AI可能脱离人类控制发展",
+      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Anthropic联合创始人Jack Clark对BBC表示，AI可能发展到无需人类输入即可自行演化的危险阶段。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GLP-1减肥药与更低乳腺癌风险相关",
+      "url": "https://www.solidot.org/story?sid=84520",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究显示服用GLP-1减肥药的女性患乳腺癌风险比未服用者低约30%，但该研究为观察性研究，需进一步验证。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "新药功能性治愈19%乙肝患者",
+      "url": "https://www.solidot.org/story?sid=84512",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "葛兰素史克实验药物bepirovirsen在双盲试验中功能性治愈19%慢性乙肝患者，全球约2.4亿人感染该病。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家实现精准编辑人类胚胎基因",
+      "url": "https://www.solidot.org/story?sid=84510",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "哥伦比亚大学团队与DNA初创公司合作，开发出比CRISPR更精准的人类胚胎基因编辑技术，有望避免脱靶效应。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韦伯望远镜首次测量早期宇宙休眠黑洞质量",
+      "url": "https://www.solidot.org/story?sid=84522",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "天文学家利用韦伯望远镜和引力透镜效应，首次测量了100亿光年外一个早期宇宙休眠黑洞的质量。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "平台算法给民主带来风险",
+      "url": "https://www.solidot.org/story?sid=84521",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究显示社媒算法以用户参与度为导向，导致政治极化，X平台在马斯克支持特朗普后倾向共和党账号曝光度显著提升。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软再次加强Xbox内容独占策略",
+      "url": "https://www.solidot.org/story?sid=84519",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "微软新CEO Asha Sharma改变前任策略，强调Xbox平台必须有独占内容和服务，重新加强游戏独占。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度人口可能更早开始下降",
+      "url": "https://www.solidot.org/story?sid=84508",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "随着生育率下降，印度人口可能比预期更早进入下降阶段，家庭规模缩小趋势明显。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加州伯克利CS课程不及格率飙升",
+      "url": "https://www.solidot.org/story?sid=84507",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "2026年春季加州伯克利CS 10课不及格率高达35.3%，CS 61A课达10.6%，远超往年水平，引发教育质量讨论。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《归唐》19分钟完整实机演示",
+      "url": "https://www.bilibili.com/video/BV1Uj7k6VEPU",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "国产游戏《归唐》发布19分钟实机演示，在B站获得超千万播放，引发玩家热议。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 10493429,
+      "original_comments": 24273
+    },
+    {
+      "title": "参加了九次高考的考生采访",
+      "url": "https://www.bilibili.com/video/BV1xkE46PE59",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频采访了一位参加九次高考的考生，播放量超460万，引发对高考制度的讨论。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 4613565,
+      "original_comments": 4319
+    },
+    {
+      "title": "为了知晓地球年龄，人类究竟有多难？",
+      "url": "https://www.bilibili.com/video/BV1xzE46KEFk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站科普视频以133万播放量讲述人类测定地球年龄的艰难历程，兼具趣味与知识性。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 1335160,
+      "original_comments": 2114
+    },
+    {
+      "title": "死亡盲区：濒死时，人们能看见什么？",
+      "url": "https://www.bilibili.com/video/BV1EnEg65EZx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站科普视频探讨濒死体验现象，播放量近50万，引发对意识与死亡的思考。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 497488,
+      "original_comments": 801
+    },
+    {
+      "title": "NTSC-RS：开源模拟模拟电视和VHS伪影",
+      "url": "https://www.producthunt.com/products/ntsc-rs",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt上发布的开源项目，可模拟老式电视和录像带的视觉伪影效果，充满怀旧趣味。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "The Virtual OS Museum：在桌面重温经典操作系统",
+      "url": "https://www.producthunt.com/products/the-virtual-os-museum",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt上的虚拟操作系统博物馆，让用户直接在桌面上体验复古操作系统，充满怀旧趣味。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Dreambeans by Google Labs：每日AI个性化故事",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Google Labs推出的Dreambeans应用，根据用户Google应用数据每日生成个性化AI故事，新奇有趣。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "QWERTYS by Smart Keys：键盘散架了，现在轮到你了",
+      "url": "https://www.producthunt.com/products/qwertys",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt上一款恶搞产品，宣称键盘散架后把问题丢给用户，充满幽默感的创意项目。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tamadoggo：宠物生活AI日记",
+      "url": "https://www.producthunt.com/products/tamadoggo",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上的一款应用，为宠物创建带AI洞察的生活日记，宠物主人可记录和分享爱宠日常。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "CabinLink：通过客舱Wi-Fi查看飞行地图",
+      "url": "https://www.producthunt.com/products/cabinlink",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上的一款工具，利用客舱Wi-Fi信号实时显示飞行地图，为飞行爱好者提供新奇体验。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Wave：将语音转为文字，本地或云端任选",
+      "url": "https://www.producthunt.com/products/wave-16",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上发布的语音转文字工具，支持本地和云端处理，用户可自由选择隐私与便利性。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Smmall Cloud for iOS：简单的iPad/iPhone文件分享",
+      "url": "https://www.producthunt.com/products/smmall-cloud",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上的一款iOS应用，提供极简的文件分享功能，适合苹果设备用户快速传输文件。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Supaste：macOS剪贴板管理器",
+      "url": "https://www.producthunt.com/products/supaste",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上发布的macOS剪贴板管理工具，帮助用户高效管理复制历史，提升工作效率。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Sigma File Manager：开源跨平台现代文件管理器",
+      "url": "https://www.producthunt.com/products/sigma-file-manager",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上发布的免费开源文件管理器，支持跨平台使用，界面现代，功能丰富。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Browse.sh：为AI代理赋予网页自动化能力",
+      "url": "https://www.producthunt.com/products/browserbase",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上发布的工具，让AI代理能够像人类一样记忆和自动化网页操作，提升效率。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Vaani：面向创作者和品牌的唇形同步AI配音",
+      "url": "https://www.producthunt.com/products/vaani-2",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上发布的AI配音工具，支持唇形同步，适用于创作者、品牌和工作室的多语言内容制作。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude Artifact Player：本地运行Claude AI作品",
+      "url": "https://www.producthunt.com/products/claude-artifact-player",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上发布的工具，无需浏览器或云端即可在本地原生运行Claude AI生成的作品。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "MAI-Image-2.5：精准场景控制的图像生成与编辑",
+      "url": "https://www.producthunt.com/products/mai-image-2-5",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上发布的AI图像工具，支持精确控制场景生成和编辑图像，适合专业创作者。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Google Search Profiles：为创作者在搜索中突出作品",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Google推出的搜索个人资料功能，让发布者和创作者在搜索结果中更突出地展示其作品。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Gaming services by IFTTT：用自动化提升游戏体验",
+      "url": "https://www.producthunt.com/products/ifttt",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "IFTTT推出游戏服务，支持Steam、Dota 2等平台的自动化操作，让玩家以新方式提升游戏体验。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Manus Shopify Connector：通过聊天管理Shopify店铺",
+      "url": "https://www.producthunt.com/products/manus-shopify-connector",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上发布的工具，允许用户通过单一聊天界面构建和管理Shopify商店，简化电商运营。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Honen：企业自动化教学与学习基础设施",
+      "url": "https://www.producthunt.com/products/honen",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上发布的企业级自动化教学平台，为任何公司提供学习基础设施，提升培训效率。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Job Postings API：监控和分析180万+美国职位",
+      "url": "https://www.producthunt.com/products/free-job-postings-api",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上发布的API服务，可查看、监控和分析超过180万个美国职位数据，助力求职与招聘。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Navi+ Menu Builder：无代码为网站添加标签栏和超级菜单",
+      "url": "https://www.producthunt.com/products/navi-menu-builder",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上发布的无代码工具，可轻松为任何网站添加标签栏、超级菜单等导航元素。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "mvanhorn/last30days-skill：跨平台AI研究助手",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending",
+      "score": 4,
+      "summary": "GitHub热门开源项目，AI代理技能可跨Reddit、X、YouTube等平台研究任何主题并生成摘要。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "RyanCodrai/turbovec：基于TurboQuant的高性能向量索引",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "source": "GitHub Trending",
+      "score": 4,
+      "summary": "GitHub热门开源项目，用Rust编写带Python绑定的向量索引，今日获1730星，性能优异。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Panniantong/Agent-Reach：AI代理的互联网之眼",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "source": "GitHub Trending",
+      "score": 4,
+      "summary": "GitHub热门开源项目，让AI代理通过单一CLI免费搜索Twitter、Reddit、B站等平台，无需API费用。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "roboflow/supervision：可复用的计算机视觉工具库",
+      "url": "https://github.com/roboflow/supervision",
+      "source": "GitHub Trending",
+      "score": 4,
+      "summary": "GitHub热门开源项目，提供可复用的计算机视觉工具，今日获1140星，深受开发者欢迎。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TapXWorld/ChinaTextbook：中国小初高大学PDF教材合集",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "source": "GitHub Trending",
+      "score": 4,
+      "summary": "GitHub热门开源项目，收录中国所有小学、初中、高中和大学PDF教材，今日获593星。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "aaif-goose/goose：开源可扩展AI代理",
+      "url": "https://github.com/aaif-goose/goose",
+      "source": "GitHub Trending",
+      "score": 4,
+      "summary": "GitHub热门开源项目，开源AI代理可安装、执行、编辑和测试代码，支持任何LLM，今日获699星。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 968.23 📈+5.07(+0.53%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 140651,
+      "summary": "今日 968.23 | 📈 +5.07(+0.53%) | 最高 968.23 最低 963.34 | 连涨 2天 | 成交额 ¥725万 | 成交量 140651件 | 📈1606 ➡4915 📉973"
+    }
+  ]
+}
