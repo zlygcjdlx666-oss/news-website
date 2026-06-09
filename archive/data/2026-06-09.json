@@ -1,0 +1,625 @@
+{
+  "date": "2026-06-09",
+  "commentary": "兄弟们，磊哥今天得先给OpenCV 5磕一个——这玩意儿一出来，计算机视觉直接原地起飞，以后AI看世界比人还清楚。但转头一看OpenAI要上市？好家伙，AI巨头们现在不是在搞技术，是在搞融资军备竞赛。这哪是人工智能，分明是“人工烧钱”。等上市那天，股东们怕不是要问：“您这大模型能自己印钞吗？”\n\n再说中东那边，以色列空袭黎巴嫩，伊朗放狠话，火药桶一点就着。国际刑事法院那边倒好，首席检察官因为性行为不端被停职了——合着审判别人的法官自己先成了被告？这世界真是魔幻现实主义大戏。\n\n最后说个冷的：特朗普在NBA总决赛被全场嘘，成为首位“享受”这待遇的在任总统。磊哥只能说，现场观众用实际行动证明了——体育无国界，但讨厌特朗普是共识。\n\n**今日金句：** “AI在学怎么看清世界，人类却在学怎么把世界搞瞎。”",
+  "news": [
+    {
+      "title": "OpenCV 5 发布：计算机视觉领域多年来最大飞跃",
+      "url": "https://opencv.org/opencv-5/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "开源计算机视觉库 OpenCV 发布第5版，带来重大更新，标志着计算机视觉技术进入新阶段。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 524,
+      "original_comments": 97
+    },
+    {
+      "title": "ChatGPT 开发商 OpenAI 计划上市，AI 巨头融资竞赛白热化",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "ChatGPT 母公司 OpenAI 提交上市计划，紧随 Anthropic 之后，AI 领域融资竞争加剧。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "以色列空袭黎巴嫩城市提尔，无视伊朗停火警告",
+      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "以色列对黎巴嫩南部城市提尔发动空袭，伊朗此前警告若攻击黎巴嫩盟友真主党将恢复敌对行动。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "习近平与金正恩会晤，承诺加强中朝关系",
+      "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "中国国家主席习近平结束对平壤的两天访问，与金正恩共同承诺深化两国关系，系2019年以来首次访朝。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "菲律宾强震后数百次余震，官员警告死亡人数可能上升",
+      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "菲律宾南部发生强烈地震，已致数十人死亡、数百人受伤，后续余震不断，救援工作持续进行。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟命令 Meta 开放 WhatsApp 与竞争对手 AI 聊天机器人互通",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "欧盟要求 Meta 开放 WhatsApp 接口，允许其他 AI 聊天机器人接入，Meta 指责此举为监管越权。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软开源工具遭黑客攻击，AI 开发者密码被盗",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "微软部分开源工具被黑客入侵，用于窃取 AI 开发者的密码，引发行业安全担忧。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 428,
+      "original_comments": 159
+    },
+    {
+      "title": "FTX 创始人 Sam Bankman-Fried 寻求特朗普赦免",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "被判25年监禁的加密货币平台 FTX 前创始人 Sam Bankman-Fried 正式申请总统赦免。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX 准备上市，或成马斯克最大赌注",
+      "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "SpaceX 筹备股票市场首次公开募股，此举可能改变公司、市场及马斯克个人财富格局。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果发布 Siri AI 改造，库克告别之际推出新儿童安全功能",
+      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "苹果在蒂姆·库克卸任前推出 Siri 人工智能升级，并新增儿童安全功能以应对“裸体化”应用争议。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯燃料危机加剧，乌克兰加强打击占领区",
+      "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "乌克兰加大对俄占区的打击力度，导致俄罗斯军事和民用燃料供应陷入严重危机。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "国际刑事法院暂停首席检察官职务，调查不当行为指控",
+      "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "ICC 因性行为不端指控暂停首席检察官卡里姆·汗的职务，其律师强烈反对该决定。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普在纽约 NBA 总决赛现场被嘘，成首位出席该赛事的在任总统",
+      "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "特朗普成为首位现场观看 NBA 总决赛的美国在任总统，但在麦迪逊广场花园遭到观众嘘声。",
+      "categories": [
+        "国际",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿富汗女性罕见抗议活动致两人死亡",
+      "url": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "阿富汗西部城市赫拉特发生罕见女性抗议活动，警方据称开枪驱散，造成两人死亡。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "300名赴英移民被绑架，遭威胁摘取肾脏",
+      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "一群伊拉克库尔德移民在前往英国途中被民兵绑架，每人被索要5000美元赎金，并遭摘肾威胁。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国首相要求苹果和谷歌禁止儿童手机上的裸体图像",
+      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国首相斯塔默要求科技公司激活内置功能，防止儿童接触色情图片，保护未成年人网络安全。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国将比亚迪列入涉中国军方企业名单",
+      "url": "https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "美国五角大楼更新名单，将比亚迪列为与中国军方有关联的企业，警告美企合作风险。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "FCC 拟强制电信商收集用户身份信息，打击一次性手机",
+      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "美国联邦通信委员会计划要求电信运营商获取所有客户身份证明，旨在消灭匿名一次性手机。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 122,
+      "original_comments": 90
+    },
+    {
+      "title": "Let's Encrypt 禁止在美国制裁地区使用其证书",
+      "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "免费证书颁发机构 Let's Encrypt 宣布，将不再为任何美国制裁地区颁发或续期 TLS 证书。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 92,
+      "original_comments": 74
+    },
+    {
+      "title": "树莓派因 AI 需求增长上调盈利预期",
+      "url": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "树莓派公司预计2026年上半年调整后收益至少达3800万美元，AI 应用需求推动业绩增长。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "玩家组织挑战游戏行业，反对停服下架游戏",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "“停止杀死游戏”运动质疑游戏出版商有权关闭游戏服务器而不保留可玩版本，引发行业讨论。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD 漫画：怀旧内容",
+      "url": "https://xkcd.com/3256/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD 新漫画调侃 Z 世代对石炭纪巨型蜻蜓的怀旧，讽刺现代蜻蜓的渺小。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD 漫画：行星科学",
+      "url": "https://xkcd.com/3255/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD 漫画以幽默方式将行星科学研究与冲浪板命名联系起来，展现科学家的趣味。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD 漫画：探测器",
+      "url": "https://xkcd.com/3254/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD 漫画调侃某实验的假阴性率极低，以夸张方式呈现科学检测的可靠性。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD 漫画：阳光",
+      "url": "https://xkcd.com/3253/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD 漫画戏称天文学家和天文摄影师拥有召唤云层的超能力，讽刺天气对观测的影响。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD 漫画：祖先基因组",
+      "url": "https://xkcd.com/3252/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD 漫画以幽默建议结束研究：无需进一步研究，因为这根本不关我们的事。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "参加了九次高考的考生采访",
+      "url": "https://www.bilibili.com/video/BV1xkE46PE59",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频采访一位参加九次高考的考生，播放量超563万，引发广泛讨论。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 5630743,
+      "original_comments": 5948
+    },
+    {
+      "title": "城市大富翁（5）",
+      "url": "https://www.bilibili.com/video/BV1wEEc6REms",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主雨哥到处跑的城市大富翁系列第五集，播放量314万，弹幕互动热烈。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 3140310,
+      "original_comments": 43878
+    },
+    {
+      "title": "新华社发布高同步率创意视频",
+      "url": "https://www.bilibili.com/video/BV1tZET6HESW",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "新华社在B站发布创意视频，以“同步率”为亮点，播放量近250万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2496694,
+      "original_comments": 961
+    },
+    {
+      "title": "《别替我吹了》搞笑视频",
+      "url": "https://www.bilibili.com/video/BV1zzEu6GEHW",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主伤心欲茄222发布搞笑视频《别替我吹了》，播放量超240万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2409110,
+      "original_comments": 2698
+    },
+    {
+      "title": "韩剧《铁拳教育》深度解析视频爆火",
+      "url": "https://www.bilibili.com/video/BV1dEE46SEEr",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主深度解析韩剧《铁拳教育》，该剧因揭露教育问题被韩国教师抵制，视频播放量超155万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 1553200,
+      "original_comments": 4320
+    },
+    {
+      "title": "12个脑洞大开的美食制作方式",
+      "url": "https://www.bilibili.com/video/BV1JaE56pEKE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主胡仔一人食分享12种创意美食制作方法，简单易学，播放量近90万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 893182,
+      "original_comments": 562
+    },
+    {
+      "title": "羊把自己放进冰箱",
+      "url": "https://www.bilibili.com/video/BV1w5EM6rEEd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门搞笑视频，一只羊试图把自己放进冰箱，播放量超88万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 882659,
+      "original_comments": 944
+    },
+    {
+      "title": "《塞尔达传说 时之笛》公布预告",
+      "url": "https://www.bilibili.com/video/BV1CFEm6WENj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "任天堂直面会公布《塞尔达传说 时之笛》预告，引发玩家热议，IGN中国发布相关视频。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 125672,
+      "original_comments": 264
+    },
+    {
+      "title": "Nodrix：部署到 Cloudflare 的私有 IoT 云",
+      "url": "https://www.producthunt.com/products/nodrix",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt 新品 Nodrix 允许用户将自有物联网云部署到 Cloudflare 账户，实现私有化控制。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Cove for Mac：为工作提供存档/读档功能",
+      "url": "https://www.producthunt.com/products/cove-for-mac",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt 新品 Cove for Mac 像游戏存档一样管理工作状态，支持随时保存和恢复。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Krisp 语音翻译 API：实时语音到语音翻译",
+      "url": "https://www.producthunt.com/products/krisp",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt 新品 Krisp 推出实时语音翻译 API，支持多种语言间的直接语音转换。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Reve 2.0：基于布局控制生成和编辑 4K 图像",
+      "url": "https://www.producthunt.com/products/reve-2-0",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt 新品 Reve 2.0 支持通过布局控制生成和编辑 4K 图像，提升 AI 图像创作精度。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Mic Drop 3.0：用 AirPods 静音任何应用麦克风",
+      "url": "https://www.producthunt.com/products/mic-drop",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt 新品 Mic Drop 3.0 允许用户通过 AirPods 一键静音任意应用的麦克风。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "mvanhorn/last30days-skill：跨平台 AI 研究代理",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending",
+      "score": 5,
+      "summary": "GitHub 热门项目，一个 AI 代理技能，可跨 Reddit、X、YouTube 等平台研究主题并生成摘要。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "RyanCodrai/turbovec：基于 TurboQuant 的高性能向量索引",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "source": "GitHub Trending",
+      "score": 5,
+      "summary": "GitHub 热门项目，用 Rust 编写、提供 Python 绑定的向量索引库，今日获 1800 星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "refactoringhq/tolaria：管理 Markdown 知识库的桌面应用",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "source": "GitHub Trending",
+      "score": 5,
+      "summary": "GitHub 热门项目，一款桌面应用用于管理 Markdown 知识库，今日获 821 星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TapXWorld/ChinaTextbook：中国中小学及大学 PDF 教材合集",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "source": "GitHub Trending",
+      "score": 5,
+      "summary": "GitHub 热门项目，收集了从小学到大学的全部 PDF 教材，今日获 517 星。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "santifer/career-ops：基于 Claude Code 的 AI 求职系统",
+      "url": "https://github.com/santifer/career-ops",
+      "source": "GitHub Trending",
+      "score": 5,
+      "summary": "GitHub 热门项目，一个 AI 驱动的求职系统，包含 14 种技能模式、Go 仪表盘和 PDF 生成。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Gravity：从牛顿到爱因斯坦的交互式太阳系模拟器",
+      "url": "https://qunabu.github.io/Gravity/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "Hacker News 热门项目，一个交互式太阳系模拟器，支持从牛顿力学到广义相对论的切换。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 79,
+      "original_comments": 22
+    },
+    {
+      "title": "一颗巨星可能以最罕见的爆炸方式自我毁灭",
+      "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "天文学家观测到一颗巨星可能发生了极为罕见的爆炸，为恒星演化研究提供新线索。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 33,
+      "original_comments": 5
+    },
+    {
+      "title": "一种分子能让植物保持年轻状态",
+      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "研究发现一种分子可以锁定植物的幼态，使其长期保持生长活力，有望应用于农业。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 103,
+      "original_comments": 61
+    },
+    {
+      "title": "日本捕获一只黑熊，此前熊袭击事件创纪录",
+      "url": "https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 5,
+      "summary": "日本宇都宫市捕获一只多次被目击的黑熊，近期日本熊袭击事件达到历史最高水平。",
+      "categories": [
+        "国际",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Ariana Grande 与 Ethan Slater 分手",
+      "url": "https://www.bbc.com/news/articles/cn0ve7952jqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 5,
+      "summary": "流行歌手 Ariana Grande 与演员 Ethan Slater 在交往三年后分手，两人因《魔法坏女巫》电影结缘。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 974.47 📈+2.71(+0.28%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 52337,
+      "summary": "今日 974.47 | 📈 +2.71(+0.28%) | 最高 974.47 最低 971.88 | 连涨 3天 | 成交额 ¥272万 | 成交量 52337件 | 📈1139 ➡5586 📉769"
+    }
+  ]
+}
