@@ -1,0 +1,637 @@
+{
+  "date": "2026-06-10",
+  "commentary": "各位老铁，今儿个磊哥跟你们唠点真格的。特朗普这老小子又放卫星了，说“热爱通胀”，美国物价直接干到三年最快涨幅，4.2%啊！老百姓买包薯片都得掂量掂量，他倒好，跟通胀谈恋爱呢？这不叫热爱，这叫跟钱有仇。另一边，中东那旮旯又炸开了锅，以色列空袭黎巴嫩南部，17条命没了，特朗普还威胁要“猛烈”打击伊朗。合着这世界就是个大型真人吃鸡游戏，你们是玩家，老百姓是那地上的盒子？\n\n再说说AI这档子事儿。Claude Fable 5刚发布就被说“过于强大”，OpenAI又嚷嚷着要上市，欧盟还逼着Meta开放WhatsApp接AI。磊哥就问一句：你们造出这些“超脑”，是打算让它们替咱写诗，还是替咱决定今天吃啥？哦对了，台积电那边还暗示要涨价，半导体月销售额破千亿，内存价格一年翻9倍。合着未来世界，咱们连电费都交不起了，还得给AI当电池？\n\n今日金句：世界是个大赌桌，有人押子弹，有人押芯片，就咱们老百姓，押的是明天的早餐。",
+  "news": [
+    {
+      "title": "特朗普称美国今日将再次对伊朗发动‘猛烈’打击",
+      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美国总统特朗普警告伊朗，若迟迟不达成协议将‘付出代价’，伊朗则誓言对任何攻击进行报复。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "以色列空袭黎巴嫩南部致17人死亡",
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "黎巴嫩国家通讯社称，以色列对泰尔代巴镇发动一系列袭击，造成至少17人死亡。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌克兰称导弹击中俄罗斯境内军事工厂",
+      "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "乌克兰军方表示，还袭击了俄方一处炼油厂和黑海一艘‘影子舰队’油轮。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "巴基斯坦在阿富汗发动致命空袭，边境紧张局势再起",
+      "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "此次空袭打破了两国边境地区数周的相对平静，引发阿富汗方面强烈反应。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普称‘热爱通胀’引争议，美国物价创三年最快涨幅",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "美国消费者价格指数上涨4.2%，民众生活压力加大，特朗普的言论引发广泛批评。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "被指‘过于强大’的AI工具Claude Fable 5竟向公众发布",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "Anthropic的Claude Mythos升级版引发科技、金融和政府领袖震动，安全担忧加剧。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI巨头融资竞赛白热化：ChatGPT母公司计划上市",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "OpenAI提交上市文件，紧随Anthropic之后，AI行业资本争夺战升级。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟下令Meta开放WhatsApp以接入竞争对手AI聊天机器人",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta指责欧盟‘监管过度’，称此举将使OpenAI等巨头免费接入WhatsApp。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "全球半导体月销售额首次突破1100亿美元",
+      "url": "https://www.solidot.org/story?sid=84541",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "4月销售额同比增长93.9%，内存价格飙升，8GB DDR4价格一年涨至约9倍。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国法院裁定Google需为AI Overviews内容承担责任",
+      "url": "https://www.solidot.org/story?sid=84540",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "慕尼黑法院认为AI Overviews是Google自有内容，而非搜索结果，出版商指控其错误关联诈骗。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "梅赛德斯-奔驰开始大规模生产电动轴向磁通电机",
+      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "该电机技术有望提升电动车效率，标志着汽车电动化的重要进展。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 425,
+      "original_comments": 257
+    },
+    {
+      "title": "AWS Bedrock将要求与Anthropic共享数据以用于Mythos及未来模型",
+      "url": "https://news.ycombinator.com/item?id=48473166",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "新政策引发数据隐私担忧，用户需同意数据共享才能使用高级AI模型。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 357,
+      "original_comments": 213
+    },
+    {
+      "title": "美国消费者价格指数同比上涨4.2%",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "通胀数据高于预期，加剧市场对美联储加息的担忧。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 212,
+      "original_comments": 192
+    },
+    {
+      "title": "全球最大芯片制造商台积电未排除涨价可能",
+      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "台积电高管罕见受访，讨论AI热潮、芯片地缘政治及电子产品价格影响。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX股票上市或成马斯克最大赌注",
+      "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "SpaceX准备上市，可能重塑公司、市场及马斯克个人财富格局。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国将比亚迪列入涉嫌与中国军方有联系的企业名单",
+      "url": "https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "五角大楼名单警告美国企业与被标记中国公司合作的风险。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "FCC计划在美国推行手机实名制",
+      "url": "https://www.solidot.org/story?sid=84544",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "美国联邦通信委员会拟强制电信公司存储用户身份信息，引发隐私担忧。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "npm v12将不再自动执行依赖项脚本以提升安全性",
+      "url": "https://www.solidot.org/story?sid=84543",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Node.js生态安全事件频发后，npm大版本更新将默认禁止自动执行安装脚本。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "双星系统化学差异揭示行星被恒星吞噬的命运",
+      "url": "https://www.solidot.org/story?sid=84542",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "天文学家发现HD 81809双星中铁含量差异巨大，暗示一颗恒星曾吞噬行星。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NASA公布阿尔忒弥斯登月计划下一批宇航员名单",
+      "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "新宇航员虽被命名，但不会登陆月球甚至不会接近月球。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "人形机器人或将走向战场？军方开始试验",
+      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "各国军队正试验人形机器人，但战场部署仍遥遥无期。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果发布Siri AI改造并推出新儿童安全功能",
+      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "蒂姆·库克告别之际，苹果还加强了针对‘裸化’应用的儿童保护措施。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "被监禁的加密货币创始人Sam Bankman-Fried寻求特朗普赦免",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "FTX前CEO目前服刑25年，已正式申请总统赦免。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国首相要求苹果和谷歌在儿童手机上屏蔽裸体图像",
+      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "企业将被要求激活内置功能，防止儿童接触色情内容。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "玩家对抗游戏行业‘停服’行为：Stop Killing Games运动兴起",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "该运动挑战游戏发行商关闭服务器后不保留可玩版本的做法。",
+      "categories": [
+        "社会",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "树莓派因AI需求增长上调盈利预期",
+      "url": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "公司预计2026年上半年调整后收益至少达3800万美元。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "比亚迪一年进行200次OTA更新，远超竞争对手",
+      "url": "https://www.solidot.org/story?sid=84538",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "数据显示比亚迪软件更新频率是特斯拉的12倍、丰田的25倍。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究发现人类习惯逆时针行走",
+      "url": "https://www.solidot.org/story?sid=84545",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "疫情期间实验意外发现，多数人倾向于逆时针方向行走，原因尚不明确。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：怀旧内容——Z世代怀念石炭纪的巨型蜻蜓",
+      "url": "https://xkcd.com/3256/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "漫画调侃Z世代沉迷于远古巨型昆虫的怀旧梗，对比今日蜻蜓的渺小。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：行星科学——冲浪板命名委员会",
+      "url": "https://xkcd.com/3255/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "漫画幽默地将科研监督委员会与冲浪板命名联系起来，讽刺学术官僚。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：探测器——最低假阴性率的实验",
+      "url": "https://xkcd.com/3254/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "漫画以极简风格展示一个声称拥有最低假阴性率的实验，引人发笑。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：阳光——天文学家召唤云层的超能力",
+      "url": "https://xkcd.com/3253/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "漫画调侃天文学家和天文摄影师无意中召唤云层的‘超能力’。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：祖先基因组——建议停止研究因为不关我们的事",
+      "url": "https://xkcd.com/3252/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "漫画以幽默方式建议对祖先基因组研究‘不再需要进一步研究’。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TypingMind：按使用付费、支持18个模型提供商的AI工具",
+      "url": "https://www.producthunt.com/products/typing-mind",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品，无需订阅，灵活使用多种AI模型。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Napkin Math：个性化AI食物日记与营养教练",
+      "url": "https://www.producthunt.com/products/napkin-math",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品，用AI记录饮食并提供个性化营养建议。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Axol：用强大机器人自动化体力工作",
+      "url": "https://www.producthunt.com/products/axol",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品，旨在通过机器人替代重复性体力劳动。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Gemini 3.5 Live Translate：最新语音到语音实时翻译模型",
+      "url": "https://www.producthunt.com/products/gemini-3-5-live-translate",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品，支持实时语音翻译，打破语言障碍。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "iArt.ai：将创意和设计转化为惊艳视频/动画",
+      "url": "https://www.producthunt.com/products/iart-ai",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品，AI驱动的视频和动画生成工具。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "虎哥摩根时代入驻B站，播放量超380万",
+      "url": "https://www.bilibili.com/video/BV1iwEE6bEYj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "知名UP主‘虎哥二次元教父’正式入驻哔哩哔哩，引发粉丝热烈欢迎。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 3807250,
+      "original_comments": 454
+    },
+    {
+      "title": "某幻君《盛世天下》再返深宫，播放量超226万",
+      "url": "https://www.bilibili.com/video/BV1W4EE6GECF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主某幻君带来古风剧情向作品，弹幕互动超3万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2261355,
+      "original_comments": 30550
+    },
+    {
+      "title": "新三国UP主锐评老三国：这才是真正的三国",
+      "url": "https://www.bilibili.com/video/BV1T4E36FEUh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主吃蛋挞的折棒对比新旧三国，引发2.1万条弹幕讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2119520,
+      "original_comments": 21414
+    },
+    {
+      "title": "搞笑小剧场：猜猜谁点的外卖，内容过于真实",
+      "url": "https://www.bilibili.com/video/BV1tK7S6PEhv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门搞笑视频，UP主吾不易演绎生活场景，播放量超186万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1864265,
+      "original_comments": 277
+    },
+    {
+      "title": "瓜摊监狱兔：B站热门动画短片",
+      "url": "https://www.bilibili.com/video/BV13CE26NEmn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "UP主Raymondsese创作的趣味动画，播放量超116万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1162506,
+      "original_comments": 1092
+    },
+    {
+      "title": "跟资本对赌！《一掷千金》开出100万血亏或5块全场起立",
+      "url": "https://www.bilibili.com/video/BV1XbES63EMD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门游戏视频，UP主沫子瞪片展示刺激的赌局玩法。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 756943,
+      "original_comments": 4431
+    },
+    {
+      "title": "高考结束的第一批受害者出现了",
+      "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，调侃高考结束后考生们的各种‘惨状’。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "退钱哥刚落地墨西哥就被骗了",
+      "url": "https://s.weibo.com/weibo?q=%E9%80%80%E9%92%B1%E5%93%A5%E5%88%9A%E8%90%BD%E5%9C%B0%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B0%B1%E8%A2%AB%E9%AA%97%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜，知名球迷‘退钱哥’在墨西哥遭遇骗局，引发网友热议。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "央视曝光色情漫画陷阱",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%89%B2%E6%83%85%E6%BC%AB%E7%94%BB%E9%99%B7%E9%98%B1&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜，央视揭露色情漫画背后的诈骗和不良诱导问题。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "孟羽童自媒体收入不稳定再次求职",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%9F%E7%BE%BD%E7%AB%A5%E8%87%AA%E5%AA%92%E4%BD%93%E6%94%B6%E5%85%A5%E4%B8%8D%E7%A8%B3%E5%AE%9A%E5%86%8D%E6%AC%A1%E6%B1%82%E8%81%8C&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜，前格力秘书孟羽童因自媒体收入不稳，重新寻找工作机会。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "孙颖莎达成了新成就",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BE%BE%E6%88%90%E4%BA%86%E6%96%B0%E6%88%90%E5%B0%B1&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜，乒乓球运动员孙颖莎在比赛中取得新突破。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "男孩把珠子塞进耳朵怕责怪隐瞒6年",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%A9%E6%8A%8A%E7%8F%A0%E5%AD%90%E5%A1%9E%E8%BF%9B%E8%80%B3%E6%9C%B5%E6%80%95%E8%B4%A3%E6%80%AA%E9%9A%90%E7%9E%926%E5%B9%B4&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜，一名男孩因害怕被责备，将珠子塞入耳朵后隐瞒长达6年。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 954.17 📈+4.33(+0.46%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 160144,
+      "summary": "今日 954.17 | 📈 +4.33(+0.46%) | 最高 954.17 最低 949.84 | 连涨 1天 | 成交额 ¥543万 | 成交量 160144件 | 📈1296 ➡5104 📉1094"
+    }
+  ]
+}
