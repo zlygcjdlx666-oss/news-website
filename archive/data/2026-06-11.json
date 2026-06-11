@@ -1,0 +1,678 @@
+{
+  "date": "2026-06-11",
+  "commentary": "哎，今儿这新闻看得我血压跟坐过山车似的。先说那无人机杀人的事儿——全自主无人机头一回在实战中搞死人类士兵，各位，这是科幻片变恐怖片啊！以后战场上机器人自己开火，连个“报告长官”的流程都省了，伦理道德直接掉进黑洞。更讽刺的是，Pokémon Go的扫描数据居然被拿去训练军用无人机？合着您孵蛋抓宝可梦，人家拿你数据造“杀人小精灵”，这波操作比杰尼龟喷水还离谱。\n\n再说气候，厄尔尼诺正式官宣，极端天气要组团来串门。那边厢四天暴雨干掉了7%最稀有猩猩，这边美伊还在你炸我我炸你，人类真就一边作死一边等死。太阳能发电超过煤炭算是唯一好消息，但转念一想——AI巨头们忙着烧钱上市，AMD漏洞没人管，macOS更新直接干碎Linux启动，科技圈这德行，您节能省下来的电够不够喂那些大模型啊？\n\n今日金句：人类一边用AI造屠刀，一边用太阳能充电宝给屠刀充电——这波操作，阎王看了都得递简历。",
+  "news": [
+    {
+      "title": "厄尔尼诺现象正式形成，科学家警告极端天气风险",
+      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美国科学家宣布厄尔尼诺事件已正式开始，可能引发极端天气和气温升高，全球需警惕气候异常。",
+      "categories": [
+        "国际",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国与伊朗在中东连续第二天互相打击",
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "伊朗回应美国打击，攻击了科威特、约旦和巴林的美方资产，巴林首都夜间报告受损。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "以色列空袭黎巴嫩南部致17人死亡",
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "黎巴嫩国家通讯社称，以色列对泰尔代巴镇发动系列袭击，造成至少9人死亡，总死亡人数升至17人。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国太阳能发电量首次超过煤炭",
+      "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "最新数据显示，美国太阳能发电量首次超越煤炭，标志着可再生能源里程碑。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 221,
+      "original_comments": 84
+    },
+    {
+      "title": "全自主无人机首次在实战中杀死人类士兵",
+      "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "据报道，全自主无人机首次在战场上完成对人类士兵的击杀，引发伦理与安全讨论。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 79,
+      "original_comments": 53
+    },
+    {
+      "title": "ChatGPT母公司计划上市，AI巨头融资竞赛白热化",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "OpenAI提交上市计划，紧随Anthropic之后，AI领域融资竞争加剧。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Pokémon Go扫描数据被用于训练军用无人机导航技术",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "报告揭示，Pokémon Go的扫描数据被用于训练军用无人机导航，引发隐私与伦理争议。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 616,
+      "original_comments": 284
+    },
+    {
+      "title": "Anthropic为Claude Fable隐形护栏致歉",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "Anthropic就Claude Fable模型中未公开的隐形护栏功能公开道歉，承认设计失误。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 181,
+      "original_comments": 184
+    },
+    {
+      "title": "DeepSeek-R1模型开源复现项目发布",
+      "url": "https://github.com/huggingface/open-r1",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "开源社区成功复现DeepSeek-R1模型，推动AI研究透明化与可重复性。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 137,
+      "original_comments": 14
+    },
+    {
+      "title": "AMD未修复的远程代码执行漏洞曝光",
+      "url": "https://mrbruh.com/amd2/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "安全研究人员披露AMD处理器中存在一个未修复的RCE漏洞，影响广泛设备。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 91,
+      "original_comments": 32
+    },
+    {
+      "title": "macOS 27 Beta破坏Asahi Linux启动能力",
+      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "最新macOS 27 Beta更新导致Asahi Linux无法启动，引发开发者不满。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 90,
+      "original_comments": 34
+    },
+    {
+      "title": "数学家陶哲轩成为AI在数学领域的布道者",
+      "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "著名数学家陶哲轩积极推广AI在数学研究中的应用，探索人机协作新范式。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 60,
+      "original_comments": 29
+    },
+    {
+      "title": "四天极端降雨导致全球7%最稀有猩猩死亡",
+      "url": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "研究显示，气候变化引发的极端降雨事件导致全球7%最稀有猩猩种群死亡。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家发现五百万年前鲸类墓地",
+      "url": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "印度洋发现大规模鲸类化石群，年代可追溯至五百万年前，远超预期。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic发布曾被称“过于强大”的AI版本",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Claude Fable 5正式发布，此前因能力过强引发科技、金融和政府界震动。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟命令Meta向竞争对手AI聊天机器人开放WhatsApp",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta指责欧盟“监管过度”，称此举将让OpenAI等巨头免费接入WhatsApp。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果发布Siri AI改造，库克告别",
+      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "苹果推出Siri AI升级，同时公布多项儿童安全功能，应对“裸体化”应用争议。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国首相要求苹果和谷歌禁止儿童手机上的裸体图像",
+      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "斯塔默敦促科技公司激活内置功能，阻止儿童接触色情图片。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Mike Ashley的Frasers集团出价17.3亿英镑收购Hugo Boss",
+      "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "Frasers集团已持有Hugo Boss超25%股份，现欲全资收购德国时尚品牌。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX IPO：准备最大规模升空？",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8gld?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "SpaceX的IPO备受关注，其业务不仅限于火箭，对市场影响深远。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国对电商巨头酷澎处以4亿美元罚款，因数据泄露影响数百万用户",
+      "url": "https://www.bbc.com/news/articles/cvgj4rgz2n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "酷澎因约3750万用户数据泄露被韩国罚款4亿美元，创纪录。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "全球最大芯片制造商台积电未排除涨价可能",
+      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "台积电高管罕见接受采访，讨论AI热潮、芯片地缘政治及电子产品价格影响。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "东亚最高树被发现，高84.1米",
+      "url": "https://www.solidot.org/story?sid=84555",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "研究人员在台湾发现东亚已知最高树，命名为“大安溪倚天剑”，树龄约千年。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科技巨头大举借债投资AI基础设施",
+      "url": "https://www.solidot.org/story?sid=84553",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "谷歌、Meta、亚马逊等科技巨头通过股票销售和债券发行筹集千亿美元，用于AI建设。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国电商酷澎因用户信息泄露被罚6247亿韩元",
+      "url": "https://www.solidot.org/story?sid=84550",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "酷澎因安全管理疏漏导致3750万用户信息泄露，被韩国处以创纪录罚款。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家发现最大鲸类墓地",
+      "url": "https://www.solidot.org/story?sid=84549",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "中国科考队在东南印度洋发现全球最深、规模最大的鲸类化石群与鲸落生态系统。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：光束管道",
+      "url": "https://xkcd.com/3257/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "漫画幽默描绘实验室中离子束的搞笑使用场景，讽刺科研中的协作问题。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：怀旧内容",
+      "url": "https://xkcd.com/3256/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "漫画调侃Z世代对石炭纪的怀旧，讽刺现代蜻蜓的渺小。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：行星科学",
+      "url": "https://xkcd.com/3255/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "漫画以冲浪板命名机构审查委员会，幽默展示科研中的随意命名。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：探测器",
+      "url": "https://xkcd.com/3254/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "漫画调侃实验的假阴性率极低，以幽默方式展示科学严谨性。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：阳光束",
+      "url": "https://xkcd.com/3253/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "漫画讽刺天文学家和摄影师无意中召唤云层的能力，幽默吐槽天气控制。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "某幻君《盛世天下》再返深宫",
+      "url": "https://www.bilibili.com/video/BV1W4EE6GECF",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "B站热门视频，播放427.8万，UP主某幻君带来古风游戏实况，娱乐性强。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4278376,
+      "original_comments": 58699
+    },
+    {
+      "title": "认为自己旅游运差时可以看看我",
+      "url": "https://www.bilibili.com/video/BV18VED63EBi",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "B站热门视频，播放230.2万，UP主分享搞笑旅游经历，轻松有趣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2302319,
+      "original_comments": 2109
+    },
+    {
+      "title": "今年最恶毒烂梗出炉，一个梗骂几亿中国人",
+      "url": "https://www.bilibili.com/video/BV1GLER6sEVa",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "B站热门视频，播放161.2万，UP主王小七Fire批评恶意营销，引发社会讨论。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 1612456,
+      "original_comments": 4716
+    },
+    {
+      "title": "境外团伙搭色情网站围猎中国青少年 浏览量超1亿次",
+      "url": "https://www.bilibili.com/video/BV1LVEe6ME9v",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "B站热门视频，播放63.8万，央视网快看报道境外色情网站针对青少年的危害。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 638346,
+      "original_comments": 2327
+    },
+    {
+      "title": "动态视频｜吸进身体的二手烟，到底有多脏？",
+      "url": "https://www.bilibili.com/video/BV17YEv6VEUx",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "B站热门视频，播放45.3万，科普二手烟的危害，内容实用。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 453124,
+      "original_comments": 761
+    },
+    {
+      "title": "Riven：Apple Watch检测肌肉力竭",
+      "url": "https://www.producthunt.com/products/riven-reach-muscle-failure",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品，利用Apple Watch传感器精准判断肌肉是否真正力竭。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Juno：AI慢性病健康伴侣",
+      "url": "https://www.producthunt.com/products/juno-13",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品，AI驱动的慢性病健康管理应用，提供个性化支持。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Asmi AI：处理现实世界个人事务的AI",
+      "url": "https://www.producthunt.com/products/asmi-ai",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品，AI代理可执行现实世界中的个人杂务，如购物、预约。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Bond：自动执行的AI待办清单",
+      "url": "https://www.producthunt.com/products/bond-12",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品，AI待办清单能自动完成任务，提升效率。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "INVO Ride：预订旧金山自动驾驶eVTOL航班",
+      "url": "https://www.producthunt.com/products/invo-ride",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品，可预订旧金山超现实自动驾驶电动垂直起降飞行器航班。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PixelForge：照片转游戏资产",
+      "url": "https://www.producthunt.com/products/pixelforge-put-anyone-into-your-game",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品，AI工具将照片快速转换为游戏可用的3D资产。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "apple/container：Mac上运行Linux容器的工具",
+      "url": "https://github.com/apple/container",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目，Swift编写，专为Apple Silicon优化，实现轻量级Linux容器。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "addyosmani/agent-skills：AI编码代理技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目，提供生产级工程技能，用于增强AI编码代理能力。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NVIDIA/SkillSpector：AI代理技能安全扫描器",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目，检测AI代理技能中的漏洞、恶意模式和风险。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "maigret：通过用户名收集个人档案",
+      "url": "https://github.com/soxoj/maigret",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目，可从3000多个网站通过用户名收集个人信息。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TapXWorld/ChinaTextbook：中国教材PDF合集",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目，收录所有小初高及大学PDF教材，引发教育资源共享讨论。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "世界杯开幕式",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "微博热搜，世界杯开幕式引发热议，网友评论“吓我一跳”。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国航天又一次成功发射",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%8F%88%E4%B8%80%E6%AC%A1%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "微博热搜，中国航天再获成功发射，引发广泛关注。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国五角大楼被封锁",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "微博热搜，美国五角大楼发生封锁事件，引发国际关注。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微信能合并发图了",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%83%BD%E5%90%88%E5%B9%B6%E5%8F%91%E5%9B%BE%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "微博热搜，微信新增合并发送图片功能，用户反响热烈。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "女子点外卖备注牛蛙不要烧收到活蛙",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E7%82%B9%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E7%89%9B%E8%9B%99%E4%B8%8D%E8%A6%81%E7%83%A7%E6%94%B6%E5%88%B0%E6%B4%BB%E8%9B%99&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "微博热搜，女子点外卖要求牛蛙不要烧，结果收到活蛙，引发搞笑讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "黄金进入熊市",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E8%BF%9B%E5%85%A5%E7%86%8A%E5%B8%82&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "微博热搜，黄金价格下跌进入熊市，引发投资者关注。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 928.27 📉-3.83(-0.41%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 224703,
+      "summary": "今日 928.27 | 📉 -3.83(-0.41%) | 最高 932.11 最低 927.44 | 连涨 -3天 | 成交额 ¥872万 | 成交量 224703件 | 📈1187 ➡4738 📉1569"
+    }
+  ]
+}
