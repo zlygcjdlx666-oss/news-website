@@ -1,0 +1,602 @@
+{
+  "date": "2026-06-12",
+  "commentary": "来来来，磊哥今天跟大伙儿聊几个硬菜。\n\n首先，伊朗说跟美国的协议“从未如此接近”。哎，这话我怎么听着耳熟？像不像你女朋友每次说“马上就到”的时候，你还在饭店等了一个小时？特朗普那边喊得欢，伊朗这边也配合着喊，两边都想当那个“终结历史的人”。可问题是，谈判桌上的每句话，背后都是导弹和石油的筹码。别高兴太早，这“接近”啊，搞不好就跟马拉松的终点线似的，永远差那么一哆嗦。\n\n再说OpenAI要上市了，SpaceX又融了750亿美元，AI和太空的烧钱大赛彻底进入白热化。磊哥我直说了：现在不是比谁技术强，是比谁烧钱猛、谁画饼圆。马斯克都快万亿富豪了，你问我啥感受？我就一个感觉——这帮人赚的是全人类的未来钱，但最后买单的，还是你我手里的那点流量和隐私。\n\n最后，泰国公主昏迷三年后去世，CRISPR能精准杀癌细胞了。殡葬业靠技术革新，医疗界靠基因革命。磊哥今天的金句就是：**“有钱人忙着上天，普通人只求治病；世界割裂成两个直播间，一个在卖火箭，一个在卖坟头。”**",
+  "news": [
+    {
+      "title": "伊朗称与美国结束对抗的协议“从未如此接近”",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "伊朗和巴基斯坦均表示，与美国达成结束对抗的协议已接近达成，呼应了特朗普总统此前的声明。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "ChatGPT母公司计划上市，AI巨头融资竞赛白热化",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "OpenAI提交上市计划，紧随Anthropic之后，AI领域融资竞赛加剧，行业格局面临重塑。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX融资750亿美元，准备史上最大规模IPO",
+      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "SpaceX在上市前完成750亿美元融资，预计将使其创始人马斯克成为全球首位万亿富翁。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "被指“过于强大”的AI工具版本竟向公众发布",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Anthropic的Claude Fable 5版本AI程序，此前在科技、金融和政府领袖中引发轰动，现已向公众开放。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟命令Meta向竞争对手AI聊天机器人开放WhatsApp",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta指责欧盟“监管过度”，称此举将让OpenAI等巨头免费接入WhatsApp，引发隐私与竞争争议。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果发布Siri AI大改版，库克告别之际推出新儿童安全功能",
+      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "苹果在库克卸任前推出Siri重大AI更新，并针对“脱衣”应用争议，宣布一系列儿童安全新措施。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国对电商巨头处以4亿美元罚款，因数据泄露影响数千万用户",
+      "url": "https://www.bbc.com/news/articles/cvgj4rgz2n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "因约3750万用户隐私数据遭泄露，韩国开出创纪录罚单，对电商数据安全敲响警钟。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国经济因伊朗战争影响出现萎缩",
+      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "官方数据显示，受伊朗战争冲击，英国经济在4月小幅收缩，企业活动受到明显影响。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泰国公主帕差拉吉帝雅帕在昏迷三年多后去世",
+      "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "泰国国王长女、44岁的帕差拉吉帝雅帕公主在2022年12月因遛狗时晕倒，昏迷三年多后不幸离世。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "CRISPR技术精准摧毁癌细胞，包括“不可成药”类型",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "最新研究显示，CRISPR基因编辑技术能选择性破坏癌细胞，为治疗难治性癌症带来新希望。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 190,
+      "original_comments": 53
+    },
+    {
+      "title": "Kimi发布开源编程模型K2.7-Code，提升Token效率",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Kimi推出开源编程模型K2.7-Code，在Token效率上表现更优，为开发者提供更高效的编码工具。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 306,
+      "original_comments": 158
+    },
+    {
+      "title": "AUR软件包被植入信息窃取器和Rootkit，安全警报拉响",
+      "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Arch Linux用户仓库（AUR）中的多个软件包被发现含有恶意代码，用户系统面临被入侵风险。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 219,
+      "original_comments": 142
+    },
+    {
+      "title": "玩家发起“停止杀死游戏”运动，对抗厂商关停游戏",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "玩家群体挑战游戏出版商在停服后使游戏无法运行的做法，要求保障游戏的可玩性。",
+      "categories": [
+        "社会",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泰勒·斯威夫特含泪发表21分钟演讲，入选词曲作者名人堂",
+      "url": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "泰勒·斯威夫特成为最年轻的词曲作者名人堂入选者，在颁奖典礼上感谢家人并发表感人演讲。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "爱莉安娜·格兰德要求白宫停止使用其音乐",
+      "url": "https://www.bbc.com/news/articles/c9328k7j2n4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "格兰德称白宫使用其歌曲《Bye》的视频为“可恶的胡闹”，加入多位艺术家抵制特朗普团队使用其作品的行列。",
+      "categories": [
+        "娱乐",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "迈克·阿什利的Frasers集团出价17.3亿英镑收购Hugo Boss",
+      "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "Frasers集团已持有Hugo Boss超四分之一股份，现提出全资收购要约，交易价值约17.3亿英镑。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普称“我爱通胀”，美国物价涨幅创三年新高",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "美国通胀率升至三年来最高，特朗普随后澄清其言论，表示他爱的是通胀没有更高。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果发布新工具，可在Mac上通过轻量虚拟机运行Linux容器",
+      "url": "https://github.com/apple/container",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "苹果开源了名为“container”的工具，专为Apple Silicon优化，用Swift编写，简化了Mac上的Linux容器管理。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源项目“agent-skills”为AI编码代理提供生产级工程技能",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目addyosmani/agent-skills，提供Shell脚本，旨在提升AI编码代理的工程能力。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源框架“superpowers”发布，定义智能体技能与软件开发新方法",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "项目obra/superpowers提供一套智能体技能框架和软件开发方法论，旨在提升开发效率。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "MasterDnsVPN：利用DNS隧道技术实现高级审查规避",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目MasterDnsVPN通过DNS隧道技术，提供低开销、高稳定性的VPN解决方案，用于绕过网络审查。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源项目“agency-agents”打造一站式AI代理机构",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "msitarzewski/agency-agents项目提供从前端开发到社区运营的多种AI代理，实现自动化工作流。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Insta360发布Luna Ultra：能“看见”你的云台相机",
+      "url": "https://www.producthunt.com/products/insta-360",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Insta360推出新型云台相机Luna Ultra，具备智能跟随功能，可自动识别并追踪拍摄对象。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "INVO Ride：在旧金山预约自动驾驶电动垂直起降飞行器",
+      "url": "https://www.producthunt.com/products/invo-ride",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品INVO Ride允许用户预订自动驾驶eVTOL航班，在逼真的旧金山场景中体验未来出行。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Keep：为iPhone和Mac打造全屏3D时钟场景",
+      "url": "https://www.producthunt.com/products/keep-8",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Keep提供沉浸式全屏3D时钟场景，让你的iPhone或Mac桌面变成艺术时钟。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "HyperSleep：在你真正睡够之前屏蔽社交媒体",
+      "url": "https://www.producthunt.com/products/hypersleep",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品HyperSleep通过强制睡眠检测，在你未达到睡眠目标前锁定社交应用，帮助改善作息。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tide：分层语音笔记，声音会“画”出自己",
+      "url": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Tide将语音笔记可视化，通过分层技术让声音在屏幕上自动生成绘画。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "pleNx：任天堂Switch上的首个原生Plex客户端",
+      "url": "https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品pleNx为Switch带来原生Plex体验，让你在游戏机上流畅播放媒体内容。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "【某幻】《盛世天下》再返深宫，活下来！",
+      "url": "https://www.bilibili.com/video/BV1W4EE6GECF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主某幻君带来《盛世天下》游戏实况，播放量达691万，弹幕互动热烈。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 6909986,
+      "original_comments": 92535
+    },
+    {
+      "title": "懒人为了“顺手”俩字，到底能做多少收纳？",
+      "url": "https://www.bilibili.com/video/BV1otE96tE36",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主海边二狗哥分享懒人收纳技巧，播放量218万，引发网友对生活智慧的讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2181576,
+      "original_comments": 2365
+    },
+    {
+      "title": "新地图解锁！影视飓风的电竞房？",
+      "url": "https://www.bilibili.com/video/BV16kEC6MEWL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，影视飓风展示其全新电竞房，播放量59万，吸引大量科技与游戏爱好者关注。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 592640,
+      "original_comments": 6565
+    },
+    {
+      "title": "峰哥教大学生区分鹅腿鸭腿",
+      "url": "https://www.bilibili.com/video/BV1kwE165EJd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主峰哥亡命天涯以幽默方式教大学生辨别鹅腿和鸭腿，播放量46万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 464460,
+      "original_comments": 2102
+    },
+    {
+      "title": "XKCD漫画：光束管道",
+      "url": "https://xkcd.com/3257/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画调侃实验室中同事之间互相用光束喷射的搞笑场景，幽默展现科研日常。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "能从空气中收集饮用水的夹克",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一款创新夹克设计，能从空气中提取水分并转化为饮用水，为户外和缺水地区提供解决方案。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 132,
+      "original_comments": 87
+    },
+    {
+      "title": "《波斯王子》游戏制作幕后揭秘",
+      "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "经典游戏《波斯王子》的开发者分享其制作历程，回顾这款轰动一时的游戏如何诞生。",
+      "categories": [
+        "娱乐",
+        "科技"
+      ],
+      "original_score": 232,
+      "original_comments": 90
+    },
+    {
+      "title": "地球的海洋从何而来？或许是自己制造的",
+      "url": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "新研究提出，地球的海洋可能并非来自彗星或小行星，而是地球内部通过地质活动自己产生的。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 40,
+      "original_comments": 23
+    },
+    {
+      "title": "欧洲拟对智能眼镜实施新隐私限制",
+      "url": "https://www.politico.com/www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "欧洲监管机构正考虑对智能眼镜进行更严格的隐私监管，以应对日益增长的隐私担忧。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 21,
+      "original_comments": 3
+    },
+    {
+      "title": "能根据阅读者身份改变内容的PDF",
+      "url": "https://sgaud.com/texts/pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一项新技术使PDF文件能根据阅读者的身份或权限动态显示不同内容，增强文档安全性。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 22,
+      "original_comments": 9
+    },
+    {
+      "title": "展望Postgres 19：时间管理功能升级",
+      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "PostgreSQL 19版本将带来时间相关功能的重大改进，提升数据库在时间序列数据处理上的性能。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 14,
+      "original_comments": 0
+    },
+    {
+      "title": "Rust中“main”之前也有生命",
+      "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "技术文章探讨Rust程序在进入main函数之前的初始化阶段，揭示语言底层机制。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 7,
+      "original_comments": 2
+    },
+    {
+      "title": "稍微减少AI生成前端代码的“马虎”程度",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一项研究尝试改进AI生成的前端代码质量，通过微调减少代码中的错误和冗余。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 81,
+      "original_comments": 53
+    },
+    {
+      "title": "官方通报女大学生腹泻6小时后身亡",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%85%B9%E6%B3%BB6%E5%B0%8F%E6%97%B6%E5%90%8E%E8%BA%AB%E4%BA%A1&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜事件，一名女大学生因腹泻在6小时内不幸去世，官方已发布通报，引发社会关注。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "小米SU7一拆一个不吱声",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7%E4%B8%80%E6%8B%86%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜，小米SU7汽车在拆解评测中表现出色，令评测者惊叹，引发网友热议。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "女友失联最终发现被送素质教育基地",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%8F%8B%E5%A4%B1%E8%81%94%E6%9C%80%E7%BB%88%E5%8F%91%E7%8E%B0%E8%A2%AB%E9%80%81%E7%B4%A0%E8%B4%A8%E6%95%99%E8%82%B2%E5%9F%BA%E5%9C%B0&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜，一名女子失联后被发现被家人送往素质教育基地，事件引发对教育方式的讨论。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "31岁幼师溺水身亡母亲悲痛发声",
+      "url": "https://s.weibo.com/weibo?q=31%E5%B2%81%E5%B9%BC%E5%B8%88%E6%BA%BA%E6%B0%B4%E8%BA%AB%E4%BA%A1%E6%AF%8D%E4%BA%B2%E6%82%B2%E7%97%9B%E5%8F%91%E5%A3%B0&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜，一名31岁幼师不幸溺水身亡，其母亲悲痛发声，事件引发公众对安全问题的关注。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "穿洞洞鞋记得坐垂直电梯",
+      "url": "https://s.weibo.com/weibo?q=%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E8%AE%B0%E5%BE%97%E5%9D%90%E5%9E%82%E7%9B%B4%E7%94%B5%E6%A2%AF&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜，提醒穿洞洞鞋时注意安全，避免在扶梯上发生意外，引发网友共鸣。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "千万不要长时间戴耳机",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%95%BF%E6%97%B6%E9%97%B4%E6%88%B4%E8%80%B3%E6%9C%BA&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜，健康提醒：长时间佩戴耳机可能损害听力，引发网友对用耳健康的讨论。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 936.71 📈+0.5(+0.05%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 108628,
+      "summary": "今日 936.71 | 📈 +0.5(+0.05%) | 最高 936.71 最低 935.35 | 连涨 2天 | 成交额 ¥406万 | 成交量 108628件 | 📈1088 ➡5446 📉960"
+    }
+  ]
+}
