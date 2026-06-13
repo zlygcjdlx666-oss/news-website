@@ -1,0 +1,627 @@
+{
+  "date": "2026-06-13",
+  "commentary": "哎哟喂，今儿这新闻看得我直呼好家伙！马斯克同志终于成了人类历史上第一个万亿富翁，SpaceX一上市直接封神。我就想问一句：您这钱是打算建火星别墅还是准备买下地球当物业？不过话说回来，人家好歹是拿火箭烧钱玩，比某些靠割韭菜起家的强多了。\n\n这边Anthropic更绝，搞出个“太危险不能给公众用”的AI工具，结果反手就发布了。合着您这“安全顾虑”就是做做样子？硅谷这帮人嘴上说着“负责任发展”，身体比谁都诚实。我看这AI要真失控了，第一个完蛋的就是你们这帮又当又立的。\n\n最让我拍大腿的还是CRISPR新突破——能精准撕碎癌细胞，连“不可成药”的癌症都能治了。这才是真正该上头条的新闻！马斯克再有钱能给你续命吗？科技就该干点人事儿。建议科研大佬们把经费从元宇宙里抽回来，别整天琢磨怎么让人虚拟世界里买皮肤了。\n\n今日金句：科技要是只想着怎么让你花钱，那跟旧社会的劫匪有啥区别？不过是换了个更高级的收保护费方式。",
+  "news": [
+    {
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "埃隆·马斯克成为全球首位万亿富翁，SpaceX在纳斯达克上市后市值达2.2万亿美元，其个人财富增至1.11万亿美元。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 10,
+      "summary": "SpaceX上市推动马斯克成为全球首位万亿富翁，其财富达1.11万亿美元，公司市值2.2万亿美元。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic suspends new AI tools over US government security concerns",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "Anthropic因美国政府安全担忧暂停新AI工具Claude Fable 5的发布，该工具引发网络安全和黑客攻击担忧。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "Anthropic的Claude Fable 5 AI工具被认为过于强大而引发争议，但已向公众发布，引发科技和金融界震动。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "CRISPR tech selectively shreds cancer cells, including 'undruggable' cancers",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "CRISPR-Cas12a2技术能精准识别并摧毁癌细胞，包括此前被认为不可治疗的癌症类型，为癌症治疗带来突破。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 864,
+      "original_comments": 196
+    },
+    {
+      "title": "新 CRISPR 技术选择性杀死癌细胞",
+      "url": "https://www.solidot.org/story?sid=84559",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "诺贝尔奖得主Jennifer Doudna团队利用CRISPR-Cas12a2酶精准识别癌细胞基因突变并诱导其死亡，为癌症治疗提供新武器。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
+      "url": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国司法部批准华纳兄弟以1110亿美元出售给派拉蒙，这笔交易将重塑媒体行业格局。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "以色列对黎巴嫩发动空袭，伊朗外长称与美国达成协议在即，中东局势持续紧张。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "美国总统特朗普宣布，美军空袭击毙了委内瑞拉犯罪组织Tren de Aragua的头目Niño Guerrero。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "ChatGPT母公司计划上市，AI巨头融资竞赛白热化，继Anthropic后又一重要IPO。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "FTX创始人Sam Bankman-Fried在服刑25年期间正式申请特朗普赦免，引发广泛关注。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "欧盟要求Meta开放WhatsApp接口给竞争对手AI聊天机器人，Meta指责欧盟过度监管。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
+      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "苹果在蒂姆·库克告别之际推出Siri AI升级，同时发布新的儿童安全功能以应对裸体化应用争议。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Starmer tells Apple and Google to ban nude images on children's phones",
+      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国首相斯塔默要求苹果和谷歌激活内置功能，阻止儿童在手机上接触色情图片。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
+      "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国承诺在新年前逐步停止进口俄罗斯柴油和航空燃料，作为对乌克兰战争制裁的一部分。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "UK economy contracts as Iran war impact felt",
+      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "受伊朗战争影响，英国经济在4月出现小幅萎缩，企业活动受到冲击。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+      "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "迈克·阿什利的Frasers集团出价17.3亿英镑收购德国时尚品牌Hugo Boss全部股份，已持有超四分之一。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Switzerland to vote on plan to cap population at 10 million",
+      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "瑞士将就右翼政党提出的将人口上限设为1000万的计划进行公投，支持者称其为可持续倡议，反对者称将导致混乱。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "King leads tributes to 'giant of the art world' David Hockney",
+      "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "英国国王查尔斯领衔悼念88岁去世的艺术家大卫·霍克尼，称其为艺术界的真正原创者。",
+      "categories": [
+        "国际",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
+      "url": "https://www.bbc.com/news/articles/cpq393dz535o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "大卫·霍克尼在同性恋仍属犯罪的年代通过艺术描绘了和平的同性恋天堂，打破了社会禁忌。",
+      "categories": [
+        "娱乐",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Social media on trial: Four important cases to watch",
+      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "社交媒体公司面临数千起诉讼，BBC梳理了四起可能具有重大影响的案件。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Kalshi to make some users reveal job details to tackle insider trading",
+      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "预测投注平台Kalshi将要求部分用户披露工作细节，以应对内幕交易问题。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "The gamers taking on the industry to stop it switching off games",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Stop Killing Games运动挑战游戏公司关闭游戏服务器的做法，要求确保游戏在停服后仍可游玩。",
+      "categories": [
+        "娱乐",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "India's 'blue gold' starts a new drinks industry",
+      "url": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "印度野生龙舌兰植物正被酿酒商用于创造新的烈酒产业，被称为蓝色黄金。",
+      "categories": [
+        "财经",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Ryanair investigated over charging parents to sit with children",
+      "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国竞争监管机构调查瑞安航空向家长收取与孩子同坐费用的做法。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "特朗普称喜欢通胀，美国物价以三年来最快速度上涨，他后来澄清说喜欢的是通胀没有更高。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Electric motors with no rare earths",
+      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "研究人员开发出不使用稀土元素的电动机，有望降低对稀土供应链的依赖并减少环境影响。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 545,
+      "original_comments": 159
+    },
+    {
+      "title": "Malware developers added nuclear and biological weapons text to their spyware",
+      "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "恶意软件开发者在其间谍软件中添加了核武器和生物武器相关文本，引发安全担忧。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 417,
+      "original_comments": 225
+    },
+    {
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "FFmpeg多媒体框架中被发现21个零日漏洞，对使用该库的广泛应用程序构成严重安全威胁。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 239,
+      "original_comments": 157
+    },
+    {
+      "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
+      "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "美国众议院法案H.R. 6028拟从根本上改变美国版权局的运作方式，引发广泛讨论。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 234,
+      "original_comments": 85
+    },
+    {
+      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Arch Linux称恶意软件事件已受控，超过1500个软件包受影响，AUR仓库遭大规模攻击。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 60,
+      "original_comments": 10
+    },
+    {
+      "title": "Arch Linux 逾四百 AUR 包被植入恶意程序",
+      "url": "https://www.solidot.org/story?sid=84566",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Arch Linux用户软件仓库AUR遭大规模恶意攻击，超400个包被植入恶意程序，维护者正在清理。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "铠侠市值超过丰田跃居日本股市第一",
+      "url": "https://www.solidot.org/story?sid=84562",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "AI热潮推动铠侠市值达44万亿日元，超越丰田成为日本股市市值最高的公司。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "小米开源了其 AI 编程助手 MiMo Code",
+      "url": "https://www.solidot.org/story?sid=84561",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "小米开源AI编程助手MiMo Code，基于OpenCode构建，采用MIT许可证，专注于长程自动化编程任务。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "波兰将直播虐待动物等行为定为犯罪，最高判处五年监禁",
+      "url": "https://www.solidot.org/story?sid=84560",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "波兰通过法案，将直播虐待动物、强奸等严重犯罪行为定为犯罪，最高可判五年监禁。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印尼四天暴雨杀死了 7% 的濒危红毛猩猩",
+      "url": "https://www.solidot.org/story?sid=84558",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "印尼苏门答腊岛连续四天暴雨导致至少58只濒危Tapanuli红毛猩猩死亡，占总数7%，距灭绝更近。",
+      "categories": [
+        "国际",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD: Plate Flip",
+      "url": "https://xkcd.com/3258/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画：盘子翻转——对皮肤、骨骼、房屋、城市、景观等都有很好的去角质效果。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD: Nostalgia Content",
+      "url": "https://xkcd.com/3256/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画：怀旧内容——Z世代获得了石炭纪的一部分，现在他们的梗图都在吐槽今天的蜻蜓多么渺小。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《凡人修仙传之慕兰之战》第1集",
+      "url": "https://www.bilibili.com/video/BV1uxE16ZE7e",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门国创动画《凡人修仙传》新系列开播，播放量达980万，弹幕超110万条。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 9801479,
+      "original_comments": 1101276
+    },
+    {
+      "title": "为了这稀有的粉色螺珠，我在加勒比海与2米长大鲨鱼搏斗",
+      "url": "https://www.bilibili.com/video/BV1eAEq6rExJ",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主在加勒比海冒险寻找稀有粉色螺珠，与2米长大鲨鱼搏斗，播放量达657万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 6570202,
+      "original_comments": 7791
+    },
+    {
+      "title": "新地图解锁！影视飓风的电竞房？",
+      "url": "https://www.bilibili.com/video/BV16kEC6MEWL",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站知名UP主影视飓风展示其全新电竞房，播放量161万，引发粉丝热议。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 1615364,
+      "original_comments": 14824
+    },
+    {
+      "title": "拉屎这件小事！",
+      "url": "https://www.bilibili.com/video/BV1PBE16SE7W",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站趣味科普视频探讨排便这件日常小事，播放量超104万，轻松幽默。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1043888,
+      "original_comments": 845
+    },
+    {
+      "title": "0%成功率的吉尼斯挑战（AI给出的结论）！",
+      "url": "https://www.bilibili.com/video/BV1S2Ey6sEYs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主挑战AI判定成功率0%的吉尼斯纪录，播放量46.6万，充满趣味性。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 465509,
+      "original_comments": 2170
+    },
+    {
+      "title": "CakewordAI",
+      "url": "https://www.producthunt.com/products/cakewordai-snap-learn",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品：指向任何物体即可学习其多语言名称的AI工具，寓教于乐。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Insta360 Luna Ultra",
+      "url": "https://www.producthunt.com/products/insta-360",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品：Insta360 Luna Ultra云台相机，能像人眼一样观察和跟随拍摄对象。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Keep",
+      "url": "https://www.producthunt.com/products/keep-8",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品：为iPhone和Mac设计的全屏3D时钟场景应用，营造沉浸式时间体验。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "HyperSleep",
+      "url": "https://www.producthunt.com/products/hypersleep",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品：阻止社交媒体使用直到你真正入睡的应用，帮助改善睡眠习惯。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tide",
+      "url": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品：分层语音笔记应用，可自动将语音转化为可视化画面。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 929.73 📉-6.48(-0.69%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1788269,
+      "summary": "今日 929.73 | 📉 -6.48(-0.69%) | 最高 940.5 最低 929.59 | 连涨 -1天 | 成交额 ¥6996万 | 成交量 1788269件 | 📈2057 ➡2203 📉3234"
+    }
+  ]
+}
