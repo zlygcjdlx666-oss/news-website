@@ -1,0 +1,637 @@
+{
+  "date": "2026-06-14",
+  "commentary": "哎哟我滴个乖乖，今天这新闻串儿，信息量大到快把我CPU干烧了。老马成了人类史上第一个万亿富翁？1.11万亿美金，这数字后面到底跟了几个零我数学不好数不清。但我就想问一句，这钱他花得完吗？还是说，这根本不是钱，是普通人永远够不着的生产资料和权力游戏？另一个重头戏，纽约尼克斯夺冠后曼哈顿直接变哥谭市，少年中枪巴士被烧63人被捕。这算哪门子狂欢？分明是暴力狂欢症候群！体育胜利成了点燃社会炸药桶的火星子，这背后是憋了多久的火气没处撒？还有瑞士公投反对限制人口，说得好听叫自由，说得难听就是继续内卷。\n\n最后别忘了，英国经济因为伊朗战争缩水了。咱们这边还在聊AI复活亲人、苹果库克告别，那边战火一烧，油管子一断，隔夜就得喝西北风。这世界啊，表面光鲜亮丽，底下全是火药味和铜臭味。\n\n**今日金句：** 有人在天上数星星，有人在地下捡弹壳，而大多数人——都在为那个万亿数字的零头打工。",
+  "news": [
+    {
+      "title": "马斯克成为全球首位万亿富翁，SpaceX上市助推",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 10,
+      "summary": "埃隆·马斯克凭借SpaceX上市，成为全球首位万亿富翁，净资产达1.11万亿美元。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国空袭击毙委内瑞拉黑帮头目",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国总统特朗普宣布，在空袭中击毙了委内瑞拉黑帮组织Tren de Aragua的头目尼诺·格雷罗。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普称美伊协议将于周日签署，伊朗质疑时间",
+      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "特朗普表示美伊协议将在周日签署，但伊朗方面称具体日期尚未确定。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果发布Siri AI升级，库克告别",
+      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "苹果公司推出Siri人工智能改造，同时公布一系列儿童安全新功能，蒂姆·库克即将卸任。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic因美国政府安全担忧暂停新AI工具",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "Anthropic的Claude Fable 5引发网络安全担忧，公司决定暂停发布新AI工具。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟命令Meta开放WhatsApp给竞争对手AI聊天机器人",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "欧盟要求Meta让WhatsApp与OpenAI等竞争对手的AI聊天机器人互通，Meta指责其“监管过度”。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI巨头融资竞赛升温，ChatGPT所有者计划上市",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "ChatGPT母公司提交上市计划，紧随Anthropic之后，AI领域融资竞争白热化。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "瑞士选民否决1000万人口上限提案",
+      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "瑞士公投初步结果显示，约55%的选民反对将人口限制在1000万以内的提案。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "纽约尼克斯夺冠后爆发骚乱，少年中枪巴士被烧",
+      "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "尼克斯队历史性赢得NBA总冠军后，曼哈顿发生骚乱，一名少年中枪，多辆巴士被纵火，63人被捕。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国承诺新年起逐步淘汰俄罗斯柴油和航空燃料",
+      "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国政府宣布将对俄罗斯实施新制裁，计划在年底前停止进口俄罗斯柴油和航空燃料。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国经济因伊朗战争影响出现萎缩",
+      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "官方数据显示，受伊朗战争影响，英国经济在4月份出现小幅萎缩。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯家庭用AI“复活”在乌克兰阵亡的亲人",
+      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "俄罗斯一些家庭利用人工智能技术，生成已故亲人的虚拟形象，这一趋势引发伦理争议。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国首相要求苹果和谷歌禁止儿童手机上的裸体图像",
+      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "斯塔默要求科技公司激活内置功能，阻止儿童接触色情内容，以加强儿童网络安全。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "人形机器人或将走上战场？",
+      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "各国军队正在试验人形机器人，但将其部署到战场仍面临技术和伦理挑战。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国经济为何持续逆势增长？",
+      "url": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "尽管面临全球性冲击，美国经济仍表现强劲，分析其背后的多重因素。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "经济学视角：为何本届世界杯是史上最疯狂",
+      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "从贸易战到票价飙升，2026年世界杯的经济格局前所未有，揭示了全球经济的变迁。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "迈克·阿什利的Frasers集团拟以17.3亿英镑收购Hugo Boss",
+      "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国零售巨头Frasers集团已持有Hugo Boss超25%股份，现欲全资收购这家德国时尚品牌。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "玩家对抗游戏行业，阻止游戏被永久关闭",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "“停止杀死游戏”运动挑战游戏发行商在关闭服务器后让游戏无法运行的做法。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "图表解读：马斯克如何成为万亿富翁",
+      "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "BBC通过图表分析科技巨头埃隆·马斯克财富的惊人增长轨迹。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "社交媒体面临审判：四起重要案件值得关注",
+      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "社交媒体公司面临数千起诉讼，BBC梳理了其中四起可能具有里程碑意义的案件。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "10家A股公司退市，超25万股民踩雷",
+      "url": "https://s.weibo.com/weibo?q=10%E5%AE%B6A%E8%82%A1%E5%85%AC%E5%8F%B8%E9%80%80%E5%B8%82%20%E8%B6%8525%E4%B8%87%E8%82%A1%E6%B0%91%E8%B8%A9%E9%9B%B7&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "近期10家A股上市公司被强制退市，波及超过25万名投资者，引发市场关注。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "台公开解放军无侦10影像，疑似在壮胆",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E5%85%AC%E5%BC%80%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BE%A610%E5%BD%B1%E5%83%8F%E7%96%91%E4%BC%BC%E5%9C%A8%E5%A3%AE%E8%83%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "台湾方面公开了解放军无侦-10无人机的影像，分析人士认为此举意在展示防御能力。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "男子去世欠49万房贷，父母放弃继承",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%8E%BB%E4%B8%96%E6%AC%A049%E4%B8%87%E6%88%BF%E8%B4%B7%E7%88%B6%E6%AF%8D%E6%94%BE%E5%BC%83%E7%BB%A7%E6%89%BF&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "一男子去世后留下49万元房贷，其父母因无力偿还选择放弃继承房产，引发社会讨论。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "女子患上“美女病”，严重者可导致瘫痪",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%82%A3%E4%B8%8A%E7%BE%8E%E5%A5%B3%E7%97%85%E4%B8%A5%E9%87%8D%E8%80%85%E5%8F%AF%E5%AF%BC%E8%87%B4%E7%98%AB%E7%97%AA&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "一名女性被诊断出“美女病”（多发性硬化症），该病严重时可致瘫痪，引发公众关注。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "大学里最被劝退的专业，它排第一",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E9%87%8C%E6%9C%80%E8%A2%AB%E5%8A%9D%E9%80%80%E7%9A%84%E4%B8%93%E4%B8%9A%20%E5%AE%83%E6%8E%92%E7%AC%AC%E4%B8%80&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "一项调查显示，某个大学专业成为学生最想转专业或劝退他人的首选，引发热议。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "汉密尔顿法拉利生涯首冠",
+      "url": "https://s.weibo.com/weibo?q=%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF%E6%B3%95%E6%8B%89%E5%88%A9%E7%94%9F%E6%B6%AF%E9%A6%96%E5%86%A0&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "F1车手刘易斯·汉密尔顿在加盟法拉利车队后，赢得了他的首个分站赛冠军。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "雷军收到YU7车主送的蒜鸟玩偶",
+      "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E6%94%B6%E5%88%B0YU7%E8%BD%A6%E4%B8%BB%E9%80%81%E7%9A%84%E8%92%9C%E9%B8%9F%E7%8E%A9%E5%81%B6&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "小米创始人雷军收到一位YU7车主赠送的“蒜鸟”玩偶，互动温馨有趣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "王俊凯憋不住了张若昀还在加料",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%86%8B%E4%B8%8D%E4%BD%8F%E4%BA%86%E5%BC%A0%E8%8B%A5%E6%98%80%E8%BF%98%E5%9C%A8%E5%8A%A0%E6%96%99&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "综艺节目中，王俊凯和张若昀的互动片段引发网友爆笑，话题登上热搜。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "沈腾以为神级救场，结果全漏了",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E4%BB%A5%E4%B8%BA%E7%A5%9E%E7%BA%A7%E6%95%91%E5%9C%BA%20%E7%BB%93%E6%9E%9C%E5%85%A8%E6%BC%8F%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "沈腾在节目中的一次“救场”操作意外翻车，反而制造了更多笑料。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "陈坤：我还活着呢",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%9D%A4%20%E6%88%91%E8%BF%98%E6%B4%BB%E7%9D%80%E5%91%A2&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "演员陈坤因网络传闻被传“被替换”，本人幽默回应“我还活着呢”。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿嬷的情书：全家人都爱你们",
+      "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%20%E5%85%A8%E5%AE%B6%E4%BA%BA%E9%83%BD%E7%88%B1%E4%BD%A0%E4%BB%AC&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "一位阿嬷写的情书温暖感人，表达了对全家人的爱，引发网友共鸣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "洗衣机演奏《起风了》，纪念高中生活",
+      "url": "https://www.bilibili.com/video/BV1J9EB6xEAB",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "UP主用洗衣机演奏《起风了》，创意十足，以此纪念自己的高中时光。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2117294,
+      "original_comments": 2536
+    },
+    {
+      "title": "把女朋友的人生瞬间做成盲盒送给她",
+      "url": "https://www.bilibili.com/video/BV1wZEk6uEbh",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "一位网友将女朋友的珍贵回忆制作成盲盒礼物，创意浪漫获赞。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 225233,
+      "original_comments": 225
+    },
+    {
+      "title": "Momentra：一款温馨的相机应用，打造精美回忆",
+      "url": "https://www.producthunt.com/products/momentra-aesthetic-camera",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Momentra，一款专注于拍摄和记录美好瞬间的相机应用。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Reverie.fm：完全私密的离线位置音乐日记应用",
+      "url": "https://www.producthunt.com/products/reverie-fm",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Reverie.fm，一款基于位置、完全离线且保护隐私的音乐日记应用。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tinfoil Pigeons：复古雷达屏幕显示头顶飞机",
+      "url": "https://www.producthunt.com/products/tinfoil-pigeons",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Tinfoil Pigeons，让你在复古雷达屏幕上看到头顶飞过的飞机。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "HyperSleep：没睡够就屏蔽社交媒体",
+      "url": "https://www.producthunt.com/products/hypersleep",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品HyperSleep，一款通过屏蔽社交媒体来督促用户保证睡眠的应用。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "CakewordAI：指哪学哪，实时翻译任何物品名称",
+      "url": "https://www.producthunt.com/products/cakewordai-snap-learn",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品CakewordAI，只需指向物体即可学习其任何语言的名称。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Slashy：帮你处理邮件的AI助手",
+      "url": "https://www.producthunt.com/products/slashy-3",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Slashy，一款专注于自动处理电子邮件的AI助手。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国“杰斐逊州”在哪里？【神奇组织51】",
+      "url": "https://www.bilibili.com/video/BV1jCJs6UE9S",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "UP主小约翰可汗科普美国“杰斐逊州”的历史和由来，内容有趣有料。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1234772,
+      "original_comments": 11003
+    },
+    {
+      "title": "基德公开AI技能，一键写知识视频时代来了",
+      "url": "https://www.bilibili.com/video/BV12hE16WEw9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "UP主吟游诗人基德声称视频行业被颠覆，公开其AI一键生成知识视频的技能。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 649489,
+      "original_comments": 662
+    },
+    {
+      "title": "《兔粮是你的谎言》",
+      "url": "https://www.bilibili.com/video/BV1dNJL6XELa",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站热门视频，标题幽默，内容引发观众好奇和讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 6376830,
+      "original_comments": 1873
+    },
+    {
+      "title": "墙那边根本就没有厕所！！",
+      "url": "https://www.bilibili.com/video/BV1aEE16YECM",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站热门视频，标题夸张搞笑，内容充满反转和趣味。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4999119,
+      "original_comments": 1566
+    },
+    {
+      "title": "看一看早餐的质量怎么样#早餐#食品安全",
+      "url": "https://www.bilibili.com/video/BV19sJH6NE2H",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主陈大成bill分享早餐质量测评，关注食品安全话题。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 3247525,
+      "original_comments": 979
+    },
+    {
+      "title": "一方水土养一方舞蹈",
+      "url": "https://www.bilibili.com/video/BV14MJj66EWB",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站热门视频，展示不同地域的独特舞蹈文化，趣味盎然。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 459923,
+      "original_comments": 374
+    },
+    {
+      "title": "约会的是他们，怎么感到尴尬的是我…",
+      "url": "https://www.bilibili.com/video/BV1c8JF6pEua",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站热门视频，以旁观者视角记录约会场景，尴尬感溢出屏幕。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 422884,
+      "original_comments": 1205
+    },
+    {
+      "title": "人在做坏事时…是最有耐心的【超长前摇】",
+      "url": "https://www.bilibili.com/video/BV18fEr6UEr5",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站热门视频，探讨“做坏事”时的耐心现象，标题引人发笑。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1150547,
+      "original_comments": 859
+    },
+    {
+      "title": "iptv-org/iptv：全球公开IPTV频道集合",
+      "url": "https://github.com/iptv-org/iptv",
+      "source": "GitHub Trending",
+      "score": 4,
+      "summary": "GitHub热门项目，收集了来自世界各地的公开IPTV频道列表。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NVIDIA/SkillSpector：AI代理技能安全扫描器",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "source": "GitHub Trending",
+      "score": 4,
+      "summary": "NVIDIA开源项目，用于检测AI代理技能中的漏洞和恶意模式。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "shiyu-coder/Kronos：金融市场的语言基础模型",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "source": "GitHub Trending",
+      "score": 4,
+      "summary": "GitHub热门项目Kronos，一个专为金融市场语言设计的基础模型。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 926.15 📈+0.55(+0.06%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1853195,
+      "summary": "今日 926.15 | 📈 +0.55(+0.06%) | 最高 930.34 最低 919.67 | 连涨 1天 | 成交额 ¥7405万 | 成交量 1853195件 | 📈1975 ➡2104 📉3415"
+    }
+  ]
+}
