@@ -1,0 +1,614 @@
+{
+  "date": "2026-06-15",
+  "commentary": "哎哟喂，兄弟们，今天这大盘看得我直呼好家伙！CSGO皮肤市场涨了0.87%，成交额1600多万，连涨两天了。磊哥我就想问一句：这到底是硬核投资还是韭菜新苗？一把虚拟枪皮比A股还稳，你让那些满仓白酒的基金经理脸往哪搁？这行情啊，就是“电子茅台”的狂欢，你不上车吧怕错过，上了车吧怕接盘——反正我是看不懂，但大受震撼。\n\n再看B站这边，泽连斯基劝降俄罗斯？这标题我直接笑喷，播放量快百万了，弹幕七千多条。磊哥我琢磨着，这哥们儿要是真有这嘴炮功夫，早该去联合国当相声演员了。现在这互联网啊，啥都能整活，连打仗都能搞成脱口秀素材。我只能说：艺术可以接地气，但不能接地府啊！\n\n还有那个《原神》动画短片，三百多万播放，米哈游是真舍得砸钱。但磊哥我看了半天，感觉就是——游戏里抽卡没抽够，还得让你在动画里接着哭？行吧，这波“最后的遗产”到底是留给玩家的情怀，还是留给钱包的遗产，你们自己品。\n\n今日金句：人生就像CSGO皮肤，你以为在增值，其实是在给庄家刷流水。",
+  "news": [
+    {
+      "title": "【闪灵】你的强来了！",
+      "url": "https://www.bilibili.com/video/BV1qV41167Kf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:624.0万 | 弹幕:13.3万 | UP主:哔哩哔哩电影",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6239782,
+      "original_comments": 132885
+    },
+    {
+      "title": "星际超级荒诞动画喜剧！《外星小偷里贝》第03话：上岸星球【UP动画】",
+      "url": "https://www.bilibili.com/video/BV1KkEK6CELv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:594.5万 | 弹幕:4283 | UP主:梦游牛油果官方频道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5944697,
+      "original_comments": 4283
+    },
+    {
+      "title": "《原神》动画短片——「最后的遗产」",
+      "url": "https://www.bilibili.com/video/BV1nAJK6PEwh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:356.7万 | 弹幕:5.8万 | UP主:原神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3566953,
+      "original_comments": 58108
+    },
+    {
+      "title": "洗衣机演奏一首《起风了》，以此纪念我的高中生活",
+      "url": "https://www.bilibili.com/video/BV1J9EB6xEAB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:328.6万 | 弹幕:3396 | UP主:非凯J",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3286017,
+      "original_comments": 3396
+    },
+    {
+      "title": "迈克尔杰克逊的billiejean，斗胆跳一段。",
+      "url": "https://www.bilibili.com/video/BV1dmJP6sEgd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:289.2万 | 弹幕:1530 | UP主:特崮斯",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2891699,
+      "original_comments": 1530
+    },
+    {
+      "title": "峰峦叠嶂间，此城何处寻？",
+      "url": "https://www.bilibili.com/video/BV1QNJu6bEts",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:258.9万 | 弹幕:1.1万 | UP主:鸣潮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2589229,
+      "original_comments": 11294
+    },
+    {
+      "title": "你懂白鹿吗？——内娱嘉欣",
+      "url": "https://www.bilibili.com/video/BV1caJw6ZEwT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:241.7万 | 弹幕:7837 | UP主:玉玉__",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2416599,
+      "original_comments": 7837
+    },
+    {
+      "title": "《主任你说句话啊》",
+      "url": "https://www.bilibili.com/video/BV1BcJP6oEw5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:148.3万 | 弹幕:757 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1483342,
+      "original_comments": 757
+    },
+    {
+      "title": "躲在超市后门吸烟的二人《Night Smoker》",
+      "url": "https://www.bilibili.com/video/BV1EcJP6oEvo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:133.1万 | 弹幕:3907 | UP主:清风最梦",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1330511,
+      "original_comments": 3907
+    },
+    {
+      "title": "有一个人前来踢球",
+      "url": "https://www.bilibili.com/video/BV1AuJA6YEM2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:115.9万 | 弹幕:1108 | UP主:王与也行",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1159190,
+      "original_comments": 1108
+    },
+    {
+      "title": "还挺能装的#情侣日常#抽象#搞笑#骑着小电驴兜风",
+      "url": "https://www.bilibili.com/video/BV1g3Jw6GE2g",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:112.2万 | 弹幕:535 | UP主:dong哈哈丶",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1121960,
+      "original_comments": 535
+    },
+    {
+      "title": "【侯绿萝】新作上线，快来看看！",
+      "url": "https://www.bilibili.com/video/BV16hJ36JEEB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.4万 | 弹幕:424 | UP主:侯绿萝",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1044218,
+      "original_comments": 424
+    },
+    {
+      "title": "泽连斯基劝降俄罗斯",
+      "url": "https://www.bilibili.com/video/BV1hsJg6vE2t",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:96.7万 | 弹幕:7375 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 967370,
+      "original_comments": 7375
+    },
+    {
+      "title": "【女儿殿下 | 官方MV 】周杰伦 疯疯癫癫 Hey 风度翩翩 Hey 陪我家公主玩变化万千 Hey",
+      "url": "https://www.bilibili.com/video/BV1ZSJM6zEFv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:85.1万 | 弹幕:2262 | UP主:杰威尔音乐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 850646,
+      "original_comments": 2262
+    },
+    {
+      "title": "在北美怎么收服黑帮成员给你干活，特工伪装消除势力范围",
+      "url": "https://www.bilibili.com/video/BV16bJ36DE25",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.8万 | 弹幕:169 | UP主:行走的大大大羊腿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 808102,
+      "original_comments": 169
+    },
+    {
+      "title": "新三国up锐评神探狄仁杰01：全剧最大的谜团出现了",
+      "url": "https://www.bilibili.com/video/BV1WSJA6NE43",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:74.1万 | 弹幕:1.2万 | UP主:吃蛋挞的折棒",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 740611,
+      "original_comments": 12206
+    },
+    {
+      "title": "开局直接当领主，还送4个全副武装牛马小弟【剑与王国】",
+      "url": "https://www.bilibili.com/video/BV1bkJN6mEzJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.5万 | 弹幕:2043 | UP主:磊哥游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 724973,
+      "original_comments": 2043
+    },
+    {
+      "title": "杨氏跑刀法",
+      "url": "https://www.bilibili.com/video/BV1wCJM6yEaG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:63.6万 | 弹幕:3634 | UP主:杨齐家_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 636040,
+      "original_comments": 3634
+    },
+    {
+      "title": "和阎鹤祥在甘肃武威，放最野的羊，吃最夯的肉！",
+      "url": "https://www.bilibili.com/video/BV1GWJg6KECu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.3万 | 弹幕:3481 | UP主:食贫道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 413131,
+      "original_comments": 3481
+    },
+    {
+      "title": "没想到开水也能直接加进肉馅里？这样包子馅里的汤汁反而更多？",
+      "url": "https://www.bilibili.com/video/BV1pUJG6oEVS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.7万 | 弹幕:149 | UP主:品诺美食开课啦",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 257103,
+      "original_comments": 149
+    },
+    {
+      "title": "Destiny 2: The Collection",
+      "url": "https://store.steampowered.com/app/72233",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-88% | $16500",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8900,
+      "original_comments": 0
+    },
+    {
+      "title": "EA SPORTS FC™ 26",
+      "url": "https://store.steampowered.com/app/3405690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-80% | $12580",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dying Light 2: Reloaded Edition",
+      "url": "https://store.steampowered.com/app/129576",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-80% | $7998",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8100,
+      "original_comments": 0
+    },
+    {
+      "title": "Sea of Thieves: 2026 Edition",
+      "url": "https://store.steampowered.com/app/1172620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-65% | $10846",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6600,
+      "original_comments": 0
+    },
+    {
+      "title": "Rust",
+      "url": "https://store.steampowered.com/app/252490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $10750",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Split Fiction",
+      "url": "https://store.steampowered.com/app/2001120",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $29185",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Heroes of Might and Magic: Olden Era",
+      "url": "https://store.steampowered.com/app/3105440",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $14925",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "MECCHA CHAMELEON",
+      "url": "https://store.steampowered.com/app/4704690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $3319",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Burglin' Gnomes",
+      "url": "https://store.steampowered.com/app/3844970",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $5400",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Iroh 1.0",
+      "url": "https://www.iroh.computer/blog/v1",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 732,
+      "original_comments": 239
+    },
+    {
+      "title": "CrankGPT",
+      "url": "https://crankgpt.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 504,
+      "original_comments": 206
+    },
+    {
+      "title": "Apple Foundation Models",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 439,
+      "original_comments": 205
+    },
+    {
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 405,
+      "original_comments": 81
+    },
+    {
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "url": "https://news.ycombinator.com/item?id=48542100",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 385,
+      "original_comments": 220
+    },
+    {
+      "title": "Even more batteries included with Emacs",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 333,
+      "original_comments": 120
+    },
+    {
+      "title": "Hetzner Price Adjustment",
+      "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 215,
+      "original_comments": 337
+    },
+    {
+      "title": "Fox to buy Roku",
+      "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 204,
+      "original_comments": 292
+    },
+    {
+      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+      "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 187,
+      "original_comments": 69
+    },
+    {
+      "title": "Openrouter Fusion API",
+      "url": "https://openrouter.ai/openrouter/fusion",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 181,
+      "original_comments": 70
+    },
+    {
+      "title": "Typst 0.15.0",
+      "url": "https://typst.app/docs/changelog/0.15.0/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 180,
+      "original_comments": 41
+    },
+    {
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 164,
+      "original_comments": 34
+    },
+    {
+      "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
+      "url": "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 158,
+      "original_comments": 77
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "Steam 热销游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Forza Horizon 6",
+      "url": "https://store.steampowered.com/app/2483190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$59990",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Stellaris: Season 10",
+      "url": "https://store.steampowered.com/app/1484711",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$34900",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Prime Status Upgrade",
+      "url": "https://store.steampowered.com/app/54029",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$13300",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gothic 1 Remake",
+      "url": "https://store.steampowered.com/app/1297900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$30400",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Stellaris: Nomads",
+      "url": "https://store.steampowered.com/app/4241420",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$17600",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Making glass-to-metal seals for home­made vacuum tubes",
+      "url": "https://maurycyz.com/projects/glass/1/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 32
+    },
+    {
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "url": "https://github.com/sammysltd/euromesh",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 89,
+      "original_comments": 125
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 935.13 📈+8.08(+0.87%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 406927,
+      "summary": "今日 935.13 | 📈 +8.08(+0.87%) | 最高 935.2 最低 927.22 | 连涨 2天 | 成交额 ¥1612万 | 成交量 406927件 | 📈1903 ➡4482 📉1109"
+    }
+  ]
+}
