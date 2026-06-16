@@ -1,0 +1,655 @@
+{
+  "date": "2026-06-16",
+  "commentary": "来来来，磊哥今天不吐不快。先说英国那个16岁以下禁社媒的法案——2027年执行？合着给孩子们留了两年时间疯狂刷手机是吧？要我说这招就跟在厕所门口贴“禁止随地大小便”一个德行，治标不治本。英国大人自己刷TikTok比谁都欢，转头让孩子戒网瘾，这不就是“我抽完烟再告诉你抽烟有害健康”的魔幻现实吗？要真为青少年好，先把算法推荐这头怪兽关进笼子里再说。\n\n再说SpaceX市值干翻亚马逊，马斯克这哥们儿真是把“画饼”玩成了连续剧。以前大家笑他造火箭是烧钱，现在倒好，烧出来的灰都炼成金条了。但磊哥得泼盆冷水：全球第五又怎样？特斯拉当年也封神，现在股价跌成狗。资本市场的记忆比金鱼还短，今天捧你上神坛，明天就能把你当韭菜割。\n\n最后提一嘴伊朗油价协议——表面上油价跌了股市涨了，可您瞅瞅老百姓的反应：政府喊“外交胜利”，民众说“无奈妥协”。这哪是握手言和？分明是俩拳击手打累了互相搀着喘口气，等恢复了力气还得接着抡拳头。\n\n【今日金句】这世界就是个大型双标现场：富人上天是梦想，穷人翻身是妄想。",
+  "news": [
+    {
+      "title": "英国宣布2027年初起禁止16岁以下青少年使用社交媒体",
+      "url": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "英国首相宣布，从2027年初开始，Instagram、YouTube、TikTok等平台将对16岁以下用户关闭，这是全球最严格的社交媒体禁令之一。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX超越亚马逊成为全球第五大市值公司",
+      "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "埃隆·马斯克的火箭公司SpaceX股价飙升，市值超越亚马逊，成为全球第五大最有价值公司。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美伊达成协议后油价下跌、股市上涨",
+      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "美国与伊朗达成协议，重新开放霍尔木兹海峡，导致国际油价下跌，全球股市应声上涨。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国空军B-52轰炸机在加州坠毁致8人死亡",
+      "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "一架B-52轰炸机在执行例行测试任务时在加州坠毁，机上8人全部遇难，事故原因正在调查。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "伊朗将与美国达成的协议宣传为胜利，民众视为无奈之举",
+      "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "伊朗政府将美伊协议包装为外交胜利，但许多伊朗人认为这只是降低物价和避免战争的必要妥协。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本央行加息至31年来最高水平",
+      "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "日本银行将利率从接近零的水平上调至31年来的最高点，标志着日本货币政策的历史性转折。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟命令Meta向竞争对手AI聊天机器人开放WhatsApp",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "欧盟要求Meta开放WhatsApp接口，允许OpenAI等竞争对手的AI聊天机器人接入，Meta指责欧盟过度监管。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "ChatGPT母公司计划上市，AI巨头融资竞赛白热化",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "OpenAI提交IPO文件，紧随Anthropic之后，AI领域两大巨头在资本市场展开激烈竞争。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯艺术家兼普京批评者在波兰遭枪杀",
+      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "以讽刺普京漫画闻名的俄罗斯艺术家罗伯特·库佐夫科夫在波兰被枪杀，引发国际关注。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "FBI称有团伙计划用狙击手和无人机袭击白宫UFC活动",
+      "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "美国联邦调查局披露，一个团伙曾计划在白宫UFC活动期间发动袭击，动机涉及腐败和爱泼斯坦案等。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "朱雀二号火箭解体产生上百碎片，威胁空间站",
+      "url": "https://www.solidot.org/story?sid=84593",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "蓝箭航天朱雀二号火箭上面级在轨解体，产生上百块碎片，部分轨道与国际空间站和星链卫星重叠。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "陷入困境的必胜客连锁店将以27亿美元出售",
+      "url": "https://www.bbc.com/news/articles/c75yd6dy2vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "必胜客因竞争加剧长期经营困难，最终以27亿美元的价格被出售，交易预计年内完成。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泰晤士水务公司因政府反对救助协议而接近国有化",
+      "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国环境大臣认为泰晤士水务的救助方案对消费者和环境不利，该公司距离被国有化仅一步之遥。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "古巴旅游业在美国压力下崩溃，游客数量暴跌58%",
+      "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "受美国制裁和石油封锁影响，古巴外国游客数量同比下降58%，旅游业遭受重创。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "越南警方解救400多只被偷来食用的猫",
+      "url": "https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "越南警方逮捕9人，解救超过400只即将被屠宰的猫，其中40多只已与主人团聚。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国16岁以下社交媒体禁令的五个关键问题",
+      "url": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国即将实施社交媒体禁令，但Roblox、YouTube和WhatsApp等平台的具体影响仍不明确。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究显示垂直绿化可将室内温度降低1.7°C",
+      "url": "https://www.solidot.org/story?sid=84600",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "日本研究团队发现，朝南绿墙能显著改善室内热环境，为城市热岛效应提供低成本解决方案。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GLP-1减肥药在降低体重的同时意外降低骨折风险15%",
+      "url": "https://www.solidot.org/story?sid=84599",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "大规模研究发现，GLP-1减肥药不仅有效减重，还能将骨折风险降低15%，推翻此前骨质疏松担忧。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Commodore推出反社交翻盖手机：无浏览器无社交媒体",
+      "url": "https://www.solidot.org/story?sid=84597",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "经典电脑品牌Commodore发布Callback 8020翻盖手机，运行Sailfish OS，彻底屏蔽社交媒体和浏览器。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "禁止使用科技产品显著提升学生阅读能力",
+      "url": "https://www.solidot.org/story?sid=84596",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "美国一位高中教师通过禁止手机和笔记本电脑，要求纸质作业，发现学生阅读能力明显提高。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源模型能否战胜闭源的OpenAI？中美AI路线之争",
+      "url": "https://www.solidot.org/story?sid=84595",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "中国AI公司侧重开源权重模型，美国公司坚持闭源，业界争论开源模式能否最终超越OpenAI。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "curl项目宣布暂停一个月接收漏洞报告以休整",
+      "url": "https://www.solidot.org/story?sid=84594",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "curl维护者Daniel Stenberg宣布7月1日至8月3日暂停漏洞报告接收，称过去四个月压力巨大。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Firefox 152发布：默认编译JPEG-XL支持，重新设计设置界面",
+      "url": "https://www.solidot.org/story?sid=84592",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Mozilla发布Firefox 152，默认编译JPEG-XL图像格式支持，并重新设计了设置界面和硬件配置。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软因GitHub负载激增，被迫求助竞争对手AWS",
+      "url": "https://www.solidot.org/story?sid=84590",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "微软旗下GitHub因AI驱动负载增长频繁宕机，Azure无法满足需求，转而求助亚马逊AWS。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究发现女性经期头部摄药量显著高于男性",
+      "url": "https://www.solidot.org/story?sid=84591",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "小鼠和人类实验显示，经鼻给药时女性在雌激素高峰期头部摄药量远超男性，与经期密切相关。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "亚马逊数据中心2025年耗水25亿加仑，称低于竞争对手",
+      "url": "https://www.solidot.org/story?sid=84598",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "亚马逊公布其数据中心2025年用水25亿加仑，声称每千瓦时用水量远低于微软和Meta。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国电视台因马斯克法律行动删除节目片头",
+      "url": "https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "德国ZDF电视台在收到马斯克律师函后，删除了被其谴责为\" outrageous lies\"的节目片头。",
+      "categories": [
+        "国际",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度教科书因争议恢复\"舞女\"雕像裸露上身",
+      "url": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "印度新版教科书曾用深色遮盖著名\"舞女\"雕像的裸露躯干，遭强烈反对后恢复原图。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "匈牙利议会阻止欧尔班重返总理职位",
+      "url": "https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "匈牙利议会投票通过限制总理任期最多八年，阻止前总理欧尔班再次担任总理。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "瑞典男子因强迫妻子与120名男性发生性关系被判四年",
+      "url": "https://www.bbc.com/news/articles/crlwxg721eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "一名61岁瑞典男子被认定强迫妻子与网上找来的120名男性发生性关系并收取费用，被判四年监禁。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国诈骗损失达13亿英镑/年，AI成为犯罪新工具",
+      "url": "https://www.bbc.com/news/articles/cwykp9ygxlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国平均每分钟发生近8起诈骗案，年损失13亿英镑，犯罪分子越来越多地使用AI技术。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "氦-3是什么？人类能否从月球上开采？",
+      "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "氦-3价格昂贵且需求预计飙升，一些公司计划前往月球开采这种稀有资源。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic发布曾被称\"过于强大\"的AI工具Claude Fable 5",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "Anthropic向公众发布了此前被认为过于强大而受限的Claude Mythos版本——Claude Fable 5。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic因AI工具被滥用紧急会见白宫",
+      "url": "https://www.bbc.com/news/articles/c9w2p7ykp8yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "Anthropic在被迫封锁刚发布的AI模型后，紧急与白宫官员会面讨论安全问题。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX据称以600亿美元收购Cursor",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "传闻SpaceX将以600亿美元收购AI编程工具Cursor，引发科技界广泛讨论。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 645,
+      "original_comments": 1069
+    },
+    {
+      "title": "Meta为何正在摧毁自己的工程组织？",
+      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News热议Meta工程组织的变化，质疑公司正在破坏自身的技术根基。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 242,
+      "original_comments": 179
+    },
+    {
+      "title": "纽约拟立法禁止\"幽灵招聘\"虚假职位",
+      "url": "https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "纽约州可能通过法律，禁止公司发布并不实际招聘的\"幽灵职位\"，保护求职者权益。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 96,
+      "original_comments": 48
+    },
+    {
+      "title": "苹果即将让\"隐藏我的邮箱\"功能变得无用",
+      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "批评者指出苹果即将推出的变化将破坏其隐私保护功能\"隐藏我的邮箱\"的有效性。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 90,
+      "original_comments": 32
+    },
+    {
+      "title": "通义千问发布机器人基础模型套件Qwen-Robot Suite",
+      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "阿里巴巴发布Qwen-Robot Suite，一套面向物理世界智能的机器人基础模型套件。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 75,
+      "original_comments": 11
+    },
+    {
+      "title": "GitHub热门：iptv-org/iptv全球IPTV频道集合单日获1196星",
+      "url": "https://github.com/iptv-org/iptv",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源项目iptv-org/iptv收集全球公开IPTV频道，今日在GitHub上获得1196颗星标。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenBMB发布VoxCPM2：无分词器多语言语音生成模型",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "清华团队OpenBMB发布VoxCPM2，实现无分词器的多语言语音生成和声音克隆。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿里巴巴开源轻量级向量数据库zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "阿里巴巴开源zvec，一个轻量级、闪电般快速的内存向量数据库，用C++编写。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Iroh：用\"拨号键\"替代IP地址的模块化网络栈",
+      "url": "https://github.com/n0-computer/iroh",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源项目Iroh提出用\"拨号键\"替代IP地址，构建模块化网络栈，今日获326星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《原神》动画短片「最后的遗产」B站播放量近500万",
+      "url": "https://www.bilibili.com/video/BV1nAJK6PEwh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "《原神》官方发布动画短片「最后的遗产」，在B站获得494万播放和7.6万弹幕。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 4942592,
+      "original_comments": 76084
+    },
+    {
+      "title": "洗衣机演奏《起风了》纪念高中生活走红B站",
+      "url": "https://www.bilibili.com/video/BV1J9EB6xEAB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "UP主用洗衣机演奏《起风了》纪念高中生活，视频播放量达438万，创意十足。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4386425,
+      "original_comments": 3876
+    },
+    {
+      "title": "在AI里抛硬币，概率真的是50%吗？",
+      "url": "https://www.bilibili.com/video/BV1Wzjg65EM6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "影视飓风发布科普视频，探讨AI环境中抛硬币的概率是否仍是50%，播放量173万。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 1739245,
+      "original_comments": 2464
+    },
+    {
+      "title": "XKCD漫画：Tethys——以12:1比例建造的飞船",
+      "url": "https://xkcd.com/3259/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD新漫画：为了携带必要的手工材料，他们以12:1的比例建造了飞船。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：怀旧内容——Z世代获得了石炭纪",
+      "url": "https://xkcd.com/3256/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画讽刺怀旧文化：Z世代拿到了石炭纪，现在所有梗图都在嘲笑今天的蜻蜓又小又可怜。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Product Hunt新品：Stride——AI工作空间",
+      "url": "https://www.producthunt.com/products/stride-10",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Stride是一个AI工作空间，能与你一起规划、设计和发布产品，今日在Product Hunt上线。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Product Hunt新品：Bitli.st——先卖产品再开发",
+      "url": "https://www.producthunt.com/products/bitli-st",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Bitli.st让你在开发产品之前就能开始销售，验证市场需求后再投入开发。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Product Hunt新品：Revi——设备端语音听写，无需云和账户",
+      "url": "https://www.producthunt.com/products/revi-2",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Revi提供完全在设备上运行的语音听写功能，无需云端处理，保护用户隐私。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 942.28 📈+1.43(+0.15%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 296468,
+      "summary": "今日 942.28 | 📈 +1.43(+0.15%) | 最高 942.28 最低 940.09 | 连涨 3天 | 成交额 ¥1153万 | 成交量 296468件 | 📈1537 ➡4695 📉1262"
+    }
+  ]
+}
