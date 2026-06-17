@@ -1,0 +1,644 @@
+{
+  "date": "2026-06-17",
+  "commentary": "哎哟喂，今天这新闻菜单，够劲儿！咱挑几个硬菜聊聊。\n\n首先，伊朗油轮硬闯美军封锁线，这画面太有“老司机飙车”那味儿了。美军封锁线？在石油面前那就是个虚线，一脚油门就过去了。这说明什么？说明兄弟俩（美伊）嘴上喊打喊杀，心里门儿清——油价就是硬通货，谁跟钱过不去啊？不过这么一搞，中东这火药桶又得“滋滋”冒火星子了。\n\n再说英国宣布2027年禁16岁以下刷社媒。这招绝了！表面上是保护儿童，实际上是给这届“网瘾少年”开了一剂猛药。但磊哥我得说，家长们可别高兴太早——到时候你家孩子不刷TikTok了，改学你刷信用卡了，你信不信？这是把熊孩子从虚拟世界的坑里踢出来，再扔进现实世界的坑里。\n\n最后必须提一嘴OpenAI，亏了80亿美金，市场份额还跌破50%了。这活儿整得，妥妥的“技术界的冤大头”。一边烧钱搞研发，一边被后浪（Gemini、Claude）拍在沙滩上。贝索斯还说AI创造就业？我看是先把程序员们的饭碗给“创造”没了。这波操作，属实是“烧钱烧出新高度，亏损亏出新境界”。\n\n**今日金句：** 世界就是个大型讽刺现场——那边油轮在冲封锁线，这边社会在封社交网；AI一边亏麻了，一边喊着要拯救世界。哥们儿，稳住，别被当韭菜割了。",
+  "news": [
+    {
+      "title": "伊朗油轮突破美军封锁线，驶过阿曼湾",
+      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "三艘伊朗油轮满载原油突破美军在阿曼湾的封锁线，船运追踪数据证实了这一行动，加剧地区紧张局势。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国宣布2027年初起禁止16岁以下青少年使用社交媒体",
+      "url": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "英国首相宣布，自2027年初起，Instagram、YouTube、TikTok等平台将对16岁以下用户关闭，影响数百万儿童。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泄露财务数据显示2025年OpenAI净亏损约80亿美元",
+      "url": "https://www.solidot.org/story?sid=84607",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "OpenAI 2025年营收130.7亿美元，但研发支出飙升至191.8亿美元，净亏损约80亿美元，财务压力巨大。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "ChatGPT市场份额首次跌破50%",
+      "url": "https://www.solidot.org/story?sid=84603",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "报告显示ChatGPT市场份额三年半来首次跌破50%，用户正转向Google Gemini、Anthropic Claude等竞品。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克的SpaceX超越亚马逊，成为全球第五大最有价值公司",
+      "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "SpaceX股价飙升后市值超越亚马逊，成为全球第五大最有价值公司，马斯克同时成为首位万亿富翁。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本加息至31年来最高水平",
+      "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "日本央行自2024年以来持续加息，利率升至31年最高，反映经济政策重大转向。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "以色列无视特朗普批评，对黎巴嫩发动新一轮打击",
+      "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "尽管特朗普批评内塔尼亚胡需对黎巴嫩更负责，以色列仍发动新打击，中东局势持续紧张。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "FBI称有组织计划用狙击手和无人机袭击白宫UFC活动",
+      "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "最新解封文件显示，一个组织因对腐败、爱泼斯坦文件等不满，计划在白宫UFC活动上发动袭击。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "六成美国消费者对品牌信息中的AI表示反感",
+      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "报告显示60%美国消费者反感品牌中的AI元素，74%认为互联网不如10年前有人情味。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 792,
+      "original_comments": 428
+    },
+    {
+      "title": "微软考虑使用DeepSeek开源模型降低Copilot成本",
+      "url": "https://www.solidot.org/story?sid=84602",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "为降低成本，微软正考虑使用DeepSeek-V4自托管版本驱动Copilot，作为低成本选项。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "朱雀二号火箭解体产生上百碎片，威胁空间站",
+      "url": "https://www.solidot.org/story?sid=84593",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "蓝箭航天朱雀二号火箭上面级在太空解体，产生上百碎片，部分与国际空间站轨道重叠。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Peter Thiel的秘密社交网络Dialog成员信息遭曝光",
+      "url": "https://www.solidot.org/story?sid=84601",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "黑客行动主义者曝光了Peter Thiel于2006年创办的秘密组织Dialog的成员和内部记录，涉及政商精英。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "贝索斯称AI将创造更多就业而非取代人类",
+      "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "亚马逊创始人贝索斯认为AI将导致劳动力短缺，创造更多就业机会，而非取代人类工作。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Snap发布1995美元智能眼镜，此前产品曾失败",
+      "url": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Snapchat母公司推出增强现实眼镜Snap SPECS，预计秋季发货，此前类似产品曾遭遇失败。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "氦-3：从月球开采的未来能源？",
+      "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "氦-3价格昂贵且需求预计飙升，一些公司计划从月球开采这种稀有同位素作为未来能源。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GLP-1减肥药被发现有助于抑制暴力冲动",
+      "url": "https://www.solidot.org/story?sid=84610",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "新研究显示GLP-1减肥药不仅能减肥，还能抑制暴力冲动，但研究为观察性，未证明因果关系。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "地下真菌网络长度达11万万亿公里，是地日距离7.5亿倍",
+      "url": "https://www.solidot.org/story?sid=84605",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究显示地下丛枝菌根真菌网络总长度达11万万亿公里，与超七成植物共生，维系地球生态系统。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Mozilla公布Firefox路线图：新UI、自定义快捷键、PDF增强",
+      "url": "https://www.solidot.org/story?sid=84604",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Mozilla宣布Firefox未来功能，包括Project Nova UI更新、自定义快捷键、改进PDF编辑等。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Firefox用Rust语言版Zlib替代C语言版，提升安全与性能",
+      "url": "https://www.solidot.org/story?sid=84608",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Firefox v151起使用Rust编写的zlib-rs库替代C语言版，改进性能、内存安全并修复CPU崩溃问题。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "禁止使用科技产品显著提升学生阅读能力",
+      "url": "https://www.solidot.org/story?sid=84596",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "美国一高中教师禁止学生使用手机和笔记本电脑后，学生阅读能力显著提升，抄袭和注意力问题减少。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Commodore推出反社交网络翻盖手机Callback 8020",
+      "url": "https://www.solidot.org/story?sid=84597",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "昔日PC巨头Commodore回归，发布翻盖手机Callback 8020，运行Sailfish OS，不支持社交媒体和浏览器。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "恶意墙纸瞄准中俄Steam用户，劫持账号",
+      "url": "https://www.solidot.org/story?sid=84609",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "卡巴斯基警告，恶意墙纸在Steam创意工坊扩散，利用Wallpaper Engine漏洞劫持中俄用户账号。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Epic Games推出开源版本控制系统Lore",
+      "url": "https://www.solidot.org/story?sid=84612",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "Epic Games发布MIT许可证的开源版本控制系统Lore，专为游戏和大型私有软件开发优化。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "curl项目宣布7月暂停接收漏洞报告一个月",
+      "url": "https://www.solidot.org/story?sid=84594",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "curl维护者Daniel Stenberg宣布7月1日至8月3日暂停接收漏洞报告，称需要休息缓解压力。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "亚马逊数据中心2025年用水25亿加仑",
+      "url": "https://www.solidot.org/story?sid=84598",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "亚马逊公布其数据中心2025年用水25亿加仑，声称每千瓦时用水量低于微软和Meta。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "垂直绿化可有效降低城市温度",
+      "url": "https://www.solidot.org/story?sid=84600",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "研究显示朝南绿墙可将室内热条件改善最多1.7°C，垂直绿化是应对城市热岛效应的有效策略。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GLP-1减肥药有助于提高男性睾酮水平和精子质量",
+      "url": "https://www.solidot.org/story?sid=84606",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "多项研究显示GLP-1减肥药可使男性睾酮水平增加约30%，并提高精子质量。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GLP-1减肥药降低骨折风险15%",
+      "url": "https://www.solidot.org/story?sid=84599",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "研究发现GLP-1减肥药相比其他减肥药，能将骨折风险降低15%，打消了快速减肥导致骨质疏松的担忧。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国通胀意外持稳，食品价格上涨放缓",
+      "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国通胀率意外保持稳定，食品价格上涨放缓抵消了汽油价格上涨的影响。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "陷入困境的必胜客连锁店以27亿美元出售",
+      "url": "https://www.bbc.com/news/articles/c75yd6dy2vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "必胜客在长期困境和竞争加剧后，以27亿美元价格被出售。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泰晤士水务公司因政府反对救援协议而更接近国有化",
+      "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国环境大臣反对泰晤士水务的救援协议，认为对消费者和环境不利，公司更接近国有化。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "伊朗战争如何影响你的钱包和账单",
+      "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "中东冲突推高汽油、家庭能源和食品价格，专家警告对全球经济影响将持续数月。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "玻利维亚与美国签署2000万美元打击毒品贩运协议",
+      "url": "https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "玻利维亚新总统重新建立与美国的关系，签署2000万美元协议打击有组织犯罪。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "赤道几内亚政府因未能达标而辞职",
+      "url": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "赤道几内亚副总统称政府仅完成约10%的目标，导致政府集体辞职。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "长岛连环杀手杀害8名女性被判终身监禁",
+      "url": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "法官判处连环杀手三项终身监禁加25年，他曾在长岛杀害8名女性。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "旁观者砸碎私人飞机窗户救出坠机幸存者",
+      "url": "https://www.bbc.com/news/articles/cd7wv4144yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "一架私人飞机坠毁后，旁观者砸碎窗户救出5人，但1人死亡。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "尼日利亚男子因在家门外储存人类粪便被判刑",
+      "url": "https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "邻居因无法忍受恶臭投诉，尼日利亚男子因在家门外储存人类粪便被判入狱。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚电台主持人因合同被撕毁获赔1200万澳元",
+      "url": "https://www.bbc.com/news/articles/cyv0qmde97po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "电台主持人Kyle Sandilands因与搭档争吵被解雇，法院判其获赔1200万澳元。",
+      "categories": [
+        "社会",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "比亚迪大唐23.99万起上市",
+      "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%A4%A7%E5%94%9023.99%E4%B8%87%E8%B5%B7%E4%B8%8A%E5%B8%82&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "比亚迪新款大唐车型以23.99万元起售价正式上市，引发市场关注。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微信支付宝打响AI支付战",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "微信和支付宝在AI支付领域展开竞争，推动支付技术新变革。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "塔克拉玛干沙漠长出蘑菇了",
+      "url": "https://s.weibo.com/weibo?q=%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E9%95%BF%E5%87%BA%E8%98%91%E8%8F%87%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "塔克拉玛干沙漠出现蘑菇生长现象，引发网友热议和科学关注。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：梅西——本届世界杯将是梅西面临激烈竞争的最后一次",
+      "url": "https://xkcd.com/3260/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画评论称，本届世界杯可能是梅西最后一次面对激烈竞争的世界杯。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：土卫三——为携带必要材料，他们以12:1比例建造飞船",
+      "url": "https://xkcd.com/3259/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画以幽默方式描绘土卫三任务中为携带材料而建造巨型飞船的场景。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：怀旧内容——Z世代怀念石炭纪，抱怨现代蜻蜓太小",
+      "url": "https://xkcd.com/3256/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画调侃Z世代怀旧石炭纪巨型蜻蜓，讽刺现代蜻蜓的渺小。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SuperGoal：菜单栏里的世界杯",
+      "url": "https://www.producthunt.com/products/supergoal",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品SuperGoal让你在电脑菜单栏实时追踪世界杯赛况。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Vitrine：将任何照片变成精美壁纸",
+      "url": "https://www.producthunt.com/products/vitrine",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Vitrine可一键将普通照片转化为精美手机壁纸。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Dualora：同时录制16:9和9:16双比例视频",
+      "url": "https://www.producthunt.com/products/dualora-dual-size-recorder",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Dualora让你同时录制横屏和竖屏视频，适配不同平台。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "没想到开水也能直接加进肉馅里？这样包子馅的汤汁反而更多？",
+      "url": "https://www.bilibili.com/video/BV1pUJG6oEVS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站美食UP主教你用开水加肉馅，做出汤汁更多的包子，播放量366万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 3664746,
+      "original_comments": 1750
+    },
+    {
+      "title": "在AI里抛硬币，概率是50%吗？",
+      "url": "https://www.bilibili.com/video/BV1Wzjg65EM6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "影视飓风在B站探讨AI中抛硬币的概率问题，播放量324万，引发思考。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 3241466,
+      "original_comments": 3868
+    },
+    {
+      "title": "选志愿的绝望时刻！",
+      "url": "https://www.bilibili.com/video/BV1E5Jg6GEF4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主以幽默方式演绎高考志愿填报的绝望时刻，播放量166万。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 1662060,
+      "original_comments": 740
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 938.29 📉-0.18(-0.02%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 128312,
+      "summary": "今日 938.29 | 📉 -0.18(-0.02%) | 最高 938.51 最低 938.13 | 连涨 -2天 | 成交额 ¥267万 | 成交量 128312件 | 📈899 ➡5726 📉869"
+    }
+  ]
+}
