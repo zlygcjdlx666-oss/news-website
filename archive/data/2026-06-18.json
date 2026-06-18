@@ -1,0 +1,630 @@
+{
+  "date": "2026-06-18",
+  "commentary": "各位老铁，今天这新闻堆里，磊哥最想唠三件事：美伊协议、英国禁网、还有那堆破防的核电站。\n\n先说美伊协议，BBC这标题写得够扎心——打完仗，伊朗政权没垮，反而活得更滋润了。这不就相当于你花了几万亿美金、死了几千大兵，最后发现敌人跟你签了份“你打我，我赢了”的合同吗？战争目的？磊哥看就是给军火商发年终奖，顺便证明“民主”这瓶酒，兑水喝也能把自个儿灌醉。\n\n英国更逗，2027年禁止16岁以下用社交媒体。磊哥就一个问题：您家孩子不上网，是不是改去街头踢易拉罐？这跟当年禁酒令一样，酒是禁不住的，只会催生地下酒馆。到时候TikTok小黑号、油管翻墙教程，估计比老干妈还抢手。政策是好心，但现实是，你把孩子从网上赶走，他们就去更野的“暗网”里蹦迪。\n\n最后聊核电站。瑞士解除禁令、TerraPower联手Meta建八座先进核堆，磊哥鼓掌！环保少女还在那喊“要团结不要分裂”，这边科技巨头已经用脚投票了。AI耗电猛如虎，要是不建核电站，难道靠光伏板给数据中心供电？这就像用吸管喝干了大海，还说自己环保呢。\n\n**今日金句：**  \n“有些战争打完了才明白，赢家不是签协议的人，是卖武器的人；有些禁令发出来才看懂，防的不是孩子，是父母的懒。”",
+  "news": [
+    {
+      "title": "美伊协议引发战争目的质疑",
+      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美伊达成新协议，BBC分析称这引发了关于战争根本目的无法回避的问题，伊朗政权不仅幸存，反而得到加强。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国宣布2027年初起禁止16岁以下青少年使用社交媒体",
+      "url": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "英国首相宣布，从2027年初开始，包括Instagram、YouTube和TikTok在内的社交平台将对16岁以下青少年实施禁令。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "尼日尔最大机场遭枪手袭击致35人死亡",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "尼日尔首都最大机场遭武装分子袭击，造成35人死亡，该国已与伊斯兰极端分子斗争十年。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "莫斯科居民报告下黑雨，系乌克兰最大规模无人机袭击炼油厂所致",
+      "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "近200架乌克兰无人机袭击莫斯科东南部，导致炼油厂和购物中心起火，居民报告出现黑色降雨。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克的SpaceX超越亚马逊，成为全球第五大最有价值公司",
+      "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "得益于股价飙升，埃隆·马斯克的火箭公司SpaceX市值超越零售和媒体巨头亚马逊，跻身全球前五。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果因AI芯片成本上涨将提价",
+      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "苹果即将离任的CEO蒂姆·库克表示，由于AI热潮推高芯片成本，公司将上调产品价格，但未透露具体细节。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "诺和诺德1.3TB内部数据被盗，遭勒索2500万美元",
+      "url": "https://www.solidot.org/story?sid=84619",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "勒索组织FulcrumSec入侵制药巨头诺和诺德，窃取包括源代码、药物研究和临床试验在内的1.3TB数据，并索要2500万美元赎金。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《GTA 6》预购日期和封面艺术公布",
+      "url": "https://www.bbc.com/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Rockstar Games宣布，备受期待的《GTA 6》将于6月25日开启预购，并公布了游戏封面艺术。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "贝佐斯：AI将创造更多就业机会，而非取代人类",
+      "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "亚马逊创始人贝佐斯认为，AI不会取代人类工作，反而会造成劳动力短缺，为人类创造更多岗位。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "DeepSeek推出视觉功能",
+      "url": "https://chat.deepseek.com/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "AI模型DeepSeek宣布引入视觉能力，标志着其在多模态领域迈出重要一步。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 393,
+      "original_comments": 158
+    },
+    {
+      "title": "瑞士议会解除新建核电站禁令",
+      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "瑞士议会投票决定解除自2017年起实施的禁止新建核电站的法令，以应对未来能源需求。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 363,
+      "original_comments": 218
+    },
+    {
+      "title": "研究发现GitHub上存在1万个分发木马恶意软件的仓库",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "安全研究人员在GitHub上发现约1万个仓库正在分发特洛伊木马恶意软件，对开发者构成严重威胁。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 347,
+      "original_comments": 100
+    },
+    {
+      "title": "TerraPower与Meta达成协议，建设八座先进核电站",
+      "url": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "比尔·盖茨创办的TerraPower公司与Meta签署协议，将建设八座345兆瓦的Natrium先进核电站。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 63,
+      "original_comments": 62
+    },
+    {
+      "title": "禽流感导致澳大利亚偏远岛屿超75%海豹幼崽死亡",
+      "url": "https://www.bbc.com/news/articles/cr5jdy92gyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "研究显示，H5N1禽流感毒株已导致赫德岛上约1.3万头南象海豹幼崽死亡，死亡率超过75%。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本防卫大臣：加强国防对防止战争至关重要",
+      "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "日本防卫大臣小泉进次郎表示，日本需要重新审视二战后确立的和平主义姿态，加强国防是防止战争的关键。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国央行维持利率不变，警告高能源价格影响",
+      "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国央行决定维持当前利率，并警告称中东动荡导致的高能源价格阻碍了进一步降息。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美联储首次会议维持利率不变，将审查工作机制",
+      "url": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "美联储在凯文·沃什上任后的首次会议上决定将利率维持在3.5%至3.75%之间，并宣布将对自身工作机制进行审查。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本突击搜查冰淇淋巨头，涉嫌价格垄断",
+      "url": "https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "日本当局对多家冰淇淋巨头进行突击搜查，指控其涉嫌组成卡特尔进行价格操纵，正值该国遭遇创纪录高温。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "陷入困境的必胜客连锁店将以27亿美元出售",
+      "url": "https://www.bbc.com/news/articles/c75yd6dy2vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "在经历长期经营困难和激烈竞争后，必胜客连锁店同意以27亿美元的价格被出售。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "地球海洋起源之谜：彗星假说被否定",
+      "url": "https://www.solidot.org/story?sid=84622",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "1986年对哈雷彗星的探测数据基本否定了地球之水来自彗星的假说，因为地球水的化学特性与彗星水完全不同。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家将鼠疫起源追溯至5500年前",
+      "url": "https://www.solidot.org/story?sid=84618",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "科学家在西伯利亚古代狩猎采集者的牙齿中发现鼠疫DNA，将已知最古老的鼠疫证据追溯到约5500年前，比此前认知早200年。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国汽车占欧洲新车销售比例预计2026年超10%",
+      "url": "https://www.solidot.org/story?sid=84615",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "智库数据显示，截至2025年底，中国产汽车占欧盟新车销售9.3%，预计2026年将超过10%，中国品牌影响力持续扩大。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Snap发布售价1995美元的AR智能眼镜",
+      "url": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Snapchat母公司Snap推出新款增强现实智能眼镜，售价1995美元，预计秋季发货，此前其类似产品曾遭遇失败。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软新版Outlook性能遭诟病：操作需10秒，旧版瞬间完成",
+      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "用户反馈称，微软新版Outlook在执行某些操作时耗时10秒，而经典版Outlook瞬间完成，引发性能争议。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 395,
+      "original_comments": 275
+    },
+    {
+      "title": "医院和大学以低于90%的成本重新利用药物",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一些医院和大学正在探索以极低成本重新利用现有药物，为医疗系统节省大量开支。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 206,
+      "original_comments": 86
+    },
+    {
+      "title": "Ubiquiti发布基于ZFS的企业级NAS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "网络设备公司Ubiquiti推出企业级网络附加存储设备，采用ZFS文件系统，主打高性能和数据完整性。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 143,
+      "original_comments": 121
+    },
+    {
+      "title": "Modos彩色显示器推动电子纸技术发展",
+      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Modos公司推出新款彩色显示器，进一步拓展了电子纸显示技术的应用边界。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 139,
+      "original_comments": 36
+    },
+    {
+      "title": "Craigslist创始人已捐出5亿美元",
+      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "分类信息网站Craigslist的创始人已向慈善事业捐赠了5亿美元，但其行事风格依然低调。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 74,
+      "original_comments": 22
+    },
+    {
+      "title": "数学研究：完美洗牌7次可随机化牌组，随意洗牌需要多少次？",
+      "url": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一项新研究探讨了洗牌次数与随机化程度的关系，已知完美洗牌7次即可，但随意洗牌所需次数尚待解答。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 62,
+      "original_comments": 39
+    },
+    {
+      "title": "每日解谜游戏：让你重新划分选区",
+      "url": "https://gerrymandle.cc/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一款名为Gerrymandle的每日解谜游戏上线，玩家需要重新绘制选举地图，以趣味方式揭示选区划分问题。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 54,
+      "original_comments": 20
+    },
+    {
+      "title": "Launch HN: TesterArmy——测试Web和移动应用的AI代理",
+      "url": "https://tester.army",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "YC孵化的初创公司TesterArmy推出AI代理服务，可自动对Web和移动应用进行测试。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 53,
+      "original_comments": 28
+    },
+    {
+      "title": "Tine：AI桌面光标，替你完成工作",
+      "url": "https://www.producthunt.com/products/tine-2",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品Tine是一款AI桌面光标工具，能够理解用户意图并自动执行操作，提高工作效率。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Locofy：从设计稿到代码的AI代理",
+      "url": "https://www.producthunt.com/products/locofy-ai",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Locofy推出设计到代码的AI代理层，连接Figma与Cursor、Claude等工具，加速前端开发流程。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "D-ID推出可对话的交互式AI视频",
+      "url": "https://www.producthunt.com/products/d-id",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "D-ID发布Agentic视频功能，用户可与AI生成的视频角色进行实时对话，实现双向互动。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tiles：将Apple Health锻炼数据变成私人路线地图",
+      "url": "https://www.producthunt.com/products/tiles-map-your-adventures",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品Tiles能将Apple Health中的锻炼数据转化为私人路线地图，记录你的冒险旅程。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源项目obra/superpowers：智能体技能框架与软件开发方法论",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目superpowers提供一套智能体技能框架和有效的软件开发方法论，今日获1435星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "DeusData/codebase-memory-mcp：高性能代码智能MCP服务器",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目codebase-memory-mcp可将代码库索引为持久知识图谱，支持158种语言，毫秒级查询，今日获2308星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Kilo-Org/kilocode：一体化智能体工程平台",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Kilo定位为一体化智能体工程平台，帮助开发者更快地构建、交付和迭代，今日获1339星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "调查显示中国三分之一青少年睡眠质量差",
+      "url": "https://www.solidot.org/story?sid=84617",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "一项针对中国六城市5713名青少年的调查发现，心理健康、体重指数和屏幕时间与睡眠质量显著相关，女孩和农村青少年问题更突出。",
+      "categories": [
+        "社会",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国物理学家兼科普名人因论文抄袭被剥夺博士学位",
+      "url": "https://www.solidot.org/story?sid=84616",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "法国知名物理学家和科普节目主持人Étienne Klein因论文抄袭被剥夺博士学位，其学术诚信受到质疑。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开水直接加进肉馅？包子馅汤汁更多的秘诀",
+      "url": "https://www.bilibili.com/video/BV1pUJG6oEVS",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频揭秘烹饪技巧：将开水直接加入肉馅中，可以让包子馅产生更多汤汁，播放量超420万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4215970,
+      "original_comments": 1954
+    },
+    {
+      "title": "乘螺舟而至——《太吾绘卷》与中国独立游戏的八年",
+      "url": "https://www.bilibili.com/video/BV1UkjT6yEPq",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "新华社发布视频，回顾国产独立游戏《太吾绘卷》八年的发展历程，播放量超300万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 3038838,
+      "original_comments": 6300
+    },
+    {
+      "title": "上海市中心100万能买到一室一厅一卫？",
+      "url": "https://www.bilibili.com/video/BV1P8LR6KEhD",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频探讨上海市中心房价，提出100万元能否购得一室一厅一卫的疑问，引发热议。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 1098091,
+      "original_comments": 885
+    },
+    {
+      "title": "警方卧底都是人才！搞笑视频合集",
+      "url": "https://www.bilibili.com/video/BV1oZLQ6EEUE",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门搞笑视频合集，展示警方卧底的各种幽默操作，播放量近百万，评论称“笑惨了”。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 981452,
+      "original_comments": 1702
+    },
+    {
+      "title": "XKCD漫画：梅西",
+      "url": "https://xkcd.com/3260/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃评论员认为这将是梅西面临严峻挑战的最后一届世界杯。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：怀旧内容",
+      "url": "https://xkcd.com/3256/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画讽刺Z世代对石炭纪的怀旧，吐槽如今蜻蜓太小，不如古代巨型蜻蜓。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Lidl开设全球首家自有品牌酒吧",
+      "url": "https://www.bbc.com/news/articles/cj9gnljenpko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "德国连锁超市Lidl在英国开设了其全球首家自有品牌酒吧“The Middle Ale”，成为独特商业场景。",
+      "categories": [
+        "趣闻",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "四川发现罕见巨型萤火虫",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%8F%91%E7%8E%B0%E7%BD%95%E8%A7%81%E5%B7%A8%E5%9E%8B%E8%90%A4%E7%81%AB%E8%99%AB&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "微博热搜显示，四川地区发现罕见的巨型萤火虫，引发网友关注和好奇。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "肯德基又换标志",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%8F%88%E6%8D%A2%E6%A0%87%E5%BF%97&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "肯德基品牌标志再次更新，引发网友热议，登上微博热搜。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 918.7 📉-5.31(-0.57%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 111143,
+      "summary": "今日 918.7 | 📉 -5.31(-0.57%) | 最高 923.99 最低 918.67 | 连涨 -3天 | 成交额 ¥405万 | 成交量 111143件 | 📈985 ➡5146 📉1363"
+    }
+  ]
+}
