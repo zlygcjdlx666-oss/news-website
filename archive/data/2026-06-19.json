@@ -1,0 +1,614 @@
+{
+  "date": "2026-06-19",
+  "commentary": "兄弟们，今天这B站热门榜，磊哥一看，好家伙，又是神仙打架。先说那个《不同价格的声音》，554万播放，UP主李肆言哟是吧？这选题绝了，磊哥听完只想说：钱到位了，声音确实好听，但你们有没有发现，最贵的声儿，往往说的都是最没用的废话？这世界就是个巨大的音频软件，穷人调EQ，富人直接换声卡。\n\n再说说上海那个《一百万一室一厅》。磊哥血压直接拉满。一百万，在上海只能买个“蜗居精装版”，这新闻看得我肝疼。你说这房价，到底是用来住的，还是用来考验你祖宗十八代存款的？这视频能火，说明大家心里都门儿清：不是不想买，是真买不起。\n\n最后提一嘴CSGO大盘，907点，成交额才96万？兄弟们，这数字比我周末去菜市场买排骨的流水还寒酸。游戏饰品跌成狗，跟上海房价一比，简直是喜剧之王——外部市场是冰窖，内部市场是ICU。\n\n今日金句：生活就像B站热门，你以为看的是热闹，其实全是自己的账单。",
+  "news": [
+    {
+      "title": "不同价格的声音",
+      "url": "https://www.bilibili.com/video/BV1B6LR6tEcD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:554.7万 | 弹幕:2050 | UP主:李肆言哟",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5546710,
+      "original_comments": 2050
+    },
+    {
+      "title": "《原神》至冬生态短片 - 凛寒的规约",
+      "url": "https://www.bilibili.com/video/BV16Mjc6yEJd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:330.4万 | 弹幕:1.5万 | UP主:原神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3303738,
+      "original_comments": 14933
+    },
+    {
+      "title": "宇 宙 级 免 责 声 明",
+      "url": "https://www.bilibili.com/video/BV14VjF6HEGT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:294.9万 | 弹幕:1400 | UP主:龙大人不喷火",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2949365,
+      "original_comments": 1400
+    },
+    {
+      "title": "上海市中心，一百万能买到一室一厅一卫？",
+      "url": "https://www.bilibili.com/video/BV1P8LR6KEhD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:222.8万 | 弹幕:2051 | UP主:硬派东辰",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2228017,
+      "original_comments": 2051
+    },
+    {
+      "title": "“孩子的第一新声你希望是什么”【波西米亚狂想曲】【超级加倍の小曲】",
+      "url": "https://www.bilibili.com/video/BV1Pqjc6REiP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:200.1万 | 弹幕:6428 | UP主:早睡起大王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2001248,
+      "original_comments": 6428
+    },
+    {
+      "title": "操 控 买 瓜",
+      "url": "https://www.bilibili.com/video/BV1vwLX6yEM2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:198.2万 | 弹幕:5865 | UP主:岩罗Crv",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1982434,
+      "original_comments": 5865
+    },
+    {
+      "title": "假如所有人被迫看着死亡回归",
+      "url": "https://www.bilibili.com/video/BV1Ftjw6DEmL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:179.1万 | 弹幕:7124 | UP主:00kk君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1790509,
+      "original_comments": 7124
+    },
+    {
+      "title": "《言外之易》EP02丨向佐给易立竞说父亲花五亿扶不起他",
+      "url": "https://www.bilibili.com/video/BV1YmJ36BEpo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:173.1万 | 弹幕:3.1万 | UP主:易立竞丨言外之易",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1731191,
+      "original_comments": 30505
+    },
+    {
+      "title": "挑战你们说我像谁我就模仿谁！事情发展到这一步，已经越来越离谱了。。。",
+      "url": "https://www.bilibili.com/video/BV1Nyjq6dENe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:171.0万 | 弹幕:3362 | UP主:李如儒也是李蠕蠕",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1710296,
+      "original_comments": 3362
+    },
+    {
+      "title": "［甲鱼meme］水宝宝",
+      "url": "https://www.bilibili.com/video/BV1LAjP61EbF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:141.6万 | 弹幕:366 | UP主:烫甲鱼",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1416015,
+      "original_comments": 366
+    },
+    {
+      "title": "史蒂夫也是请到高人了，胸肌比头都大【我是僵尸】",
+      "url": "https://www.bilibili.com/video/BV1pMjA6pEVx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:135.7万 | 弹幕:1146 | UP主:磊哥游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1356824,
+      "original_comments": 1146
+    },
+    {
+      "title": "一个世界杯巨星，毁了全世界网友对长腿金发美女的期待",
+      "url": "https://www.bilibili.com/video/BV1NkjA6FEEu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:128.3万 | 弹幕:2306 | UP主:BB姬Studio",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1283209,
+      "original_comments": 2306
+    },
+    {
+      "title": "⚡️JOJO x 迈克尔杰克逊⚡️顶级智斗の【假死避雷】（同人）",
+      "url": "https://www.bilibili.com/video/BV1KTJN6kEuG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:110.4万 | 弹幕:1811 | UP主:Mr丶Ass",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1103646,
+      "original_comments": 1811
+    },
+    {
+      "title": "“啊，是关中王来了！”",
+      "url": "https://www.bilibili.com/video/BV1hNjw6vEa6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:62.1万 | 弹幕:510 | UP主:三木刃",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 620809,
+      "original_comments": 510
+    },
+    {
+      "title": "【纪录片】地球·劫后重生 中配版02 气候巨变",
+      "url": "https://www.bilibili.com/video/BV1Xzj36AE23",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:55.4万 | 弹幕:100 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 554185,
+      "original_comments": 100
+    },
+    {
+      "title": "游 龙",
+      "url": "https://www.bilibili.com/video/BV1BHjz6JEYR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.3万 | 弹幕:5634 | UP主:杨齐家_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 522975,
+      "original_comments": 5634
+    },
+    {
+      "title": "瑞平cosIP从夯到拉",
+      "url": "https://www.bilibili.com/video/BV1Tdjw6hEnT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.6万 | 弹幕:1156 | UP主:陈年老叶_YE",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 485868,
+      "original_comments": 1156
+    },
+    {
+      "title": "花37天，破解上海最贵汉堡，成本只要。。。",
+      "url": "https://www.bilibili.com/video/BV1GDjB66EE9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.5万 | 弹幕:2545 | UP主:绵羊料理",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 485073,
+      "original_comments": 2545
+    },
+    {
+      "title": "没办法，我就是这样一个优秀的人啊！🧚🏻‍♀️",
+      "url": "https://www.bilibili.com/video/BV1A7ju66EGc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:39.3万 | 弹幕:444 | UP主:papi酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 393184,
+      "original_comments": 444
+    },
+    {
+      "title": "【plolt】我为什么突然开始做故事版了",
+      "url": "https://www.bilibili.com/video/BV1Sijq6cEqp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:21.9万 | 弹幕:206 | UP主:plolt",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 219454,
+      "original_comments": 206
+    },
+    {
+      "title": "Battlefield™ V",
+      "url": "https://store.steampowered.com/app/1238810",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-95% | $11",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9600,
+      "original_comments": 0
+    },
+    {
+      "title": "Don't Starve Together",
+      "url": "https://store.steampowered.com/app/322330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "theHunter: Call of the Wild™",
+      "url": "https://store.steampowered.com/app/518790",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "url": "https://store.steampowered.com/app/124923",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-80% | $40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $89",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "It Takes Two",
+      "url": "https://store.steampowered.com/app/1426210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $164",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $89",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Split Fiction",
+      "url": "https://store.steampowered.com/app/2001120",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $129",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Road to Empress Ⅱ",
+      "url": "https://store.steampowered.com/app/4148240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Road to Empress Collection",
+      "url": "https://store.steampowered.com/app/77115",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-12% | $89",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1300,
+      "original_comments": 0
+    },
+    {
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 894,
+      "original_comments": 236
+    },
+    {
+      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 504,
+      "original_comments": 156
+    },
+    {
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 417,
+      "original_comments": 237
+    },
+    {
+      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 411,
+      "original_comments": 58
+    },
+    {
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 388,
+      "original_comments": 320
+    },
+    {
+      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 347,
+      "original_comments": 107
+    },
+    {
+      "title": "Hospitals and universities repurposing drugs at lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 324,
+      "original_comments": 155
+    },
+    {
+      "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 323,
+      "original_comments": 75
+    },
+    {
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 300,
+      "original_comments": 44
+    },
+    {
+      "title": "The AirPods Effect",
+      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 280,
+      "original_comments": 499
+    },
+    {
+      "title": "W Social, public institutions and the theater of European digital sovereignty",
+      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 248,
+      "original_comments": 154
+    },
+    {
+      "title": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 233,
+      "original_comments": 89
+    },
+    {
+      "title": "Ten years of ClickHouse in open source",
+      "url": "https://clickhouse.com/blog/open-source-10",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 193,
+      "original_comments": 61
+    },
+    {
+      "title": "Zen and the Art of Machine Learning Research",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 174,
+      "original_comments": 54
+    },
+    {
+      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 167,
+      "original_comments": 61
+    },
+    {
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 144,
+      "original_comments": 120
+    },
+    {
+      "title": "If your product is Great, it doesn't need to be Good (2010)",
+      "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 134,
+      "original_comments": 95
+    },
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 121,
+      "original_comments": 52
+    },
+    {
+      "title": "Norway greenlights first full-scale ship tunnel",
+      "url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 109,
+      "original_comments": 63
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 907.82 📈+0.48(+0.05%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 45143,
+      "summary": "今日 907.82 | 📈 +0.48(+0.05%) | 最高 908.08 最低 907.24 | 连涨 1天 | 成交额 ¥96万 | 成交量 45143件 | 📈1717 ➡1767 📉4010"
+    }
+  ]
+}
