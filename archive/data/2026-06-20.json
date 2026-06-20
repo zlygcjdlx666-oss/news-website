@@ -1,0 +1,621 @@
+{
+  "date": "2026-06-20",
+  "commentary": "来来来，磊哥先拍桌子！英国那帮老爷们终于开窍了，2027年禁止16岁以下刷社交媒体？早干嘛去了！现在孩子刷TikTok刷得跟磕了药似的，算法比亲妈还懂他们。但磊哥泼盆冷水——你禁得了平台，禁得了孩子们翻墙借号吗？这招治标不治本，不如学学挪威，直接小学全面禁AI，那才叫釜底抽薪。挪威人狠话不多：小孩连字都没认全，你跟ta聊大模型？这不是教游泳，是往泳池里扔保龄球。\n\n再说贝佐斯那套“AI创造就业”的腔调，磊哥差点把咖啡喷屏幕上。老贝啊，您家仓库里机器人搬箱子搬得比人快，亚马逊客服都快换成AI了，转头说“别慌，会有新工作”——这话听着像黄鼠狼给鸡拜年。您倒是说说，被AI干掉的流水线工人，是去写代码还是去跳科目三？未来劳动力短缺？是短缺愿意996还不用交社保的机器人吧！\n\n最后补一刀：中东打仗，PCB板子涨了40%，中国科学家却在研究水稻午睡。磊哥就想问——什么时候咱们的半导体产业也能像水稻一样，晒着太阳打个盹就亩产翻倍？别净让“午睡”的老祖宗笑话。\n\n【今日金句】科技不是爹，别啥都跪着接；孩子不是小白鼠，别啥都往嘴里塞。",
+  "news": [
+    {
+      "title": "英国宣布2027年初起禁止16岁以下青少年使用社交媒体",
+      "url": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "英国首相宣布，从2027年初开始，包括Instagram、YouTube和TikTok在内的社交平台将对16岁以下青少年关闭，影响数百万儿童。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "挪威近乎全面禁止小学使用人工智能",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "挪威出台新规，在小学教育中近乎全面禁止使用人工智能，引发全球对AI教育应用的广泛讨论。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 726,
+      "original_comments": 503
+    },
+    {
+      "title": "现代汽车收购波士顿动力公司",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "现代汽车正式收购知名机器人公司波士顿动力，标志其在机器人领域布局的重大战略举措。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 870,
+      "original_comments": 371
+    },
+    {
+      "title": "以色列与真主党在停火协议后继续交火",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "尽管停火协议已签署，以色列和真主党仍持续互相攻击，黎巴嫩南部出现人员伤亡，地区局势依然紧张。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "贝佐斯：AI将创造更多就业而非取代人类",
+      "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "亚马逊创始人贝佐斯表示，人工智能将创造更多就业机会，未来可能出现劳动力短缺，而非大规模失业。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国央行数据：脱欧导致英国经济规模损失6%",
+      "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国央行公司数据分析显示，脱欧使英国经济规模比未脱欧情况下减少了6%，量化了脱欧的经济代价。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "JDK 28将迎来Project Valhalla十年研发成果",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "经过十年研发，Project Valhalla将在JDK 28中落地，为Java带来值类型等重大性能改进。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 614,
+      "original_comments": 382
+    },
+    {
+      "title": "研究：GPT-5.5幻觉率是MIT开源模型GLM-5.2的三倍",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "最新研究显示，GPT-5.5的幻觉率是MIT开源模型GLM-5.2的三倍，引发对闭源AI可靠性的质疑。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 289,
+      "original_comments": 115
+    },
+    {
+      "title": "卫星揭示GPS信号干扰规模惊人",
+      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "卫星监测数据显示，全球范围内GPS信号干扰规模远超预期，对航空、航运等关键领域构成严重威胁。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 125,
+      "original_comments": 59
+    },
+    {
+      "title": "澳大利亚确认首例H5N1禽流感病例，病毒已遍布各大洲",
+      "url": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "澳大利亚报告首例H5N1禽流感病例，标志着该高致病性病毒已传播至全球所有大陆，引发公共卫生担忧。",
+      "categories": [
+        "国际",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国将停止资助南非艾滋病项目",
+      "url": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "美国宣布停止对南非的艾滋病项目资助，南非是全球艾滋病感染者最多的国家，超过800万人携带病毒。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中东冲突致PCB价格一月内上涨四成",
+      "url": "https://www.solidot.org/story?sid=84625",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "因中东冲突导致沙特高纯度树脂工厂停产，全球PCB核心原材料供应受阻，电路板价格在一个月内飙升40%。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加州亿万富翁税提案获足够签名，11月将公投",
+      "url": "https://www.solidot.org/story?sid=84628",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "加州亿万富翁税提案获得足够签名，将在11月公投。该提案拟对身价超10亿美元的居民一次性征收5%税款，用于医保和教育。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国科学家破解水稻“午睡”百年之谜",
+      "url": "https://www.solidot.org/story?sid=84626",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "中科院团队经10年研究，在《细胞》发表成果，揭示了正午高光高温导致水稻光合作用抑制的分子机制，有望提升作物产量。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《毁灭战士》《德军总部》作曲家Bobby Prince去世",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "经典游戏《毁灭战士》《德军总部3D》和《毁灭公爵3D》的作曲家Bobby Prince逝世，享年60岁。",
+      "categories": [
+        "娱乐",
+        "科技"
+      ],
+      "original_score": 410,
+      "original_comments": 48
+    },
+    {
+      "title": "《老友记》《欢乐酒店》传奇导演James Burrows去世，享年85岁",
+      "url": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "执导过《欢乐酒店》《老友记》《生活大爆炸》等经典美剧超过1000集的传奇导演James Burrows逝世。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Snap发布1995美元AR智能眼镜，此前产品曾失败",
+      "url": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Snapchat母公司发布新一代增强现实眼镜，售价1995美元，预计今年秋季发货，此前其AR眼镜产品曾遭遇市场失败。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "新游戏机旨在让孩子动起来",
+      "url": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "一款售价269英镑的立方体形游戏机将于6月22日在英国和爱尔兰发售，其独特设计鼓励玩家通过身体运动来操控游戏。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "人工冰金字塔拯救印度山村",
+      "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "喜马拉雅山区的印度村庄通过建造人工冰川——冰金字塔，在春季为农作物提供灌溉水源，应对气候变化带来的水资源短缺。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国央行维持利率不变，高能源价格阻碍降息",
+      "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国央行决定维持当前利率水平，指出中东局势导致的高能源价格是阻碍进一步降息的主要因素。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果因AI芯片成本上涨将提价",
+      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "苹果即将离任的CEO蒂姆·库克表示，由于人工智能热潮推高芯片成本，公司计划上调产品价格，但未透露具体时间和产品。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Modos推出13.3英寸开源彩色电子纸显示屏",
+      "url": "https://www.solidot.org/story?sid=84624",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "创业公司Modos在众筹平台推出13.3英寸开源彩色电子纸显示屏，众筹金额已远超目标，达到45.6万美元。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：战争改变野生动物活动模式",
+      "url": "https://www.solidot.org/story?sid=84623",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "《科学》期刊研究显示，乌克兰战争导致当地哺乳动物减少夜间活动，野生动物通过行为调整应对武装冲突。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "地球之水来自何处？科学家仍无定论",
+      "url": "https://www.solidot.org/story?sid=84622",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "关于地球水的来源，彗星说、小行星说和地球自创说三大假说均存在争议，1986年哈雷彗星观测数据基本否定了彗星假说。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Pake：一行命令将任意网页变成桌面应用",
+      "url": "https://github.com/tw93/Pake",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源工具Pake在GitHub上爆火，一天获得2398颗星，只需一行命令即可将任何网页转化为轻量级桌面应用。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Headroom：压缩LLM输入数据，节省60-95% token",
+      "url": "https://github.com/chopratejas/headroom",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源工具Headroom可在将数据送入大语言模型前进行压缩，减少60-95%的token消耗，同时保持答案质量。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Codebase Memory MCP：毫秒级代码库索引工具",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "高性能代码智能MCP服务器，支持158种语言，可将代码库索引为持久化知识图谱，查询速度低于毫秒级。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Turso：兼容SQLite的进程内SQL数据库",
+      "url": "https://github.com/tursodatabase/turso",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "Turso是一款用Rust编写的进程内SQL数据库，与SQLite完全兼容，在GitHub上获得774颗星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Palmier Pro：专为AI设计的macOS视频编辑器",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源macOS视频编辑器Palmier Pro专为AI工作流设计，一天内在GitHub上获得904颗星。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "JetBrains发布Mellum：低延迟高性能LLM",
+      "url": "https://www.producthunt.com/products/jetbrains",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "JetBrains推出Mellum，一款专为低延迟和高性能工作流设计的大语言模型，面向开发者社区。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Pixlie：AI视频工作室，文本和图像可控生成视频",
+      "url": "https://www.producthunt.com/products/pixlie",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Pixlie推出AI视频工作室，支持从文本和图像生成视频，并提供精确的控制能力。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "just f***ing send it：浏览器间直接传输任意大小文件",
+      "url": "https://www.producthunt.com/products/just-f-ing-send-it",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "一款极简工具上线，支持在浏览器之间直接传输任意大小文件，无需服务器中转。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Midjourney Scanner：60秒超声波全身扫描仪",
+      "url": "https://www.producthunt.com/products/midjourney",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Midjourney推出基于超声波的全身扫描仪，声称60秒内即可完成扫描，效果可媲美MRI。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：副作用",
+      "url": "https://xkcd.com/3261/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD新漫画《副作用》以幽默方式描绘了某种奇怪副作用带来的荒诞场景。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：梅西",
+      "url": "https://xkcd.com/3260/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画调侃梅西，称这可能是他最后一次在世界杯上遇到真正对手。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：盘子翻转",
+      "url": "https://xkcd.com/3258/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画以夸张手法描绘了盘子翻转的灾难性后果，用于去角质皮肤、骨骼、房屋、城市乃至景观。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "2026年海水淹没宿舍，我决定造战舰征服一万个星球",
+      "url": "https://www.bilibili.com/video/BV1GtJG63ES5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主以荒诞脑洞讲述海水淹没宿舍后造战舰征服星球的奇幻故事，播放量248万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2483015,
+      "original_comments": 5791
+    },
+    {
+      "title": "当你获得超能力：储存空间（0.01立方米）",
+      "url": "https://www.bilibili.com/video/BV1AyjA6ZEWn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，以幽默方式探讨获得极小储存空间超能力的日常囧境，播放量188万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1885010,
+      "original_comments": 1627
+    },
+    {
+      "title": "律师去村里抓猪抵债，法官：我也没料到",
+      "url": "https://www.bilibili.com/video/BV1nHja6KEA3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，律师分享去村里抓猪抵债的离奇经历，法官都表示没料到，播放量107万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1070940,
+      "original_comments": 1648
+    },
+    {
+      "title": "12岁男孩试图将病鸡送入埃塞俄比亚医院，感动网友",
+      "url": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 5,
+      "summary": "埃塞俄比亚一名12岁男孩因心爱的母鸡生病，试图将其带进医院治疗，暖心举动引发网友广泛关注。",
+      "categories": [
+        "趣闻",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本球迷世界杯后清理球场，女性呼吁：在家也这么做",
+      "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 5,
+      "summary": "日本球迷因赛后清理球场获赞，但日本女性指出双重标准：这些男性在公共场合打扫，在家却让妻子承担所有家务。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "为啥瘦下来的人会变得高冷",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E5%95%A5%E7%98%A6%E4%B8%8B%E6%9D%A5%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%8F%98%E5%BE%97%E9%AB%98%E5%86%B7&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，网友热议减肥后性格变化，探讨体重减轻与社交行为之间的有趣关联。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "长大后终于理解了妈妈的解冻焦虑",
+      "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%A4%A7%E5%90%8E%E7%BB%88%E4%BA%8E%E7%90%86%E8%A7%A3%E4%BA%86%E5%A6%88%E5%A6%88%E7%9A%84%E8%A7%A3%E5%86%BB%E7%84%A6%E8%99%91&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，年轻人分享长大后理解母亲对食物解冻的执着，引发代际共鸣。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果相册乱起名字",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%9B%B8%E5%86%8C%E4%B9%B1%E8%B5%B7%E5%90%8D%E5%AD%97&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，用户吐槽苹果相册自动命名功能产生各种搞笑、离奇的照片名称。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "网友求助糯米洒身刺痛",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E6%B1%82%E5%8A%A9%E7%B3%AF%E7%B1%B3%E6%B4%92%E8%BA%AB%E5%88%BA%E7%97%9B&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，网友因糯米洒在身上感到刺痛求助，引发各种搞笑评论和解决方案。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "C罗大儿子快两米高了",
+      "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A4%A7%E5%84%BF%E5%AD%90%E5%BF%AB%E4%B8%A4%E7%B1%B3%E9%AB%98%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，C罗大儿子迷你罗的身高引发关注，年仅十几岁已接近两米。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "王源演唱会cos艾莎",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9Acos%E8%89%BE%E8%8E%8E&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，王源在演唱会上cosplay《冰雪奇缘》艾莎公主造型，引发粉丝热议。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "金价下跌买30克镯子差价有一万多",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，金价下跌引发消费者关注，购买30克金镯子相比高点可节省一万多元。",
+      "categories": [
+        "趣闻",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 914.39 📈+7.05(+0.78%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1531224,
+      "summary": "今日 914.39 | 📈 +7.05(+0.78%) | 最高 917.26 最低 907.24 | 连涨 1天 | 成交额 ¥5901万 | 成交量 1531224件 | 📈2285 ➡2425 📉2784"
+    }
+  ]
+}
