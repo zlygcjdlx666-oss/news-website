@@ -1,0 +1,614 @@
+{
+  "date": "2026-06-21",
+  "commentary": "哎哟我滴妈，今天这新闻榜，真是“冰火两重天”啊！\n\n先看这CSGO大盘，又绿了，跌了0.18%。我就纳了闷了，这破盘是跟大A学的吗？一天到晚“保卫战”，成交量6968万，听着挺唬人，实际上全是散户在那儿互相掏兜。要我说，这皮肤市场现在比渣男的心还难猜，你当它是理财，它把你当韭菜。建议各位“饰品投资人”醒醒，别真把游戏道具当传家宝。\n\n再看B站，好家伙，男女混浴那个视频491万播放，人均裸泡？磊哥我笑出声。这年头，流量密码就是“尴尬”+“猎奇”。但说实话，这热度蹭得挺没劲，真正值得看的，是那个“多少年了，人们还记得你真实的样子吗？”264万播放，就300多条弹幕，为什么？因为没人敢接话啊！咱们这互联网，天天都在教你怎么“伪装”，怎么“憋笑”，偏偏没人敢问你“真实的样子”是啥。\n\n今日金句：别在虚拟盘里找安全感，也别在猎奇视频里找存在感，这年头，能让你尴尬的不是裸泡，是银行账户余额。",
+  "news": [
+    {
+      "title": "我去到了国内唯一的男女混浴，人均裸泡？！实在尴尬。。。",
+      "url": "https://www.bilibili.com/video/BV1KNjz6cEYY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:491.3万 | 弹幕:1.2万 | UP主:东尼ookii",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4913360,
+      "original_comments": 12278
+    },
+    {
+      "title": "我发誓这是我看过最震撼的漫展爬台变装演唱！！",
+      "url": "https://www.bilibili.com/video/BV1oTjk6xEea",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:415.8万 | 弹幕:1236 | UP主:夏旬Natsuki",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4157826,
+      "original_comments": 1236
+    },
+    {
+      "title": "快乐 童年",
+      "url": "https://www.bilibili.com/video/BV15Qj66mE5z",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:402.3万 | 弹幕:9000 | UP主:榴莲阿呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4022929,
+      "original_comments": 9000
+    },
+    {
+      "title": "我 伪 装",
+      "url": "https://www.bilibili.com/video/BV1YNjP6VEr6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:265.3万 | 弹幕:1862 | UP主:阴间滴贰哈鸽鸽",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2652520,
+      "original_comments": 1862
+    },
+    {
+      "title": "多少年了，人们还记得你真实的样子吗？",
+      "url": "https://www.bilibili.com/video/BV1JKjH6iE6y",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:264.4万 | 弹幕:365 | UP主:何大爷课堂",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2643867,
+      "original_comments": 365
+    },
+    {
+      "title": "你cos我憋笑挑战",
+      "url": "https://www.bilibili.com/video/BV1aqjE6mEid",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:218.0万 | 弹幕:615 | UP主:我是易拉爆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2180477,
+      "original_comments": 615
+    },
+    {
+      "title": "【独家】牧神记 第88集 祸根",
+      "url": "https://www.bilibili.com/video/BV1k2jq6WEUG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:185.4万 | 弹幕:6026 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1853797,
+      "original_comments": 6026
+    },
+    {
+      "title": "家里贫富差距挺大啊",
+      "url": "https://www.bilibili.com/video/BV1Rsjq6BE3X",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:168.1万 | 弹幕:417 | UP主:姜湖-看房版",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1681117,
+      "original_comments": 417
+    },
+    {
+      "title": "曾沛慈｜《怎么说我不爱你》舞台",
+      "url": "https://www.bilibili.com/video/BV1usjH6WEoz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:126.2万 | 弹幕:1.5万 | UP主:曾沛慈_TsengPets",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1261792,
+      "original_comments": 15181
+    },
+    {
+      "title": "一个环艺老学长的填志愿忏悔录！",
+      "url": "https://www.bilibili.com/video/BV12Gjn6kEP6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:121.7万 | 弹幕:546 | UP主:是莫叔叔吗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1217225,
+      "original_comments": 546
+    },
+    {
+      "title": "躲在超市后门智斗的二人",
+      "url": "https://www.bilibili.com/video/BV1K3jn65ECR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:110.8万 | 弹幕:1022 | UP主:沃滋基-尼",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1107600,
+      "original_comments": 1022
+    },
+    {
+      "title": "嘻嘻。",
+      "url": "https://www.bilibili.com/video/BV1BPjJ6FEGP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.8万 | 弹幕:785 | UP主:小酥猫饼",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1047760,
+      "original_comments": 785
+    },
+    {
+      "title": "来赣州包个鱼塘，帮少年减轻家庭重担，鱼多鱼少不重要，得让孩子安心完成学业",
+      "url": "https://www.bilibili.com/video/BV1iZjc6gEJr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:90.6万 | 弹幕:3740 | UP主:李维刚的日常",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 906325,
+      "original_comments": 3740
+    },
+    {
+      "title": "《独家记忆》",
+      "url": "https://www.bilibili.com/video/BV1WFjW6EEMQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:74.3万 | 弹幕:8372 | UP主:王濛",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 742848,
+      "original_comments": 8372
+    },
+    {
+      "title": "人，停下！",
+      "url": "https://www.bilibili.com/video/BV1xXjn6LEwc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:60.0万 | 弹幕:5022 | UP主:幸仁儿鲨",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 600464,
+      "original_comments": 5022
+    },
+    {
+      "title": "巴啦啦小魔仙—芮闪的帽子",
+      "url": "https://www.bilibili.com/video/BV1o5jv6qExG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:59.8万 | 弹幕:1295 | UP主:-蒋-丞-_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 598411,
+      "original_comments": 1295
+    },
+    {
+      "title": "鲁豫对话蔡磊 段睿：只要不放弃，四面八方都是前方 | 陈鲁豫·慢谈EP20【视频播客】",
+      "url": "https://www.bilibili.com/video/BV1UWLf6REiz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.9万 | 弹幕:1436 | UP主:陈鲁豫-慢谈",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 468685,
+      "original_comments": 1436
+    },
+    {
+      "title": "【TF家族练习生】《四一有意思》11:古今雅集",
+      "url": "https://www.bilibili.com/video/BV1h5jb65ESM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.0万 | 弹幕:27.1万 | UP主:TF家族",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 439762,
+      "original_comments": 271187
+    },
+    {
+      "title": "如果爱昴天团看到了死归全过程【4】",
+      "url": "https://www.bilibili.com/video/BV1XGjb6yE4x",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.9万 | 弹幕:985 | UP主:生锈的包子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 249062,
+      "original_comments": 985
+    },
+    {
+      "title": "我来到了mc虚空的最深处？！",
+      "url": "https://www.bilibili.com/video/BV1Wej66FEnX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.8万 | 弹幕:1075 | UP主:Super橘星",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 248023,
+      "original_comments": 1075
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "url": "https://store.steampowered.com/app/124923",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-80% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "https://store.steampowered.com/app/1462040",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-65% | $14",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Heroes of Might and Magic: Olden Era",
+      "url": "https://store.steampowered.com/app/3105440",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Witchfire",
+      "url": "https://store.steampowered.com/app/3156770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $32",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dead as Disco",
+      "url": "https://store.steampowered.com/app/3404260",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 409,
+      "original_comments": 164
+    },
+    {
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 290,
+      "original_comments": 81
+    },
+    {
+      "title": "Renting a sewing machine from the library",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 285,
+      "original_comments": 159
+    },
+    {
+      "title": "Google Hits 50% IPv6",
+      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 280,
+      "original_comments": 274
+    },
+    {
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 276,
+      "original_comments": 93
+    },
+    {
+      "title": "Developers don't understand CORS (2019)",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 273,
+      "original_comments": 207
+    },
+    {
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 267,
+      "original_comments": 69
+    },
+    {
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 232,
+      "original_comments": 131
+    },
+    {
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "url": "https://www.lispm.net/apps/uhf-x11/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 216,
+      "original_comments": 49
+    },
+    {
+      "title": "Epoll vs. io_uring in Linux",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 209,
+      "original_comments": 51
+    },
+    {
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 193,
+      "original_comments": 87
+    },
+    {
+      "title": "Unauthorized alert sent to cell phones across Brazil",
+      "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 167,
+      "original_comments": 122
+    },
+    {
+      "title": "15-minute at-home Lyme disease tick test",
+      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 163,
+      "original_comments": 118
+    },
+    {
+      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
+      "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 136,
+      "original_comments": 15
+    },
+    {
+      "title": "Alice is impatient",
+      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 128,
+      "original_comments": 35
+    },
+    {
+      "title": "Zigzag Decoding with AVX-512",
+      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 103,
+      "original_comments": 21
+    },
+    {
+      "title": "MECCHA CHAMELEON",
+      "url": "https://store.steampowered.com/app/4704690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$6",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$99",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Prime Status Upgrade",
+      "url": "https://store.steampowered.com/app/54029",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Forza Horizon 6",
+      "url": "https://store.steampowered.com/app/2483190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 909.49 📉-1.64(-0.18%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1720592,
+      "summary": "今日 909.49 | 📉 -1.64(-0.18%) | 最高 912.59 最低 904.64 | 连涨 -1天 | 成交额 ¥6968万 | 成交量 1720592件 | 📈1961 ➡2225 📉3308"
+    }
+  ]
+}
