@@ -1,0 +1,614 @@
+{
+  "date": "2026-06-22",
+  "commentary": "哎哟我滴妈，今天这CSGO大盘跟老便秘似的，涨了0.06%，连涨两天，成交额才969万，搁这儿玩过家家呢？这数据还不如楼下菜市场大妈抢鸡蛋热闹。皮肤贩子们别急，等下次Major一开，你们又能把“原皮”吹成“传家宝”了。\n\n再看B站这帮活宝。“入室抢劫般的队友”——这UP主名字就透着股“我不做人啦”的疯劲儿，我盲猜又是那种队友送人头送得比外卖小哥还勤快，结果自己一打五反杀，弹幕刷“电子烟”的经典剧情。还有那个《后悔の保安》，这标题起得，不知道的还以为保安大哥偷看了领导硬盘，结果点进去一看，八成是保安大哥后悔没多收两块钱停车费。\n\n但最让我绷不住的还是“NIKO圆梦科隆Major”——好家伙，这标题比春晚小品还煽情。NIKO这哥们儿，打了十年CS，终于从“悲情代言人”熬成了“圆梦大使”，建议各大俱乐部把这个视频当企业文化教材，每天循环播放：只要活得久，什么“此生唯一”都能变成“今日份的快乐”。\n\n今日金句：大盘涨跌看心情，队友操作看运气，人生嘛，就当是开了个“随机匹配”模式。",
+  "news": [
+    {
+      "title": "快乐 童年",
+      "url": "https://www.bilibili.com/video/BV15Qj66mE5z",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:512.3万 | 弹幕:1.0万 | UP主:榴莲阿呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5122547,
+      "original_comments": 10140
+    },
+    {
+      "title": "“入室抢劫般的队友”",
+      "url": "https://www.bilibili.com/video/BV1g7jJ6nE1E",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:284.7万 | 弹幕:1608 | UP主:胡胡不胡o",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2847392,
+      "original_comments": 1608
+    },
+    {
+      "title": "《后悔の保安》",
+      "url": "https://www.bilibili.com/video/BV1Qg7c6KE9V",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:281.3万 | 弹幕:1228 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2812527,
+      "original_comments": 1228
+    },
+    {
+      "title": "“终有一天，我会成为MAJOR冠军！”——NIKO圆梦科隆Major！",
+      "url": "https://www.bilibili.com/video/BV1X37c6vEcB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:245.0万 | 弹幕:1742 | UP主:AYCS2",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2449531,
+      "original_comments": 1742
+    },
+    {
+      "title": "《崩坏：因缘精灵》进化PV：直至遇见它",
+      "url": "https://www.bilibili.com/video/BV1fJjE6FEqW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:208.2万 | 弹幕:1.8万 | UP主:崩坏因缘精灵",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2082004,
+      "original_comments": 18439
+    },
+    {
+      "title": "【纪录片】闪闪的儿科医生4 第4集 复活甲代理人",
+      "url": "https://www.bilibili.com/video/BV1Fpju6TEpP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:181.8万 | 弹幕:5195 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1817999,
+      "original_comments": 5195
+    },
+    {
+      "title": "《独家记忆》",
+      "url": "https://www.bilibili.com/video/BV1WFjW6EEMQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:141.4万 | 弹幕:1.3万 | UP主:王濛",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1414226,
+      "original_comments": 13067
+    },
+    {
+      "title": "看看假货最多的地方#食品安全#假货",
+      "url": "https://www.bilibili.com/video/BV1RGjh6pEbo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:124.9万 | 弹幕:999 | UP主:陈大成bili",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1248692,
+      "original_comments": 999
+    },
+    {
+      "title": "人，停下！",
+      "url": "https://www.bilibili.com/video/BV1xXjn6LEwc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:117.0万 | 弹幕:9664 | UP主:幸仁儿鲨",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1169717,
+      "original_comments": 9664
+    },
+    {
+      "title": "而它们的眼睛，会永远记住奔跑的方向—— 敖尹个人概念短片「逐夜」正式公开！",
+      "url": "https://www.bilibili.com/video/BV1UT7K6CEES",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:108.3万 | 弹幕:2.0万 | UP主:恋与深空",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1083196,
+      "original_comments": 19870
+    },
+    {
+      "title": "佩洛伊斯什么时候逃离原生家庭？",
+      "url": "https://www.bilibili.com/video/BV1Bq7c6mEr6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:92.6万 | 弹幕:419 | UP主:鼎芸",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 926232,
+      "original_comments": 419
+    },
+    {
+      "title": "【泰拉瑞亚】32位计算机电路 RISC-V CPU 348KHz",
+      "url": "https://www.bilibili.com/video/BV19Kjf6cEh8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:82.6万 | 弹幕:735 | UP主:混乱沉睡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 826179,
+      "original_comments": 735
+    },
+    {
+      "title": "《阴阳师》毗沙门天CG丨金砂福威（CV：福西胜也）",
+      "url": "https://www.bilibili.com/video/BV12t7A6YEvx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.6万 | 弹幕:1183 | UP主:网易阴阳师手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 726173,
+      "original_comments": 1183
+    },
+    {
+      "title": "真开上机甲了？影视飓风1600万粉丝Q&A！",
+      "url": "https://www.bilibili.com/video/BV1wE7P6bESL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:70.8万 | 弹幕:1.4万 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 708392,
+      "original_comments": 13623
+    },
+    {
+      "title": "【剧情】心间错（2026）12【 朱正廷 / 哈妮克孜 】",
+      "url": "https://www.bilibili.com/video/BV1RwjP6LEKw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.5万 | 弹幕:2084 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 444741,
+      "original_comments": 2084
+    },
+    {
+      "title": "【剧情】小谢尔顿 第五季（2021）01【 伊恩·阿米蒂奇 / 佐伊·派瑞】",
+      "url": "https://www.bilibili.com/video/BV1hB7f6AEn1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:38.0万 | 弹幕:129 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 380145,
+      "original_comments": 129
+    },
+    {
+      "title": "为什么要有女朋友",
+      "url": "https://www.bilibili.com/video/BV19Q7c6MEGd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:34.9万 | 弹幕:441 | UP主:叶玲秋雨",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 349320,
+      "original_comments": 441
+    },
+    {
+      "title": "抽象新闻：6月人类迷惑行为大赏（中）",
+      "url": "https://www.bilibili.com/video/BV1cf7P6cE4X",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.0万 | 弹幕:2779 | UP主:我是M菌",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 309612,
+      "original_comments": 2779
+    },
+    {
+      "title": "【科隆Major  数据雷达图】破除决赛魔咒！Niko终终终于圆梦了!",
+      "url": "https://www.bilibili.com/video/BV1uu7K6VEAz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.5万 | 弹幕:2507 | UP主:神秘猫头鹰",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 275124,
+      "original_comments": 2507
+    },
+    {
+      "title": "你 哦 齁 不 过 我 你 信 吗",
+      "url": "https://www.bilibili.com/video/BV1tg7K6rEjD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.4万 | 弹幕:99 | UP主:萌花Moeka",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 163853,
+      "original_comments": 99
+    },
+    {
+      "title": "Don't Starve Together",
+      "url": "https://store.steampowered.com/app/322330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "url": "https://store.steampowered.com/app/124923",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-80% | $40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $89",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "It Takes Two",
+      "url": "https://store.steampowered.com/app/1426210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $164",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dead by Daylight",
+      "url": "https://store.steampowered.com/app/381210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $38",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $89",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Split Fiction",
+      "url": "https://store.steampowered.com/app/2001120",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $129",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "R.E.P.O.",
+      "url": "https://store.steampowered.com/app/3241660",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "SAND: Raiders of Sophie",
+      "url": "https://store.steampowered.com/app/1431300",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-21% | $71",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2200,
+      "original_comments": 0
+    },
+    {
+      "title": "Deno Desktop",
+      "url": "https://docs.deno.com/runtime/desktop/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 935,
+      "original_comments": 346
+    },
+    {
+      "title": "Pledging another $400k to the Zig software foundation",
+      "url": "https://mitchellh.com/writing/zig-donation-2026",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 614,
+      "original_comments": 200
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/hardware/steammachine",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 586,
+      "original_comments": 530
+    },
+    {
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 444,
+      "original_comments": 113
+    },
+    {
+      "title": "GLM 5.2 vs. Opus",
+      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 423,
+      "original_comments": 287
+    },
+    {
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "url": "https://github.com/openai/codex/issues/28224",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 394,
+      "original_comments": 215
+    },
+    {
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 224,
+      "original_comments": 167
+    },
+    {
+      "title": "Alan Greenspan has died",
+      "url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 167,
+      "original_comments": 173
+    },
+    {
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 161,
+      "original_comments": 46
+    },
+    {
+      "title": "NSF slashes research programs to support new tech initiative, insiders say",
+      "url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 119,
+      "original_comments": 52
+    },
+    {
+      "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
+      "url": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 108,
+      "original_comments": 74
+    },
+    {
+      "title": "MECCHA CHAMELEON",
+      "url": "https://store.steampowered.com/app/4704690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$26",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Road to Empress Collection",
+      "url": "https://store.steampowered.com/app/77115",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$89",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Road to Empress Ⅱ",
+      "url": "https://store.steampowered.com/app/4148240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$74",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Wallpaper Engine",
+      "url": "https://store.steampowered.com/app/431960",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$23",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "DAVE THE DIVER - In the Jungle Content Pack",
+      "url": "https://store.steampowered.com/app/4394810",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$39",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "url": "https://puzzlelair.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 89,
+      "original_comments": 74
+    },
+    {
+      "title": "Show HN: Oak – Git replacement designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 85,
+      "original_comments": 95
+    },
+    {
+      "title": "My Mathematical Regression",
+      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 83,
+      "original_comments": 23
+    },
+    {
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://role-confusion.github.io",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 83,
+      "original_comments": 45
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 929.35 📈+0.53(+0.06%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 293505,
+      "summary": "今日 929.35 | 📈 +0.53(+0.06%) | 最高 929.53 最低 928.5 | 连涨 2天 | 成交额 ¥969万 | 成交量 293505件 | 📈1440 ➡4876 📉1178"
+    }
+  ]
+}
