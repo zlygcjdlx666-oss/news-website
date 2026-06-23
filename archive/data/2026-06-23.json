@@ -1,0 +1,642 @@
+{
+  "date": "2026-06-23",
+  "commentary": "哎，朋友们，今天这新闻单子，磊哥一看，好家伙，真是“冰火两重天”，有人忙着杀人，有人忙着跳水，有人忙着裁员，有人忙着分钱。\n\n先说加沙这事儿。联合国调查委员会说以色列在加沙搞种族灭绝，还专门针对儿童。以色列那边跳着脚骂街，说这是“诽谤性骗局”。磊哥就纳闷了，你们炸医院、炸学校、炸难民营，连救护车都不放过，卫星图摆在那儿，死伤数字摆在那儿，现在说人家诽谤？这脸皮，快赶上防弹衣的厚度了。记住，当全世界都说你是个暴徒的时候，你最好先检查检查自己手里是不是真握着刀。\n\n再看欧洲这热浪，法国热死了40个人，全是因为跑去水里“凉快”结果淹死了。磊哥说句难听的，这哪是热浪杀人？这是脑子进水啊！高温天儿，别以为跳河里就是救赎，那可能是“最后的沐浴”。公共健康面临挑战？我看是公共安全意识面临挑战。老话讲“欺山莫欺水”，现在得加一句“欺热也别欺水”。\n\n最后聊聊商界，甲骨文一挥手裁了2.1万人，美其名曰“拥抱AI转型”。磊哥翻译一下：老板觉得你不如机器划算。科技巨头们一边砸几千亿搞AI，一边把活人当耗材扔出去。这叫什么？这叫“用你的命，换机器的命”。别指望资本家讲良心，他们只讲效率。\n\n今日金句：世界就是个大型过山车，有人在天堂里装睡，有人在地狱里裸泳，而大多数人，在等着被AI替代。",
+  "news": [
+    {
+      "title": "联合国调查委员会称以色列在加沙实施种族灭绝，蓄意针对儿童",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "联合国三人专家小组发布报告，指控以色列在加沙战争中蓄意针对儿童，构成种族灭绝。以色列强烈否认，称报告是“诽谤性骗局”。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国热浪致40人溺水身亡，欧洲多地遭遇极端高温",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "法国总理宣布自上周四以来已有40人因热浪相关溺水死亡，欧洲多国正经历高温峰值，公共健康面临严峻挑战。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美伊协议后数十艘船只驶过霍尔木兹海峡",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "自美国和伊朗签署旨在结束战争的协议后，霍尔木兹海峡航运量激增，仅周六就有42艘船只通过，地区局势出现缓和迹象。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "以色列军队在黎巴嫩南部击毙两人，停火协议面临考验",
+      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "以色列军方称两名死者是真主党武装人员，但伊朗支持的该组织指责以色列违反停火协议，地区紧张局势再度升温。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科技巨头甲骨文裁员2.1万人，拥抱AI转型",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "甲骨文宣布裁员2.1万人，这是科技行业在AI领域投入数千亿美元后的最新一轮大规模裁员，反映行业结构性调整。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "现代美国经济建筑师艾伦·格林斯潘去世，享年100岁",
+      "url": "https://www.bbc.co.uk/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "前美联储主席艾伦·格林斯潘去世，他曾是全球最知名的银行家，其政策深刻塑造了现代美国经济格局。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国数百万用户可分享30亿英镑苹果案赔偿",
+      "url": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国一项针对苹果的反垄断集体诉讼获准推进，指控其App Store佣金过高，苹果否认反竞争行为，称用户依赖第三方替代方案。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Valve发布Steam Machine游戏主机，售价879英镑",
+      "url": "https://www.bbc.co.uk/news/articles/c0kyzk2p255o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Valve推出PC与主机混合设备Steam Machine，定价879英镑，公司称价格反映了组件成本上涨的整体趋势。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "罗马尼亚100家医院用纸笔对抗国家级网络攻击",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "罗马尼亚数十家医院因网络攻击离线四天，被迫恢复纸质记录，网络安全专家全力反击黑客，凸显医疗系统脆弱性。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特斯拉致命车祸遭美国联邦调查，涉自动驾驶技术",
+      "url": "https://www.bbc.co.uk/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "一名特斯拉司机声称使用“自动驾驶”技术后车辆冲入德州民宅，导致一名女性死亡，美国联邦机构已介入调查。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "易捷航空拒绝47亿英镑收购要约，称美方买家想“捡便宜”",
+      "url": "https://www.bbc.co.uk/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "易捷航空拒绝了Castlelake提出的47亿英镑收购要约，称其“高度投机”，并指责对方试图低价收购。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《玩具总动员5》创下系列开画票房纪录",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "迪士尼和皮克斯的《玩具总动员5》首周末票房创下系列新高，标志着两大动画巨头在近年挑战后强势回归。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "StubHub英国用户因隐藏费用获退款，监管机构开出罚单",
+      "url": "https://www.bbc.co.uk/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国竞争与市场管理局要求票务转售平台StubHub向5万名客户退款并支付罚款，因其收取非法隐藏费用。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度北部建筑火灾致15人死亡，政府下令调查",
+      "url": "https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "印度北部一栋建筑发生火灾，目击者称有人从窗户跳下逃生，救援队破墙救人，火灾已造成15人死亡。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "联合国报告：缅甸军方半年内杀害超700名平民",
+      "url": "https://www.bbc.co.uk/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "联合国最新报告指出，缅甸军方在去年六个月内造成702名平民死亡，其中包括153名儿童，人权状况持续恶化。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国最高法院裁定：监狱剪掉拉斯特法里教徒长发不构成侵权",
+      "url": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "美国最高法院驳回一名前路易斯安那州囚犯的诉讼，认为监狱官员强制剪掉其长发未侵犯其拉斯特法里宗教信仰自由。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "滴露因“清除有毒男人”广告在中国引发争议后道歉",
+      "url": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "滴露一则广告因暗示寻找“未被其他男人污染”的伴侣而引发性别歧视争议，公司随后公开道歉。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp领导层变动：印度初创创始人接任，Will Cathcart退居幕后",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Meta旗下WhatsApp进行高层调整，印度初创企业创始人将接管业务，此举旨在加强该应用在印度市场的增长。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI公司免费上门打扫纽约公寓，只为训练机器人",
+      "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "一家人工智能公司派遣清洁工免费为纽约居民打扫房间，目的是收集数据训练未来替代人类的机器人。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国数据与AI监管机构负责人因“不当幽默”辞职",
+      "url": "https://www.bbc.co.uk/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国信息专员爱德华兹自2022年1月担任数据监管机构负责人，因发表不当幽默言论而宣布辞职。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《GTA 6》预购日期和封面艺术公布",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Rockstar宣布《GTA 6》将于6月25日开启预购，并公布了游戏封面艺术，这款年度最受期待游戏即将登场。",
+      "categories": [
+        "娱乐",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "人工冰金字塔拯救印度山村：喜马拉雅地区的创新节水法",
+      "url": "https://www.bbc.co.uk/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "喜马拉雅山区的村庄通过建造人工冰川来确保春季农作物灌溉用水，这种创新方法正在缓解水资源短缺。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲机场负责人警告：新边境系统形同虚设",
+      "url": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "欧洲机场协会负责人表示对欧盟新出入境系统（EES）的运作深感担忧，称不知道机场将如何应对夏季高峰。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚煤炭和天然气出口被指侵犯人权，联合国受理新案",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "一个团体向联合国提出新案件，称澳大利亚继续批准化石燃料出口而不保护公民，侵犯了人权。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "虚假浪漫与错失包裹：如何防范三种常见骗局",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "浪漫诈骗和投资欺诈案件创历史新高，专家提供防范建议，帮助公众避免落入常见陷阱。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenMontage：全球首个开源智能视频制作系统发布",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源项目OpenMontage发布，包含12条流水线、52个工具和500多个智能体技能，可将AI编程助手转变为完整视频制作工作室。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "LLM驱动多市场股票智能分析系统登顶GitHub热门",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源项目daily_stock_analysis利用大语言模型实现多源行情、实时新闻和决策看板，支持零成本定时运行，今日获超千星。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "字节跳动开源Deer Flow：长周期超级智能体框架",
+      "url": "https://github.com/bytedance/deer-flow",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "字节跳动开源Deer Flow，一个支持研究、编程和创作的长周期超级智能体框架，集成沙箱、记忆、工具和子智能体。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Palmier Pro：专为AI打造的macOS视频编辑器",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源项目Palmier Pro是一款专为AI设计的macOS视频编辑器，今日在GitHub获得1631颗星，引发开发者关注。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WorldMonitor：实时全球情报仪表盘开源发布",
+      "url": "https://github.com/koala73/worldmonitor",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源项目WorldMonitor提供AI驱动的新闻聚合、地缘政治监控和基础设施追踪，打造统一态势感知界面。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenArt Director：通过聊天直接导演电影级视频",
+      "url": "https://www.producthunt.com/products/openart",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品OpenArt Director让用户通过聊天对话直接导演电影级视频，降低视频创作门槛。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Latitude：修复AI智能体故障的调试工具",
+      "url": "https://www.producthunt.com/products/latitude-4",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Latitude专注于诊断和修复AI智能体运行中的问题，帮助开发者快速定位故障。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Rosply：可自主控制电脑的AI智能体",
+      "url": "https://www.producthunt.com/products/rosply",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Rosply是一款能自主控制电脑的AI智能体，可自动执行复杂桌面操作任务。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine：为客厅大屏游戏设计的迷你PC",
+      "url": "https://www.producthunt.com/products/steam-machine",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt上架的Steam Machine是一款小巧而强大的PC，专为大屏幕游戏体验设计，引发游戏玩家关注。",
+      "categories": [
+        "产品",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Amnesia：Mac应用询问你为什么打开那个标签页",
+      "url": "https://www.producthunt.com/products/amnesia-2",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Amnesia是一款有趣的Mac应用，会主动询问用户打开浏览器标签页的原因，帮助减少分心。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Jotform AI App Builder：秒级将创意转化为应用",
+      "url": "https://www.producthunt.com/products/jotform",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Jotform AI App Builder可在数秒内将想法转化为功能完整的应用，大幅降低开发门槛。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：体育评论——数据与轶事的辩证",
+      "url": "https://xkcd.com/3262/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD最新漫画以体育评论为背景，幽默探讨“轶事的复数不是数据，但数据的单数是轶事”这一统计悖论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：副作用——奇怪的啁啾声",
+      "url": "https://xkcd.com/3261/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画《副作用》以幽默方式描绘了某种奇怪副作用带来的啁啾声，风格荒诞有趣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：梅西——最后一届世界杯的预言",
+      "url": "https://xkcd.com/3260/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画以梅西为主题，评论员一致认为这可能是梅西面临激烈竞争的最后一届世界杯，充满幽默与致敬。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：盘子翻转——从皮肤到城市的去角质",
+      "url": "https://xkcd.com/3258/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画《盘子翻转》以夸张手法描述“去角质”从皮肤延伸到骨骼、房屋、城市甚至景观，脑洞大开。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "萧敬腾首次公开秘密：我曾讨厌自己的声音",
+      "url": "https://www.bilibili.com/video/BV1kGjt6dECk",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站热门视频中，萧敬腾在HOPICO对谈中首次公开曾讨厌自己声音的心路历程，播放量超300万。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 3031398,
+      "original_comments": 1876
+    },
+    {
+      "title": "影视飓风1600万粉丝Q&A：真开上机甲了？",
+      "url": "https://www.bilibili.com/video/BV1wE7P6bESL",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站热门UP主影视飓风在1600万粉丝问答中展示机甲相关内容，引发2.7万条弹幕热议。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 1567036,
+      "original_comments": 27115
+    },
+    {
+      "title": "《泰拉瑞亚》中搭建32位RISC-V CPU，频率348KHz",
+      "url": "https://www.bilibili.com/video/BV19Kjf6cEh8",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站热门视频展示在游戏《泰拉瑞亚》中搭建32位计算机电路，实现RISC-V CPU运行，播放量近200万。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 1937114,
+      "original_comments": 1455
+    },
+    {
+      "title": "《释放阿凡达》实机演示预告发布",
+      "url": "https://www.bilibili.com/video/BV1Vk7M6tEgx",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站热门视频《释放阿凡达》发布实机演示预告，播放量超110万，引发游戏玩家热烈讨论。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 1107249,
+      "original_comments": 4035
+    },
+    {
+      "title": "高考后用AI辅助填志愿，真的靠谱吗？",
+      "url": "https://www.bilibili.com/video/BV1gGjm6tEtn",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主尝试用AI辅助高考志愿填报，探讨AI在志愿决策中的可靠性与局限性，播放量27.6万。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 275684,
+      "original_comments": 179
+    },
+    {
+      "title": "用高坚果玩多米诺骨牌？！",
+      "url": "https://www.bilibili.com/video/BV1QW7T6DEy9",
+      "source": "B站热门",
+      "score": 3,
+      "summary": "B站热门视频展示用高坚果玩多米诺骨牌的创意玩法，播放量超90万，轻松有趣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 918602,
+      "original_comments": 411
+    },
+    {
+      "title": "一碗潮汕猪脚饭差点吃破产",
+      "url": "https://www.bilibili.com/video/BV1XX7c6qEKk",
+      "source": "B站热门",
+      "score": 3,
+      "summary": "演员王宁在B站分享潮汕猪脚饭的日常vlog，因价格昂贵差点吃破产，播放量超114万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1146405,
+      "original_comments": 2097
+    },
+    {
+      "title": "外星人来地球了！但迟到了那么一小会……",
+      "url": "https://www.bilibili.com/video/BV1xX7P6NEsJ",
+      "source": "B站热门",
+      "score": 3,
+      "summary": "B站热门视频以幽默方式讲述外星人迟到地球的故事，播放量近120万，充满想象力。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1197555,
+      "original_comments": 920
+    },
+    {
+      "title": "澳大利亚发现用弹簧陷阱捕食的蜘蛛新物种",
+      "url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 3,
+      "summary": "研究人员在澳大利亚发现一种使用弹簧陷阱捕食的蜘蛛，其独特狩猎方式可捕捉危险蚂蚁，前所未见。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "巨型香蕉车被警察拦下数百次，司机吐槽",
+      "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+      "source": "Hacker News",
+      "score": 3,
+      "summary": "一辆巨型香蕉造型车辆因过于显眼被警察拦停数百次，司机无奈吐槽，成为网络趣闻。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 182,
+      "original_comments": 73
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 935.45 📈+1.05(+0.11%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 46606,
+      "summary": "今日 935.45 | 📈 +1.05(+0.11%) | 最高 935.45 最低 934.46 | 连涨 3天 | 成交额 ¥202万 | 成交量 46606件 | 📈793 ➡6003 📉698"
+    }
+  ]
+}
