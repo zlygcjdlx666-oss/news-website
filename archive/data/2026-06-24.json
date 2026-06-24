@@ -1,0 +1,625 @@
+{
+  "date": "2026-06-24",
+  "commentary": "磊哥今儿跟大伙儿唠几个硬核的。首先，中国超算“灵晟”登顶Top500，纯CPU干到2.19Exaflops，这事儿得鼓掌。但别急着嗨，这是“国家队”的肌肉秀，跟咱们普通人刷抖音快不了半秒。更扎心的是，隔壁科技股因为AI烧钱太多跌成狗，华尔街那帮人终于开始问“你丫到底能不能变现？”——硅谷猛烧钱，中国猛追算，最后谁给泡沫买单？反正不是吹牛逼的。\n\n再瞅瞅欧洲，法国热破纪录，部分地区停电，德国铁路因IT故障全国瘫俩小时。你说巧不巧？一边是AI公司喊着“算力不够”，一边是发达国家连电网和铁路通信都扛不住高温和黑客。罗马尼亚上百家医院被网络攻击逼回纸笔时代，这画面太魔幻——全球最先进的量子计算刚被科学家扒出“基本Python错误”，最古老的笔和纸却成了救命稻草。\n\n最后说个冷笑话：美国国会通过战争权力法案想管住特朗普对伊朗动武，专家却说“总统可能无视”。合着这法案就是个剧本，演给选民看的。霍尔木兹海峡船照样过，协议签了，该赚的钱一分不少。但别忘了，法国医生刚确诊埃博拉，病毒可不管你是签协议还是吵架。\n\n今日金句：算力追不上野心，纸笔兜底；法案管不住拳头，病毒教做人。",
+  "news": [
+    {
+      "title": "中国新超算灵晟登顶Top500榜单",
+      "url": "https://www.solidot.org/story?sid=84657",
+      "source": "Solidot",
+      "score": 10,
+      "summary": "深圳国家超算中心的灵晟超算以2.198 Exaflop/s的HPL性能登顶全球超算Top500榜单，成为首个仅靠CPU实现双精度浮点性能超2 Exaflops的系统。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国遭遇有记录以来最热一天，部分地区停电",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "法国录得自1947年有记录以来最热的一天，打破此前纪录，同时该国部分地区出现电力中断。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌克兰袭击后克里米亚最大城市断电",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "乌克兰发动袭击后，克里米亚最大城市塞瓦斯托波尔全面断电，俄方任命的州长警告部分地区电力将中断至晚间。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国铁路因IT故障全国停运数小时",
+      "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "德国铁路网络因GSM-R数字通信系统出现全国性故障而停运超过两个半小时，服务已逐步恢复。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家对微软量子计算突破提出新质疑",
+      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "有科学家发表论文，对微软此前宣称的Majorana芯片量子计算突破提出质疑，认为其存在“基本Python错误”。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科技股因AI支出担忧大幅下跌",
+      "url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "主要科技股遭遇突然抛售，引发市场对人工智能投资热潮可持续性的广泛质疑。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "联合国核能机构称将根据协议访问伊朗核设施",
+      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "国际原子能机构总干事格罗西表示正在就访问伊朗核设施制定方案，但伊朗部长称此类访问仅会是最终协议的一部分。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国国会首次通过战争权力法案，与特朗普就伊朗问题决裂",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "美国国会通过一项战争权力法案，这是数十年来首次，旨在限制总统对伊朗动武的权力，但专家称特朗普可能无视该法案。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美伊协议后数十艘船只通过霍尔木兹海峡",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "自美国和伊朗签署旨在结束战争的协议后，霍尔木兹海峡的航运量大幅回升，仅周六一天就有42艘船只通过。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国确认首例埃博拉病例",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "一名曾在刚果（金）工作的法国医生被确诊感染埃博拉病毒，该国已有超过260人因此死亡。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "罗马尼亚100家医院用纸笔对抗全国性网络攻击",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "为应对一场严重的全国性网络攻击，罗马尼亚上百家医院被迫连续四天回归纸笔办公，网络安全专家全力应对。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿里巴巴起诉美国国防部",
+      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "阿里巴巴及其美国子公司正式起诉美国国防部，要求法院撤销将其列入“中国军事企业”黑名单的决定。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国数百万用户或可分享30亿英镑苹果案赔偿",
+      "url": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "一起指控苹果应用商店反竞争的集体诉讼在英国获准推进，若胜诉，数百万英国用户可能分享约30亿英镑的赔偿。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度创业公司创始人将执掌WhatsApp",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "WhatsApp领导层变动，印度创业公司创始人Kunal Shah将接替Will Cathcart，Meta旨在加强该应用在印度的业务。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普指责石油公司操纵油价",
+      "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "美国总统特朗普指责石油公司在加油站进行价格欺诈，尽管全球油价已下跌，但仍高于美以与伊朗战争前的水平。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲成为全球变暖速度最快的大陆",
+      "url": "https://www.solidot.org/story?sid=84666",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "数据显示，欧洲气温比工业化前水平高出约2.4摄氏度，远高于全球平均升温幅度，正经历第二波热浪。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：幼儿屏幕使用时间与较差学习成绩相关",
+      "url": "https://www.solidot.org/story?sid=84667",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "一项跟踪1至8岁儿童的研究发现，更长的屏幕观看时间与9岁时较差的学习表现和10.5岁时较弱的工作记忆存在关联。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：心率同步程度可判断社交投入度",
+      "url": "https://www.solidot.org/story?sid=84663",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "发表在《PNAS Nexus》上的研究显示，当人们在身体和情感上彼此亲近时，心率会逐渐同步，其同步程度可反映社交投入程度。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "气候变化或导致大豆蛋白质含量下降",
+      "url": "https://www.solidot.org/story?sid=84658",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究显示，高温、干旱和高浓度二氧化碳的共同作用，虽可能增加大豆产量，但会显著降低其种子中的蛋白质含量。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Valve称无法与内存厂商议价，Steam Machine定价高昂",
+      "url": "https://www.solidot.org/story?sid=84659",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Valve表示，由于DDR5和SSD价格在过去半年大幅上涨，且无法与供应商协商，新款Steam Machine起售价超过1000美元。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《GTA6》售价80美元，实体版不含光盘",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Rockstar宣布《GTA6》标准版售价79.99美元，终极版99.99美元，且实体版包装内仅包含数字下载码，不含光盘。",
+      "categories": [
+        "产品",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine正式发布，起售价879英镑",
+      "url": "https://www.bbc.co.uk/news/articles/c0kyzk2p255o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Valve正式发布新款Steam Machine游戏主机，起售价879英镑，称定价反映了组件成本上涨的趋势。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI公司免费上门打扫公寓以训练家政机器人",
+      "url": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "一家人工智能公司正在纽约提供免费上门清洁服务，目的是收集数据训练未来可能取代人类清洁工的机器人。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenMontage：开源智能视频制作系统",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目OpenMontage发布，号称是全球首个开源、智能体驱动的视频制作系统，包含12条流水线和500多项智能体技能。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果发布macOS容器工具",
+      "url": "https://github.com/apple/container",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "苹果开源了一款名为Container的工具，可在Mac上使用轻量级虚拟机创建和运行Linux容器，专为Apple Silicon优化。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NousResearch发布开源AI智能体框架",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "NousResearch发布名为Hermes Agent的开源项目，旨在打造一个能与用户共同成长的AI智能体，在GitHub上获得大量关注。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI与博通联合发布AI推理芯片",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "OpenAI与芯片巨头博通合作，推出了一款专为大语言模型推理优化的新型芯片，旨在提升AI计算效率。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 87,
+      "original_comments": 30
+    },
+    {
+      "title": "Krea发布开源120亿参数图像模型",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Krea公司发布了Krea 2，一个拥有120亿参数的开源图像生成模型，声称达到了业界领先水平。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 154,
+      "original_comments": 18
+    },
+    {
+      "title": "在德国创办公司：花费9600欧元，耗时152天仍无法开票",
+      "url": "https://paolino.me/founding-a-company-in-germany/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一位创业者在Hacker News上分享在德国创办公司的痛苦经历，称流程繁琐、耗时漫长，引发对欧洲创业环境的讨论。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 407,
+      "original_comments": 466
+    },
+    {
+      "title": "卡马克谈《雷神之锤》失误如何毁掉id Software",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "游戏传奇人物约翰·卡马克在访谈中反思了围绕《雷神之锤》的一系列错误决策，认为这些失误最终导致了id Software的衰落。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 93,
+      "original_comments": 19
+    },
+    {
+      "title": "专家称微软“量子飞跃”因“基本Python错误”而无效",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一位研究人员声称，微软此前宣称的量子计算突破存在根本性缺陷，源于一些基础的Python编程错误。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 41,
+      "original_comments": 22
+    },
+    {
+      "title": "加拿大魁北克小镇承认树木拥有法律权利",
+      "url": "https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "加拿大魁北克省一个小镇通过决议，承认树木作为“活着的存在”拥有法律权利，此举被视为环境法领域的创新。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 43,
+      "original_comments": 26
+    },
+    {
+      "title": "树莓派Pico W变身USB Wi-Fi适配器",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者成功将树莓派Pico W微控制器改造成一个功能完整的USB Wi-Fi适配器，为DIY硬件项目提供了新思路。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 226,
+      "original_comments": 107
+    },
+    {
+      "title": "SSH隧道实用指南：本地与远程端口转发",
+      "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一篇技术文章详细介绍了SSH隧道的原理和配置方法，包括本地端口转发和远程端口转发，是实用的开发者指南。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 132,
+      "original_comments": 28
+    },
+    {
+      "title": "FUTO Swipe：开源设备端滑动输入法",
+      "url": "https://www.producthunt.com/products/futo-swipe",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品FUTO Swipe，提供基于开源模型的设备端滑动输入法，无需联网即可实现智能输入。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine：小巧强大的大屏游戏PC",
+      "url": "https://www.producthunt.com/products/steam-machine",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Valve在Product Hunt上推广其新款Steam Machine，定位为一台小巧但性能强大的大屏游戏PC。",
+      "categories": [
+        "产品",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Swimio：结合Apple Watch的AI游泳教练",
+      "url": "https://www.producthunt.com/products/swimio",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Swimio，利用Apple Watch追踪数据，提供AI驱动的智能游泳训练计划和指导。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：体育评论",
+      "url": "https://xkcd.com/3262/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD今日漫画《体育评论》以幽默方式调侃了“轶事不是数据”这一说法，并指出“数据的单数形式是轶事”。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：副作用",
+      "url": "https://xkcd.com/3261/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画《副作用》描绘了一个奇特的场景，并配文“做好准备——鸣叫声会变得相当奇怪”。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：梅西",
+      "url": "https://xkcd.com/3260/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画《梅西》评论称，这可能是梅西面临严峻竞争的最后一次世界杯。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "鲁豫对话蔡磊段睿：只要不放弃，四面八方都是前方",
+      "url": "https://www.bilibili.com/video/BV1UWLf6REiz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，主持人鲁豫与蔡磊、段睿进行深度对谈，传递积极向上的生活态度。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 4808597,
+      "original_comments": 4366
+    },
+    {
+      "title": "真正的艺术！",
+      "url": "https://www.bilibili.com/video/BV1DG7g6dEAZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，标题为“真正的艺术！”，引发近300万次播放和观众热议。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2915688,
+      "original_comments": 496
+    },
+    {
+      "title": "对对子战神（特别篇）",
+      "url": "https://www.bilibili.com/video/BV1617N6ZEua",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主创作的对对子内容，以218万播放和5565条弹幕成为热门话题。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2184694,
+      "original_comments": 5565
+    },
+    {
+      "title": "长臂者之臂，到底多长，才算长？",
+      "url": "https://www.bilibili.com/video/BV1oLj26iEPd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主陈汉煜以艺术视角探讨“长臂者”的臂长问题，引发94万次播放和讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 944376,
+      "original_comments": 1971
+    },
+    {
+      "title": "这是一条求助视频（我最大的恐惧）",
+      "url": "https://www.bilibili.com/video/BV1HRjD6xEkV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主分享个人最大的恐惧并寻求帮助，引发近80万次播放和大量评论。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 795642,
+      "original_comments": 3263
+    },
+    {
+      "title": "英国首相斯塔默请辞！终于还是没能逆转那个天命啊",
+      "url": "https://www.bilibili.com/video/BV18yjR6UE7i",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，以评论形式解读英国首相斯塔默辞职事件，播放量超56万。",
+      "categories": [
+        "国际",
+        "趣闻"
+      ],
+      "original_score": 568591,
+      "original_comments": 1082
+    },
+    {
+      "title": "我教一个水桶学会了说Git",
+      "url": "https://www.tigrisdata.com/blog/objgit/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "Hacker News上的一则趣闻，作者声称教会了一个水桶“说”Git命令，以幽默方式调侃版本控制。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 9,
+      "original_comments": 0
+    },
+    {
+      "title": "我最喜欢的图片：合川马门溪龙",
+      "url": "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "Hacker News用户分享了一张自己最喜爱的古生物复原图——合川马门溪龙，引发对史前生物的轻松讨论。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 32,
+      "original_comments": 5
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 948.09 📈+0.3(+0.03%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 32691,
+      "summary": "今日 948.09 | 📈 +0.3(+0.03%) | 最高 948.09 最低 947.79 | 连涨 4天 | 成交额 ¥10万 | 成交量 32691件 | 📈3067 ➡1645 📉2782"
+    }
+  ]
+}
