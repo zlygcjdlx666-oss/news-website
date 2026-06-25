@@ -1,0 +1,669 @@
+{
+  "date": "2026-06-25",
+  "commentary": "哈喽各位，我是磊哥。今儿这新闻大杂烩，咱挑几条硬菜聊聊。\n\n先说OpenAI自研芯片“Jalapeño”。磊哥就说一句：早干嘛去了？被英伟达掐着脖子喂了这么久，终于想起来自己种菜了。号称每瓦性能吊打同行，但别忘了，你爹博通是搞网络的，不是搞芯片制造的。这玩意儿大概率是个“PPT芯片”，先吹个牛稳住投资人，至于什么时候落地？且等着吧。但态度值得肯定，毕竟“造不如买”的时代，AI巨头们是真被卡怕了。\n\n再看Anthropic撕阿里巴巴偷模型。磊哥笑了，这不就是AI界的“抓贼”大戏吗？你抄我模型，我告你欺诈，两边都不干净。现在AI圈就是片原始森林，你偷我的，我抄你的，谁嗓门大谁就占理。但说句实在话，比起这泼脏水的口水仗，我更关心那个委内瑞拉地震。首都都塌了，人命关天，科技巨头们能不能先把口水咽下去，用AI干点正事？\n\n最后，苹果MacBook涨价20%，理由是“没见过这么快的涨价”。磊哥翻译一下：就是“我利润没达标，你们得加钱”。苹果的刀法永远是精准的，库克那脸皮比iPhone的玻璃面板还硬。消费者呢？一边骂一边下单，主打一个“嘴上说不要，身体很诚实”。\n\n今日金句：科技在进步，但人类的贪婪和短视，从来都没变过。",
+  "news": [
+    {
+      "title": "OpenAI发布首款自研AI推理芯片Jalapeño",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "source": "Hacker News",
+      "score": 10,
+      "summary": "OpenAI与博通合作推出首款自研AI推理芯片Jalapeño，宣称每瓦性能显著优于现有产品，标志其向硬件自主化迈出关键一步。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 782,
+      "original_comments": 447
+    },
+    {
+      "title": "Anthropic指控阿里巴巴非法提取Claude AI模型能力",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "Anthropic公开指控阿里巴巴使用欺诈账户非法提取其Claude AI模型能力，引发中美AI竞争新争议。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 671,
+      "original_comments": 1099
+    },
+    {
+      "title": "委内瑞拉遭遇毁灭性地震，首都建筑倒塌",
+      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "委内瑞拉首都加拉加斯发生强烈地震，多栋建筑倒塌，民众恐慌，救援工作正在进行。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲热浪东移，法国发布最高健康警报",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "欧洲热浪向东蔓延，德国部分地区气温或达40°C，法国因高温致死案例上升至最高健康警报级别。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普要求国会拨款数十亿美元用于对伊朗战争",
+      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "特朗普向国会申请巨额对伊朗战争拨款，但预算面临共和党内部阻力，局势紧张。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "油价回落至伊朗战争前水平",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "霍尔木兹海峡航运逐步恢复，推动国际油价回落至伊朗冲突前水平，市场趋于稳定。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "IBM宣布突破1纳米以下芯片设计新技术",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "IBM声称研发出全球首个低于1纳米的芯片技术，采用“公寓楼”式设计，但量产仍需时日。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果大幅上调MacBook和iPad价格，涨幅达20%",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "苹果因组件成本飙升，将MacBook和iPad价格上调近20%，称从未见过如此快速的涨价。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家对微软量子计算芯片Majorana提出新质疑",
+      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "科学家发表新论文质疑微软Majorana量子芯片的研究可靠性，微软坚持其成果有效。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta因隐私担忧暂停追踪员工数据用于AI训练",
+      "url": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta在启动仅两个月后，因隐私问题暂停追踪员工电脑使用数据用于AI训练的项目。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "罗马尼亚100家医院因网络攻击改用纸笔工作四天",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "罗马尼亚100家医院遭全国性网络攻击，被迫切换至纸笔系统四天，网络安全专家全力应对。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp将由印度初创创始人领导，Will Cathcart卸任",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "WhatsApp领导层变动，印度初创创始人接替Will Cathcart，Meta意在强化印度市场布局。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法拉利营销主管因首款电动车设计遭批评后辞职",
+      "url": "https://www.bbc.co.uk/news/articles/cnv9edrjjn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "法拉利首款电动车型Luce设计引发强烈批评，营销主管在发布后数周内辞职。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Babycare山茶花纸尿裤被检出甲酰胺引发安全担忧",
+      "url": "https://s.weibo.com/weibo?q=Babycare%E5%B1%B1%E8%8C%B6%E8%8A%B1%E6%A3%80%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "有家长自费送检发现Babycare山茶花纸尿裤含甲酰胺，引发消费者对婴幼儿产品安全的广泛关注。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "湖南两女子和狗被关笼中游街引发公愤",
+      "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E4%B8%A4%E5%A5%B3%E5%AD%90%E5%92%8C%E7%8B%97%E8%A2%AB%E5%85%B3%E7%AC%BC%E4%B8%AD%E6%B8%B8%E8%A1%97&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "湖南发生两女子与狗被关笼中游街事件，引发社会强烈谴责，警方已介入调查。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国政坛内讧加剧，局势持续动荡",
+      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%20%E5%86%85%E8%AE%A7&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "韩国政治内讧持续升级，多方势力角力，引发国内外对政局稳定的担忧。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "长鑫存储年底产能有望超越美光",
+      "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E5%B9%B4%E5%BA%95%E4%BA%A7%E8%83%BD%E6%9C%89%E6%9C%9B%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%85%89&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "中国存储芯片厂商长鑫存储产能快速扩张，预计年底将超越美光，改写全球存储格局。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果产品全系列正式涨价，涨幅最高达上千美元",
+      "url": "https://www.solidot.org/story?sid=84680",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "苹果CEO库克提前透风后，苹果产品全系列涨价，涨幅从50美元到上千美元，称组件成本飙升是主因。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究发现卵巢绝经后可能转变为免疫器官",
+      "url": "https://www.solidot.org/story?sid=84679",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "新研究表明女性绝经后卵巢不会无用，可能转变为具有免疫功能的器官，颠覆传统认知。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国科学家培育出低镉吸收水稻，有望减少健康风险",
+      "url": "https://www.solidot.org/story?sid=84678",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "中国科学家通过基因编辑技术研发出低镉吸收水稻，在降低镉污染的同时维持必要金属元素平衡。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI与博通合作推出首款自研AI推理芯片Jalapeño",
+      "url": "https://www.solidot.org/story?sid=84677",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "OpenAI宣布与博通合作的首款自研AI推理芯片Jalapeño，专为推理优化，每瓦性能领先。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "福特因AI未能保留专业知识，重新雇佣350名工程师",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "福特汽车发现AI系统无法有效传承专家经验或培训新人，决定重新雇佣350名退休工程师。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 360,
+      "original_comments": 167
+    },
+    {
+      "title": "LastPass再次通知用户数据泄露事件",
+      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "密码管理工具LastPass再次发生数据泄露，通知用户采取措施，安全记录再受质疑。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 313,
+      "original_comments": 143
+    },
+    {
+      "title": "高通宣布收购Modular公司",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "高通宣布收购AI基础设施公司Modular，旨在增强其在AI计算领域的竞争力。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 232,
+      "original_comments": 88
+    },
+    {
+      "title": "苹果将MacBook和iPad价格上调20%",
+      "url": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "苹果因组件成本上涨，将MacBook和iPad价格上调约20%，iPhone价格未变。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 166,
+      "original_comments": 117
+    },
+    {
+      "title": "菲律宾禁止疑似校园枪手所玩游戏",
+      "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "菲律宾因一起罕见校园枪击案，禁止了据称被枪手玩过的视频游戏，引发争议。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚独立议员发起新中间派政党",
+      "url": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "澳大利亚多名独立议员联合发起中间派政党“社区强大澳大利亚”，倡导理性而非愤怒。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "克里米亚最大城市因乌克兰袭击断电",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "克里米亚最大城市塞瓦斯托波尔遭乌克兰袭击，电力中断，部分地区恢复供电需至晚间。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌YouTube与青少年达成社交媒体成瘾诉讼和解",
+      "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "谷歌旗下YouTube与一名15岁原告就社交媒体成瘾案达成和解，其他科技巨头诉讼仍在进行。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国数百万用户可索赔苹果30亿英镑反垄断案",
+      "url": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国法院批准针对苹果的反垄断集体诉讼，数百万用户可能分享30亿英镑赔偿。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "瑞安航空不情愿地取消家长陪坐儿童收费",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "瑞安航空迫于压力，将不再向希望与孩子同坐的家长收取8英镑费用，但态度勉强。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "易捷航空拒绝第四次收购要约",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2r9przvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "易捷航空以“可交付性”存疑为由，拒绝了第四次收购提议，股价波动。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究揭示哪些大学学位终身收入最高",
+      "url": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "新数据分析了不同大学学位在职业生涯中的财务回报，为择校和专业选择提供参考。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "恋与深空新男主上线引发投诉飙涨",
+      "url": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%96%B0%E7%94%B7%E4%B8%BB%E4%B8%8A%E7%BA%BF%E6%8A%95%E8%AF%89%E9%A3%99%E6%B6%A8%E4%B8%87%E6%9D%A1&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "游戏《恋与深空》新角色上线后，玩家投诉量激增上万条，引发对运营策略的讨论。",
+      "categories": [
+        "娱乐",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "梁实第30次高考获得423分",
+      "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E5%AE%9E%E7%AC%AC30%E6%AC%A1%E9%AB%98%E8%80%83423%E5%88%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "被称为“高考钉子户”的梁实第30次参加高考，取得423分，引发社会对教育执着的讨论。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "家长自费送检纸尿裤检出甲酰胺引发行业震动",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E5%AE%B6%E9%95%BF%E8%87%AA%E8%B4%B9%E9%80%81%E6%A3%80%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%A3%80%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "多位家长自费送检纸尿裤，发现多品牌含甲酰胺，呼吁加强婴幼儿产品安全监管。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenMontage：全球首个开源智能视频制作系统",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目OpenMontage发布，包含12条管线、52个工具和500+智能体技能，可将AI编程助手变为视频制作工作室。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果发布Mac上运行Linux容器的工具Container",
+      "url": "https://github.com/apple/container",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "苹果开源了Container工具，可在Mac上通过轻量级虚拟机创建和运行Linux容器，专为Apple Silicon优化。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《虐狗是你的谎言》B站热门视频",
+      "url": "https://www.bilibili.com/video/BV1znjX64Eas",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主“伤心欲茄222”发布视频《虐狗是你的谎言》，播放量达423万，引发网友热议。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4229811,
+      "original_comments": 1225
+    },
+    {
+      "title": "《诡秘之主》游戏实机PV发布",
+      "url": "https://www.bilibili.com/video/BV1PFjG6SE2Q",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "《诡秘之主》游戏发布实机PV，展示MMO玩法，播放量超343万，粉丝期待值拉满。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 3432540,
+      "original_comments": 2665
+    },
+    {
+      "title": "赶海遇到这个能捡回家吗？",
+      "url": "https://www.bilibili.com/video/BV15C7g6vEyo",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主“麦吉克视界”发布赶海视频，展示奇特海洋生物，播放量达274万，引发好奇。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2747450,
+      "original_comments": 380
+    },
+    {
+      "title": "《原神》桑多涅角色PV「晨光熹微」发布",
+      "url": "https://www.bilibili.com/video/BV1vvjR6REyP",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "《原神》发布新角色桑多涅角色PV「晨光熹微」，播放量超190万，弹幕超3.3万。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 1903918,
+      "original_comments": 33455
+    },
+    {
+      "title": "papi酱热烈欢迎陈龙，盘点“心酸”好物",
+      "url": "https://www.bilibili.com/video/BV1rSj26VEWT",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "papi酱发布视频欢迎演员陈龙，盘点其带来的“心酸”好物，播放量60万，笑点密集。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 600194,
+      "original_comments": 7177
+    },
+    {
+      "title": "汪苏泷新歌《结局在第一个字之前就写好了》",
+      "url": "https://www.bilibili.com/video/BV1vj786RESb",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "歌手汪苏泷发布新歌MV，播放量57万，歌词和旋律引发粉丝共鸣。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 571232,
+      "original_comments": 5526
+    },
+    {
+      "title": "XKCD漫画：Baryon Asymmetry（重子不对称）",
+      "url": "https://xkcd.com/3263/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画以幽默方式探讨重子不对称和暗物质问题，用科学梗引发思考。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：Sports Commentary（体育评论）",
+      "url": "https://xkcd.com/3262/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃体育评论中的陈词滥调，用“数据的单数是轶事”等金句引人发笑。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：Side Effect（副作用）",
+      "url": "https://xkcd.com/3261/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画以幽默方式描绘药物副作用，警告“啾啾声会变得很奇怪”。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：Messi（梅西）",
+      "url": "https://xkcd.com/3260/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃梅西的足球统治力，称这可能是他面临严峻竞争的最后世界杯。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：Tethys（特提斯）",
+      "url": "https://xkcd.com/3259/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画以12:1比例建造船只的设定，幽默描绘太空探索中的奇思妙想。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Zaro：用一句话在上下文之上构建智能体和应用",
+      "url": "https://www.producthunt.com/products/zaro",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Zaro，允许用户通过一句提示在个人上下文之上构建AI智能体和应用。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "BrowserBash：将自然语言转化为真实浏览器测试的CLI工具",
+      "url": "https://www.producthunt.com/products/browserbash",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品BrowserBash，提供命令行界面，可将日常英语转化为真实的浏览器测试。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Figma Motion：Figma画布新增时间线功能",
+      "url": "https://www.producthunt.com/products/figma",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Figma Motion，为Figma设计工具引入时间线，支持动画和交互原型。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 947.57 📈+0.82(+0.09%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 32991,
+      "summary": "今日 947.57 | 📈 +0.82(+0.09%) | 最高 947.57 最低 946.74 | 连涨 1天 | 成交额 ¥24万 | 成交量 32991件 | 📈2214 ➡1650 📉3630"
+    }
+  ]
+}
