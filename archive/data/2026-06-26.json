@@ -1,0 +1,721 @@
+{
+  "date": "2026-06-26",
+  "commentary": "磊哥今儿得聊聊这三条，不然憋得慌。\n\n先说委内瑞拉，地震把楼都震塌了，BBC航拍一看，惨啊。但咱得说实话，这国家本来就被折腾得够呛，现在老天爷又补一刀。这叫啥？这叫“屋漏偏逢连夜雨，船迟又遇打头风”。可最讽刺的是，某些国家这时候不忙着救灾，先忙着制裁。行，这很“人道主义”。\n\n再看美国最高法院，嘿，牛啊！直接给特朗普开了绿灯，几十万海地和叙利亚移民，说踢就踢，临时保护身份？临时你大爷！这就是自由女神像举的火炬——照亮了别人，烧死的是自己。一边喊着人权，一边把人家往火坑里推，合着“美国优先”就是“美国先踹”。\n\n最后说互联网“证件时代”，这新闻看得我后脊梁发凉。以后上网跟过海关似的，验明正身才能冲浪。隐私？不存在的。各大厂笑得合不拢嘴：用户画像更精准了，广告更好卖了。你以为是保护安全？其实是给你套上电子狗链。\n\n今日金句：地球村越来越挤，有人忙着拆房，有人忙着锁门，而你的数据，正被当门票卖。",
+  "news": [
+    {
+      "title": "委内瑞拉遭强烈地震重创",
+      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "委内瑞拉沿海地区发生两次强烈地震，多栋建筑倒塌，造成严重破坏，该国局势更加不确定。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "航拍画面显示委内瑞拉沿海城市遭地震破坏",
+      "url": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "航拍画面显示，委内瑞拉拉瓜伊拉市在周三两次大地震后，多栋多层建筑已倒塌。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "联合国暂停霍尔木兹海峡撤离计划",
+      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "因一艘货船在阿曼附近遭不明弹丸袭击，联合国暂停了霍尔木兹海峡的撤离计划，暂无人员伤亡报告。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国圣诞市场袭击案凶手被判终身监禁",
+      "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "2024年驾车冲入圣诞市场致6人死亡的凶手Taleb Al-Abdulmohsen被判处终身监禁。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌克兰高级情报官员因间谍罪被判终身监禁",
+      "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "乌克兰上校Dmytro Kozyura因向俄罗斯泄露国家机密，被判处终身监禁。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "亚洲股市因科技股暴跌而下滑",
+      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "韩国Kospi指数本周第三次暂停交易以防止恐慌性抛售，亚洲股市因科技股暴跌而普遍下滑。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国最高法院允许特朗普终止海地和叙利亚移民保护身份",
+      "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国最高法院裁定，允许特朗普政府终止对海地和叙利亚移民的临时保护身份，数十万人面临被驱逐。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果和Xbox因组件成本上涨大幅提价",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "苹果部分产品提价近20%，Xbox也提高了主机售价，苹果称从未见过组件成本如此快速上涨。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家对微软量子计算成果提出新质疑",
+      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "一位科学家发表论文，对微软声称的Majorana芯片研究成果提出新的质疑，微软则坚持其研究。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌YouTube与青少年就社交媒体成瘾案达成和解",
+      "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "一名15岁青少年起诉YouTube导致其社交媒体成瘾，谷歌已与原告达成和解，对其他科技巨头的诉讼将于下月开始。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国数百万用户或可分享30亿英镑苹果案赔偿",
+      "url": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "英国一起针对苹果App Store反竞争行为的集体诉讼获批，数百万用户可能分享约30亿英镑的赔偿。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "罗马尼亚100家医院用纸笔应对网络攻击",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "为应对全国性网络攻击，罗马尼亚100家医院连续四天改用纸笔记录，网络安全专家最终击败了黑客。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "IBM发布亚1纳米芯片技术突破",
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "IBM宣布研发出全球首个亚1纳米芯片技术，采用新型'公寓楼'设计，但距离量产仍需时日。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 361,
+      "original_comments": 191
+    },
+    {
+      "title": "互联网的'出示证件'时代将摧毁你的隐私",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "文章指出，互联网正进入一个要求用户不断验证身份的时代，这将对个人隐私造成毁灭性打击。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 955,
+      "original_comments": 488
+    },
+    {
+      "title": "苹果上调MacBook和iPad价格",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "苹果公司宣布上调MacBook和iPad系列产品的售价，引发市场广泛讨论。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 797,
+      "original_comments": 1172
+    },
+    {
+      "title": "AI行业向美国选举投入数百万美元",
+      "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "报道称，人工智能行业正在向美国选举活动投入大量资金，引发对选举公正性的担忧。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 76,
+      "original_comments": 40
+    },
+    {
+      "title": "脚下丰富但昂贵的能源：地热能新探索",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "初创公司正尝试用新方法开发地热能，但经济可行性仍是巨大挑战。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "黑客伦敦交通局的青少年几年前已被警方知晓",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "两名青少年因攻击伦敦交通局被判有罪，调查发现他们早在几年前就已被警方关注。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta因隐私担忧暂停追踪员工数据用于AI训练",
+      "url": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta在启动仅两个月后，因隐私担忧暂停了追踪员工电脑使用情况以用于AI训练的项目。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Valve推出879英镑的Steam Machine游戏主机",
+      "url": "https://www.bbc.co.uk/news/articles/c0kyzk2p255o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Valve发布新款Steam Machine，售价879英镑，称高定价反映了组件成本的整体上涨趋势。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "充电宝和电子烟成飞机上最大火灾隐患",
+      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "锂电池火灾已成为飞机安全头号风险，但托运行李中此类设备的数量在一年内几乎翻倍。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "油价回落至伊朗战争前水平",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "随着中东冲突对能源生产和运输的影响减弱，油价已回落至冲突爆发前的水平。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谁将成为英国下一任财政大臣？",
+      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国首相辞职后，财政大臣职位的竞争已拉开序幕，多位候选人开始角逐。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "瑞安航空不再向家长收取与孩子同坐的费用",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "瑞安航空表示，将不再向希望与年幼孩子坐在一起的家长收取8英镑的选座费。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "易捷航空拒绝第四次收购要约",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2r9przvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "易捷航空拒绝了第四份收购要约，并对该要约的'可交付性'提出质疑。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "赫库兰尼姆古卷首次被完整解读",
+      "url": "https://scrollprize.org/firstscroll",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "利用先进技术，研究人员首次完整解读了被火山灰掩埋的赫库兰尼姆古卷，揭示了古罗马时期的珍贵文献。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 1514,
+      "original_comments": 328
+    },
+    {
+      "title": "22岁莫扎特手写乐谱被发现",
+      "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "一份据信是22岁莫扎特亲笔手写的乐谱笔记本被发掘，被认为是'重大发现'。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 178,
+      "original_comments": 48
+    },
+    {
+      "title": "XKCD漫画：重子不对称性",
+      "url": "https://xkcd.com/3263/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "XKCD新漫画以幽默方式探讨了暗物质与高能伽马射线相互作用的科学概念。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：体育评论",
+      "url": "https://xkcd.com/3262/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "XKCD漫画调侃了'轶事不是数据'这一说法，并提出了'数据的最小单位是轶事'的反讽。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：副作用",
+      "url": "https://xkcd.com/3261/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "XKCD漫画描绘了一个关于'啁啾声'变得奇怪的幽默场景。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：梅西",
+      "url": "https://xkcd.com/3260/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "XKCD漫画评论称，这可能是梅西在世界杯上面临激烈竞争的最后一届赛事。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：特提斯",
+      "url": "https://xkcd.com/3259/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "XKCD漫画以12:1的比例建造船只的设定，展开了一段关于土卫四的奇幻想象。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《诡秘之主》玩法实机PV发布",
+      "url": "https://www.bilibili.com/video/BV1PFjG6SE2Q",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "热门小说改编游戏《诡秘之主》发布实机玩法PV，播放量超679万，引发玩家热议。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 6792471,
+      "original_comments": 4588
+    },
+    {
+      "title": "《原神》发布新角色'骤雪'PV",
+      "url": "https://www.bilibili.com/video/BV1zi7Y6BEdS",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "《原神》发布新角色'骤雪'的超越PV，播放量近500万，弹幕超4.7万条。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 4972416,
+      "original_comments": 47757
+    },
+    {
+      "title": "《崩坏：星穹铁道》发布'欢愉之死'PV",
+      "url": "https://www.bilibili.com/video/BV1FY7Y6rEDw",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "《崩坏：星穹铁道》发布即兴巡演PV'欢愉之死'，播放量超272万。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 2726087,
+      "original_comments": 10327
+    },
+    {
+      "title": "影视飓风潮汕之旅视频爆火",
+      "url": "https://www.bilibili.com/video/BV1st7G6WEYR",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "知名UP主影视飓风发布的潮汕之旅视频播放量超102万，引发网友对潮汕文化的讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1025016,
+      "original_comments": 8841
+    },
+    {
+      "title": "三代治沙人努力让沙漠即将消失",
+      "url": "https://www.bilibili.com/video/BV1dF7Y6AEto",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "一则视频讲述三代治沙人的故事，展示中国即将消灭第一个沙漠的壮举，播放量超122万。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 1223012,
+      "original_comments": 2864
+    },
+    {
+      "title": "朱元璋大电影'开局一个碗'完整版上线",
+      "url": "https://www.bilibili.com/video/BV182jR67E93",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "B站UP主制作的朱元璋题材大电影'开局一个碗'完整版发布，播放量超165万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1659759,
+      "original_comments": 2694
+    },
+    {
+      "title": "Gemini Spark：24/7个人AI助手",
+      "url": "https://www.producthunt.com/products/gemini-spark",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品Gemini Spark，定位为全天候个人AI智能代理。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Agent Arena：首个AI代理公开竞技场",
+      "url": "https://www.producthunt.com/products/agent-arena",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品Agent Arena，提供首个供AI代理进行公开竞技的平台。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Basedash for Excel：将Excel变为实时仪表盘",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品Basedash for Excel，可将任何Excel文件转化为实时数据仪表盘。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "ModuleX：已连接一切的AI工作空间",
+      "url": "https://www.producthunt.com/products/modulex",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品ModuleX，一个已与所有工具集成的AI工作空间。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SquidHub：人类与AI的多人协作模式",
+      "url": "https://www.producthunt.com/products/squidhub",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Product Hunt新品SquidHub，提供人类与AI的多人协作模式。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SimpleX：100%隐私的无标识符通讯网络",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目SimpleX，首个无需任何用户标识符的通讯网络，实现100%隐私保护。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "DESIGN.md：为AI编码代理描述视觉规范",
+      "url": "https://github.com/google-labs-code/design.md",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目DESIGN.md，一种为编码代理描述视觉身份的格式规范，今日获2319星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "MinerU：将PDF等文档转为LLM就绪格式",
+      "url": "https://github.com/opendatalab/MinerU",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目MinerU，可将复杂PDF和Office文档转换为LLM可用的Markdown/JSON格式。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TREK：自托管旅行规划器",
+      "url": "https://github.com/mauriceboe/TREK",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目TREK，一个支持实时协作、互动地图、PWA的自托管旅行规划工具。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenMontage：首个开源智能视频制作系统",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目OpenMontage，世界首个开源智能视频制作系统，含12条流水线和500+技能。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "MediaCrawler：多平台社交媒体爬虫",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目MediaCrawler，支持小红书、抖音、快手、B站、微博等多平台内容爬取。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "CasaOS：优雅的开源个人云系统",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目CasaOS，一个简单易用且优雅的开源个人云系统。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "杨紫获白玉兰奖最佳女主角",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "演员杨紫凭借出色表现获得白玉兰奖最佳女主角，相关话题登上微博热搜。",
+      "categories": [
+        "娱乐",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "白玉兰奖完整获奖名单公布",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "第XX届白玉兰奖获奖名单全部揭晓，引发广泛关注和讨论。",
+      "categories": [
+        "娱乐",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微信朋友圈互删将清空对方全部痕迹",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%92%E5%88%A0%E6%B8%85%E7%A9%BA%E5%AF%B9%E6%96%B9%E5%85%A8%E9%83%A8%E7%97%95%E8%BF%B9&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "消息称微信更新后，互删好友将清空对方在朋友圈的所有互动痕迹，引发热议。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "DeepSeek招聘薪资待遇引关注",
+      "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9B%E8%81%98%E8%96%AA%E8%B5%84%E5%BE%85%E9%81%87&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "人工智能公司DeepSeek的招聘薪资待遇曝光，引发网友对AI行业薪酬的热议。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "奥巴马回应总被特朗普骂",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E6%80%BB%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "美国前总统奥巴马首次公开回应其经常被特朗普批评一事，相关话题登上热搜。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "缉毒警遗言被警嫂一巴掌打断",
+      "url": "https://s.weibo.com/weibo?q=%E7%BC%89%E6%AF%92%E8%AD%A6%E7%9A%84%E9%81%97%E8%A8%80%E8%A2%AB%E8%AD%A6%E5%AB%82%E4%B8%80%E5%B7%B4%E6%8E%8C%E6%89%93%E6%96%AD&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "一则关于缉毒警察牺牲前留下遗言被妻子打断的感人故事，引发网友泪目和致敬。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 942.97 📉-0.05(-0.01%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 2347,
+      "summary": "今日 942.97 | 📉 -0.05(-0.01%) | 最高 943.07 最低 942.97 | 连涨 -3天 | 成交额 ¥6万 | 成交量 2347件 | 📈2345 ➡1660 📉3489"
+    }
+  ]
+}
