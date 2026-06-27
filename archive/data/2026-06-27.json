@@ -1,0 +1,653 @@
+{
+  "date": "2026-06-27",
+  "commentary": "哎哟喂，今儿个新闻可真是“神仙打架，凡人遭殃”。美国这空袭伊朗，跟闹着玩似的，你炸我货船，我打你目标，两边儿都在那儿演“谁更狠”的真人秀。磊哥就想问一句：油价涨了，你们谁买单？老百姓加油的时候，可没人给你报销“爱国税”。\n\n再看欧洲，热浪直接干到41.3度，德国人都快成烤肠了。这边中东打仗，那边欧洲烤火，全球气候都快成“自助餐”了——想怎么折腾就怎么折腾。特朗普倒是会挑时候，一边威胁欧洲征100%关税，一边让OpenAI出个GPT-5.6还要政府审批。合着AI也得先办“签证”才能跟人类聊天？这操作，比我家楼下大爷查健康码还严格。\n\n最后说说苹果和Xbox涨价，芯片成本飙升？磊哥翻译一下：就是“我们想多赚点，你爱买不买”。库克那张脸，现在看跟涨价通知单似的。\n\n今日金句：**世界乱成一锅粥，但总有人想往里面加料——不是葱姜蒜，是导弹、关税和高温。**",
+  "news": [
+    {
+      "title": "美国空袭伊朗，回应货船遭袭事件",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美国对伊朗发动空袭，以回应此前货船遭袭事件。伊朗指责美国违反协议，并声称已打击美军相关目标。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "委内瑞拉地震致920人遇难，国际救援队抵达",
+      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "委内瑞拉发生强烈地震，已造成至少920人死亡，数百人仍被困废墟下，国际救援队已抵达协助搜救。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国政府将决定谁可以使用GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "source": "Hacker News",
+      "score": 10,
+      "summary": "美国政府出于安全担忧，要求OpenAI分阶段发布GPT-5.6模型，并逐个批准客户访问权限。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 1065,
+      "original_comments": 1122
+    },
+    {
+      "title": "特朗普政府要求OpenAI分阶段发布新模型",
+      "url": "https://www.solidot.org/story?sid=84683",
+      "source": "Solidot",
+      "score": 10,
+      "summary": "出于安全担忧，特朗普政府要求OpenAI分阶段发布GPT-5.6，初期仅限小部分合作伙伴，政府将逐个审批客户权限。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI宣布自研AI推理芯片Jalapeño",
+      "url": "https://www.solidot.org/story?sid=84677",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "OpenAI与博通合作推出首款自研AI推理芯片Jalapeño，初步测试显示每瓦性能显著优于现有同类产品。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲致命热浪破德国纪录，公共活动暂停",
+      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "欧洲遭遇致命热浪，德国测得41.3°C历史最高温，多地公共活动被迫暂停，已造成大量人员伤亡。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普威胁对欧洲征收100%关税以回应数字税",
+      "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "美国总统特朗普威胁称，若欧洲国家继续推进数字服务税，将对相关国家商品征收100%的惩罚性关税。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "前特朗普顾问博尔顿认罪，涉不当处理机密文件",
+      "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "前美国国家安全顾问约翰·博尔顿就处理机密文件不当认罪，面临最高五年监禁及225万美元罚款。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果与Xbox大幅涨价，芯片成本飙升成主因",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "苹果全系产品涨价近20%，Xbox也上调主机价格。苹果称从未见过组件价格如此快速大幅上涨。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果产品正式全系涨价，涨幅最高达上千美元",
+      "url": "https://www.solidot.org/story?sid=84680",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "苹果CEO库克提前透露后，全系产品正式涨价，涨幅从50美元到上千美元不等，以应对高昂的内存和存储成本。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "DeepSeek开源推理优化，生成速度提升60-85%",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "DeepSeek开源了新的推理优化技术，可实现60%至85%的生成速度提升，显著降低大模型部署成本。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 385,
+      "original_comments": 112
+    },
+    {
+      "title": "DeepSeek发布DSpark新模型",
+      "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%8F%91%E5%B8%83DSpark&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "DeepSeek在微博宣布发布名为DSpark的新模型，引发广泛关注，具体技术细节待披露。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德州要求学校将圣经故事列为必读内容引发争议",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "美国德克萨斯州新规要求公立学校将圣经故事纳入阅读课程，批评者认为此举侵犯宗教自由并模糊政教分离。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "亚洲股市因科技股暴跌而下滑",
+      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "受科技股大幅下跌影响，亚洲股市普遍走低，韩国Kospi指数本周第三次触发熔断机制。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "以色列与黎巴嫩在美国斡旋下签署框架协议",
+      "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "在美国调解下，以色列与黎巴嫩签署框架协议，但真主党未参与，此前停火协议仍屡遭破坏。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国圣诞市场袭击案凶手被判终身监禁",
+      "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "2024年驾车冲撞德国圣诞市场致6人死亡的凶手Taleb Al-Abdulmohsen被判处终身监禁。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软再次延长Windows 10免费安全更新一年",
+      "url": "https://www.solidot.org/story?sid=84684",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "微软宣布再次延长Windows 10免费安全更新一年，用户无需任何操作即可继续获得安全支持至2026年。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "IBM宣布突破1纳米芯片设计新架构",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "IBM声称研发出全球首个低于1纳米的芯片技术，采用类似'公寓楼'的新设计，但距离量产尚需时日。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "IBM芯片设计新突破：'公寓楼'架构低于1纳米",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "IBM宣布在超微型芯片领域取得突破，创造了全球首个已知低于1纳米的芯片技术，但量产仍需时间。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家对微软量子计算成果提出新质疑",
+      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "有科学家发表论文，对微软此前宣称的Majorana量子芯片研究成果提出新的质疑，微软则坚持其研究结论。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta因隐私担忧暂停用员工数据训练AI",
+      "url": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Meta在启动仅两个月后，因隐私问题暂停了追踪员工电脑使用情况以获取AI训练数据的项目。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "罗马尼亚100家医院用纸笔对抗网络攻击",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "为抵御国家级网络攻击，罗马尼亚上百家医院连续四天切换至纸笔系统，最终成功击败黑客。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "刚果（金）就数十年冲突将卢旺达告上国际法院",
+      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "刚果民主共和国向国际法院起诉卢旺达，指控其自1994年卢旺达种族灭绝以来犯下多项违反国际法行为。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌克兰高级情报官员因向俄罗斯泄密被判终身监禁",
+      "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "乌克兰情报上校Dmytro Kozyura因向俄罗斯泄露国家机密，被判处终身监禁。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "黑客伦敦交通局案：两名青少年多年前已被警方关注",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "两名青少年因黑客攻击伦敦交通局被判有罪，调查显示他们早在网络攻击发生前就已被警方关注。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "伦敦交通局黑客案：两名青少年多年前已被警方关注",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "因黑客攻击伦敦交通局被判刑的两名青少年，早在网络攻击发生前就已被警方关注，案件造成巨大损失。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "充电宝和电子烟成飞机上最大火灾隐患",
+      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "锂电池火灾已成为飞机头号安全风险，尽管风险极高，但托运行李中发现的此类设备数量一年内几乎翻倍。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6仅提供数字下载版，实体光盘时代终结？",
+      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "《GTA 6》将仅提供数字下载版，实体版仅包含下载码。此举引发关于游戏行业是否将彻底告别光盘的讨论。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6售价70英镑，实体版不含光盘",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Rockstar确认《GTA 6》标准版售价70英镑，实体版包装内仅包含数字下载码，不含实体光盘。",
+      "categories": [
+        "娱乐",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：流行歌词60年间从赞美美德转向歌颂堕落",
+      "url": "https://www.solidot.org/story?sid=84690",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "对1960-2023年超38万首歌曲的分析显示，流行歌词中表达关怀、体面等道德美德的语言减少，而涉及伤害、欺骗的语言增多。",
+      "categories": [
+        "社会",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：大型猿类笑声节奏与人类相似，已存在1500万年",
+      "url": "https://www.solidot.org/story?sid=84689",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "发表在《Communications Biology》的研究表明，大猿的笑声节奏与现代人类相似，这一特征至少已存在1500万年。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：每小时步行5分钟可抵消久坐危害",
+      "url": "https://www.solidot.org/story?sid=84688",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "一项涉及近2万名成年人的研究发现，每隔30至120分钟站起来步行5分钟，能有效抵消久坐带来的健康风险。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：晚上刷手机与眼疾风险增加相关",
+      "url": "https://www.solidot.org/story?sid=84686",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "上海交通大学研究团队利用英国生物样本库数据发现，晚间（20:00-23:30）暴露于手机等光照下，与眼部疾病风险增加显著相关。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：绝经后卵巢可能转变为免疫器官",
+      "url": "https://www.solidot.org/story?sid=84679",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "生殖专家发现，女性绝经后卵巢并非无用，其细胞会随年龄增长产生不同蛋白质，可能转变为具有免疫功能的器官。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国科学家培育出低镉吸收水稻新品种",
+      "url": "https://www.solidot.org/story?sid=84678",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "中国科学家通过基因编辑技术，成功培育出大幅降低镉吸收能力的水稻，有望解决土壤镉污染带来的食品安全问题。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "密码管理器LastPass再次发生用户数据泄露",
+      "url": "https://www.solidot.org/story?sid=84681",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "LastPass因外部合作伙伴Klue遭黑客攻击，导致客户姓名、电话、地址等数据泄露，公司已撤回员工对Klue的访问权限。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "白宫应用强制安装至政府手机且无法卸载",
+      "url": "https://www.solidot.org/story?sid=84674",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "美国白宫应用被自动下载到政府配发手机上且无法卸载，即使尝试删除也会立即重新安装，引发员工不安。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "LG和三星智能电视应用大量嵌入住宅代理SDK",
+      "url": "https://www.solidot.org/story?sid=84671",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "扫描发现，超过三分之一的LG和三星智能电视应用嵌入了住宅代理SDK，可能将用户家庭IP用作代理服务，存在隐私风险。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "是谁发明了拼写错误下方的红色波浪线？",
+      "url": "https://www.solidot.org/story?sid=84672",
+      "source": "Solidot",
+      "score": 5,
+      "summary": "微软资深程序员Raymond Chen揭秘，文本编辑器中拼写错误下方的红色波浪线是由微软员工Tony发明，已成为UI标配。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：720 Ollie - 规则/滑稽对称性破缺",
+      "url": "https://xkcd.com/3264/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画：这一发现证明了规则/滑稽对称性破缺，帮助他在X Games理论部分赢得金牌。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：重子不对称 - 暗物质其实是亮的？",
+      "url": "https://xkcd.com/3263/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画：等等，你说'暗物质'是什么意思？它不暗啊，它明明与高能伽马射线相互作用……哦天哪，我忘了让它不相互作用了？",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：体育评论 - 数据的单数是轶事",
+      "url": "https://xkcd.com/3262/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画：轶事的复数可能不是数据，但数据的单数就是轶事。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：副作用 - 啁啾声会变得很奇怪",
+      "url": "https://xkcd.com/3261/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画：做好准备——那啁啾声会变得相当奇怪。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：梅西 - 最后一届有对手的世界杯",
+      "url": "https://xkcd.com/3260/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画：评论员一致认为，这很可能是梅西最后一届面临激烈竞争的世界杯。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Folio AI：为PowerPoint注入AI的超级工具",
+      "url": "https://www.producthunt.com/products/folio-ai",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品：Folio AI，号称'打了类固醇的Claude for PowerPoint'，为演示文稿创作提供强大AI辅助。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Nada：仅用声音即可创作音乐的AI工具",
+      "url": "https://www.producthunt.com/products/nada-2",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品：Nada，一款让你仅用声音就能创作音乐的AI应用，降低音乐创作门槛。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "RetroMac：将你的Mac变成时光机",
+      "url": "https://www.producthunt.com/products/retromac",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品：RetroMac，一款能将你的Mac界面和体验变回经典复古风格的趣味应用。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "LockIn MCP：让AI帮你屏蔽干扰，专注工作",
+      "url": "https://www.producthunt.com/products/lockin-mcp",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品：LockIn MCP，一个能让你需要专注时，让AI自动帮你屏蔽所有数字干扰的工具。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《诡秘之主》游戏实机PV发布，B站播放量超950万",
+      "url": "https://www.bilibili.com/video/BV1PFjG6SE2Q",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "热门小说改编游戏《诡秘之主》发布实机玩法PV，在B站获得超950万播放，引发玩家高度期待。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 9530741,
+      "original_comments": 5647
+    },
+    {
+      "title": "B站UP主老番茄：我设置了全宇宙最安全的密码",
+      "url": "https://www.bilibili.com/video/BV1Gu7H6tEse",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "知名UP主老番茄发布趣味视频，讲述自己设置了一个号称'全宇宙最安全'密码的搞笑经历。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 775962,
+      "original_comments": 2401
+    },
+    {
+      "title": "B站热门：60秒内藏毒品不被发现？挑战视频引热议",
+      "url": "https://www.bilibili.com/video/BV12x756YEDQ",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主发布挑战视频，测试在60秒内将'毒品'（道具）藏在哪里最不容易被发现，引发大量讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4100759,
+      "original_comments": 37324
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 941.88 📉-1.14(-0.12%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1603723,
+      "summary": "今日 941.88 | 📉 -1.14(-0.12%) | 最高 945.98 最低 940.09 | 连涨 -3天 | 成交额 ¥5967万 | 成交量 1603723件 | 📈2287 ➡2187 📉3020"
+    }
+  ]
+}
