@@ -1,0 +1,660 @@
+{
+  "date": "2026-06-29",
+  "commentary": "兄弟姐妹们，我是磊哥。今天这新闻菜单，荤素搭配，但有几道菜，吃下去是真烧心。\n\n首先，特朗普这老哥又上头条了。性侵案最终上诉被驳回，500万美元，得掏。最高法院还顺手挡了他解雇美联储理事的路，这叫什么？这叫“连环掌掴”。老特在台上那会儿，觉得自己能呼风唤雨，现在发现，法律这堵墙，他撞上去该流血还是得流血。所谓“绝对权力”，在法治面前就是个冷笑话。至于他那100%关税的威胁，别慌，这老小子现在也就剩嘴炮了。\n\n再看德国，41.7度，热死1300人。欧洲人还在那纠结开不开空调环保呢，老天爷直接给你上物理课：命都没了，你环保给谁看？还有福特，AI质检不行，又回头请老师傅。这多新鲜啊，AI能写诗、能画画，但气缸里那点公差，它真拿捏不了。工业这东西，不是堆算力就行的，最后还得是人手的老茧和眼睛里的准头。\n\n【今日金句】\n“别听AI吹牛逼，人类被热死的时候，它连泡茶都不会。”",
+  "news": [
+    {
+      "title": "美国与伊朗在互袭后同意停火",
+      "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美国与伊朗在周末一系列互袭后，双方指责对方违反停火协议，但最终同意暂时停火。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "委内瑞拉废墟中救出新生儿，母亲讲述奇迹",
+      "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "委内瑞拉地震后，一名18天大的婴儿从废墟中被救出，母亲向BBC讲述了幸存经历，被视为希望象征。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国青少年福利中心枪击案致第六人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "德国一青少年福利中心发生枪击，4名女性和1名男性当场死亡，第6人在医院不治身亡。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普性侵案最终上诉被驳回，需支付500万美元",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美国最高法院驳回特朗普对E·简·卡罗尔性侵案的最后上诉，特朗普需支付500万美元赔偿。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "巴基斯坦空袭阿富汗致28名平民死亡，联合国确认",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "巴基斯坦声称打击边境附近武装分子，但联合国称空袭导致阿富汗至少28名平民死亡，塔利班政府谴责为暴行。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "最高法院阻止特朗普解雇美联储理事丽莎·库克",
+      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国最高法院裁定阻止特朗普解雇美联储理事，被视为央行独立性的胜利，案件发回下级法院。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲热浪已致1300人死亡，德国创41.7°C纪录",
+      "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "WHO称欧洲热浪已致1300人死亡，德国气温达41.7°C创历史新高，警告欧洲应对高温准备不足。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国公布8800亿美元芯片与AI投资计划",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "韩国宣布大规模投资计划，以应对台湾、中国和日本在芯片制造领域的激烈竞争。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普威胁对欧洲国家征收100%关税以报复数字税",
+      "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "美国总统特朗普威胁称，若欧洲国家继续推进数字服务税，将对其商品征收100%关税。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国灵晟超算登顶Top500，采用LX2处理器",
+      "url": "https://www.solidot.org/story?sid=84707",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "深圳国家超算中心灵晟超算在Top500榜单中首次亮相即登顶，Linpack性能比第二名快22%，仅靠CPU实现超2 Exaflops性能。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英美烟草公司宣布裁员9000人",
+      "url": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英美烟草公司计划裁员9000人，以推动数字化转型和AI聚焦战略。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "福特因AI质检不达标重聘人类工程师",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "福特公司发现AI质量检查无法达到资深技工的水平，决定重新雇佣人类工程师进行质检。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科技公司归咎AI导致游戏主机和设备价格飙升",
+      "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Xbox、Switch 2和Steam Deck等设备近期涨价，科技公司称AI成本是主要推手。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6将仅提供数字下载版，光盘时代终结？",
+      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Rockstar确认GTA 6实体版不含光盘，仅含下载码，引发游戏行业是否全面转向数字化的讨论。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果部分产品涨价近20%，Xbox同步上调价格",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "苹果称从未见过零部件价格如此快速上涨，Xbox也上调了主机售价。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "IBM宣布突破1纳米以下芯片设计新技术",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "IBM声称创造了全球首个低于1纳米的芯片技术，但距离量产仍需时日。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家对微软量子计算声明提出新质疑",
+      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "尽管微软坚称其Majorana芯片研究可靠，但科学家发表新论文对其量子计算成果表示怀疑。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌YouTube与青少年就社交媒体成瘾案达成和解",
+      "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "一名15岁原告起诉YouTube导致其成瘾，谷歌选择和解，另三家科技巨头的案件将于下月开庭。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta因隐私担忧暂停追踪员工数据用于AI训练",
+      "url": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta两个月前开始追踪员工电脑使用数据用于AI训练，现因隐私担忧而暂停该项目。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "全球学生利用AI智能眼镜作弊，各国加强检查",
+      "url": "https://www.solidot.org/story?sid=84711",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "AI智能眼镜被用于考试作弊，中国高考要求检查所有眼镜，韩国报告首例AI眼镜作弊案。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿尔法磁谱仪新发现挑战现有宇宙模型",
+      "url": "https://www.solidot.org/story?sid=84709",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "国际空间站AMS-02探测器收集的数据揭示了宇宙射线中碳、氮、氧等粒子的新奥秘，可能颠覆现有理论。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Gartner预测：两年内AI Token费用将超过开发者薪水",
+      "url": "https://www.solidot.org/story?sid=84706",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "Gartner预测，随着AI使用成本上升，开发者每月AI token费用可能超过其月薪，尤其在低薪地区。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国肥胖危机加剧，年轻化趋势明显",
+      "url": "https://www.solidot.org/story?sid=84705",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "中国人口持续下降，但超重肥胖率加速上升且年轻化，未来健康劳动力可能减少。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软被控为OpenAI构建超算鼓励版权侵权",
+      "url": "https://www.solidot.org/story?sid=84704",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "索尼等唱片公司在诉讼中指控微软为OpenAI构建超算的行为构成版权侵权共谋，最高法院此前已裁定用户责任有限。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国AI短剧生态爆发，年注册企业超2100家",
+      "url": "https://www.solidot.org/story?sid=84702",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "AI生成技术降低短剧制作门槛，古装AI短剧《霍去病》等爆款涌现，中国今年注册AI短剧企业超2100家。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "币安因未获牌照停止在欧盟提供服务",
+      "url": "https://www.solidot.org/story?sid=84701",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "全球最大加密货币交易所币安因无法取得欧盟运营牌照，将从下周起停止向欧盟客户提供服务。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家再次成功编辑人类胚胎DNA，伦理争议加剧",
+      "url": "https://www.solidot.org/story?sid=84699",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "继哥伦比亚大学团队后，英国剑桥大学团队利用单碱基编辑技术成功改造人类胚胎DNA，引发伦理讨论。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国热浪超2050年预测，43°C高温提前24年到来",
+      "url": "https://www.solidot.org/story?sid=84697",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "法国本周热浪使多地气温超过43°C，比2014年WMO对2050年的可怕预测提前24年实现。",
+      "categories": [
+        "国际",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国足球队主帅辞职，总统要求调查世界杯失利",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "韩国队世界杯出局后，主教练辞职，总统要求对失利原因展开调查。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "健身品牌创始人、奥运选手莱斯·米尔斯去世，享年91岁",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "莱斯·米尔斯国际健身品牌创始人去世，其创立的Body Pump等课程风靡全球。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp将允许用户无需交换手机号即可聊天",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "WhatsApp即将推出用户名功能，用户无需分享手机号即可开始聊天，未来数月内全球上线。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "入侵伦敦交通局的青少年黑客多年前已被警方关注",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "两名青少年因入侵伦敦交通局被判刑，调查显示他们早在攻击发生前就已进入警方视线。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "充电宝和电子烟成飞机上最大火灾隐患",
+      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "锂电池火灾已成为飞机头号安全风险，托运行李中发现的此类设备数量一年内几乎翻倍。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马航MH370传来最新消息",
+      "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E8%88%AAMH370%E4%BC%A0%E6%9D%A5%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "马航MH370失联事件出现新进展，具体细节引发广泛关注。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "主人解开狗绳，两只狗将路人撕咬致死",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E4%BA%BA%E8%A7%A3%E5%BC%80%E7%8B%97%E7%BB%B32%E5%8F%AA%E7%8B%97%E5%B0%86%E8%B7%AF%E4%BA%BA%E6%92%95%E5%92%AC%E8%87%B4%E6%AD%BB&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "一起因主人未拴狗绳导致的恶性事件，两只狗将路人攻击致死，引发社会对养犬管理的讨论。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "李在明向韩国两大财阀90度鞠躬",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%90%91%E9%9F%A9%E5%9B%BD%E4%B8%A4%E5%A4%A7%E8%B4%A2%E9%98%8090%E5%BA%A6%E9%9E%A0%E8%BA%AC&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "韩国政坛人物李在明向两大财阀公开鞠躬，引发舆论热议。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SimpleX：首个无用户标识的隐私消息网络发布",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目SimpleX实现100%隐私的消息网络，无需任何用户标识，支持iOS、Android和桌面端。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "FluidVoice：macOS最快离线语音转文字应用开源",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目FluidVoice成为macOS上最快的离线听写应用，完全本地运行，无需联网。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI伯克希尔：基于Claude Code的价值投资研究框架开源",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目整合巴菲特、芒格等四位大师方法论，利用AI Agent进行多并行价值投资研究。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Video-Use：用编码Agent编辑视频的开源工具",
+      "url": "https://github.com/browser-use/video-use",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目允许用户通过编程Agent自动编辑视频，简化视频制作流程。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Vibe-Trading：个人AI交易Agent开源",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目提供个人AI交易代理，帮助用户进行自动化交易决策。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Linux 7.2-rc1发布，引入缓存感知调度等新特性",
+      "url": "https://www.solidot.org/story?sid=84703",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Linus Torvalds宣布Linux 7.2-rc1发布，主要变化包括Cache Aware Scheduling、性能优化和移除strncpy API。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "左手《Luvsic》，右手《夜，萤火虫和你》是什么感觉？",
+      "url": "https://www.bilibili.com/video/BV1hQ7Y6tEgH",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频，UP主桓桓Aileen带来音乐混搭体验，播放量超1500万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 15134873,
+      "original_comments": 2365
+    },
+    {
+      "title": "找到了10年前跪舔b站的视频",
+      "url": "https://www.bilibili.com/video/BV1rz7569EWw",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门怀旧视频，UP主逗比的雀巢回顾10年前内容，引发网友共鸣，播放量超1159万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 11594117,
+      "original_comments": 21354
+    },
+    {
+      "title": "重庆8D魔幻城市太离谱，谁来都得晕",
+      "url": "https://www.bilibili.com/video/BV1SZ7W6aEeE",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频展示重庆魔幻地形，UP主峻宁峻宁带观众体验立体城市魅力。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2540323,
+      "original_comments": 691
+    },
+    {
+      "title": "致敬！中国首批缉毒警已全体退休",
+      "url": "https://www.bilibili.com/video/BV1oQTT6KEb7",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "央视新闻发布视频致敬中国首批缉毒警察，引发网友敬意，播放量超132万。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 1328828,
+      "original_comments": 14391
+    },
+    {
+      "title": "首届《哈基米歌王争霸赛》总决赛",
+      "url": "https://www.bilibili.com/video/BV1EeTg6LEaK",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门趣味比赛视频，UP主林芷伊kiwi举办哈基米歌王争霸，弹幕互动热烈。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 875145,
+      "original_comments": 3807
+    },
+    {
+      "title": "复古未来主义沙画「夜泳」",
+      "url": "https://www.bilibili.com/video/BV1uB7V6iEqm",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门艺术视频，UP主Raven沙画创作复古未来风格沙画作品，视觉惊艳。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 398210,
+      "original_comments": 176
+    },
+    {
+      "title": "VisibAI：检测你的内容是否被AI回答引用",
+      "url": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品，帮助用户发现并修复内容被AI模型引用的问题。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Upstream FTP：macOS原生FTP/SFTP客户端",
+      "url": "https://www.producthunt.com/products/upstream-ftp",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品，一款快速、美观的原生FTP/SFTP客户端，专为macOS设计。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Crest：在Mac刘海屏显示系统状态和翻译",
+      "url": "https://www.producthunt.com/products/crest-3",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品，利用Mac刘海区域显示系统状态和实时翻译，创意十足。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Epilogue：专业小说、剧本和诗歌写作应用",
+      "url": "https://www.producthunt.com/products/epilogue-book-writing-app",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品，专为严肃作者设计的专业书籍写作应用，支持小说、剧本和诗歌。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 945.59 📈+0.07(+0.01%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 119562,
+      "summary": "今日 945.59 | 📈 +0.07(+0.01%) | 最高 946.07 最低 945.5 | 连涨 1天 | 成交额 ¥319万 | 成交量 119562件 | 📈923 ➡5535 📉1036"
+    }
+  ]
+}
