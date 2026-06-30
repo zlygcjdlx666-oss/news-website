@@ -1,0 +1,628 @@
+{
+  "date": "2026-06-30",
+  "commentary": "哎哟，今天这新闻，看得我热血沸腾又哭笑不得！先说说美国最高法院这出“一日游”——特朗普一天之内一胜三败，这哪是总统啊，这是坐过山车没系安全带！出生公民权被保住了，跨性别运动员禁令也通过了，但解雇美联储理事？门儿都没有。磊哥只能说，特朗普这“行政令大砍刀”算是彻底卷刃了，美国三权分立玩得是真溜，谁也别想一家独大。\n\n再说个有意思的，福特汽车居然把人类工程师请回去了，为啥？AI质检不行！说好的“机器取代人类”呢？结果AI连个螺丝都盯不明白，还得靠老师傅的火眼金睛。磊哥早说了，技术再牛，也替代不了几十年攒下的手感。这年头，别光顾着吹AI，先让人家把活儿干明白再说。\n\n最后，韩国这8800亿美元芯片AI计划，听着挺唬人，但隔壁美国和中国正掐得你死我活，韩国这是想“闷声发大财”还是“刀尖上跳舞”？磊哥赌五毛，这钱砸下去，大概率是给台积电和三星当嫁衣。\n\n今日金句：**“最高法院的锤子，敲碎了总统的梦；AI的摄像头，最终还是败给了老师傅的手。”**",
+  "news": [
+    {
+      "title": "美国最高法院出生公民权裁决重创特朗普",
+      "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美国最高法院做出里程碑式裁决，认定出生公民权受宪法保护，对特朗普政府的移民政策构成重大打击。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国最高法院支持禁止跨性别女性参加女子体育赛事",
+      "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国最高法院裁定各州可禁止跨性别运动员参加女子和女孩体育比赛，引发广泛争议。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普在最高法院一日内一胜三败",
+      "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "特朗普在最高法院获得扩大总统罢免监管机构权力的胜利，但其他三项裁决构成重大挫折。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "最高法院阻止特朗普解雇美联储理事",
+      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "美国最高法院裁定阻止特朗普解雇美联储理事丽莎·库克，被视为央行独立性的胜利。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国公布8800亿美元芯片与AI投资计划",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "韩国宣布巨额投资计划，旨在加强芯片和人工智能领域竞争力，应对地区对手的激烈竞争。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "福特重新雇佣人类工程师，因AI质检不达标",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "福特汽车发现AI质量检查无法匹敌资深技工的技能，决定重新雇佣人类工程师进行质检。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果与Xbox大幅涨价，归咎于AI与组件成本",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "苹果部分产品价格涨幅近20%，Xbox也提高主机售价，公司称从未见过组件价格如此快速上涨。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "IBM宣布芯片技术突破，首次低于1纳米",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "IBM声称创造了全球首个低于1纳米的芯片技术，但距离量产仍需时日。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家对微软量子计算声明提出新质疑",
+      "url": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "一位科学家公开发表论文，对微软关于Majorana芯片的量子计算研究成果表示怀疑，微软坚持其立场。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌YouTube与青少年就社交媒体成瘾案达成和解",
+      "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "一名15岁原告与YouTube就社交媒体成瘾诉讼达成和解，对其他科技巨头的诉讼将于下月开始。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta因隐私担忧暂停追踪员工用于AI训练",
+      "url": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta在启动仅两个月后，因隐私问题暂停了追踪员工电脑使用情况以收集AI训练数据的计划。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国情报机构称境内有近6万名极右翼极端分子",
+      "url": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "德国国内情报机构表示，已识别近6万名极右翼极端分子，其中超过四分之一被认为具有暴力倾向。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "摩纳哥爆炸案：乌克兰寡头遭炸弹袭击，凶手在逃",
+      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "摩纳哥发生爆炸装置袭击，目标为乌克兰寡头，装置内含螺栓和弹丸，政府首脑证实此事。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印尼Gojek创始人因腐败被判入狱",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "亚洲超级应用Gojek创始人纳迪姆·马卡里姆因担任教育部长期间的一笔笔记本电脑交易腐败案被判刑。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国富豪郭文贵在美国被判30年监禁",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "自称中国批评者的富豪郭文贵因欺诈计划被判30年监禁，其追随者被骗参与骗局。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "巴基斯坦空袭阿富汗致28名平民死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "联合国称巴基斯坦在阿富汗境内的空袭造成至少28名平民死亡，巴基斯坦称目标是 militants。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国母婴中心发生枪击案致6人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "德国一家母婴中心发生枪击事件，造成6人死亡，被捕男性嫌疑人正与妻子争夺婴儿监护权。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "普京罕见承认乌克兰袭击导致燃料短缺",
+      "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "俄罗斯总统普京罕见承认乌克兰的袭击“显然正在造成问题”，但否认短缺是“关键性的”。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp将允许用户用用户名聊天，无需手机号",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "WhatsApp计划在未来几个月内全球推出用户名功能，用户可凭用户名而非手机号进行交流。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6将仅提供数字下载，实体版不含光盘",
+      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Rockstar确认《GTA 6》实体版仅包含数字下载码，引发关于游戏光盘是否走向终结的讨论。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英美烟草公司将裁员9000人",
+      "url": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英美烟草公司宣布裁员9000人，作为向更数字化和AI化转型的节省成本计划的一部分。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "高抵押贷款利率导致英国房屋销售困难",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "房产门户Zoopla数据显示，自1月以来挂牌出售的房屋中，有五分之三仍未售出，高利率抑制了买家需求。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "好莱坞导演因诈骗Netflix被判两年半监禁",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "一名好莱坞导演被指控将Netflix剧集资金用于购买劳斯莱斯和法拉利等奢侈品，被判入狱。",
+      "categories": [
+        "财经",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度最大股票销售揭示全民手机化趋势",
+      "url": "https://www.bbc.co.uk/news/articles/cdej6ej7w4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "印度NSE和Jio Platforms的股票销售反映了过去十年印度消费、投资和交易方式的巨大变化。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Qwen 3.6 27B模型成为本地开发最佳选择",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "开源大模型Qwen 3.6 27B版本因其性能和效率，被开发者社区认为是本地开发环境中的理想选择。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 1068,
+      "original_comments": 688
+    },
+    {
+      "title": "新顶级域名.self旨在支持自托管服务",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一个名为.self的新顶级域名被设计出来，旨在为个人自托管服务提供更便捷的域名解决方案。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 606,
+      "original_comments": 348
+    },
+    {
+      "title": "欧洲数字身份证依赖谷歌和苹果安全服务",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "报告指出，欧洲数字身份证钱包的安全功能依赖于谷歌和苹果提供的服务，引发隐私担忧。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 574,
+      "original_comments": 241
+    },
+    {
+      "title": "火箭实验室收购铱星公司",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "航天公司火箭实验室宣布收购铱星通信公司，此举将扩大其在卫星通信领域的影响力。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 445,
+      "original_comments": 293
+    },
+    {
+      "title": "LongCat-2.0：1.6万亿参数MoE大模型发布",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "大规模MoE模型LongCat-2.0发布，总参数量达1.6万亿，活跃参数为480亿，性能强大。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 223,
+      "original_comments": 63
+    },
+    {
+      "title": "Claude Code被指隐写标记请求",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "有开发者发现Anthropic的Claude Code工具在请求中使用了隐写术进行标记，引发隐私讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 204,
+      "original_comments": 51
+    },
+    {
+      "title": "Zluda 6发布：可在非NVIDIA GPU上运行CUDA应用",
+      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Zluda 6版本发布，允许未经修改的CUDA应用程序在非NVIDIA GPU上运行，打破硬件壁垒。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 84,
+      "original_comments": 8
+    },
+    {
+      "title": "拥有37个数据中心的县要求学校节约用电",
+      "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "美国一个拥有37个数据中心的县因电力紧张，要求当地学校“节约用电”，凸显数据中心能耗问题。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 42,
+      "original_comments": 15
+    },
+    {
+      "title": "宝马iX5实现460kW充电和435英里续航",
+      "url": "https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "宝马iX5电动汽车在充电速度和续航里程上取得突破，充电功率达460千瓦，续航435英里。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 7,
+      "original_comments": 3
+    },
+    {
+      "title": "开源AI渗透测试工具Strix发布",
+      "url": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Strix利用AI技术自动发现和修复应用程序漏洞，成为安全领域热门工具。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Agency-Agents：一站式AI代理平台",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Agency-Agents提供从前端到社交媒体的多种AI代理，实现完整的AI代理机构功能。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Video-Use：用编码代理编辑视频",
+      "url": "https://github.com/browser-use/video-use",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Video-Use允许用户通过编码代理来编辑视频，简化视频制作流程。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SimpleX：首个无用户标识的隐私消息网络",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "SimpleX消息网络无需任何用户标识符，实现100%隐私设计，支持iOS、Android和桌面端。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Vibe-Trading：个人AI交易代理",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Vibe-Trading提供个人AI交易代理，帮助用户进行自动化投资决策。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Brain2Qwerty v2：从脑信号直接解码句子",
+      "url": "https://www.producthunt.com/products/meta",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Brain2Qwerty v2发布，能够从非侵入性脑信号中直接解码句子，实现脑机接口新突破。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Cursor for iOS：随时随地用编码代理编程",
+      "url": "https://www.producthunt.com/products/cursor",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Cursor推出iOS版本，允许用户在移动设备上使用编码代理进行编程，提升开发灵活性。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：小行星威胁",
+      "url": "https://xkcd.com/3265/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画以幽默方式设想古生物学家担心6600万年前被撞入太空的恐龙残骸会落回地球。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：720度 Ollie",
+      "url": "https://xkcd.com/3264/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃滑板技巧的物理学发现，以幽默方式解释规则/搞怪对称性破坏。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "找到了10年前跪舔b站的视频",
+      "url": "https://www.bilibili.com/video/BV1rz7569EWw",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主发布10年前旧视频引发怀旧热潮，播放量超1256万，弹幕2.2万条。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 12567549,
+      "original_comments": 22388
+    },
+    {
+      "title": "苗族银饰制作工艺展示",
+      "url": "https://www.bilibili.com/video/BV1dsTL6dEkB",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主展示苗族银饰传统制作工艺，播放量超360万，展现非遗文化魅力。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 3606501,
+      "original_comments": 3930
+    },
+    {
+      "title": "网瘾贼大的阿嬷",
+      "url": "https://www.bilibili.com/video/BV16SKU6REfQ",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频记录一位沉迷网络的老奶奶，播放量超346万，引发网友共鸣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 3465714,
+      "original_comments": 1988
+    },
+    {
+      "title": "《原神》角色预告-「桑多涅：致新生」",
+      "url": "https://www.bilibili.com/video/BV1k2KU6oEGB",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "《原神》发布新角色桑多涅预告视频，播放量超163万，弹幕超1万条，游戏社区高度关注。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 1632612,
+      "original_comments": 10942
+    },
+    {
+      "title": "红魔游戏平板5 Pro上手体验",
+      "url": "https://www.bilibili.com/video/BV1sZKf6FEf5",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "极客湾评测红魔游戏平板5 Pro，称其搭载8E5处理器，性能强劲且设计帅气。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 397631,
+      "original_comments": 915
+    },
+    {
+      "title": "DropK：不伪装的托盘",
+      "url": "https://www.producthunt.com/products/dropk",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt上出现一款名为DropK的托盘产品，以“不伪装”为卖点，设计简洁有趣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "iVox：专为80年代磁带编辑效果设计的应用",
+      "url": "https://www.producthunt.com/products/ivox",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt上推出iVox应用，专门复刻1980年代磁带编辑的音效，怀旧感十足。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 931.98 📉-0.65(-0.07%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 642,
+      "summary": "今日 931.98 | 📉 -0.65(-0.07%) | 最高 932.39 最低 931.98 | 连涨 -3天 | 成交额 ¥4万 | 成交量 642件 | 📈1593 ➡1748 📉4153"
+    }
+  ]
+}
