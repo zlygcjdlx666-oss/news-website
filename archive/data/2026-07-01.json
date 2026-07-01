@@ -1,0 +1,642 @@
+{
+  "date": "2026-07-01",
+  "commentary": "哎哟我去，今天这新闻菜单够硬的啊！咱先唠唠这AI圈——Anthropic一边发新模型Sonnet 5，一边被美国商务部解禁出口管制。合着这是“边放毒边发解药”？之前怕黑客风险封了，现在又说行了，这波操作跟过山车似的。磊哥就想问：黑客是得了流感请病假了？还是说商务部的专家终于学会用GPT写报告了？科技霸权这玩意儿，说到底就是“我的标准我说了算”，改天再封个“道德条款”都不稀奇。\n\n再来看看最高法院这边，出生公民权保住了，特朗普的移民梦碎一地。这波啊，磊哥得给大法官们竖个大拇指。甭管你是红脖子还是蓝领，生在美利坚就是美国人，这不比某些张口闭口“血统论”的政客敞亮？特朗普想拿移民当靶子，结果最高法院一锤子砸了靶场，痛快！\n\n最后必须喷一下索尼——把用户买过的551部电影说删就删，这叫“数字财产”还是“数字劫匪”？合着您家游戏光盘要停产，电影版权到期了就让消费者买单？这哪是数字时代，分明是“数字当铺”——钱进我兜，货你甭管。任天堂好歹知道给员工涨工资，索尼倒好，给用户添堵。\n\n今日金句：科技可以没有底线，但人不能没有良知——尤其是当你手里攥着别人的钱和记忆的时候。",
+  "news": [
+    {
+      "title": "Claude Sonnet 5发布",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "Anthropic发布新一代AI模型Claude Sonnet 5，性能大幅提升，引发科技界广泛关注。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 1219,
+      "original_comments": 751
+    },
+    {
+      "title": "美国商务部解除对Anthropic先进AI工具的出口管制",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "美国商务部解除对Anthropic的Fable和Mythos AI模型的出口禁令，此前因黑客风险于6月暂停。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 850,
+      "original_comments": 559
+    },
+    {
+      "title": "美国最高法院维持出生公民权，打击特朗普移民议程",
+      "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国最高法院裁定维持出生公民权，这是对特朗普移民政策的重大打击，民权组织表示欢迎。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "卡罗尔要求特朗普支付500万美元赔偿金",
+      "url": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "作家卡罗尔的律师称特朗普试图拖延支付陪审团裁定的性侵和诽谤赔偿金，呼吁总统立即付款。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "大赦国际称苏丹RSF在法希尔犯下反人类罪",
+      "url": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "大赦国际报告指出苏丹快速支援部队在法希尔犯下反人类罪，联合国称其行为具有种族灭绝特征。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普重返白宫首年从加密货币获利超10亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "特朗普的加密货币收入远超其房地产和主题商品收益，成为其最大收入来源。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "首个人造细胞实现生长和分裂",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "科学家首次成功制造出能够生长和分裂的合成细胞，标志着合成生物学领域的里程碑突破。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 223,
+      "original_comments": 61
+    },
+    {
+      "title": "首次从干细胞培育出早期人类卵子",
+      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "研究人员成功从干细胞中培育出早期人类卵子，为生殖医学和生育治疗带来新希望。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 154,
+      "original_comments": 123
+    },
+    {
+      "title": "PlayStation将于2028年停止生产实体游戏光盘",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "索尼宣布从2028年1月起新游戏将不再发行实体光盘，未来游戏仅以数字代码形式销售。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 188,
+      "original_comments": 229
+    },
+    {
+      "title": "索尼删除551部PlayStation用户已购买的电影",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "索尼因授权问题从PlayStation平台删除551部用户已付费购买的电影，引发消费者权益争议。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 166,
+      "original_comments": 77
+    },
+    {
+      "title": "任天堂将员工基本工资提高10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "任天堂宣布全员加薪10%，以应对通胀和吸引人才，展现对员工福祉的重视。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 360,
+      "original_comments": 183
+    },
+    {
+      "title": "Meta未能驳回美国各州关于其平台导致儿童成瘾的诉讼",
+      "url": "https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "法院驳回Meta的撤诉动议，允许各州继续指控Facebook和Instagram导致儿童沉迷的诉讼。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 52,
+      "original_comments": 4
+    },
+    {
+      "title": "福特因AI质检不达标重新雇佣人类工程师",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "福特汽车发现AI质量检查无法达到资深技工水平，决定重新雇佣人类工程师进行质检。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果和Xbox因AI成本大幅提价",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "苹果部分产品涨价近20%，Xbox提高主机售价，科技公司归因于AI组件成本飙升。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "IBM宣布突破1纳米以下芯片技术",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "IBM声称研发出全球首个低于1纳米的芯片技术，但距离量产仍需时日。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp将推出用户名聊天功能",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "WhatsApp计划在未来几个月全球推出用户名功能，用户可无需分享手机号即可聊天。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Netflix《旺卡》剧集因AI生成吉恩·怀尔德声音遭抵制",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "Netflix新剧使用AI模拟已故演员吉恩·怀尔德的声音，虽获遗产同意但仍引发伦理争议。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚起诉亚马逊对订阅用户实施不公平合同",
+      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "澳大利亚竞争与消费者委员会指控亚马逊违反消费者保护法，对订阅用户实施不公平合同条款。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国富豪郭文贵在美国被判30年监禁",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "自称中国批评者的郭文贵因欺诈计划被判30年监禁，其追随者被骗取巨额资金。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "好莱坞导演因诈骗Netflix被判两年半监禁",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "导演将Netflix剧集资金用于购买劳斯莱斯和法拉利等奢侈品，被判欺诈罪入狱。",
+      "categories": [
+        "娱乐",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "巴基斯坦补习中心屋顶坍塌致14名儿童死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "巴基斯坦拉合尔郊区一补习中心屋顶坍塌，造成14名儿童死亡，两人被拘留调查。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "委内瑞拉地震六天后三岁儿童获救",
+      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "救援人员在委内瑞拉拉瓜伊拉州地震废墟中救出一名三岁儿童，现场视频显示救援人员欢呼。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "安特卫普公寓楼火灾致五人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "比利时安特卫普一栋约200人居住的公寓楼发生火灾，造成五人死亡，一人爬窗逃生。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加拿大将于2027年首次参加欧洲歌唱大赛",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "加拿大成为自2015年澳大利亚加入以来首个新参赛国，将于2027年亮相欧洲歌唱大赛。",
+      "categories": [
+        "娱乐",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WHSmith高街门店最多关闭150家",
+      "url": "https://www.bbc.co.uk/news/articles/cn751pkmgyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "WHSmith的救助计划获法院批准，将关闭最多150家高街门店，其余门店大幅减租。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Z世代年轻人普遍认为退休时国家养老金将不存在",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "调查显示许多年轻人不相信自己退休时还能领到国家养老金，开始提前规划财务。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "夫妻连续十年自带午餐40岁退休",
+      "url": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "一对夫妻通过极简储蓄和投资，践行FIRE运动，在40岁实现财务独立提前退休。",
+      "categories": [
+        "财经",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "设得兰群岛计划建设15亿英镑海底隧道",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl1egyl79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "设得兰群岛投票支持建设连接岛屿的海底隧道，项目预计8年内完工，耗资15亿英镑。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源AI代理项目agency-agents在GitHub爆火",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "一个集前端开发、社区运营等功能于一体的AI代理项目在GitHub上获得超2000颗星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源AI渗透测试工具Strix发布",
+      "url": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "Strix是一款开源AI渗透测试工具，可帮助发现和修复应用漏洞，在GitHub上受热捧。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OmniRoute：免费AI网关支持231家提供商",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源项目OmniRoute提供单一端点连接231家AI提供商，其中50家免费，支持主流编码工具。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软发布AI初学者教程",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "微软推出为期12周24课的AI入门教程，在GitHub上获得超1000颗星，适合零基础学习。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源工具video-use让AI代理编辑视频",
+      "url": "https://github.com/browser-use/video-use",
+      "source": "GitHub Trending",
+      "score": 5,
+      "summary": "browser-use团队推出video-use，允许编码代理通过AI自动编辑视频，在GitHub上受关注。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "胃癌晚期特效药99万元一针仅延长2.43个月生命",
+      "url": "https://s.weibo.com/weibo?q=%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%E7%89%B9%E6%95%88%E8%8D%AF99%E4%B8%87%E4%B8%80%E9%92%88%E5%A4%9A%E6%B4%BB2.43%E4%B8%AA%E6%9C%88&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "一款售价99万元的胃癌晚期特效药引发热议，临床数据显示仅能延长患者2.43个月生命。",
+      "categories": [
+        "社会",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "人工智能冲击婚纱影楼行业",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB%E5%A9%9A%E7%BA%B1%E5%BD%B1%E6%A5%BC&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "AI技术正在改变婚纱摄影行业，传统影楼面临AI生成照片和修图的冲击。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "机器人伴侣你会买吗引发热议",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "关于是否购买机器人伴侣的话题登上热搜，引发公众对AI伴侣伦理和市场的讨论。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "儿子嫌饭难吃扬言杀全家被父砍伤",
+      "url": "https://s.weibo.com/weibo?q=%E5%84%BF%E5%AD%90%E5%AB%8C%E9%A5%AD%E9%9A%BE%E5%90%83%E6%89%AC%E8%A8%80%E6%9D%80%E5%85%A8%E5%AE%B6%E8%A2%AB%E7%88%B6%E7%A0%8D%E4%BC%A4&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "一起家庭悲剧引发关注，儿子因嫌饭菜难吃威胁家人，父亲在冲突中将其砍伤。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国自杀女消防员平均每月1.6次酒局",
+      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%87%AA%E6%9D%80%E5%A5%B3%E6%B6%88%E9%98%B2%E5%91%98%E5%B9%B3%E5%9D%87%E6%AF%8F%E6%9C%881.6%E6%AC%A1%E9%85%92%E5%B1%80&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "调查显示韩国一名自杀女消防员生前每月平均参加1.6次强制性酒局，引发职场文化反思。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "今年我国首个台风来了",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E6%88%91%E5%9B%BD%E9%A6%96%E4%B8%AA%E5%8F%B0%E9%A3%8E%E6%9D%A5%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "今年首个台风正式生成，气象部门发布预警，提醒沿海地区做好防范准备。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：小行星威胁",
+      "url": "https://xkcd.com/3265/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画幽默想象6600万年前被撞入太空的恐龙化石终将落回地球，引发古生物学家的担忧。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：720度转体",
+      "url": "https://xkcd.com/3264/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画以滑板720度转体为引，调侃对称性破缺理论，赢得X Games理论金牌。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：重子不对称",
+      "url": "https://xkcd.com/3263/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画用幽默方式探讨暗物质和重子不对称问题，科学家担心自己忘了让暗物质相互作用。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：体育评论",
+      "url": "https://xkcd.com/3262/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画调侃体育评论中的轶事与数据关系，指出数据的单数形式就是轶事。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "找到了10年前跪舔b站的视频",
+      "url": "https://www.bilibili.com/video/BV1rz7569EWw",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主发布怀旧视频，回顾10年前对B站的热爱，播放量超1336万，引发网友共鸣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 13360186,
+      "original_comments": 23076
+    },
+    {
+      "title": "苗族银饰制作工艺展示",
+      "url": "https://www.bilibili.com/video/BV1dsTL6dEkB",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主展示苗族银饰传统制作工艺，播放量超473万，展现非遗文化魅力。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4736489,
+      "original_comments": 5204
+    },
+    {
+      "title": "近距离观察第一批仿生人",
+      "url": "https://www.bilibili.com/video/BV1z4Th66Eeh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主探访仿生人制造现场，展示接近真人的仿生机器人，播放量超147万。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 1479234,
+      "original_comments": 2127
+    },
+    {
+      "title": "Stigg 2.0：AI产品使用运行时",
+      "url": "https://www.producthunt.com/products/stigg",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Stigg 2.0发布，为AI产品提供使用量追踪和计费运行时。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Wins 3.4：Mac窗口管理工具",
+      "url": "https://www.producthunt.com/products/wins-2",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Wins 3.4，支持从Mac刘海区域快速捕捉、切换和排列窗口。",
+      "categories": [
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Gemini Omni Flash：高质量视频生成与编辑",
+      "url": "https://www.producthunt.com/products/gemini-omni-flash",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Google发布Gemini Omni Flash，支持高质量视频生成和对话式编辑，在Product Hunt上受关注。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Aruki：iPhone上的日本步行法教练",
+      "url": "https://www.producthunt.com/products/aruki-japanese-walking",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品Aruki，在iPhone上指导用户学习日本步行方法，兼具健康与趣味。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 923.76 📉-0.34(-0.04%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 48302,
+      "summary": "今日 923.76 | 📉 -0.34(-0.04%) | 最高 924.37 最低 923.75 | 连涨 -4天 | 成交额 ¥31万 | 成交量 48302件 | 📈1543 ➡1654 📉4297"
+    }
+  ]
+}
