@@ -1,0 +1,614 @@
+{
+  "date": "2026-07-02",
+  "commentary": "哎哟喂，各位老铁，今天这波热搜看得磊哥我是又惊又饿。先说CSGO大盘，涨了0.35%，成交额七千多万，看着挺热闹，但你仔细瞅瞅，连涨一天就嘚瑟成这样？这不就是A股老乡的套路嘛，涨一天够吹一礼拜，实际上一看涨跌比1949对3783，绿油油一片韭菜地。这玩意儿比股市还刺激，起码股票跌了还能装死，CSGO跌了真就只剩一把枪皮在库里吃灰。\n\n再说B站，磊哥得给“日食记”和“刘庸干净又卫生”点个赞。一个河南潦草美食看得我口水直流，一个二手炸鸡吃得我胃里翻江倒海。这俩视频放一块儿就是当代饮食图鉴：一边是接地气的碳水炸弹，一边是挑战人类肠胃极限的生化武器。刘庸那哥们儿是真勇士，吃炸鸡跟做实验似的，吃完还不忘来一句“干净又卫生”，建议申遗。\n\n最后那个“湘西炸虫配白酒”，老外表情失控？磊哥只想说，你们还是见识少了。来中国旅游，先过虫子关，再过白酒关，过了这两关才能谈什么“读懂中国”。不然连个虫子都不敢吃，还好意思说自己是硬核老外？\n\n【今日金句】\n股市绿、游戏跌、炸鸡配虫吃得绝——生活嘛，要么被行情玩，要么被虫子玩，反正总得选一样。",
+  "news": [
+    {
+      "title": "苗族银饰",
+      "url": "https://www.bilibili.com/video/BV1dsTL6dEkB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:529.7万 | 弹幕:5797 | UP主:归乡人山白",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5297303,
+      "original_comments": 5797
+    },
+    {
+      "title": "《最想出院の一集》",
+      "url": "https://www.bilibili.com/video/BV1pwTa6mEYj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:505.0万 | 弹幕:1431 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5049759,
+      "original_comments": 1431
+    },
+    {
+      "title": "《你是人是怪？》",
+      "url": "https://www.bilibili.com/video/BV1MrTi6iE7s",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:244.3万 | 弹幕:370 | UP主:IPx的粉红豹",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2442841,
+      "original_comments": 370
+    },
+    {
+      "title": "⚡逼尔摩斯教你玩球⚡",
+      "url": "https://www.bilibili.com/video/BV1QgKS63EgP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:229.4万 | 弹幕:841 | UP主:洛温阿特金森",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2293837,
+      "original_comments": 841
+    },
+    {
+      "title": "【原神一条龙全收集】挪德卡莱月之八(成就数224/月神瞳79/摩拉68)杜南纳深坑+霜月/宝箱/摩拉堆/玉帛/月之印/探索度/原神6.7一条龙",
+      "url": "https://www.bilibili.com/video/BV1uMTY6aEZv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:207.7万 | 弹幕:8982 | UP主:你的影月月",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2076883,
+      "original_comments": 8982
+    },
+    {
+      "title": "假如印度翻拍《火影忍者》",
+      "url": "https://www.bilibili.com/video/BV1cyjd6BEMj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:186.6万 | 弹幕:1752 | UP主:ByeByeBlueBerry",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1865676,
+      "original_comments": 1752
+    },
+    {
+      "title": "我不仅用了屏障，还用了命令方块",
+      "url": "https://www.bilibili.com/video/BV1RVTz6HEc3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:181.4万 | 弹幕:977 | UP主:Lliye_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1814390,
+      "original_comments": 977
+    },
+    {
+      "title": "《白银之城》「二分法测试」实机PV | 《乌鸦与玫瑰》",
+      "url": "https://www.bilibili.com/video/BV1NdTk6nEiY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:173.1万 | 弹幕:438 | UP主:白银之城",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1731038,
+      "original_comments": 438
+    },
+    {
+      "title": "河南看着潦草，吃着太上头了",
+      "url": "https://www.bilibili.com/video/BV1tfTv6NEEE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:171.0万 | 弹幕:3670 | UP主:日食记",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1710176,
+      "original_comments": 3670
+    },
+    {
+      "title": "体验二手炸鸡",
+      "url": "https://www.bilibili.com/video/BV11mTi6aEJG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:156.1万 | 弹幕:5032 | UP主:刘庸干净又卫生",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1560826,
+      "original_comments": 5032
+    },
+    {
+      "title": "高市早苗陷入风波",
+      "url": "https://www.bilibili.com/video/BV1iUTz6tE6t",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:137.7万 | 弹幕:8703 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1377404,
+      "original_comments": 8703
+    },
+    {
+      "title": "炸雷！老外第一次体验湘西炸虫配白酒，两人表情全程失控！！",
+      "url": "https://www.bilibili.com/video/BV1WKTe6QEAX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:129.6万 | 弹幕:1374 | UP主:覃公子Ciron",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1296013,
+      "original_comments": 1374
+    },
+    {
+      "title": "【vlog】我们是冠军🏆",
+      "url": "https://www.bilibili.com/video/BV1jsTi67EMC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:123.9万 | 弹幕:2.1万 | UP主:FLC_NiKo",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1238656,
+      "original_comments": 21146
+    },
+    {
+      "title": "【独家】《将夜》第12集 入试六科【4月国创】",
+      "url": "https://www.bilibili.com/video/BV1YbTi6yEeQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:91.4万 | 弹幕:2559 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 913662,
+      "original_comments": 2559
+    },
+    {
+      "title": "脑瘫挑战麒麟臂吃果冻",
+      "url": "https://www.bilibili.com/video/BV1ci7W6mEUr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:82.9万 | 弹幕:5493 | UP主:阿呆去流浪",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 828714,
+      "original_comments": 5493
+    },
+    {
+      "title": "“世界上最小的大当家”",
+      "url": "https://www.bilibili.com/video/BV1NVKo6pEE3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.0万 | 弹幕:361 | UP主:水霓代子想当欢乐企鹅",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 720331,
+      "original_comments": 361
+    },
+    {
+      "title": "好生气啊！！太没有品味了！！怎么会有人喜欢xxx啊！！",
+      "url": "https://www.bilibili.com/video/BV1ku7a6MEJC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.7万 | 弹幕:5596 | UP主:papi酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 647439,
+      "original_comments": 5596
+    },
+    {
+      "title": "你说过握了爪就算约定——《伊莫》握爪测试今日开启！",
+      "url": "https://www.bilibili.com/video/BV1hnTj6EEK8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:43.0万 | 弹幕:274 | UP主:伊莫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 430337,
+      "original_comments": 274
+    },
+    {
+      "title": "联动访谈 | 《燕云十六声》×《逃离塔科夫》跨界交手",
+      "url": "https://www.bilibili.com/video/BV1LDTj6ZEZG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.9万 | 弹幕:784 | UP主:燕云十六声官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 258894,
+      "original_comments": 784
+    },
+    {
+      "title": "「冒泡测试」定档7月24日！",
+      "url": "https://www.bilibili.com/video/BV15KTv6rEe3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.7万 | 弹幕:42 | UP主:山海奇旅官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 256947,
+      "original_comments": 42
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® II",
+      "url": "https://store.steampowered.com/app/783409",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $45",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Binding of Isaac: Rebirth Complete Bundle",
+      "url": "https://store.steampowered.com/app/2405",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $89",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $32",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "It Takes Two",
+      "url": "https://store.steampowered.com/app/1426210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $164",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $74",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Stardew Valley",
+      "url": "https://store.steampowered.com/app/413150",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $29",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $89",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Split Fiction",
+      "url": "https://store.steampowered.com/app/2001120",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $129",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $224",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Android Developer Verification: Threat masquerading as protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1234,
+      "original_comments": 505
+    },
+    {
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 475,
+      "original_comments": 318
+    },
+    {
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 415,
+      "original_comments": 81
+    },
+    {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 302,
+      "original_comments": 126
+    },
+    {
+      "title": "The fall of the theorem economy",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 168,
+      "original_comments": 69
+    },
+    {
+      "title": "The primary purpose of code review is to find code that will be hard to maintain",
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 167,
+      "original_comments": 96
+    },
+    {
+      "title": "Vite+ Beta",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 162,
+      "original_comments": 95
+    },
+    {
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 130,
+      "original_comments": 49
+    },
+    {
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 122,
+      "original_comments": 92
+    },
+    {
+      "title": "CursorBench 3.1",
+      "url": "https://cursor.com/evals",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 102,
+      "original_comments": 65
+    },
+    {
+      "title": "MECCHA CHAMELEON",
+      "url": "https://store.steampowered.com/app/4704690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$26",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cold Sweat Demo",
+      "url": "https://store.steampowered.com/app/4875130",
+      "source": "Steam",
+      "score": 5,
+      "summary": "Steam 热销游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Drift Mania",
+      "url": "https://store.steampowered.com/app/4294740",
+      "source": "Steam",
+      "score": 5,
+      "summary": "Steam 热销游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "My favorite keyboards",
+      "url": "https://fabiensanglard.net/keyboards/index.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 91,
+      "original_comments": 78
+    },
+    {
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 89,
+      "original_comments": 18
+    },
+    {
+      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 80,
+      "original_comments": 29
+    },
+    {
+      "title": "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
+      "url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 78,
+      "original_comments": 19
+    },
+    {
+      "title": "Winamp Skin Museum",
+      "url": "https://skins.webamp.org",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 70,
+      "original_comments": 36
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 927.36 📈+3.26(+0.35%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1894707,
+      "summary": "今日 927.36 | 📈 +3.26(+0.35%) | 最高 927.39 最低 922.11 | 连涨 1天 | 成交额 ¥7654万 | 成交量 1894707件 | 📈1949 ➡1762 📉3783"
+    }
+  ]
+}
