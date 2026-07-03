@@ -1,0 +1,620 @@
+{
+  "date": "2026-07-03",
+  "commentary": "各位老铁，今天的新闻大瓜，磊哥挑几个硬菜嚼一嚼。\n\n先说欧盟罚谷歌41亿欧元这事。谷歌凭啥被罚？就因为它把Android系统玩成了“收费站”，手机厂商想出厂得先装全家桶，竞争对手想上车？门儿都没有！欧盟这刀砍得准，谷歌还喊冤说“不承认投资”？磊哥笑了：你投资是修路，不是设卡收费！这41亿买的不只是教训，更是给全球科技巨头上了一课——垄断就是给自己挖坟。\n\n再说福特把AI质检员开了，重新雇人类工程师。这剧情反转得比宫斗剧还快！AI质检员吹得天花乱坠，结果连螺丝拧没拧紧都看不出来，还得老师傅出马。磊哥就一句话：科技再牛，也牛不过人那双手和那双眼。AI要是真能替代人类，先让它去修修自家那些“自动驾驶撞墙”的烂摊子吧。\n\n最后聊聊索尼2028年停售光盘游戏。磊哥作为老玩家，心里五味杂陈。以后买游戏连个实体盒都没了，数字版还死贵，二手盘都别想卖！这哪是科技进化？分明是厂商变着法儿割韭菜。等哪天你家网断了，连个魂斗罗都打不了，你就知道光盘多香了。\n\n今日金句：科技越往上走，越要记得，人味儿才是最后的底牌。",
+  "news": [
+    {
+      "title": "俄罗斯对基辅发动“最大规模”袭击，至少30人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "俄罗斯对乌克兰首都基辅发动了迄今为止最大规模的导弹和无人机袭击，造成至少30人死亡，多处目标被击中。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NASA发射任务拯救坠落太空望远镜",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "NASA资助的机器人发射升空，计划在轨道上捕获一颗即将坠落的太空望远镜，并将其推回安全轨道，防止其烧毁。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌因利用Android系统“阻碍”竞争对手被罚41亿欧元",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟法院维持对谷歌41亿欧元的罚款，认定其滥用Android系统主导地位排挤竞争对手。谷歌表示判决未承认其投资。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI“并不聪明”，人工智能下一步是什么？",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "顶尖AI研究员Yan LeCun认为当前AI缺乏真正智能，其初创公司正在开发更灵活的新一代AI系统。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PlayStation将于2028年停止发行光盘版游戏",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "索尼宣布未来游戏将仅以数字代码形式在商店销售，标志着光盘游戏时代的终结。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp将允许用户通过用户名聊天，无需交换手机号",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "WhatsApp计划在未来几个月内全球推出用户名功能，用户可隐藏手机号进行私密聊天。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "福特重新雇佣人类工程师，因AI质检未能达到质量标准",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "福特汽车发现AI质量检查无法媲美资深技工的水平，决定重新雇佣人类工程师进行质检。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Android开发者验证：威胁伪装成保护",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "安全研究人员发现一种新型威胁，伪装成Android开发者验证工具，实则窃取用户数据。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 1624,
+      "original_comments": 698
+    },
+    {
+      "title": "弗吉尼亚州禁止销售地理位置数据",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "美国弗吉尼亚州通过新法律，禁止企业销售用户的地理位置数据，以加强隐私保护。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 807,
+      "original_comments": 127
+    },
+    {
+      "title": "消息称阿里巴巴禁止员工在工作场所使用Claude Code",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "据知情人士透露，阿里巴巴因担心后门风险，禁止员工在工作环境中使用AI编码工具Claude Code。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 89,
+      "original_comments": 49
+    },
+    {
+      "title": "法国热浪高峰期记录到2025例超额死亡，欧洲面临更多极端天气",
+      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "法国在热浪高峰期出现2025例超额死亡，气象部门警告欧洲未来几天将迎来更多极端高温。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "委内瑞拉地震幸存者被困八天后获救",
+      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "Hernán Gil在倒塌的多层停车场下被困八天后被成功救出，成为地震救援奇迹。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "巴基斯坦一辆超载巴士坠入峡谷，至少32人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "一辆从奎达开往白沙瓦的超载巴士在Dana Sar山脉坠入峡谷，造成至少32人遇难。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "刚果（金）开始埃博拉治疗试验",
+      "url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "世卫组织数据显示，刚果（金）已有1406例确诊埃博拉病例，新治疗试验正式启动。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加拿大11岁男孩因蝙蝠落在脸上感染狂犬病死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "一名加拿大男孩在醒来发现蝙蝠落在脸上后感染狂犬病不幸去世，这是该国自1924年以来第28例狂犬病死亡。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Netflix《旺卡》剧集因AI生成吉恩·怀尔德声音引发争议",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Netflix新剧使用AI生成已故演员吉恩·怀尔德的声音，虽获遗产同意但仍遭观众强烈反对。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6将仅以数字下载形式发布，光盘时代终结？",
+      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "《GTA 6》确认不发行光盘版，引发游戏行业是否全面转向数字化的讨论。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "脚下丰富但昂贵的能源：地热新探索",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "初创公司正尝试用新技术开发地热能，但经济可行性仍是最大挑战。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "圣经、小鬼当家与香水：特朗普2025年财务文件六大看点",
+      "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "官方文件显示特朗普在重返白宫期间通过多种商业活动赚取数十亿美元。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Linux 6.9起LUKS挂起不再从内存中擦除磁盘加密密钥",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Linux内核6.9版本后，LUKS挂起功能不再清除内存中的磁盘加密密钥，引发安全担忧。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 481,
+      "original_comments": 206
+    },
+    {
+      "title": "Immich 3.0发布",
+      "url": "https://github.com/immich-app/immich/discussions/29439",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "开源自托管照片管理平台Immich发布3.0大版本更新，带来多项新功能和改进。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 439,
+      "original_comments": 218
+    },
+    {
+      "title": "美国的隐私紧急状态",
+      "url": "https://scottaaronson.blog/?p=9902",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "分析文章指出美国正面临严重的隐私危机，呼吁加强数据保护立法。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 315,
+      "original_comments": 95
+    },
+    {
+      "title": "crustc：将整个rustc编译器翻译为C语言",
+      "url": "https://github.com/FractalFir/crustc",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "开源项目crustc成功将Rust编译器完整翻译为C语言，引发编程语言社区关注。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 288,
+      "original_comments": 56
+    },
+    {
+      "title": "Strix：开源AI渗透测试工具，自动发现应用漏洞",
+      "url": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目Strix利用AI技术自动进行渗透测试，帮助开发者修复安全漏洞。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Caveman：用“原始人”说话方式减少65%的AI Token消耗",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "一个有趣的Claude Code技能，通过模仿原始人说话方式，大幅降低AI编码时的Token使用量。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Facebook开源Astryx设计系统：完全可定制且支持AI代理",
+      "url": "https://github.com/facebook/astryx",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "Meta开源了全新的设计系统Astryx，强调高度可定制性和对AI代理的原生支持。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Glaze by Raycast：通过聊天创建自己的Mac应用",
+      "url": "https://www.producthunt.com/products/glaze-4",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Raycast推出Glaze工具，用户只需与AI对话即可生成自定义的Mac应用程序。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tamamon：随你编码而成长的桌面宠物",
+      "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "一款桌面宠物应用，会随着你使用Claude Code编程而成长，为开发者带来趣味陪伴。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Osloq：AI代理自动复现GitHub问题",
+      "url": "https://www.producthunt.com/products/osloq",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "新工具Osloq利用AI代理自动复现GitHub上的问题报告，帮助开发者快速定位和修复bug。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Flowly：运行在桌面和iPhone上的个人AI代理",
+      "url": "https://www.producthunt.com/products/flowly-6",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Flowly推出跨平台个人AI代理，可在桌面和iPhone上运行，提供个性化智能服务。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Macro：将工作统一到单一应用，具备共享记忆",
+      "url": "https://www.producthunt.com/products/macro-workspace",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Macro应用通过共享记忆功能，将用户的各种工作内容整合到一个统一界面中。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "CometChat游戏聊天SDK：无缝嵌入Unreal引擎",
+      "url": "https://www.producthunt.com/products/cometchat",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "CometChat发布游戏聊天SDK，可像原生功能一样直接嵌入Unreal引擎，简化游戏内聊天开发。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Basedash Actions：能主动采取行动的BI工具",
+      "url": "https://www.producthunt.com/products/basedash",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Basedash推出新功能，其商业智能工具不仅能分析数据，还能根据洞察自动执行操作。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：洞",
+      "url": "https://xkcd.com/3266/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画调侃墨西哥巨型水晶洞，引发读者对自然奇观的好奇与探索欲。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：小行星威胁",
+      "url": "https://xkcd.com/3265/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画脑洞大开：6600万年前被撞入太空的恐龙骨骼，终有一天会落回地球。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：720度Ollie",
+      "url": "https://xkcd.com/3264/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD用漫画幽默解释滑板运动的“规则/搞怪对称性破缺”，赢得理论X Games金牌。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：体育评论",
+      "url": "https://xkcd.com/3262/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃体育评论中的逻辑谬误：轶事的复数不是数据，但数据的单数是轶事。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《你是人是怪？》",
+      "url": "https://www.bilibili.com/video/BV1MrTi6iE7s",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主IPx的粉红豹发布搞笑短片，播放量超551万，引发网友热议。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 5511417,
+      "original_comments": 635
+    },
+    {
+      "title": "体验二手炸鸡",
+      "url": "https://www.bilibili.com/video/BV11mTi6aEJG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主刘庸干净又卫生挑战品尝二手炸鸡，播放量达289万，网友评论热烈。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2898353,
+      "original_comments": 7253
+    },
+    {
+      "title": "好生气啊！！太没有品味了！！怎么会有人喜欢xxx啊！！",
+      "url": "https://www.bilibili.com/video/BV1ku7a6MEJC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "papi酱发布吐槽视频，以夸张语气表达对某些事物被喜欢的愤怒，播放量超217万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2170593,
+      "original_comments": 8400
+    },
+    {
+      "title": "不会英语直飞美国世界杯，我能活下来吗？",
+      "url": "https://www.bilibili.com/video/BV1KhTj6kEGU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "UP主力元君挑战不会英语独自前往美国观看世界杯，记录旅途中的各种趣事。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1787613,
+      "original_comments": 1711
+    },
+    {
+      "title": "谁一周后的播放量高，谁就是流量王！！！【流量王01红队】",
+      "url": "https://www.bilibili.com/video/BV1zgTn6rEsh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主徐大虾咯发起流量挑战赛，与蓝队比拼一周内谁的视频播放量更高。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 449103,
+      "original_comments": 11388
+    },
+    {
+      "title": "谁一周后的播放量高，谁就是流量王！！！【流量王01蓝队】",
+      "url": "https://www.bilibili.com/video/BV1UUTJ6dErS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主雨哥到处跑参与流量王挑战赛，与红队竞争一周内最高播放量。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 445469,
+      "original_comments": 16364
+    },
+    {
+      "title": "人或许真的不需要牙杯",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%88%96%E8%AE%B8%E7%9C%9F%E7%9A%84%E4%B8%8D%E9%9C%80%E8%A6%81%E7%89%99%E6%9D%AF&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热门话题引发网友讨论：刷牙时是否真的需要牙杯，许多人分享用手接水的习惯。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "上门取件焦虑症",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E9%97%A8%E5%8F%96%E4%BB%B6%E7%84%A6%E8%99%91%E7%97%87&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜话题，网友热议等待快递员上门取件时的紧张和焦虑心理。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "油价4日起下调",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B74%E6%97%A5%E8%B5%B7%E4%B8%8B%E8%B0%83&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "国内油价将于4日起迎来下调，对广大车主和物流行业是利好消息。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "G2战胜TES",
+      "url": "https://s.weibo.com/weibo?q=G2%E6%88%98%E8%83%9CTES&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "在电竞比赛中，G2战队击败TES战队，引发微博热搜和粉丝热议。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "莫德里奇炮轰裁判",
+      "url": "https://s.weibo.com/weibo?q=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E7%82%AE%E8%BD%B0%E8%A3%81%E5%88%A4&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "足球明星莫德里奇在赛后公开批评裁判判罚，引发球迷和媒体广泛关注。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "海军航空兵英雄方明不幸牺牲",
+      "url": "https://s.weibo.com/weibo?q=%E6%B5%B7%E5%86%9B%E8%88%AA%E7%A9%BA%E5%85%B5%E8%8B%B1%E9%9B%84%E6%96%B9%E6%98%8E%E4%B8%8D%E5%B9%B8%E7%89%BA%E7%89%B2&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "海军航空兵英雄方明在执行任务中不幸牺牲，社会各界表示沉痛哀悼。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 929.6 📈+2.27(+0.24%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1405430,
+      "summary": "今日 929.6 | 📈 +2.27(+0.24%) | 最高 930.16 最低 926.93 | 连涨 2天 | 成交额 ¥5477万 | 成交量 1405430件 | 📈1818 ➡2082 📉3594"
+    }
+  ]
+}
