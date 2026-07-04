@@ -1,0 +1,629 @@
+{
+  "date": "2026-07-04",
+  "commentary": "哎，各位老铁，今天这新闻菜单够硬核，咱捡几条最有嚼头的唠。\n\n首先，泰勒·斯威夫特在纽约结婚，封路导致粉丝扎堆。磊哥想说：这婚礼排场堪比超级碗中场秀，但全球热浪已经烤着1.65亿美国人，独立日庆祝都取消了。咱能不能把封路搞成“洒水降温专用道”？明星结婚是热闹，可民众在高温里看热闹，那叫受罪。这对比，讽刺不？\n\n再说谷歌被欧盟罚了41亿欧元，理由是用安卓排挤对手。磊哥笑了：谷歌说“我没否认开放”，但罚款数字比谷歌商店里那些App的评分还实在。安卓确实开放，但开放到自己想收“过路费”还得看欧盟脸色。这波啊，叫“垄断的代价，等于一个顶级手游公司的年收入”。\n\n最后，福特重新雇人类工程师，因为AI质检不如老技工。各位，这是今年最实在的“反内卷”案例！AI再牛，也玩不过老师傅那双摸了几十年零件的糙手。这不叫退步，这叫“技术再高端，也得认祖归宗”。汽车厂都明白了：别什么活都推给机器，人味儿才是质检的灵魂。\n\n今日金句：**“科技能造出泰勒的戒指，却造不出老技工的手感；能罚谷歌几十亿，却罚不掉这世道对‘人’的偏见。”**",
+  "news": [
+    {
+      "title": "泰勒·斯威夫特与特拉维斯·凯尔西在纽约完婚，亚当·桑德勒主持婚礼",
+      "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "泰勒·斯威夫特与特拉维斯·凯尔西在纽约举行盛大婚礼，亚当·桑德勒担任主婚人，曼哈顿中城多条街道封闭，大量粉丝聚集。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NASA发射机器人任务拯救坠落中的Swift太空望远镜",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "NASA资助的机器人已发射升空，计划在轨道上捕获并重新提升因大气阻力而不断下坠的Swift伽马射线暴探测望远镜。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌因利用Android系统排挤竞争对手被罚41亿欧元",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟裁定谷歌滥用Android市场主导地位，处以41亿欧元罚款；谷歌回应称判决未承认其对Android开放性的投资。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "致命热浪席卷美国，多地独立日庆祝活动取消",
+      "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "超过1.65亿美国人正遭受危险高温，华盛顿、费城等地取消独立日活动，预计高温将持续数日。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "伊朗最高领袖哈梅内伊葬礼首日，德黑兰聚集大量民众",
+      "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "哈梅内伊遗体在德黑兰大清真寺停放至周一，随后将巡游伊朗和伊拉克多地，葬礼规模巨大。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "波兰总理警告未来数月面临俄罗斯威胁的关键时期",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "图斯克表示波兰正为“多种”情景做准备，此前有媒体报道称俄罗斯计划发动攻击。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究显示全球极端热应激现象加剧，影响人口增加10亿",
+      "url": "https://www.solidot.org/story?sid=84755",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "《自然·气候变化》研究指出，相比1970年代，当前全球多出约10亿人每年至少经历一天极端热应激（体感温度≥46℃）。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "华为Mate 80 Pro性能分析：进步巨大",
+      "url": "https://www.bilibili.com/video/BV1F7T46wEyT",
+      "source": "B站热门",
+      "score": 8,
+      "summary": "极客湾发布华为Mate 80 Pro详细性能评测，指出其在芯片和系统优化上取得巨大进步，引发广泛讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 1493519,
+      "original_comments": 29230
+    },
+    {
+      "title": "英国国家犯罪署警告：家长勿公开分享孩子照片以防AI滥用",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "NCA警告称，儿童照片被用于生成虐待材料的威胁日益严重，呼吁家长保护孩子数字隐私。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "福特重新雇佣人类工程师，因AI质检无法达到老技工水平",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "福特汽车发现AI质量检查系统无法匹配资深技工的技能，决定重新引入人类工程师进行质检。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI教父Yan LeCun：当前AI并不聪明，下一代将更灵活",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "著名AI研究员Yan LeCun认为现有AI缺乏真正智能，其初创公司正开发更具灵活性的下一代AI系统。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿里巴巴禁止员工使用Claude Code，要求使用自家Qoder平台",
+      "url": "https://www.solidot.org/story?sid=84751",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "阿里巴巴因安全顾虑禁止员工使用Anthropic的Claude Code编程工具，尽管该工具在中国程序员中很受欢迎。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PlayStation宣布2028年起停止发行实体光盘游戏",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "索尼表示未来游戏仍会在商店销售，但仅提供数字下载码，标志着实体游戏时代的终结。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6将仅提供数字下载，实体光盘时代是否终结？",
+      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "随着GTA 6宣布仅以数字形式发售，业界讨论游戏行业是否将步音乐和电影后尘全面转向数字化。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "藤森庆子宣布赢得秘鲁总统大选，投票结束近一个月后",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "前总统阿尔贝托·藤森之女在激烈角逐中胜出，结果在投票近一个月后公布。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿尔巴尼亚爆发“火烈鸟革命”，数千人要求总理辞职",
+      "url": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "火烈鸟成为抗议象征，反对派因一处豪华开发项目引发全国性示威，要求总理下台。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "土耳其脱口秀演员因调侃埃尔多安和伊斯兰教被捕",
+      "url": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "知名喜剧演员Deniz Göktaş被指控在舞台上“煽动仇恨和敌意”，引发对言论自由的担忧。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：现代生活与人类演化的大脑不匹配，导致压力与孤独",
+      "url": "https://www.solidot.org/story?sid=84754",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "新加坡研究指出，人类大脑适应了小群体熟人社会，现代快节奏生活导致压力、孤独和攀比心理加剧。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NASA发射任务拯救因太阳活动而轨道衰减的Swift天文台",
+      "url": "https://www.solidot.org/story?sid=84753",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "2004年发射的Swift天文台因太阳极大期大气膨胀导致轨道快速衰减，NASA启动紧急拯救任务。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究发现蜂后将农药负担转移给蜂卵",
+      "url": "https://www.solidot.org/story?sid=84752",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "《当代生物学》研究显示，工蜂初期可过滤95%农药，但效率随时间下降，蜂后最终将农药转移至卵中。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp将推出用户名功能，用户可隐藏手机号聊天",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "WhatsApp计划在未来数月内全球推出用户名功能，用户可通过用户名而非手机号进行交流。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科技公司以AI为由推高设备与游戏主机价格",
+      "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Xbox、Switch 2、Steam Deck等设备近期纷纷涨价，科技公司称AI研发成本是主要原因。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Netflix《旺卡》剧集因使用AI生成吉恩·怀尔德声音遭抵制",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "已故演员吉恩·怀尔德的AI声音出现在Netflix新剧中，虽经遗产授权，但仍引发巨大争议。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta智能眼镜内置功能设置付费墙，免费使用限3小时",
+      "url": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Meta眼镜中增强语音的功能将限制免费使用时长，超出需付费，引发用户不满。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "专家：别指望联网汽车App能找回被盗车辆",
+      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "起亚表示英国法律禁止其使用定位功能实时追踪车辆，专家提醒车主不要过度依赖此类App。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国禁行电动滑板车却仍被广告宣传用于通勤",
+      "url": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "调查发现多家零售商在广告中将电动滑板车宣传为“通勤”和“城市骑行”工具，违反英国道路禁令。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "高温为何成为关键科技设施的致命弱点？",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "能源电网和铁路服务等关键基础设施在极端高温下十分脆弱，专家分析其技术原因。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源AI渗透测试工具Strix发布，可自动查找修复应用漏洞",
+      "url": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目Strix利用AI进行渗透测试，帮助开发者发现并修复安全漏洞，今日获2803星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "奇葩开源项目：让Claude Code像穴居人一样说话，减少65% Token消耗",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub项目Caveman通过让AI使用极简语言，大幅降低Token使用量，引发开发者热议。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Facebook开源Astryx设计系统，完全可定制且支持AI代理",
+      "url": "https://github.com/facebook/astryx",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "Meta开源全新设计系统Astryx，主打高度可定制性和对AI代理的原生支持，今日获885星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源项目Superpowers：一套行之有效的AI代理技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目Superpowers提供了一套AI代理技能框架和软件开发方法论，今日获1209星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源AI代理机构项目：从前端到Reddit社区管理一应俱全",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "Agency-Agents项目提供一套完整的AI代理工具集，涵盖前端开发、社区运营等多种角色。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源AI渗透测试工具Strix发布，可自动查找修复应用漏洞",
+      "url": "https://github.com/usestrix/strix",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目Strix利用AI进行渗透测试，帮助开发者发现并修复安全漏洞，今日获2803星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：龙卷风警报的类型",
+      "url": "https://xkcd.com/3267/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画吐槽手机在龙卷风预警时发出的可怕声音，幽默描绘人们对警报的恐惧。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：洞",
+      "url": "https://xkcd.com/3266/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃墨西哥巨型水晶洞，鼓励读者去搜索这个令人惊叹的自然奇观。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：小行星威胁",
+      "url": "https://xkcd.com/3265/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD脑洞大开：古生物学家担心6600万年前被撞入太空的恐龙化石会重新落回地球。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：720度Ollie滑板动作",
+      "url": "https://xkcd.com/3264/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD以滑板动作为引，幽默地“证明”了常规/反脚对称性破缺，赢得X Games理论金牌。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：重子不对称",
+      "url": "https://xkcd.com/3263/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃暗物质理论，主角发现自己忘了让暗物质与高能伽马射线相互作用。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Product Hunt新品Vida：用AI克隆自己，替你完成工作",
+      "url": "https://www.producthunt.com/products/vida-5",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Vida是一款AI克隆工具，可以在你提出需求前就替你完成工作，主打自动化办公。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Product Hunt新品PhoneDeck：将iPhone变成免费Mac控制器",
+      "url": "https://www.producthunt.com/products/phonedeck",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "PhoneDeck可将你的iPhone变为Mac的免费遥控器，实现手机控制电脑操作。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Product Hunt新品Glaze by Raycast：通过聊天创建Mac应用",
+      "url": "https://www.producthunt.com/products/glaze-4",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Raycast推出Glaze，用户只需与AI聊天即可创建自己的Mac原生应用，无需编程。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Product Hunt新品Tamamon：桌面宠物随你写代码而成长",
+      "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Tamamon是一款与Claude Code联动的桌面宠物，你写的代码越多，宠物成长越快。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "B站热门：我，超能爆破！",
+      "url": "https://www.bilibili.com/video/BV1FdTe6JE13",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "穿越火线UP主发布“超能爆破”视频，播放量超614万，成为B站今日最热门内容。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 6147875,
+      "original_comments": 469
+    },
+    {
+      "title": "B站热门：《他简直是超人》",
+      "url": "https://www.bilibili.com/video/BV1FxTJ6kEh3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "UP主伤心欲茄222发布视频《他简直是超人》，播放量超572万，引发大量弹幕互动。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 5722428,
+      "original_comments": 2335
+    },
+    {
+      "title": "B站热门：《凡人修仙传之慕兰之战》第5集上线",
+      "url": "https://www.bilibili.com/video/BV14qTo6fExY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "国创动画《凡人修仙传》最新一集上线，播放量超427万，弹幕数达12.7万条。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4277795,
+      "original_comments": 127130
+    },
+    {
+      "title": "B站热门：耗时上百小时将经典漫画《父与子》手绘成动画",
+      "url": "https://www.bilibili.com/video/BV15GTt6WETa",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "UP主叫南瓜皮的我耗时上百小时，将经典漫画《父与子》逐帧手绘成动画，获超129万播放。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1293655,
+      "original_comments": 1692
+    },
+    {
+      "title": "B站热门：和AI玩历史猜人物游戏，AI一直在挑衅",
+      "url": "https://www.bilibili.com/video/BV1UQKf6PEFM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "UP主混饭达人发布与AI玩历史猜人物游戏的视频，AI的“挑衅”行为引发网友爆笑。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1382372,
+      "original_comments": 1381
+    },
+    {
+      "title": "B站热门：什么时候买内存？UP主找到了答案",
+      "url": "https://www.bilibili.com/video/BV1W9T46iE8b",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "UP主老奇好好奇发布视频分析内存购买时机，为DIY玩家提供参考，播放量超28万。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 280235,
+      "original_comments": 553
+    },
+    {
+      "title": "微博热搜：小猫发现是国宴后迅速大吃一口",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E5%8F%91%E7%8E%B0%E6%98%AF%E5%9B%BD%E5%AE%B4%E5%90%8E%E8%BF%85%E9%80%9F%E5%A4%A7%E5%90%83%E4%B8%80%E5%8F%A3&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "一只小猫在发现面前是国宴级别食物后，迅速大口吃起来的视频登上微博热搜，萌翻网友。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微博热搜：一直不理解鸡架这种食物",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E7%9B%B4%E4%B8%8D%E7%90%86%E8%A7%A3%E9%B8%A1%E6%9E%B6%E8%BF%99%E7%A7%8D%E9%A3%9F%E7%89%A9&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "网友热议“鸡架”这种食物，引发南北饮食文化差异的趣味讨论，登上微博热搜。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 931.37 📈+0.31(+0.03%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1383290,
+      "summary": "今日 931.37 | 📈 +0.31(+0.03%) | 最高 932.77 最低 930.89 | 连涨 3天 | 成交额 ¥5238万 | 成交量 1383290件 | 📈1877 ➡2281 📉3336"
+    }
+  ]
+}
