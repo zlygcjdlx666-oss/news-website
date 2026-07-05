@@ -1,0 +1,638 @@
+{
+  "date": "2026-07-05",
+  "commentary": "各位老铁，磊哥来了！今天这新闻大餐，信息量有点猛，咱们挑几道硬菜开涮。\n\n先看美国建国250周年，特朗普同志激情演讲。说实话，这“250”这数字，搁咱们这儿多少带点“二五仔”的玄学。川普大统领一边致敬历史，一边不忘夹带政治私货，这不就是典型的“蛋糕上雕花，底下全是窟窿”？美国这艘大船庆祝250年，可船舱里的通胀、党争、移民乱局，哪个不是漏水的大洞？这庆典，更像是在泰坦尼克号上开舞会。\n\n再看欧盟罚谷歌41亿欧元，理由是安卓“封锁”对手。磊哥笑了，欧盟这刀法，专挑巨头肥肉下手。但谷歌喊冤说“开放投资”被忽略了，这就像说“我开了个菜市场，但只能卖我家的菜”。安卓生态里，谷歌爸爸的预装服务早就把路堵死了，这叫开放？欧盟这罚单，罚得漂亮，但更像是给科技巨头们提个醒：别以为用户多了就能当土皇帝，薅羊毛也得讲基本法。\n\n最后聊个轻松的，福特因为AI质检不达标，重新雇回人类工程师。这消息一出，多少人拍大腿——AI终究还是干不过打工人！科技公司整天吹“AI替代人类”，结果在拧螺丝、看瑕疵这种精细活上，AI直接现了原形。磊哥只能说，AI再牛，也学不会老工程师在流水线上摸爬滚打的那股“手劲儿”。别让算法把人性给算没了。\n\n**今日金句：** 技术再酷，也得给常识留个座；算法再高，也怕被生活打脸。",
+  "news": [
+    {
+      "title": "美国庆祝建国250周年，特朗普发表讲话",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美国举行盛大活动庆祝建国250周年，总统特朗普发表讲话，内容涵盖政治议程并致敬退伍军人和美国历史。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌克兰袭击俄罗斯圣彼得堡主要石油码头",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "乌克兰总统泽连斯基证实，乌方袭击了俄罗斯圣彼得堡附近的关键石油基础设施，旨在切断为俄战争提供资金的收入来源。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "超强台风巴维逼近关岛，民众紧急撤离",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "超强台风巴维预计将登陆关岛，带来超过160英里/小时的狂风和近11米高的巨浪，当地已发布疏散命令。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "伊朗最高领袖哈梅内伊葬礼在德黑兰举行",
+      "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "伊朗最高领袖哈梅内伊的遗体在德黑兰供民众瞻仰，随后将前往伊朗和伊拉克多地，葬礼引发大规模人群聚集。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "藤森庆子宣布赢得秘鲁总统大选",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "秘鲁前总统之女藤森庆子在大选投票近一个月后，被宣布为获胜者，赢得这场势均力敌的选举。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国热浪导致2025例超额死亡，欧洲面临更极端天气",
+      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "法国在热浪高峰期记录到2025例超额死亡，预报员警告欧洲大陆未来几天将出现更极端的温度。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌因利用安卓系统“封锁”竞争对手被罚41亿欧元",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟对谷歌处以41亿欧元罚款，因其利用安卓系统的主导地位排挤竞争对手。谷歌表示判决未承认其对安卓的开放投资。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿里巴巴与美国司法部达成6亿美元和解协议",
+      "url": "https://www.solidot.org/story?sid=84749",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "美国司法部宣布，阿里巴巴及蚂蚁集团因未能阻止商家向美国销售违法药物，同意支付6亿美元达成和解，免于被起诉。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国极右翼领导人勒庞面临决定其总统竞选命运的判决",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "法国极右翼领导人玛丽娜·勒庞因涉嫌滥用欧盟资金被判有罪，她正在上诉，该判决可能影响其参加总统竞选。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PlayStation宣布2028年起停止发行实体光盘游戏",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "索尼PlayStation宣布，从2028年开始，未来游戏将不再以光盘形式发行，实体店销售的游戏将仅包含数字下载码。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Netflix《旺卡》剧集因AI生成吉恩·怀尔德声音引发争议",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Netflix新剧《旺卡》使用AI技术重现已故演员吉恩·怀尔德的声音，尽管获得其遗产授权，但仍引发巨大争议。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp将推出用户名功能，聊天无需交换手机号",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "WhatsApp计划在未来几个月内全球推出用户名功能，用户可通过用户名而非手机号码进行聊天，提升隐私性。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "福特因AI质检不达标，重新雇佣人类工程师",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "福特汽车发现，AI质量检查系统无法达到资深技术人员的水平，因此决定重新雇佣人类工程师来负责质量把关。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科技公司归咎AI，导致游戏主机和硬件价格大幅上涨",
+      "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Xbox、Switch 2和Steam Deck等游戏设备近期纷纷涨价，科技公司称AI相关成本是推动价格上涨的主要原因之一。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《GTA 6》将仅提供数字下载版，实体光盘时代终结？",
+      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "备受期待的《GTA 6》宣布将仅以数字下载形式发行，这引发了关于游戏行业是否将彻底告别实体光盘的讨论。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国国家犯罪署警告：家长勿公开分享孩子照片以防AI滥用",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国国家犯罪署警告称，家长在社交媒体上分享孩子照片的行为，正面临被用于AI生成儿童虐待材料的日益增长的威胁。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI并不聪明，人工智能下一步将走向何方？",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "顶尖AI研究员杨立昆认为当前AI并不智能，其创立的初创公司正致力于开发更灵活、更接近人类智能的下一代AI系统。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本最高法院裁定：AI不能被列为专利申请发明人",
+      "url": "https://www.solidot.org/story?sid=84748",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "日本最高法院驳回上诉，维持原判，明确根据专利法，专利申请的发明人必须是“自然人”，AI不具备发明人资格。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "火星岩石发现大量有机碳，来源成谜",
+      "url": "https://www.solidot.org/story?sid=84757",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "NASA毅力号火星车在岩石表面发现了复杂大分子碳，这是迄今在火星发现的最浅层有机物，其来源是否与生物有关尚待研究。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "天文学家在仙女座星系发现新的超暗矮卫星星系",
+      "url": "https://www.solidot.org/story?sid=84756",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "天文学家在距离地球250万光年的仙女座星系附近，发现了一个名为仙女座XXXVI的超暗矮星系，它可能是该星系群中最暗淡的卫星之一。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究显示全球极端热应激现象加剧，影响10亿人",
+      "url": "https://www.solidot.org/story?sid=84755",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "《自然·气候变化》研究指出，相比1970年代，当前全球每年至少经历一天“极端热应激”的人数增加了约10亿。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：现代生活节奏与人类大脑演化模式不匹配",
+      "url": "https://www.solidot.org/story?sid=84754",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "新加坡研究人员指出，人类大脑演化适应的是熟人小群体社会，而现代社会的快节奏和匿名性导致了压力、孤独和攀比心理。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NASA发射探测器，拯救轨道高度不断衰减的Swift天文台",
+      "url": "https://www.solidot.org/story?sid=84753",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "因太阳活动导致大气膨胀，Swift伽马射线暴天文台轨道加速衰减，NASA发射探测器尝试将其推回更高轨道以延长寿命。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究发现蜂后会将农药负担转移给蜂卵",
+      "url": "https://www.solidot.org/story?sid=84752",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "《当代生物学》研究显示，工蜂虽能过滤部分农药，但蜂后会将其体内积累的农药转移给蜂卵，这可能解释了蜜蜂数量下降的原因。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿里巴巴禁止员工使用Anthropic的Claude Code",
+      "url": "https://www.solidot.org/story?sid=84751",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "出于安全考虑，阿里巴巴禁止员工在工作中使用Claude Code，并要求使用自家编程平台Qoder，此前Anthropic曾指控阿里蒸馏其模型。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Valve开源Steam Machine电子墨水屏技术",
+      "url": "https://www.solidot.org/story?sid=84750",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Valve虽不为Steam Machine提供官方墨水屏，但已开源其技术，允许DIY爱好者自行安装，项目文件已在MIT许可证下发布。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：代糖会扰乱肠道健康和新陈代谢",
+      "url": "https://www.solidot.org/story?sid=84747",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "最新综述研究表明，人工甜味剂等代糖可能导致空腹胰岛素水平升高和糖化血红蛋白变化，扰乱人体新陈代谢和肠道健康。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "前国际象棋世界冠军卡斯帕罗夫因作弊言论被禁赛",
+      "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "俄罗斯前世界冠军卡斯帕罗夫因多次指控其他棋手作弊，包括已故棋手，被国际棋联处以禁赛处罚。",
+      "categories": [
+        "国际",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泰勒·斯威夫特与特拉维斯·凯尔西在纽约举行婚礼",
+      "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "流行巨星泰勒·斯威夫特与NFL球星特拉维斯·凯尔西在纽约举行盛大婚礼，亚当·桑德勒担任司仪，现场粉丝云集。",
+      "categories": [
+        "娱乐",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度西孟加拉邦学校午餐取消鸡蛋引发争议",
+      "url": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "印度西孟加拉邦决定用其他食物替代学校午餐中的鸡蛋，此举引发了关于儿童营养和饮食选择的广泛社会辩论。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "教皇方济各访问兰佩杜萨岛，呼吁欧洲为移民做更多",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "教皇方济各在意大利兰佩杜萨岛悼念海上遇难移民，并呼吁欧洲各国采取更多行动来帮助和保护移民。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "委内瑞拉地震遇难者家属在临时停尸房辨认遗体",
+      "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "委内瑞拉地震造成严重伤亡，当地服务不堪重负，许多遗体被放置在帐篷或户外，家属在悲痛中艰难辨认。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "摩纳哥炸弹袭击案嫌疑人被指“男扮女装”作案",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "警方正在追捕一名乌克兰籍嫌疑人，该嫌疑人涉嫌在摩纳哥实施炸弹袭击，并可能通过伪装成男性来躲避侦查。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "网球新星伊拉夺冠后献给所有穿皱袜子的女孩",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cjwgpz3wj69o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "亚历山德拉·伊拉在温网爆冷击败卫冕冠军斯瓦泰克后，将胜利献给“所有穿着皱巴巴袜子和胖乎乎脸颊的女孩”。",
+      "categories": [
+        "娱乐",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国电动滑板车被宣传用于通勤，尽管道路使用仍属违法",
+      "url": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "调查发现，英国多家主要零售商仍在广告中将电动滑板车宣传为“通勤”和“城市骑行”工具，而其在公共道路使用仍属非法。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "为何关键科技设施在高温面前如此脆弱？",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "能源电网和铁路服务等关键基础设施在极端高温天气下极易受到影响，暴露出其应对气候变化的脆弱性。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "调查：数百万英国人可能吃到了用山羊皮和脂肪做的“羊肉”烤串",
+      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "BBC调查发现，英国数百万消费者可能吃到了并非纯羊肉的烤串，其中掺杂了山羊、皮和脂肪等廉价替代品。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "BBC调查发现Instagram在印度投放儿童性虐待内容广告",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "BBC调查显示，Instagram上存在使用“强奸”、“儿童视频”等关键词投放的广告，这些广告链接至Telegram上的儿童性虐待内容。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "柴油价格创26年来最大月度跌幅",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "随着地缘政治紧张局势出现缓和迹象，柴油价格经历了26年来最大幅度的月度下跌，燃油成本显著下降。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "球迷花6000美元买世界杯门票，却在登机口被取消",
+      "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "数百名通过转售网站StubHub购买世界杯门票的球迷，在最后一刻被告知门票被取消，导致他们滞留机场。",
+      "categories": [
+        "财经",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "奶奶删了77万条未读消息又来3万条",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B6%E5%A5%B6%E5%88%A0%E4%BA%8677%E4%B8%87%E6%9D%A1%E6%9C%AA%E8%AF%BB%E5%8F%88%E6%9D%A53%E4%B8%87&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "一位奶奶的手机上有77万条未读消息，删完后很快又来了3万条，引发网友对长辈手机使用习惯的热议。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "网友热议：已经对所有自助烤肉祛魅了",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%B2%E7%BB%8F%E5%AF%B9%E6%89%80%E6%9C%89%E8%87%AA%E5%8A%A9%E7%83%A4%E8%82%89%E7%A5%9B%E9%AD%85%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "“自助烤肉”话题登上热搜，许多网友分享经历，表示对自助烤肉的热情已经消退，引发共鸣。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微信读书被戏称为“赛博赎罪”，网友热议",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%20%E8%B5%9B%E5%8D%9A%E8%B5%8E%E7%BD%AA&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "“微信读书 赛博赎罪”登上热搜，网友调侃在微信读书上阅读是为了弥补刷短视频的负罪感，引发广泛讨论。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "网友吐槽：微信能不能别给表情取名字了",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%83%BD%E4%B8%8D%E8%83%BD%E5%88%AB%E7%BB%99%E8%A1%A8%E6%83%85%E5%8F%96%E5%90%8D%E5%AD%97%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "“微信能不能别给表情取名字了”登上热搜，网友吐槽微信表情的官方名称过于奇怪，与日常使用习惯不符。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "用旧报纸做门帘，手工达人获赞",
+      "url": "https://www.bilibili.com/video/BV1AeMF68EBg",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主“八零彪子”用旧报纸制作了一个门帘，创意手工视频获得近300万播放，网友纷纷称赞。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2880992,
+      "original_comments": 2296
+    },
+    {
+      "title": "耗时上百小时！将经典漫画《父与子》手绘成动画",
+      "url": "https://www.bilibili.com/video/BV15GTt6WETa",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主“叫南瓜皮的我”耗时上百小时，将经典漫画《父与子》逐帧手绘成动画，视频播放量超238万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 2384690,
+      "original_comments": 7313
+    },
+    {
+      "title": "沉浸式体验古井清理全过程",
+      "url": "https://www.bilibili.com/video/BV1K1Tf6AEhN",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主“四川方严”发布古井清理全过程视频，沉浸式体验吸引了超过130万观众观看。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1317786,
+      "original_comments": 4225
+    },
+    {
+      "title": "Tamamon：一款会随着你编程而成长的桌面宠物",
+      "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品Tamamon是一款桌面宠物应用，它会根据你使用Claude Code编程的活跃度而成长，为开发者增添乐趣。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PhoneDeck：将iPhone变成免费的Mac控制器",
+      "url": "https://www.producthunt.com/products/phonedeck",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品PhoneDeck能让用户将iPhone作为Mac电脑的免费控制器，提供便捷的远程操作体验。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 925.55 📉-2.97(-0.32%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1192084,
+      "summary": "今日 925.55 | 📉 -2.97(-0.32%) | 最高 929.24 最低 925.51 | 连涨 -2天 | 成交额 ¥4758万 | 成交量 1192084件 | 📈1580 ➡2343 📉3571"
+    }
+  ]
+}
