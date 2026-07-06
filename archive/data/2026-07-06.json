@@ -1,0 +1,604 @@
+{
+  "date": "2026-07-06",
+  "commentary": "哎哟喂，今天这新闻看得我血压直飙。先说乌克兰，68枚导弹加351架无人机，基辅18条人命没了，泽连斯基说“拦截导弹严重短缺”。磊哥就想问，欧美那帮大佬天天喊“支持到底”，结果连点防空弹药都抠抠搜搜？这哪是支持，分明是拿人命在拖时间啊！再说谷歌被罚41亿欧元，欧盟这刀砍得漂亮！Android垄断这么多年，把竞争对手挤得跟孙子似的，现在说“我没承认投资”？磊哥笑了，你投资是为了自己赚钱，又不是做慈善，垄断就该挨打，没毛病。最后聊个轻松的，PS2028年停发实体光盘，GTA6也搞纯数字版。兄弟们，以后买游戏就是个“数字租赁权”，哪天服务器一关，你花几百块买的游戏直接变砖头。这哪是技术进步，分明是资本在教玩家什么叫“韭菜的自我修养”。今日金句：当战争成了生意，和平就成了奢侈品；当游戏没了光盘，玩家就成了待宰的羊。",
+  "news": [
+    {
+      "title": "乌克兰警告拦截导弹短缺，基辅地区18人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "乌克兰总统泽连斯基称，俄罗斯对基辅发动大规模袭击，发射68枚导弹和351架无人机，造成18人死亡，乌方拦截导弹严重短缺。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌因利用Android系统阻止竞争对手被罚41亿欧元",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟维持对谷歌41亿欧元罚款，认定其利用Android系统垄断地位排挤竞争对手，谷歌表示判决未承认其对Android开源的投资。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PlayStation将于2028年停止发行实体光盘游戏",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "索尼宣布PlayStation将在2028年全面转向数字版游戏，商店仍销售游戏但仅提供数字兑换码，标志实体光盘时代终结。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "超级台风巴威登陆美国太平洋岛屿，风速达290公里/小时",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "超级台风巴威以近290公里/小时风速登陆美国太平洋罗塔岛，阵风达350公里/小时，造成严重破坏。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国极右翼领导人勒庞上诉判决：影响2027年总统选举",
+      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "法国国民联盟领导人勒庞的上诉判决即将公布，她目前在2027年总统选举民调中领先，判决结果将决定其参选资格。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国国家犯罪署警告：家长勿公开分享儿童照片以防AI滥用",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国国家犯罪署指出，儿童照片被用于生成虐待材料的威胁日益增长，呼吁家长谨慎在社交媒体上分享孩子影像。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI先驱杨立昆：当前AI并不智能，未来方向何在？",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "著名AI研究员杨立昆认为现有AI系统缺乏真正智能，其初创公司正开发更灵活的下一代AI架构。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "福特重新雇佣人类工程师，因AI质检未达标准",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "福特汽车发现AI质检系统无法匹敌资深技工的技能水平，决定重新雇佣人类工程师以保障质量。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "易捷航空原则同意52亿英镑收购要约",
+      "url": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国廉价航空易捷航空原则上接受美国投资公司Castlelake的52亿英镑收购，此前已拒绝四次报价。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Sky以16亿英镑收购ITV，热门节目将保持免费观看",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "Sky宣布以16亿英镑收购ITV媒体娱乐部门，承诺《我是名人》等热门节目仍免费播出。",
+      "categories": [
+        "财经",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Wegovy减肥药片在英国上市，可凭处方购买",
+      "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "Wegovy制造商推出每日一次的口服减肥药片，现可在英国药店凭处方购买，为减肥者提供新选择。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "BBC调查：Instagram在印度投放儿童性虐待内容广告",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "BBC发现Instagram上出现推广儿童性虐待材料的广告，使用“强奸”等关键词并链接至Telegram，引发安全担忧。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6仅提供数字下载版，实体光盘时代终结？",
+      "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "《GTA 6》将仅以数字下载形式发售，引发游戏行业是否彻底告别实体光盘的讨论。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Netflix《旺卡》剧集因使用AI生成吉恩·怀尔德声音遭抵制",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Netflix新剧《旺卡》使用AI模拟已故演员吉恩·怀尔德的声音，虽获遗产同意但仍引发伦理争议。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp将推出用户名功能，可替代手机号聊天",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "WhatsApp计划在未来几个月内全球推出用户名功能，用户可凭用户名而非手机号进行交流，提升隐私保护。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科技公司归咎AI导致游戏主机和设备大幅涨价",
+      "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Xbox、Switch 2和Steam Deck等设备近期涨价，科技公司称AI相关成本上升是主要原因。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "越南打击假冒奢侈品黑市，特朗普政府施压",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "越南作为全球假冒奢侈品集散地，在特朗普政府要求下开始打击地下黑市，但当地民众对此意见不一。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "达美航空客机在芝加哥降落时被烟花击中",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "达美航空一架载有52名乘客和6名机组人员的飞机在芝加哥中途机场降落时被烟花击中，无人受伤。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "非洲渔民指责中国拖网渔船非法捕捞",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "塞拉利昂渔民称中国大型渔船在非洲海域非法捕捞，严重破坏当地渔业资源和生计。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "伊朗新政权与前任截然不同：哈梅内伊葬礼后的权力转变",
+      "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "伊朗最高领袖哈梅内伊的葬礼标志着国家深刻变革，新领导层的政策方向引发外界关注。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国奶茶品牌因抄袭路易威登设计被判赔150万美元",
+      "url": "https://www.bbc.co.uk/news/articles/cwykk095yzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "中国法院判决Molly Tea奶茶店侵犯路易威登四瓣花图案设计专利，需赔偿150万美元。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泰勒·斯威夫特婚礼不收礼，但宾客该给多少份子钱？",
+      "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "泰勒·斯威夫特婚礼设无礼金政策，但普通婚礼中现金请求取代传统礼物，宾客对份子钱金额意见分歧。",
+      "categories": [
+        "娱乐",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "调查：数百万英国人可能吃到了掺假羊肉串",
+      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "调查发现英国大量“羊肉”串实际含有山羊、猪皮和脂肪，羊肉含量不足10%，消费者可能长期受骗。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英格兰凌晨1点比赛，雇主被呼吁灵活安排上班时间",
+      "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "为配合英格兰队凌晨1点的世界杯比赛，英国雇主被敦促允许员工灵活工作，但其他企业未必跟进。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国拟赋予未婚同居伴侣更多分手财产保护权",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vx4dvgzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国政府提议为英格兰和威尔士的未婚同居伴侣提供分手时的财产保护新权利，影响数百万人的财务安排。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GitHub热门：提取Anthropic和OpenAI等AI模型的系统提示词",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目asgeirtj/system_prompts_leaks今日获1386星，成功提取了Claude、ChatGPT、Gemini等AI模型的系统提示词。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GitHub热门：为AI编程代理提供生产级工程技能",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目addyosmani/agent-skills今日获1114星，为AI编码代理提供专业工程技能库。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源AI会议助手Meetily：本地处理、隐私优先",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "Rust编写的Meetily获2493星，提供4倍速实时转录、说话人识别和Ollama摘要，完全本地运行。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "RuView：用WiFi信号实现空间感知和生命体征监测",
+      "url": "https://github.com/ruvnet/RuView",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目RuView利用普通WiFi信号进行实时空间智能和生命体征监测，无需任何摄像头。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Taste-Skill：让AI生成有品位的输出，告别无聊内容",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源项目Taste-Skill今日获1453星，旨在提升AI生成内容的审美质量，避免千篇一律。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI发布Codex插件：可从Claude Code调用Codex",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "OpenAI推出codex-plugin-cc，允许在Claude Code中调用Codex进行代码审查或任务委派。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Herdr：终端中的AI代理多路复用器",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "Rust编写的Herdr获783星，作为终端中的AI代理多路复用器，可同时管理多个AI代理。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Octolens：面向AI代理时代的社会化监听工具",
+      "url": "https://www.producthunt.com/products/octolens-ai",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Octolens提供专为AI代理设计的社会化媒体监听服务，实时追踪品牌舆情。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Typeahead 2.0：Mac上每款应用的私有AI自动补全",
+      "url": "https://www.producthunt.com/products/typeahead",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Typeahead 2.0在Product Hunt发布，为Mac所有应用提供私密AI自动补全功能，保护用户数据。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Stanley Studio：像人类一样剪辑的AI视频编辑器",
+      "url": "https://www.producthunt.com/products/stanley-studio",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Stanley Studio号称AI视频编辑器，能像人类编辑一样完成剪辑工作。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Pennen：每天一页手写，无信息流无AI",
+      "url": "https://www.producthunt.com/products/pennen",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Pennen倡导每日安静手写一页，无信息流和AI干扰，回归纯粹书写体验。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：龙卷风警报类型",
+      "url": "https://xkcd.com/3267/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD新漫画吐槽手机在龙卷风预警时发出的诡异声音，幽默描绘不同警报级别的荒诞感。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：洞穴",
+      "url": "https://xkcd.com/3266/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画调侃墨西哥巨型水晶洞穴，鼓励读者去搜索这个令人惊叹的自然奇观。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：小行星威胁",
+      "url": "https://xkcd.com/3265/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画脑洞：6600万年前被撞入太空的恐龙化石终将落回地球，古生物学家为此担忧。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "当美院人玩画画躲猫猫",
+      "url": "https://www.bilibili.com/video/BV1RNMu6uE1B",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，美院学生用创意绘画玩躲猫猫游戏，播放量超410万，趣味十足。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4106818,
+      "original_comments": 715
+    },
+    {
+      "title": "带着100万，我们见到了女巫…",
+      "url": "https://www.bilibili.com/video/BV1WsTy6JEE8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，影视飓风团队携百万资金探访神秘女巫，播放量163万，充满奇幻色彩。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1633860,
+      "original_comments": 14426
+    },
+    {
+      "title": "高中生第一人称参加方程式比赛",
+      "url": "https://www.bilibili.com/video/BV14tMw63E6E",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，以第一视角记录高中生参加方程式赛车比赛，播放量79万，青春热血。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 790455,
+      "original_comments": 607
+    },
+    {
+      "title": "特厨探店：为什么开水白菜是开水白菜？",
+      "url": "https://www.bilibili.com/video/BV1MzTm6qEHs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门美食视频，特厨隋坡探店尘香餐厅，揭秘经典川菜开水白菜的奥秘，播放量58.9万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 588694,
+      "original_comments": 1205
+    },
+    {
+      "title": "香蕉是世界上最善良的水果",
+      "url": "https://s.weibo.com/weibo?q=%E9%A6%99%E8%95%89%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%96%84%E8%89%AF%E7%9A%84%E6%B0%B4%E6%9E%9C&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，网友热议香蕉因其易剥皮、营养丰富等特性被称为最善良的水果。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "去面试发现HR被辞退了",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%BB%E9%9D%A2%E8%AF%95%E5%8F%91%E7%8E%B0HR%E8%A2%AB%E8%BE%9E%E9%80%80%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，网友分享奇葩面试经历：到公司后发现面试自己的HR已被辞退。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "有编制后立刻分手是否人品有问题",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E7%BC%96%E5%88%B6%E5%90%8E%E7%AB%8B%E5%88%BB%E5%88%86%E6%89%8B%E6%98%AF%E5%90%A6%E4%BA%BA%E5%93%81%E6%9C%89%E9%97%AE%E9%A2%98&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，引发关于考编成功后立即分手是否涉及人品问题的激烈讨论。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "一种很新的分蛋糕方式",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E5%88%86%E8%9B%8B%E7%B3%95%E6%96%B9%E5%BC%8F&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，网友分享创意分蛋糕方法，引发趣味模仿和讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 918.6 📉-4.08(-0.44%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1262584,
+      "summary": "今日 918.6 | 📉 -4.08(-0.44%) | 最高 923.81 最低 917.01 | 连涨 -3天 | 成交额 ¥5024万 | 成交量 1262584件 | 📈1374 ➡2021 📉4099"
+    }
+  ]
+}
