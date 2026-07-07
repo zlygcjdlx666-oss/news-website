@@ -1,0 +1,666 @@
+{
+  "date": "2026-07-07",
+  "commentary": "各位老铁，今天这新闻看得磊哥我是又惊又喜，差点没把保温杯打翻。先说天问二号，400天飞10亿公里，跟小行星2016HO3成功交会——这啥概念？咱妈在太空玩“碰碰车”，碰的还是亿万年前的宇宙古董！科技部要是搞个“最硬核快递”评选，天问二号必须C位出道。某些国家还在纠结“登月造假”的段子，咱们已经默默把实验室开到了小行星上。这才是真正的“遥遥领先”，不靠嘴炮靠轨道！\n\n再看微软裁员4800人，Xbox部门砍掉1600人——磊哥早说过，科技巨头搞游戏就跟中年大叔玩滑板，姿势再帅也容易闪腰。索尼那边更狠，2028年直接不卖光盘了，逼着玩家当“数字佃农”。以后实体店买游戏？不存在的！你花几百块买的只是个“下载码”，这波操作比游戏BOSS还阴间。建议微软索尼合拍部电影：《消失的实体盘》——惊悚片，绝对卖座。\n\n最后来个金句：**“科技越发达，韭菜越新鲜。今天你被裁的是岗位，明天你买的是空气。”** 散会！",
+  "news": [
+    {
+      "title": "天问二号探测器抵达目标小行星",
+      "url": "https://www.solidot.org/story?sid=84769",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "中国天问二号探测器历经约400天、行程10亿千米，成功与小行星2016HO3交会，开始科学探测。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "三星利润飙升1800% 因AI芯片销售激增",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "三星电子利润同比暴增1800%，主要得益于AI芯片需求旺盛，但股价因预期过高而下跌。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软裁员4800人 Xbox业务大幅缩减",
+      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "微软宣布裁员4800人，占员工总数2.1%，其中Xbox部门裁员1600人，多个工作室被出售或独立。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌因Android垄断被罚41亿欧元",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟法院维持对谷歌41亿欧元罚款，认定其利用Android系统排挤竞争对手，谷歌表示将上诉。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泽连斯基敦促北约提供更多防空系统",
+      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "乌克兰总统泽连斯基将在北约会议上呼吁成员国提供更多拦截导弹，以应对俄罗斯猛烈空袭。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国极右翼领袖勒庞面临判决 或影响2027大选",
+      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "法国国民联盟领袖勒庞因涉嫌滥用欧盟资金面临法院判决，可能影响其2027年总统竞选资格。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "罕见龙卷风袭击中国中部城市 致多人受伤",
+      "url": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "湖北鄂州和黄冈遭遇罕见龙卷风，视频显示碎片漫天飞舞，造成多人受伤和财产损失。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国南部野火肆虐 上万人被迫撤离",
+      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "法国东比利牛斯省发生大规模野火，约1万人被疏散，环法自行车赛第三赛段禁止观众入场。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "斯里兰卡监狱暴动致26死100余人伤",
+      "url": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "斯里兰卡尼甘布监狱发生持续两天的严重暴动，造成26人死亡、100多人受伤，为该国近年最严重监狱骚乱。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国能否将电动汽车成功复制到无人驾驶出租车？",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "中国自动驾驶公司凭借电动汽车供应链优势，正加速在全球布局无人驾驶出租车业务。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "易捷航空原则上同意52亿英镑收购要约",
+      "url": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国廉价航空易捷航空原则上接受美国投资公司Castlelake的52亿英镑收购，此前已拒绝四次报价。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "诺和诺德减肥药Wegovy口服版在英国上市",
+      "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "Wegovy口服版（每日一次）现已在英国药店可购，为减肥患者提供注射剂之外的便利选择。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PlayStation将于2028年停止发行实体光盘游戏",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "索尼宣布PlayStation将从2028年起停止发行光盘游戏，未来游戏将仅提供数字下载码。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp将允许用户用用户名聊天 无需手机号",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "WhatsApp计划在未来几个月内推出用户名功能，用户可隐藏手机号，通过用户名进行聊天。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "福特重新雇佣人类工程师 AI质检未达标准",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "福特汽车发现AI质量检查系统无法达到资深技工的水平，决定重新雇佣人类工程师进行质检。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "基于Go语言的TypeScript 7.0发布RC版",
+      "url": "https://www.solidot.org/story?sid=84765",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "微软发布首个用Go语言重写的TypeScript 7.0 RC版，编译速度提升数倍，正式版预计下月发布。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国最高法院允许德州要求应用验证用户年龄",
+      "url": "https://www.solidot.org/story?sid=84771",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "美国最高法院裁定德克萨斯州可要求应用商店在未成年人下载应用前验证年龄并获家长同意。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国研究型大学博士生招生人数锐减15%",
+      "url": "https://www.solidot.org/story?sid=84770",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "美国55所顶尖研究型大学2026年秋季博士生招生人数同比减少15%，引发对科研能力下降的担忧。",
+      "categories": [
+        "国际",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "被指AI创作的短篇小说赢得英联邦文学奖",
+      "url": "https://www.solidot.org/story?sid=84768",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "短篇小说《The Serpent in the Grove》因包含典型AI写作模式被指控，但仍赢得英联邦短篇小说奖。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "字节跳动和阿里巴巴下线智能体功能",
+      "url": "https://www.solidot.org/story?sid=84763",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "字节跳动豆包和阿里千问宣布将于7月15日下线智能体功能，用户需在10月15日前保存数据。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本隼鸟2号近距离飞越小行星鸟船",
+      "url": "https://www.solidot.org/story?sid=84762",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "日本隼鸟2号探测器在完成龙宫样本任务后，以800米距离飞越小行星鸟船，进行地球防御技术验证。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Windows设备标识符协助逮捕网络勒索组织成员",
+      "url": "https://www.solidot.org/story?sid=84764",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "微软向FBI提供Windows设备标识符，协助逮捕19岁的网络勒索组织Scattered Spider成员。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国人日均社交时间20年减少10分钟",
+      "url": "https://www.solidot.org/story?sid=84773",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "调查显示美国人日均社交时间从45分钟降至35分钟，15-24岁青少年降幅最大，每天仅社交35分钟。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "工作记忆如何产生意识？门口效应揭示记忆机制",
+      "url": "https://www.solidot.org/story?sid=84766",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究探讨“门口效应”与工作记忆的关系，解释为何走进房间后常忘记来意，揭示意识形成机制。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "战争模糊企业安全与国家安全边界",
+      "url": "https://www.solidot.org/story?sid=84761",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "海底光缆、数据中心等关键基础设施成为战争目标，北约成员国同意将5%经济产出用于国防安全。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软被指将利润转移至低税国家",
+      "url": "https://www.solidot.org/story?sid=84760",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "调查显示微软利用爱尔兰等低税国子公司转移利润，低税国员工少但利润高，高税国则相反。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国百万房主将面临更高月供",
+      "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "未来两年内，约100万英国房主在续签房贷时平均每月多付45英镑，加剧生活成本压力。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国大银行被指将弱势客户推离基础账户",
+      "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国金融监管机构指责多家大型银行未能妥善服务最弱势客户，存在将客户推离基础账户的行为。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "“离婚戒指”兴起：女性用中指戒指宣告独立",
+      "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "全球越来越多女性在离婚后购买或改造订婚戒指，戴在中指上作为独立和重生的象征。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Sky以16亿英镑收购ITV媒体娱乐业务",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "Sky宣布以16亿英镑收购ITV的媒体和娱乐部门，并承诺《我是名人》等热门节目将继续免费播出。",
+      "categories": [
+        "财经",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国奶茶品牌因抄袭LV设计被判赔150万美元",
+      "url": "https://www.bbc.co.uk/news/articles/cwykk095yzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "中国法院判决茉莉奶白（Molly Tea）因抄袭路易威登四叶花图案，需赔偿150万美元。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "大二女生贷款200万开民宿年营收千万",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F%E8%B4%B7%E6%AC%BE200%E4%B8%87%E5%BC%80%E6%B0%91%E5%AE%BF%E8%90%A5%E6%94%B6%E5%8D%83%E4%B8%87&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "一名大二女生贷款200万元开设民宿，通过精准运营实现年营收超千万元，引发热议。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "烧烤店主目睹丈夫和员工被龙卷风吹飞",
+      "url": "https://s.weibo.com/weibo?q=%E7%83%A7%E7%83%A4%E5%BA%97%E4%B8%BB%E7%9B%AE%E7%9D%B9%E4%B8%88%E5%A4%AB%E5%91%98%E5%B7%A5%E8%A2%AB%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%90%B9%E9%A3%9E&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "湖北龙卷风灾害中，一名烧烤店主亲眼目睹丈夫和员工被狂风卷走，所幸无生命危险。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "1TB固态硬盘价格涨至950元",
+      "url": "https://s.weibo.com/weibo?q=1TB%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98%E6%B6%A8%E8%87%B3950%E5%85%83&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "受存储芯片涨价影响，1TB固态硬盘价格已涨至950元，消费者购买成本显著增加。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国女高中生遇害案曝出警界丑闻",
+      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E9%81%87%E5%AE%B3%E6%A1%88%E6%9B%9D%E5%87%BA%E8%AD%A6%E7%95%8C%E4%B8%91%E9%97%BB&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "韩国一起女高中生遇害案调查中，警方被曝存在严重失职和掩盖行为，引发社会愤怒。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本品牌将七七事变当七夕宣传引争议",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E6%8B%BF%E4%B8%83%E4%B8%83%E5%BD%93%E4%B8%83%E5%A4%95%E6%98%AF%E4%BD%95%E5%B1%85%E5%BF%83&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "某日本品牌在营销中将“七七”作为七夕节宣传，被指忽视历史，引发中国网友强烈抗议。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "超强台风可能登陆我国 多地启动应急响应",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%A8%E6%97%A0%E9%9C%B8%E5%8F%B0%E9%A3%8E%E5%8F%AF%E8%83%BD%E7%99%BB%E9%99%86%E6%88%91%E5%9B%BD&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "气象部门预警一个超强台风可能登陆我国沿海，多地已启动防汛防台风应急响应。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《失控进化》荒岛进化三部曲",
+      "url": "https://www.bilibili.com/video/BV1VKTv6rEp2",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频，UP主失控进化制作的荒岛进化系列合集，播放量超608万，弹幕4.6万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 6081249,
+      "original_comments": 45725
+    },
+    {
+      "title": "谁设计的？第一次见这么离谱的地铁站",
+      "url": "https://www.bilibili.com/video/BV17uMP6wEfa",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主峻宁峻宁吐槽一个设计奇葩的地铁站，播放量197万，引发网友热议。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 1969756,
+      "original_comments": 1088
+    },
+    {
+      "title": "《瑞克和莫蒂》第九季第七集剧情解析",
+      "url": "https://www.bilibili.com/video/BV1DKT96WEAv",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主安迪视频解析《瑞克和莫蒂》第九季第七集，称赞莫蒂表现超越瑞克。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 1135323,
+      "original_comments": 1760
+    },
+    {
+      "title": "中式墨鱼蛋 老外吃了狂点赞",
+      "url": "https://www.bilibili.com/video/BV1PdTQ6GEnH",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "西班牙UP主陈挺制作中式墨鱼蛋，外国友人品尝后赞不绝口，播放量68万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 683686,
+      "original_comments": 1576
+    },
+    {
+      "title": "Steam特惠：《荒野大镖客2》75%折扣",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 6,
+      "summary": "Steam平台《荒野大镖客2》限时75%折扣，仅售15美元，吸引大量玩家购买。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenWrt One – 开源硬件路由器发布",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "OpenWrt团队推出首款官方开源硬件路由器OpenWrt One，支持完全自由定制。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 669,
+      "original_comments": 251
+    },
+    {
+      "title": "将reMarkable平板变成哈利波特里汤姆·里德尔的日记",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者将reMarkable电子纸平板改造为哈利波特中汤姆·里德尔的魔法日记，创意十足。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 487,
+      "original_comments": 312
+    },
+    {
+      "title": "如何在家自行测序自己的DNA",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一篇指南详细介绍如何利用家用工具和开源软件，在家完成个人DNA测序。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 248,
+      "original_comments": 98
+    },
+    {
+      "title": "南非发明Dolosse：全球使用的防波堤神器",
+      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "南非发明的Dolosse（防波堤混凝土块）因其独特形状和高效防护，被全球港口广泛使用。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 67,
+      "original_comments": 18
+    },
+    {
+      "title": "Show HN: 快速原生Mac文件管理器（9MB，无Electron）",
+      "url": "https://whimfiles.com",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者展示一款仅9MB的Mac原生文件管理器，支持模糊搜索和过滤，无需Electron框架。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 13,
+      "original_comments": 6
+    },
+    {
+      "title": "Ellis – AI笔记工具，专为面对面会议设计",
+      "url": "https://www.producthunt.com/products/ellis-your-conversations-remembered",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Ellis，利用AI自动记录和总结面对面会议内容，提升协作效率。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Dupely – 比价搜索工具，找到同款商品最低价",
+      "url": "https://www.producthunt.com/products/dupely",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Dupely，帮助用户搜索同一商品在不同平台的价格，找到最优购买方案。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Glideo – 屏幕录制自动剪辑工具",
+      "url": "https://www.producthunt.com/products/glideo",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Glideo，可自动剪辑屏幕录制内容，去除静音和冗余片段。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Sunrise – Google Tasks的实体计划器",
+      "url": "https://www.producthunt.com/products/sunrise-5",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Sunrise，将Google Tasks任务转化为实体计划器，实现数字与纸质结合。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 914.41 📉-4.68(-0.51%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1502529,
+      "summary": "今日 914.41 | 📉 -4.68(-0.51%) | 最高 919.93 最低 914.41 | 连涨 -4天 | 成交额 ¥6308万 | 成交量 1502529件 | 📈1529 ➡2093 📉3872"
+    }
+  ]
+}
