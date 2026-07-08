@@ -1,0 +1,635 @@
+{
+  "date": "2026-07-08",
+  "commentary": "磊哥今天得先喝口冰可乐压压惊，这新闻看得人又爽又唏嘘。\n\n先说微软裁员4800人，Xbox直接砍掉1600。磊哥早就说过，科技巨头跟渣男一样，嘴上喊着“元宇宙”“云游戏”，扭头就裁你全家。这波操作明摆着：宁可错杀三千，不给闲人一毛。不过最骚的是，你们裁员，我玩家照样买游戏，到底谁被割韭菜？另外，索尼宣布2028年彻底不卖光盘，全转数字版。好家伙，以后你买的游戏就是一堆代码，哪天服务器一关，你连个塑料片都摸不着。磊哥劝各位，趁现在还能买盘，赶紧囤点实体版当传家宝，毕竟数字时代，你连“拥有”的幻觉都不配。\n\n再看谷歌被欧盟罚了41亿欧元，法院还维持原判。磊哥就一句话：罚得好！安卓系统垄断这么多年，逼着厂商预装全家桶，用户想卸载都费劲。这次欧盟算是替全世界消费者出了口恶气，可惜谷歌扭头就喊上诉，这套路跟“我错了下次还敢”一模一样。\n\n最后看看三星，利润暴增1800%，AI芯片卖疯了。但股价反而跌了，为啥？因为华尔街那帮人觉得“你还能涨更多”。磊哥只能说，资本家的贪婪，比AI芯片还烫手。\n\n今日金句：科技圈没有新鲜事，只有新韭菜和旧镰刀。",
+  "news": [
+    {
+      "title": "微软裁员4800人并大幅重组Xbox业务",
+      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "微软宣布裁员4800人，占员工总数2.1%，其中Xbox部门立即裁减1600个岗位，作为重大重组的一部分。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌因利用Android系统阻碍竞争对手被罚41亿欧元",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟法院维持对谷歌的41亿欧元罚款，认定其通过Android系统非法限制竞争对手，谷歌表示将上诉。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "三星利润飙升1800% AI芯片销售强劲",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "三星电子季度利润同比暴增1800%，主要得益于AI芯片需求旺盛，但股价因部分投资者预期更高而下跌。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "北约盟友宣布370亿英镑新导弹项目",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "英国首相斯塔默将在安卡拉召集约12国领导人，讨论价值370亿英镑的新导弹防御计划。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "台风引发中国多地洪水和罕见龙卷风",
+      "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "超强台风巴威在中国引发严重洪水和罕见龙卷风，多个村庄被淹，居民面临食物和救援困难。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "23andMe数据泄露受害者获赔4700万美元",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "法官裁定23andMe因2023年数据泄露事件向受害者支付4700万美元赔偿，该事件暴露了数百万用户的基因数据。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PlayStation将于2028年停止发行光盘游戏",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "索尼宣布PlayStation将在2028年全面转向数字版，未来游戏仅以数字代码形式销售，不再发行光盘。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "长鑫和长江存储计划大幅扩产 产能将翻倍",
+      "url": "https://www.solidot.org/story?sid=84783",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "中国存储芯片巨头长鑫存储和长江存储正新建工厂，预计到2027年后产能将超过目前的两倍。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国极右翼领袖勒庞被判有罪后立即启动总统竞选",
+      "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "上诉法院确认勒庞有罪判决后数小时内，她已宣布启动总统竞选活动，展现强硬政治姿态。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯燃料短缺加剧 经济压力或影响乌克兰战争策略",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "即使莫斯科也无法保证燃料供应，经济压力可能迫使普京在乌克兰战争中改变策略。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚最大电信公司大规模故障致火车和紧急呼叫中断",
+      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "悉尼和墨尔本数据中心服务器故障导致澳大利亚最大电信公司服务中断，影响火车运行和紧急电话服务。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "福特重新雇佣人类工程师 AI质检未达标准",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "福特汽车发现AI质量检查无法达到资深技工的水平，决定重新雇佣人类工程师替代AI系统。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国NCA警告家长勿公开分享儿童照片以防AI滥用",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国国家犯罪署警告，家长在社交媒体公开分享儿童照片可能被用于生成儿童虐待材料。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Netflix《旺卡》剧集因AI生成吉恩·怀尔德声音遭抵制",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Netflix新剧使用AI生成已故演员吉恩·怀尔德的声音，虽获遗产同意但仍引发公众强烈反对。",
+      "categories": [
+        "娱乐",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp将推出用户名功能 无需手机号即可聊天",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "WhatsApp计划在未来几个月全球推出用户名功能，用户可通过用户名而非手机号进行交流。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "帕丽斯·希尔顿指控的犹他州寄宿学校被吊销执照",
+      "url": "https://www.bbc.co.uk/news/articles/cjdg4r3k3emo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "帕丽斯·希尔顿曾指控虐待的犹他州寄宿学校因忽视和使用不当约束被监管机构吊销执照。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚码头工人要求每周28小时工作制应对AI冲击",
+      "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "澳大利亚码头工人工会提出每周28小时工作制要求，称工人正面临AI自动化带来的就业威胁。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Virgin Media因阻止客户取消合同被罚款",
+      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国监管机构对Virgin Media处以罚款，因其在近三年内不当处理数百万通客户取消合同的电话。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "John Lewis计划裁员数百人 削减部分服务",
+      "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国百货公司John Lewis计划在秋季实施裁员，数百个岗位面临风险，具体方案尚待最终决定。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "减肥药改变消费习惯 从漱口水到染发剂销量受影响",
+      "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "BBC调查发现，减肥药使用者食欲下降导致购物习惯改变，影响从漱口水到染发剂等多种商品销售。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国百万房主面临房贷月供上涨45英镑",
+      "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "未来两年内，超过100万英国房主在续签房贷时将面临平均每月45英镑的额外支出。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国银行被指控将弱势客户推离基础账户",
+      "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国金融监管机构指出，多家大型银行未能妥善服务最弱势客户，存在将客户推离基础账户的行为。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "动物园灾前锁死猛兽致多只溺亡引发争议",
+      "url": "https://s.weibo.com/weibo?q=%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%81%BE%E5%89%8D%E5%B0%86%E7%8C%9B%E5%85%BD%E9%94%81%E6%AD%BB%E8%87%B4%E5%A4%9A%E5%8F%AA%E6%BA%BA%E4%BA%A1&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "台风来临前，某动物园将猛兽锁死在笼中导致多只动物溺亡，事件引发公众对动物保护措施的质疑。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯称不会发动第三次世界大战",
+      "url": "https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E4%B8%8D%E4%BC%9A%E5%8F%91%E5%8A%A8%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "俄罗斯官方表态称不会发动第三次世界大战，试图缓解因乌克兰冲突引发的国际紧张局势。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度13岁女孩遭32人轮奸 涉事酒店被拆除",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%B013%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD32%E4%BA%BA%E8%BD%AE%E5%A5%B8%E6%B6%89%E4%BA%8B%E9%85%92%E5%BA%97%E8%A2%AB%E6%8B%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "印度发生一起震惊社会的案件，一名13岁女孩遭32人轮奸，涉案酒店已被当局拆除。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI求职框架ai-job-search在GitHub爆火 日增2500星",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "基于Claude Code的AI求职框架ai-job-search在GitHub上日增2500星，可自动评估职位、定制简历和写求职信。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源AI会议助手Meetily支持本地实时转录和总结",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "隐私优先的开源AI会议助手Meetily在GitHub日增1777星，支持4倍速实时转录、说话人识别和本地总结。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "RuView利用WiFi信号实现空间感知和生命体征监测",
+      "url": "https://github.com/ruvnet/RuView",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目RuView可将普通WiFi信号转化为实时空间智能和生命体征监测系统，无需任何摄像头。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GitHub项目泄露多家AI公司系统提示词引关注",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "一个GitHub项目提取并公开了Anthropic、OpenAI、Google等多家AI公司的系统提示词，引发行业讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OfficeCLI开源工具让AI代理直接操作Office文件",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目OfficeCLI专为AI代理设计，可读写和自动化Word、Excel、PowerPoint文件，日增893星。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "claude-video开源项目让AI能观看和分析视频",
+      "url": "https://github.com/bradautomates/claude-video",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目claude-video赋予Claude AI观看视频的能力，可下载、提取帧、转录并分析视频内容。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Pocket-TTS发布 轻量级文本转语音模型可运行于CPU",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "Kyutai Labs发布Pocket-TTS，一款轻量级文本转语音模型，可在普通CPU上高效运行。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Chat Control 1.0和2.0法案详解引发隐私担忧",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "欧盟Chat Control法案详解引发热议，该法案要求扫描所有数字通信内容以打击儿童虐待材料。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 666,
+      "original_comments": 260
+    },
+    {
+      "title": "欧盟要求所有新车必须安装驾驶员监控摄像头",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "欧盟新规要求所有新车强制配备驾驶员监控摄像头，旨在提升道路安全但引发隐私争议。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 653,
+      "original_comments": 824
+    },
+    {
+      "title": "腾达多款固件被发现存在隐藏认证后门",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "安全研究人员发现腾达路由器多版本固件中存在隐藏认证后门，可被远程利用控制设备。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 220,
+      "original_comments": 68
+    },
+    {
+      "title": "GitLost项目揭露GitHub AI代理泄露私有仓库",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "安全研究项目GitLost成功诱骗GitHub的AI代理泄露私有仓库内容，引发对AI安全性的担忧。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 199,
+      "original_comments": 77
+    },
+    {
+      "title": "回家吃饭大合集一到十五集",
+      "url": "https://www.bilibili.com/video/BV1sETy6WEZc",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频，UP主呖猪猫meme的'回家吃饭'系列合集播放量达424.6万，引发网友共鸣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4245771,
+      "original_comments": 2288
+    },
+    {
+      "title": "中式志怪游戏《诡影藏锋》首曝PV及实机演示",
+      "url": "https://www.bilibili.com/video/BV1muTQ6CExQ",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "中式志怪搜打撤游戏《诡影藏锋》发布首支PV和实机演示，播放量超310万，引发玩家期待。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 3104420,
+      "original_comments": 2174
+    },
+    {
+      "title": "超强台风巴威将再迎巅峰 护国神山挡不住",
+      "url": "https://www.bilibili.com/video/BV1mkMh6WEPw",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主中气爱分析超强台风巴威最新路径，称其将再迎巅峰，中央山脉可能难以阻挡。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 1849239,
+      "original_comments": 3514
+    },
+    {
+      "title": "巴威确定参加BW 网友调侃要不要买船去会场",
+      "url": "https://www.bilibili.com/video/BV1SAMv6iELC",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "台风巴威确定影响BW展会，B站UP主中气爱发布视频引发网友幽默讨论，播放量超102万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1026613,
+      "original_comments": 3219
+    },
+    {
+      "title": "LemonLime：用一句话自动化现有工作流",
+      "url": "https://www.producthunt.com/products/lemonlime",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品LemonLime，只需一个提示即可自动化现有工作流程，提升效率。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NanoKVM-Go：让AI代理物理控制任何屏幕",
+      "url": "https://www.producthunt.com/products/nanokvm-go",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品NanoKVM-Go，为AI代理提供对任何屏幕的物理控制能力，创意十足。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Jamboree：多人协作合成器",
+      "url": "https://www.producthunt.com/products/jamboree",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Jamboree是一款多人协作合成器，让音乐创作变得社交化和有趣。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Jim的TrueType二维码字体发布",
+      "url": "https://github.com/jimparis/qr-font",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者Jim发布了一款TrueType二维码字体，可在任何支持字体的软件中直接生成二维码。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 182,
+      "original_comments": 22
+    },
+    {
+      "title": "优衣库T恤上的混淆bash脚本被成功解码",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "技术爱好者成功解码了优衣库T恤上印制的混淆bash脚本，发现其隐藏的有趣信息。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 122,
+      "original_comments": 29
+    },
+    {
+      "title": "自制GPU项目进展神速引发关注",
+      "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一位开发者分享自制GPU的快速进展视频，展示了从零开始构建图形处理器的过程。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 41,
+      "original_comments": 9
+    },
+    {
+      "title": "EVE Online的Carbon引擎正式开源",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "EVE Online开发商Fenris Creations宣布将游戏Carbon引擎开源，并解释了背后的原因。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 26,
+      "original_comments": 0
+    },
+    {
+      "title": "蚂蚁群体如何照顾受伤同伴？",
+      "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "科学研究揭示蚂蚁群体中有专门的'护理员'负责照顾受伤同伴，展现昆虫社会的复杂行为。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 14,
+      "original_comments": 2
+    },
+    {
+      "title": "离婚戒指兴起：女性用新戒指庆祝独立",
+      "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "全球越来越多女性选择购买或改造离婚戒指，以此象征独立和新生，成为一种新潮流。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 911.2 📉-1.95(-0.21%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1198452,
+      "summary": "今日 911.2 | 📉 -1.95(-0.21%) | 最高 914.75 最低 908.68 | 连涨 -5天 | 成交额 ¥4693万 | 成交量 1198452件 | 📈1439 ➡2100 📉3955"
+    }
+  ]
+}
