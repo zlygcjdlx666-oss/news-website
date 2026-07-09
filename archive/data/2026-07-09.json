@@ -1,0 +1,645 @@
+{
+  "date": "2026-07-09",
+  "commentary": "哎，朋友们，咱今儿聊点硬的。先说美伊这出戏，特朗普说停火“结束”了，好家伙，合着之前那叫“暂停”？霍尔木兹海峡交通量“急剧下降”，油价不跟着窜天猴似的涨才怪。这哪是中东和平，分明是中东剧本杀，玩家轮流掀桌子。\n\n再瞅瞅科技圈，微软裁员4800人，Xbox部门直接砍了1600。磊哥早说过，大厂搞“重大重组”翻译过来就是：老板觉得AI能替你们了。这边谷歌刚被欧盟罚了41亿欧元，那边Meta又搞出用路人头像生成AI的骚操作，隐私活动人士骂“灾难配方”——我看是“法律传票配方”吧？合着现在科技巨头的KPI是比谁更敢踩红线？\n\n最后补一刀：旧金山房价飙到170万美元中位数，AI高管们挥金如土，普通码农连租房都得掂量。这年头，AI没让人类进化，倒先把房价进化了。\n\n今日金句：世界是草台班子，但修修补补的钉子，永远比拆台的贵。",
+  "news": [
+    {
+      "title": "美伊连续第二晚互相打击，特朗普称停火已'结束'",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美伊连续第二晚互相打击，霍尔木兹海峡交通量因最新攻击而'急剧下降'，特朗普宣布停火已'结束'。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软裁员4800人并缩减Xbox业务，进行'重大重组'",
+      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "微软宣布裁员4800人，占员工总数2.1%，其中Xbox部门立即裁减1600人，作为重大重组的一部分。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌因利用Android'封锁'竞争对手被罚41亿欧元",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟法院维持对谷歌41亿欧元的罚款，认定其利用Android系统非法限制竞争对手，谷歌表示判决'未能认可'其投资。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta允许用户用公开Instagram头像生成AI图像引发隐私争议",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "Meta推出新功能，允许用户利用他人公开Instagram头像生成AI图像，隐私活动人士称其为'灾难配方'。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普称乌克兰将获准生产爱国者导弹",
+      "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "特朗普表示乌克兰将获得生产爱国者导弹的许可证，该导弹对俄罗斯弹道导弹效果显著但生产周期长。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "北约盟友宣布370亿英镑新导弹项目",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "英国首相斯塔默将在安卡拉召集约十几位领导人讨论新导弹项目，北约盟友宣布投入370亿英镑。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PlayStation将于2028年停止发行光盘游戏",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "索尼宣布PlayStation将在2028年停止发行光盘游戏，未来游戏仍可在商店购买但仅提供数字兑换码。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI行业高薪员工推高旧金山房价至历史新高",
+      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "旧金山房价中位数达到创纪录的170万美元，主要受AI行业高薪员工涌入推动。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "23andMe数据泄露受害者获赔4700万美元",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "法官裁定23andMe因2023年数据泄露事件向受害者支付4700万美元赔偿金，该公司因DNA检测数据安全受批评。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "约翰迪尔车主将根据FTC和解协议获得设备维修权",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "FTC与约翰迪尔达成和解，允许车主自行维修设备，打破制造商对维修的垄断。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 889,
+      "original_comments": 173
+    },
+    {
+      "title": "Grok 4.5发布引发热议",
+      "url": "https://x.ai/news/grok-4-5",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "xAI发布Grok 4.5版本，在Hacker News上引发超过1000条评论，成为AI领域焦点。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 662,
+      "original_comments": 1032
+    },
+    {
+      "title": "TypeScript 7发布",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "微软发布TypeScript 7，带来重大更新，开发者社区反响热烈。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 638,
+      "original_comments": 250
+    },
+    {
+      "title": "Bun运行时用Rust重写引发讨论",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "JavaScript运行时Bun宣布用Rust重写，在开发者社区引发关于性能与兼容性的广泛讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 623,
+      "original_comments": 362
+    },
+    {
+      "title": "微软发布Flint：AI智能体可视化语言",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "微软开源Flint，一种专为AI智能体设计的可视化语言，旨在简化智能体行为建模。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 295,
+      "original_comments": 113
+    },
+    {
+      "title": "蜘蛛毒液可杀灭瓦螨且不伤害蜜蜂",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "研究发现蜘蛛毒液能有效杀灭危害蜜蜂的瓦螨，为蜂群保护提供新思路。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 147,
+      "original_comments": 65
+    },
+    {
+      "title": "Meta用定制桥接芯片在新型服务器中复用旧内存",
+      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Meta开发定制桥接芯片，将旧服务器内存重新用于新服务器，降低硬件成本。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 62,
+      "original_comments": 14
+    },
+    {
+      "title": "OfficeCLI：专为AI智能体打造的Office套件开源",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目OfficeCLI发布，让AI智能体能够读写和自动化Word、Excel、PowerPoint文件，单二进制文件运行。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic和OpenAI系统提示词泄露引发关注",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub项目泄露了Anthropic Claude和OpenAI ChatGPT等多个AI模型的系统提示词，引发安全讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源工具让Claude能'观看'任何视频",
+      "url": "https://github.com/bradautomates/claude-video",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开发者发布claude-video工具，让Claude能下载、提取帧、转录并分析任何视频内容。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Pocket-TTS：可在CPU上运行的轻量级语音合成模型",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "Kyutai Labs发布Pocket-TTS，一个轻量级文本转语音模型，可在普通CPU上高效运行。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI求职框架：用Claude Code自动评估职位和撰写简历",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目ai-job-search基于Claude Code，可自动评估工作、定制简历和撰写求职信，今日获5000+星。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Crawl4AI：开源LLM友好的网络爬虫工具",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "Crawl4AI发布，专为大型语言模型设计的开源网络爬虫和抓取工具，简化AI数据采集。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI'并不聪明'：Yann LeCun谈人工智能下一步",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "AI先驱Yann LeCun表示当前AI'并不聪明'，其初创公司正在开发更灵活的AI系统。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp将允许用户用用户名聊天而非手机号",
+      "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "WhatsApp推出用户名功能，用户可隐藏手机号进行聊天，将在未来几个月全球上线。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Virgin Media因挂断客户取消电话被罚款",
+      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国监管机构对Virgin Media处以罚款，因其在近三年内'不当处理'数百万通客户取消合同的电话。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "电动汽车保险费用为何更高及应对措施",
+      "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "电动汽车保险成本仍高于燃油车，阻碍潜在买家，行业正在寻求解决方案。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Sizewell B核电站寿命再延长20年至2055年",
+      "url": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国Sizewell B核电站原定2035年退役，现决定延长运营至2055年，保障能源供应。",
+      "categories": [
+        "财经",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚最大电信公司大规模故障致火车和紧急呼叫受影响",
+      "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "澳大利亚最大电信公司数据中心服务器故障，导致悉尼和墨尔本火车停运及紧急呼叫中断。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚码头工人要求每周28小时工作制应对AI",
+      "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "澳大利亚码头工人工会呼吁每周28小时工作制，称工人处于自动化'瞄准线'中。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国校园袭击致两名13岁女孩重伤，青少年被捕",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "德国巴伐利亚州一所中学发生袭击事件，两名13岁女孩重伤，一名青少年嫌疑人被捕。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "孟加拉国山体滑坡致女子学校8人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "孟加拉国东南部因季风暴雨引发山体滑坡，一所女子学校被掩埋，造成8人死亡。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国医生因杀害15名患者被判终身监禁",
+      "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "德国一名姑息治疗医生因杀害15名患者被判终身监禁，涉嫌更多谋杀案。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Netflix《旺卡》剧集因AI生成Gene Wilder声音遭抵制",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Netflix新剧集使用AI生成已故演员Gene Wilder的声音，虽获遗产同意但仍引发强烈反对。",
+      "categories": [
+        "娱乐",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Justin Bieber加入Madonna、Shakira和BTS献唱世界杯决赛中场秀",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "Justin Bieber将参加FIFA世界杯决赛超级碗风格中场秀，与Madonna、Shakira和BTS同台。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中式志怪游戏《诡影藏锋》首曝PV和实机演示",
+      "url": "https://www.bilibili.com/video/BV1muTQ6CExQ",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "国产志怪搜打撤游戏《诡影藏锋》发布首个预告片和实机演示，在B站获超660万播放量。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 6637545,
+      "original_comments": 4629
+    },
+    {
+      "title": "《遗忘之海》PC版今日公测，发布初航乐章PV",
+      "url": "https://www.bilibili.com/video/BV1zGTR6MEjp",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "游戏《遗忘之海》PC版正式公测，同步发布'初航乐章'宣传视频，在B站热度超220万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 2225011,
+      "original_comments": 517
+    },
+    {
+      "title": "从零开始学会让桌面Agent帮你干活",
+      "url": "https://www.bilibili.com/video/BV1j9MP6wEV9",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主发布小白教程，教用户如何设置和使用桌面AI智能体自动化任务，播放量超119万。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 1194045,
+      "original_comments": 505
+    },
+    {
+      "title": "12个脑洞大开的台风天做饭方式",
+      "url": "https://www.bilibili.com/video/BV11qM463E1w",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主分享12种创意居家做饭方法，适合台风天使用，播放量超57万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 575575,
+      "original_comments": 243
+    },
+    {
+      "title": "破解优衣库T恤上的混淆bash脚本",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "技术爱好者成功解码优衣库T恤上印制的混淆bash脚本，引发编程社区趣味讨论。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 1387,
+      "original_comments": 219
+    },
+    {
+      "title": "Yamanote.fun：东京山手线全景声景网站",
+      "url": "https://www.yamanote.fun/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者创建Yamanote.fun网站，提供东京山手线完整声音景观，让用户沉浸式体验列车之旅。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 187,
+      "original_comments": 42
+    },
+    {
+      "title": "我造了唯一一辆2026年款二战吉普车",
+      "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一位爱好者手工打造了一辆2026年款二战风格吉普车，融合复古设计与现代技术。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 54,
+      "original_comments": 11
+    },
+    {
+      "title": "Auriko：LLM调用交易平台",
+      "url": "https://www.producthunt.com/products/auriko",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Auriko上线，提供大语言模型调用的交易平台，方便开发者管理AI API使用。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tasks.txt：macOS纯文本任务管理器",
+      "url": "https://www.producthunt.com/products/tasks-txt",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Tasks.txt发布，一个极简的macOS纯文本任务管理器，适合命令行爱好者。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Lispr：按住键说话即可在任何地方输入",
+      "url": "https://www.producthunt.com/products/lispr",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Lispr，允许用户按住一个键说话，语音自动转换为文字输入到任何应用。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GPT-Live：ChatGPT全双工语音功能",
+      "url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品GPT-Live上线，为ChatGPT提供全双工语音对话能力，实现实时交互。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Notion Agents iOS应用上线",
+      "url": "https://www.producthunt.com/products/notion-agents-ios-app",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Notion推出iOS版Agents应用，用户可随时与Notion智能体对话，提升工作效率。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：大黄蜂展现类似情绪的行为",
+      "url": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "新研究发现大黄蜂表现出'类似情绪的行为'，此前仅在哺乳动物中观察到，引发对昆虫意识的讨论。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "亚利桑那州18个月大幼童被宣布溺亡后在太平间被发现存活",
+      "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "一名18个月大幼童被宣布溺水死亡后，在医院太平间被发现仍有生命迹象，后被转院并幸存。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "女子杀闺蜜埋尸28年指认时磕头痛哭",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%9D%80%E9%97%BA%E8%9C%9C%E5%9F%8B%E5%B0%B828%E5%B9%B4%E6%8C%87%E8%AE%A4%E6%97%B6%E7%A3%95%E5%A4%B4%E7%97%9B%E5%93%AD&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "一名女子杀害闺蜜并埋尸28年后，在指认现场磕头痛哭，案件引发社会关注。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "蚝油瓶是我用过最好用的瓶子",
+      "url": "https://s.weibo.com/weibo?q=%E8%9A%9D%E6%B2%B9%E7%93%B6%E6%98%AF%E6%88%91%E7%94%A8%E8%BF%87%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E7%93%B6%E5%AD%90&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "微博热搜话题'蚝油瓶是我用过最好用的瓶子'引发网友对厨房用品设计的趣味讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 922.79 📈+11.36(+1.25%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1529968,
+      "summary": "今日 922.79 | 📈 +11.36(+1.25%) | 最高 924.27 最低 911.42 | 连涨 1天 | 成交额 ¥6970万 | 成交量 1529968件 | 📈2310 ➡1928 📉3256"
+    }
+  ]
+}
