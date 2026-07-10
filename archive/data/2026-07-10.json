@@ -1,0 +1,648 @@
+{
+  "date": "2026-07-10",
+  "commentary": "来，今天这新闻啊，亮点不少，但磊哥我挑几个最带劲的，咱们好好掰扯掰扯。\n\n首先，中国火箭回收成功，这事儿确实牛。但我耳朵里全是“紧随SpaceX和蓝色起源之后”这句？怎么着，咱们这突破非得找个洋爹当参照系呗？航天事业靠自己一步步砸出来的，非得排个“第三名”才配鼓掌？以后谁再这么写稿，建议先去把牛顿棺材板按住了。\n\n再看欧盟那个“聊天控制1.0法案”。好家伙，打着“保护儿童”的旗号，把监控做到私人聊天里。这叫什么？这就叫“我为了你好，所以我要把你扒光”。隐私活动家说这是“灾难配方”，磊哥我说这是“数字老大哥”的就业计划。你信不信，再过两年，你跟朋友骂老板的表情包都能被AI解读成“潜在危害”。这法案就是拿人民的隐私给安全焦虑陪葬。\n\n最后，微软裁员4800人，Xbox直接砍1600。看见没？大厂们“降本增效”的刀，永远先砍向玩家和基层员工。游戏部门被重组，说明在资本家眼里，什么情怀、什么主机大战，都是财务报表上的利润点。今天砍你游戏，明天就敢砍你整个部门——打工人们，该醒醒了。\n\n**今日金句：** 火箭回收了是科技之光，隐私被回收了那是文明之癌。别让“数据”成了新时代的“地契”。",
+  "news": [
+    {
+      "title": "中国首次成功回收可重复使用火箭",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "中国首次成功回收可重复使用火箭，标志着航天技术重大突破，紧随SpaceX和蓝色起源之后，为降低发射成本铺平道路。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟议会批准聊天控制1.0法案",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "欧盟议会通过聊天控制1.0法案，引发关于隐私与安全的大规模争议，可能要求平台扫描私人通信内容。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 1427,
+      "original_comments": 678
+    },
+    {
+      "title": "GPT-5.6发布：智能与效率新标准",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "OpenAI发布GPT-5.6模型，号称在智能和效率上树立新标准，引发AI行业广泛关注和讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 1323,
+      "original_comments": 922
+    },
+    {
+      "title": "超强台风巴威逼近东亚，菲律宾已致15死",
+      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "宽达1000公里的超强台风巴威逼近台湾和中国东南部，菲律宾已因山体滑坡致15人死亡，或为数十年来最强风暴。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SK海力士在美融资265亿美元创纪录上市",
+      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "芯片巨头SK海力士通过美国上市融资265亿美元，创下外国公司最大规模IPO纪录，将于周五在纳斯达克交易。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软裁员4800人并大幅重组Xbox业务",
+      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "微软宣布裁员4800人，占员工总数2.1%，其中Xbox部门立即裁减1600人，进行重大业务重组。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌因Android垄断被欧盟罚款41亿欧元",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟维持对谷歌41亿欧元罚款，认定其利用Android系统排挤竞争对手，谷歌称判决忽视其投资贡献。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "约翰迪尔同意用户维修权，FTC和解达成",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "美国联邦贸易委员会与约翰迪尔达成和解，农民将获得自行维修农用设备的权利，终结长期维修权争议。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 1328,
+      "original_comments": 279
+    },
+    {
+      "title": "Postgres数据库用Rust重写，通过全部回归测试",
+      "url": "https://github.com/malisper/pgrust",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "开发者用Rust语言重写Postgres数据库，现已100%通过原有回归测试，展示Rust在系统软件领域的潜力。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 693,
+      "original_comments": 584
+    },
+    {
+      "title": "伊朗最高领袖哈梅内伊下葬，百万人送行",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "伊朗最高领袖哈梅内伊在圣城马什哈德下葬，结束六天全国哀悼，数十万民众涌上街头送别。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌克兰袭击克里米亚俄军舰，升级燃料封锁",
+      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "乌克兰对克里米亚附近俄军舰发动打击，意图切断被占领克里米亚的燃料供应路线，冲突进一步升级。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "北约盟国承诺370亿英镑新导弹项目",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "北约多国领导人将在安卡拉会晤，宣布共同投资370亿英镑开发新型导弹系统，强化集体防御能力。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta允许AI使用公开Instagram头像引发隐私争议",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta新政策允许用户用公开Instagram照片生成AI图像，虽可退出但隐私活动家称其为“灾难配方”。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PlayStation将于2028年停止发行实体光盘游戏",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "索尼宣布PlayStation将在2028年全面转向数字版，实体店仍销售但仅提供数字兑换码，实体游戏时代终结。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "易捷航空接受美国公司意外收购要约",
+      "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国易捷航空宣布接受美国阿波罗公司提出的收购要约，该报价高于此前城堡湖的收购方案。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国央行经济学家暗示今年可能加息",
+      "url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国央行首席经济学家表示，经济增长放缓和通胀压力可能迫使今年加息，引发市场对利率前景的担忧。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国Sizewell B核电站延寿20年运行至2055年",
+      "url": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "原定2035年退役的Sizewell B核电站获准延长运行20年，将为英国提供更长期的低碳电力供应。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenRouter数据显示近半美国公司使用中国AI模型",
+      "url": "https://www.solidot.org/story?sid=84799",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "OpenRouter数据显示美国企业每周调用中国AI模型的占比自2月突破30%，峰值达46%，因美国AI成本升高。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国国会调查Cursor等公司使用中国AI模型风险",
+      "url": "https://www.solidot.org/story?sid=84796",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "美国众议院委员会调查Cursor和Airbnb等公司使用中国AI模型的安全风险，担忧审查和国家安全问题。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "贾斯汀·比伯将加盟世界杯决赛中场秀",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "贾斯汀·比伯将与麦当娜、夏奇拉和防弹少年团一同在世界杯决赛中场秀表演，这是超级碗级别的音乐盛宴。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国Ofcom要求科技巨头处理诈骗广告",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国通信管理局提议新规，要求大型科技公司主动处理在线诈骗广告，调查显示超半数英国成年人曾遇虚假广告。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "色情网站因年龄验证失败被罚63万英镑",
+      "url": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国Ofcom对多家色情网站处以63万英镑罚款，原因是未能有效阻止未成年人访问成人内容。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国国家犯罪署警告：勿公开分享儿童照片以防AI滥用",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国国家犯罪署警告家长，公开分享儿童照片可能被AI用于生成虐待材料，威胁日益严重。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国拟禁止电子烟使用诱人名称和口味保护儿童",
+      "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国政府就限制电子烟口味和名称征求意见，旨在防止吸引儿童尝试电子烟，减少青少年尼古丁成瘾。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "电动汽车保险费用为何更高及应对措施",
+      "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "电动汽车保险成本仍高于燃油车，阻碍潜在买家，行业正在探索降低保费的方法以推动电动化转型。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Virgin Media因阻碍用户取消合同被罚款",
+      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国Virgin Media因在近三年内不当处理数百万通客户取消合同的电话，被监管机构处以罚款。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究显示LinkedIn和X上四分之一长文由AI撰写",
+      "url": "https://www.solidot.org/story?sid=84798",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "AI检测平台Pangram研究发现，LinkedIn和X等平台上约四分之一的长文完全由AI生成，AI内容泛滥问题加剧。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：父母手机上瘾影响与子女的依恋关系",
+      "url": "https://www.solidot.org/story?sid=84795",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "《心理学前沿》研究显示，父母对手机上瘾可能导致子女产生不安全依恋，加剧焦虑和回避型人际关系。",
+      "categories": [
+        "社会",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "一人开发的火车模拟器被誉为史上最佳",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一款由单人开发的火车模拟游戏获得极高评价，被玩家称为有史以来最好的火车模拟器。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 637,
+      "original_comments": 235
+    },
+    {
+      "title": "2026年底不再引入闰秒",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "国际计量局宣布2026年12月底不会引入闰秒，继续暂停调整以研究更长期的解决方案。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 289,
+      "original_comments": 224
+    },
+    {
+      "title": "美国救护车费用为何如此昂贵",
+      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "分析指出美国救护车费用高昂的原因包括缺乏价格监管、保险覆盖不足和系统碎片化，患者常面临天价账单。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 229,
+      "original_comments": 304
+    },
+    {
+      "title": "苹果芯片高管解释Mac mini AI需求与设备端未来",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "苹果芯片业务高管透露Mac mini因AI需求激增，并展望设备端AI的未来发展方向。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 86,
+      "original_comments": 114
+    },
+    {
+      "title": "AI生成视频可精准刺激目标脑区",
+      "url": "https://nevo-project.epfl.ch/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "研究人员开发出能最大化驱动特定脑区的AI生成视频，为神经科学和脑机接口提供新工具。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 76,
+      "original_comments": 70
+    },
+    {
+      "title": "亚利桑那州18个月大男童被误判死亡后在太平间发现仍活着",
+      "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "一名被宣布溺亡的18个月大男童在太平间被发现仍有生命迹象，经抢救后存活，事件引发医疗系统调查。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "虚假便携空调广告泛滥：号称90秒降温被指不实",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "英国广告标准局指出，宣称小型设备能快速冷却房间的便携空调广告多为虚假宣传，效果远不如宣传。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "换房度假兴起：英国家庭称已节省6000英镑",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "换房度假成为省钱新趋势，有英国家庭通过和陌生人交换住房，已节省约6000英镑的假期住宿费用。",
+      "categories": [
+        "趣闻",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：机场会面",
+      "url": "https://xkcd.com/3269/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画以机场会面为背景，幽默调侃粒子命名权争议导致披萨店超导超级对撞机项目取消。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：越位",
+      "url": "https://xkcd.com/3268/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画将国际象棋与足球规则混搭，裁判因骑士穿着防滑钉吃子而出示红牌，趣味十足。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：龙卷风警报类型",
+      "url": "https://xkcd.com/3267/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃不同龙卷风警报的恐怖程度，手机发出的不祥声音让人不寒而栗。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：洞",
+      "url": "https://xkcd.com/3266/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画提到墨西哥巨型水晶洞，鼓励读者搜索图片，感叹大自然的鬼斧神工。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：小行星威胁",
+      "url": "https://xkcd.com/3265/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画脑洞大开：古生物学家担心6600万年前被撞入太空的恐龙残骸终将落回地球。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "ConnectMachine 2.0：AI数字名片记住每位联系人",
+      "url": "https://www.producthunt.com/products/connectmachine-2",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品ConnectMachine 2.0是一款AI数字名片，能自动记住你见过的每个人，社交利器。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "RepStandard：计算机视觉实时计数健身次数",
+      "url": "https://www.producthunt.com/products/repstandard",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品RepStandard利用计算机视觉实时识别并计数你的健身动作次数，让锻炼更智能。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Juicy：Mac电池健康管理工具",
+      "url": "https://www.producthunt.com/products/juicy-battery-app",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Juicy是一款Mac应用，提供美观的电池低电量提醒、健康洞察和充电限制功能。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "B站热门：一方有难八方支援混响曲",
+      "url": "https://www.bilibili.com/video/BV1CWM86mECm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主早睡起大王制作的混响音乐《一方有难，八方支援》，播放量超788万，引发网友共鸣。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 7882465,
+      "original_comments": 1773
+    },
+    {
+      "title": "B站热门：手工地形图趣味讲解江苏",
+      "url": "https://www.bilibili.com/video/BV1ihMv67E3V",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主人与地球用自制手工地形图生动讲解江苏地理，寓教于乐，播放量超91万。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 918012,
+      "original_comments": 617
+    },
+    {
+      "title": "B站热门：火影首位1亿战力玩家诞生",
+      "url": "https://www.bilibili.com/video/BV1oUNL6pEmB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主鬼叔黍见证《火影忍者》游戏首位1亿战力玩家诞生，播放量超51万，弹幕超1.2万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 511646,
+      "original_comments": 12597
+    },
+    {
+      "title": "B站热门：影视飓风探访得克萨斯州",
+      "url": "https://www.bilibili.com/video/BV1LoN76dEmF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站知名UP主影视飓风发布得克萨斯州旅行视频，播放量超15万，带观众领略美国南部风情。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 154062,
+      "original_comments": 2611
+    },
+    {
+      "title": "Steam特惠：《动物园之星》仅售2美元",
+      "url": "https://store.steampowered.com/app/703080",
+      "source": "Steam",
+      "score": 5,
+      "summary": "Steam平台《动物园之星》开启95%折扣，仅售2美元，模拟经营爱好者不容错过。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 9600,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam特惠：《荒野大镖客：救赎2》仅售15美元",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "Steam平台《荒野大镖客：救赎2》75%折扣，仅售15美元，西部开放世界经典之作。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 917.39 📉-5.14(-0.56%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1228123,
+      "summary": "今日 917.39 | 📉 -5.14(-0.56%) | 最高 922.88 最低 917.32 | 连涨 -1天 | 成交额 ¥5261万 | 成交量 1228123件 | 📈1652 ➡2105 📉3737"
+    }
+  ]
+}
