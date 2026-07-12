@@ -1,0 +1,614 @@
+{
+  "date": "2026-07-12",
+  "commentary": "哎哟喂，各位老铁，今天这新闻大盘真是冰火两重天啊！CSGO大盘跌了0.11%，成交额才四千多万，这市场比我家楼下菜市场还冷清。说白了，现在这饰品行情就跟过山车似的，散户们追涨杀跌，最后全给庄家送了人头。要我说啊，没那个金刚钻，别揽瓷器活，老老实实玩枪不好吗？\n\n再说B站那个路怒症被反杀的视频，一千多万播放，光看这数字就知道大伙儿多解气。路上当螃蟹横着走，遇到硬茬子直接教做人，这波我给满分！但更值得唠的是《诡影藏锋》那个PV，中式志怪加搜打撤玩法，一眼看过去就是冲着《黑神话》的蛋糕去的。国产游戏现在卷成这样，好事儿！但别光整花活儿，玩法打磨好了才是王道，别到时候上线又是一出“预告骗”。\n\n最后说个扎心的——黏菌挑战龙息辣椒那视频，三百多万播放，结果长黄曲霉了？这年头连微生物都开始摆烂了，咱人类还卷啥卷啊。\n\n今日金句：别跟路怒症讲道理，也别跟资本讲良心——这年头，能活到最后的都是“反杀型选手”。",
+  "news": [
+    {
+      "title": "路怒症被反杀，真的很解气",
+      "url": "https://www.bilibili.com/video/BV1ZvME66EbK",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:1136.9万 | 弹幕:6187 | UP主:小超说交通",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 11369470,
+      "original_comments": 6187
+    },
+    {
+      "title": "中式志怪搜打撤游戏《诡影藏锋》首曝PV&实机演示",
+      "url": "https://www.bilibili.com/video/BV1muTQ6CExQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:960.7万 | 弹幕:5333 | UP主:诡影藏锋",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9607197,
+      "original_comments": 5333
+    },
+    {
+      "title": "当狗狗突然说话，那一定是。。。",
+      "url": "https://www.bilibili.com/video/BV1VsNH6PEBi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:555.7万 | 弹幕:4054 | UP主:ai酷儿小剧场吖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5557477,
+      "original_comments": 4054
+    },
+    {
+      "title": "当哈兰德表情包与现实完美融合",
+      "url": "https://www.bilibili.com/video/BV1XLN46yE2B",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:495.3万 | 弹幕:443 | UP主:曼城足球俱乐部",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4952556,
+      "original_comments": 443
+    },
+    {
+      "title": "当我两只手弹两架琴并同时弹不同的曲子，左右脑互搏式弹琴法",
+      "url": "https://www.bilibili.com/video/BV1VjNL6LEEm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:402.6万 | 弹幕:1885 | UP主:小憩memories",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4025746,
+      "original_comments": 1885
+    },
+    {
+      "title": "吾从人族来，自当为人族竭尽全力！",
+      "url": "https://www.bilibili.com/video/BV1R9N76oEXy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:307.9万 | 弹幕:7162 | UP主:造梦阿瑄",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3079183,
+      "original_comments": 7162
+    },
+    {
+      "title": "黏菌挑战世界第二辣的龙息辣椒！竟意外长出黄曲霉",
+      "url": "https://www.bilibili.com/video/BV1dQNL6nEEm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:304.6万 | 弹幕:843 | UP主:曳尾菌",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3045586,
+      "original_comments": 843
+    },
+    {
+      "title": "留德华带你第一视角用人民币感受在超市退瓶子",
+      "url": "https://www.bilibili.com/video/BV1YQNp6eExm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:297.0万 | 弹幕:358 | UP主:Couches-裤裤_留德华版",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2969564,
+      "original_comments": 358
+    },
+    {
+      "title": "这才是《The Other Side Of Paradise》原版MV！",
+      "url": "https://www.bilibili.com/video/BV1beM76pEBL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:279.1万 | 弹幕:2918 | UP主:妙手回春杨某人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2790894,
+      "original_comments": 2918
+    },
+    {
+      "title": "《崩坏：星穹铁道》动画短片——「你的终点，我的起点」",
+      "url": "https://www.bilibili.com/video/BV1kZNN6iEPq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:220.6万 | 弹幕:4.1万 | UP主:崩坏星穹铁道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2206214,
+      "original_comments": 40869
+    },
+    {
+      "title": "假如你生活在十万人的宿舍营",
+      "url": "https://www.bilibili.com/video/BV1FhNn63E52",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:214.6万 | 弹幕:928 | UP主:唐朝乐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2145894,
+      "original_comments": 928
+    },
+    {
+      "title": "【独家】牧神记 第91集 皇帝，道主，侞莱",
+      "url": "https://www.bilibili.com/video/BV1DFNt6yED1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:144.1万 | 弹幕:6802 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1440587,
+      "original_comments": 6802
+    },
+    {
+      "title": "足坛真神TOP：哈兰德！离开世界杯！他就是最凶猛最可爱的超级魔人！",
+      "url": "https://www.bilibili.com/video/BV1PoNN6MEjb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:126.3万 | 弹幕:1472 | UP主:足球故事-李治霖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1263268,
+      "original_comments": 1472
+    },
+    {
+      "title": "《明日方舟》集成战略「沉沦者的黑流树海」宣传PV · 玩法介绍",
+      "url": "https://www.bilibili.com/video/BV19GNP6EE7e",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:122.6万 | 弹幕:2.0万 | UP主:明日方舟",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1226367,
+      "original_comments": 19665
+    },
+    {
+      "title": "今天装饰了一下小卖部，希望你能喜欢",
+      "url": "https://www.bilibili.com/video/BV12ENn6EEgC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:99.6万 | 弹幕:954 | UP主:郭大吉的日常",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 996332,
+      "original_comments": 954
+    },
+    {
+      "title": "“我不在的日子里，你们很嚣张啊”",
+      "url": "https://www.bilibili.com/video/BV1WhNw6tEyD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:96.7万 | 弹幕:783 | UP主:柑宝",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 967308,
+      "original_comments": 783
+    },
+    {
+      "title": "《无限暖暖》2.8版本套装PV | 白夜长旋舞&心光破晓时",
+      "url": "https://www.bilibili.com/video/BV1dtNA6JEMZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:88.2万 | 弹幕:570 | UP主:无限暖暖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 882364,
+      "original_comments": 570
+    },
+    {
+      "title": "狼 鬼 情 未 了",
+      "url": "https://www.bilibili.com/video/BV1CmNc6oEXt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:87.8万 | 弹幕:356 | UP主:有趣的小罐书",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 877839,
+      "original_comments": 356
+    },
+    {
+      "title": "《我推的孩子》",
+      "url": "https://www.bilibili.com/video/BV13qNA6VEiv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:54.4万 | 弹幕:456 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 544309,
+      "original_comments": 456
+    },
+    {
+      "title": "网络热传生物鉴定 第62期",
+      "url": "https://www.bilibili.com/video/BV1FmMi6xEgb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:20.6万 | 弹幕:3145 | UP主:无穷小亮的科普日常",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 205802,
+      "original_comments": 3145
+    },
+    {
+      "title": "Planet Zoo",
+      "url": "https://store.steampowered.com/app/703080",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-95% | $2",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9600,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "url": "https://store.steampowered.com/app/817628",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-67% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6800,
+      "original_comments": 0
+    },
+    {
+      "title": "Kingdom Come: Deliverance II",
+      "url": "https://store.steampowered.com/app/1771300",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "Digimon Story Time Stranger",
+      "url": "https://store.steampowered.com/app/1984270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-43% | $40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4400,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cat Mail Co.",
+      "url": "https://store.steampowered.com/app/4380490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Moonlight Peaks",
+      "url": "https://store.steampowered.com/app/2209900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Angels Fall First",
+      "url": "https://store.steampowered.com/app/367270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $16",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 290,
+      "original_comments": 136
+    },
+    {
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 269,
+      "original_comments": 115
+    },
+    {
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 262,
+      "original_comments": 100
+    },
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 257,
+      "original_comments": 58
+    },
+    {
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 210,
+      "original_comments": 49
+    },
+    {
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 190,
+      "original_comments": 195
+    },
+    {
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 187,
+      "original_comments": 79
+    },
+    {
+      "title": "How Doctors die. It’s not like the rest of us (2016)",
+      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 179,
+      "original_comments": 102
+    },
+    {
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "url": "https://shipthatcode.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 173,
+      "original_comments": 50
+    },
+    {
+      "title": "An agent in 100 lines of Lisp",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 150,
+      "original_comments": 28
+    },
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 139,
+      "original_comments": 21
+    },
+    {
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 132,
+      "original_comments": 16
+    },
+    {
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 120,
+      "original_comments": 64
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced",
+      "url": "https://store.steampowered.com/app/3751950",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "MECCHA CHAMELEON",
+      "url": "https://store.steampowered.com/app/4704690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$6",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "EA SPORTS™ College Football 27",
+      "url": "https://store.steampowered.com/app/4032350",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Fallout 1st",
+      "url": "https://store.steampowered.com/app/1202520",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "url": "https://arxiv.org/abs/2607.07267",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 98,
+      "original_comments": 14
+    },
+    {
+      "title": "Unexpected Solidlike Fracture in Simple Liquids",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 93,
+      "original_comments": 45
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 918.49 📉-1.01(-0.11%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 949973,
+      "summary": "今日 918.49 | 📉 -1.01(-0.11%) | 最高 920.66 最低 918.4 | 连涨 -1天 | 成交额 ¥4252万 | 成交量 949973件 | 📈1831 ➡2344 📉3319"
+    }
+  ]
+}
