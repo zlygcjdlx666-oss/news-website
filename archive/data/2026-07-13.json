@@ -1,0 +1,621 @@
+{
+  "date": "2026-07-13",
+  "commentary": "磊哥今天得先倒吸一口凉皮。曼谷酒吧一把火烧死27人，伤25人，消防员到场看见顾客从火里往外窜——这哪是酒吧，这是人间炼狱啊。关键问题来了：泰国夜店安全检查是吃干饭的吗？每次出事都是“震惊”，每次过后还是“照旧”，这特么是循环播放的悲剧。你开酒吧可以，但别让人拿命蹦迪啊！\n\n再看浙江，强台风来了，近两百万人被疏散，学校停课、交通停摆。这事儿磊哥得竖个大拇指——人命关天的时候，咱这动员能力没得说。但你也得看看巴黎那边，野火烧得消防飞机都出动了，部长都怀疑是人为纵火。这世界真是冰火两重天：一边是风在救人，一边是人在放火。\n\n最后说说苹果起诉OpenAI，说人家“烂到骨子里”。磊哥笑了，硅谷这帮大佬撕起来比菜市场大妈还接地气。商业机密被偷？那你倒是先管好自己的防火墙啊！\n\n今日金句：**世界这台大戏，有人忙着救火，有人忙着点火，还有人忙着点外卖看戏。**",
+  "news": [
+    {
+      "title": "曼谷酒吧火灾致27死25重伤",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "泰国曼谷乍都乍区一家酒吧发生严重火灾，消防员到场时发现顾客正穿过火焰逃生，已造成至少27人死亡、25人重伤。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "强台风登陆中国浙江，近两百万人被疏散",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "强台风在中国浙江登陆，学校、工作和户外活动暂停，交通服务大量取消，近两百万人被紧急疏散。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "孟加拉国暴雨洪灾致51人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "孟加拉国遭遇强降雨和山洪，数千人失去家园，洪水和山体滑坡已造成51人死亡。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "巴黎南部野火疑人为纵火，消防飞机罕见出动",
+      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "巴黎南部爆发野火，法国部长称可能系人为纵火，这是消防飞机首次从南部调往巴黎地区灭火。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果起诉OpenAI及其员工窃取商业机密",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "苹果在周五的诉讼中指控OpenAI的硬件业务“烂到骨子里”，称其员工窃取了苹果的商业机密。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟威胁对Meta罚款，指其平台“成瘾”",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟监管机构指出，Meta旗下Facebook和Instagram的无限滚动等功能导致“强迫性使用”和“不健康习惯”，可能面临罚款。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软裁员4800人，Xbox部门大幅重组",
+      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "微软进行重大重组，裁员4800人（占员工总数2.1%），其中Xbox部门立即裁减1600个岗位。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国参议员林赛·格雷厄姆因主动脉撕裂去世",
+      "url": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "特朗普的亲密共和党盟友、美国参议员林赛·格雷厄姆于周六晚去世，享年71岁，死因为主动脉撕裂。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "国际足联主席因凡蒂诺提议世界杯扩军至64队",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "国际足联主席因凡蒂诺表示，将在2026年世界杯后详细评估并推进64支球队参赛的男子世界杯计划。",
+      "categories": [
+        "国际",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "南非驱逐超5.3万非法移民",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "南非在反移民抗议浪潮中严厉打击非法移民，已驱逐超过5.3万名外国人。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "多伦多街头音乐节发生枪击，至少2人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "多伦多一场街头音乐节上，两人之间发生交火，警方已从现场找到两支枪，事件造成至少2人死亡。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX上市一个月后势头减弱",
+      "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "SpaceX上市一个月后，其当前盈利模式的现实情况逐渐清晰，市场对其增长势头产生疑虑。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta因AI图像功能引发争议后紧急撤回",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta本周推出的允许用户修改Instagram内容的AI功能遭到强烈反对，公司已将其撤回。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta允许用户用公开头像生成AI图像引发隐私担忧",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta允许用户利用他人公开的Instagram头像生成AI图像，隐私活动人士称这是“灾难的配方”。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SK海力士在美上市募资265亿美元，股价飙升",
+      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "韩国芯片巨头SK海力士在纳斯达克上市首日股价飙升17%，创下外国公司在美国最大规模上市纪录。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "易捷航空接受美国公司意外收购要约",
+      "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "易捷航空宣布，美国公司Apollo的收购要约击败了Castlelake的报价，公司同意被收购。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "直布罗陀与西班牙边境管控118年后终结",
+      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "直布罗陀与西班牙之间持续118年的边境管制被取消，实现自由流动，预计将促进当地经济。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "宝可梦GO十周年：数百万玩家仍在捕捉",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "《宝可梦GO》迎来十周年，其母公司副总裁表示，游戏的核心始终是将人们聚集在一起。",
+      "categories": [
+        "娱乐",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《刺客信条：黑旗》重制版值得13年等待吗？",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "BBC记者体验了从零开始重制的《刺客信条：黑旗》重制版，这款备受期待的海盗游戏终于面世。",
+      "categories": [
+        "娱乐",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国Ofcom要求大型科技公司处理诈骗广告",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国通信管理局Ofcom提出新规，要求大型科技公司处理在线诈骗广告，称超半数英国成年人曾遇到可疑广告。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "色情网站因未落实年龄验证被罚63万英镑",
+      "url": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国Ofcom对多个未能阻止儿童访问成人内容的色情网站处以总计63万英镑的罚款。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国国家犯罪署警告：勿公开分享儿童照片以防AI滥用",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国国家犯罪署指出，儿童照片被用于制作虐待材料的威胁日益严重，警告家长不要公开分享孩子影像。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国超市Aldi以4美元杏仁酱挑战美国市场",
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "德国折扣超市Aldi以4美元的杏仁酱等低价策略，在曼哈顿等城市中心向沃尔玛发起挑战。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "瑞安航空乘客称男子差点被吸出窗外",
+      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "瑞安航空一航班上，一名男子的妻子抓住他的腿约五分钟，防止他被吸出窗外，官方已确认此事。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国拟限制电子烟使用诱人名称和口味以保护儿童",
+      "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国政府就限制电子烟公司使用吸引儿童的诱人口味描述进行公众咨询，以保护未成年人。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源CapCut替代品OpenCut发布",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目OpenCut作为CapCut的替代方案在GitHub上发布，今日获得1077颗星，受到开发者关注。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Vibe-Trading：个人AI交易代理开源项目",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "名为Vibe-Trading的开源项目在GitHub上走红，它是一个基于Python的个人交易代理工具。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Graphify：多平台AI编程助手工具发布",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Graphify支持Claude Code、Cursor等多种AI编程助手，可将代码、文档等转化为可交互内容。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "100多个AI代理与RAG应用开源项目发布",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub上出现一个包含100多个AI代理和RAG应用的开源项目，用户可克隆、定制并部署。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "东北地区遭遇特大暴雨",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%9C%E5%8C%97%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "中国东北地区出现特大暴雨，沈阳等地发生严重内涝，引发广泛关注。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国首个禁售燃油车省份确认",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9C%81%E4%BB%BD%E7%A1%AE%E8%AE%A4&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "中国首个明确禁售燃油车的省份已确认，标志着新能源汽车推广进入新阶段。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "A股存储龙头回应跌停",
+      "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E5%9B%9E%E5%BA%94%E8%B7%8C%E5%81%9C&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "A股存储芯片龙头企业股价跌停，公司正式回应市场关切。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "长鑫存储近2万员工人均可分超百万",
+      "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E8%BF%912%E4%B8%87%E5%91%98%E5%B7%A5%E6%AF%8F%E4%BA%BA%E5%8F%AF%E5%88%86%E8%B6%85%E7%99%BE%E4%B8%87&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "芯片企业长鑫存储传出消息，近2万名员工每人可获得超过百万元的收益分配。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：烤棉花糖与灭火器",
+      "url": "https://xkcd.com/3270/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画调侃了“紧急情况下打破玻璃”的两种选择：灭火器与烤棉花糖，幽默对比了问题大小。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：机场会面与粒子命名权",
+      "url": "https://xkcd.com/3269/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画以机场会面为背景，调侃了粒子命名权争议导致必胜客超导超级对撞机项目被取消的趣事。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：越位与象棋",
+      "url": "https://xkcd.com/3268/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画将足球越位规则应用到国际象棋中，裁判给马出示红牌，理由是“鞋钉朝上”铲球。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "左右脑互搏式弹琴法：双手同时弹两架不同曲子",
+      "url": "https://www.bilibili.com/video/BV1VjNL6LEEm",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主展示用两只手同时弹奏两架钢琴并演奏不同曲目，播放量达569万，引发热议。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 5689508,
+      "original_comments": 2466
+    },
+    {
+      "title": "假如你生活在十万人的宿舍营",
+      "url": "https://www.bilibili.com/video/BV1FhNn63E52",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频脑洞大开，设想十万人共同生活的宿舍营场景，播放量超526万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 5261480,
+      "original_comments": 2341
+    },
+    {
+      "title": "赛博拼豆：两年半打造夏日氛围",
+      "url": "https://www.bilibili.com/video/BV1jtNx6mExF",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主用两年半时间制作“赛博拼豆”作品，营造夏日氛围，播放量超306万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 3066840,
+      "original_comments": 3348
+    },
+    {
+      "title": "用玻璃手工搓出雷电将军",
+      "url": "https://www.bilibili.com/video/BV1C6NM61EU6",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主展示用玻璃手工制作《原神》角色雷电将军的过程，播放量超182万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 1820941,
+      "original_comments": 387
+    },
+    {
+      "title": "PDD上两位数价格的机器人能干什么？",
+      "url": "https://www.bilibili.com/video/BV1d2N16KEh6",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "影视飓风在B站评测拼多多上仅售两位数的低价机器人，播放量超20万，引发讨论。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 207798,
+      "original_comments": 2257
+    },
+    {
+      "title": "Fudge MCP：让AI代理从现有网站学习设计品味",
+      "url": "https://www.producthunt.com/products/fudge-mcp",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Fudge MCP，可让AI代理从现有网站中提取设计风格，提升设计能力。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AgentKey：AI代理的一站式实时数据市场",
+      "url": "https://www.producthunt.com/products/agentkey",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品AgentKey，为AI代理提供一站式实时数据交易市场。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Knockoff：没有仿冒品的亚马逊",
+      "url": "https://www.producthunt.com/products/knockoff-2",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Knockoff，旨在打造一个无仿冒品的电商平台，对标亚马逊。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Osaurus：完全在Mac本地运行的开源AI代理",
+      "url": "https://www.producthunt.com/products/osaurus",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Osaurus，提供完全在本地Mac上运行的开源AI代理，注重隐私。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Cloudflare Drop：浏览器拖拽文件夹即可部署",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Cloudflare Drop，用户只需在浏览器中拖拽文件夹即可在Cloudflare上完成部署。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SoundPipe：Mac上的音频混音控制台",
+      "url": "https://www.producthunt.com/products/soundpipe",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品SoundPipe，为Mac用户提供便捷的音频混音控制台工具。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 908.86 📉-6.36(-0.69%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1071239,
+      "summary": "今日 908.86 | 📉 -6.36(-0.69%) | 最高 914.85 最低 908.47 | 连涨 -2天 | 成交额 ¥5046万 | 成交量 1071239件 | 📈1303 ➡2063 📉4128"
+    }
+  ]
+}
