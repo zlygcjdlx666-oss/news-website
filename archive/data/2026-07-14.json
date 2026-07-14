@@ -1,0 +1,613 @@
+{
+  "date": "2026-07-14",
+  "commentary": "哎，各位老铁，今天这新闻看得磊哥我是又气又乐。先说苹果起诉OpenAI偷商业机密，理由是人家硬件“烂到骨子里”。这波操作我服，苹果终于发现自己那“祖传”的散热和信号设计才是真机密？建议库克先查查自家充电线质量，别老盯着别人裤裆。\n\n再看曼谷火灾30人遇难，门被锁、装饰易燃，这哪是火灾，分明是“人为密室逃脱”。当地监管部门平时是吃干饭的？人命关天的事，最后全甩锅给装饰材料，合着消防检查就是做给鬼看的。\n\n最后重磅：大众要全球裁10万人。德国汽车工业的“铁饭碗”被中国新能源车给砸了，这就是不转型的代价。以前躺着赚利润，现在被比亚迪们追着打，疼吧？建议大众高管先别急着裁员，去中国工厂学学什么叫“卷”出未来。\n\n今日金句：有些公司靠“偷”维持体面，有些国家靠“锁”掩盖隐患，而有些巨头靠“裁”续命——但历史的车轮从不等人。",
+  "news": [
+    {
+      "title": "苹果起诉OpenAI及其员工窃取商业机密",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "苹果在诉讼中指控OpenAI的硬件业务“烂到骨子里”，称其员工窃取了苹果的商业机密。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本开发从废旧电池中回收90%锂的新方法",
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "日本研发出一种新技术，可从废旧电动汽车电池中回收高达90%的锂，有望缓解锂资源短缺。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 483,
+      "original_comments": 117
+    },
+    {
+      "title": "曼谷火灾致30人死亡，调查发现门被锁且装饰物易燃",
+      "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "曼谷火灾死亡人数升至30人，幸存者报告逃生门被锁且缺乏紧急出口标识，调查指向违规装饰材料。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国法官推翻特朗普与国税局18亿美元和解协议",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "法官裁定特朗普与国税局的18亿美元和解协议“目的不当”，并移交其律师可能面临纪律处分。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "大众汽车计划全球裁员多达10万人",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "大众集团因利润暴跌和中国市场竞争加剧，计划在全球范围内裁减多达10万个工作岗位。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟威胁对Meta罚款，因其平台被认为“令人上瘾”",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟监管机构指责Meta的Facebook和Instagram存在无限滚动等“强迫性使用”功能，威胁处以罚款。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软裁员4800人并大幅重组Xbox业务",
+      "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "微软宣布裁员4800人，占员工总数2.1%，其中Xbox部门立即裁减1600人，进行重大业务重组。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟考虑限制青少年使用社交媒体",
+      "url": "https://www.solidot.org/story?sid=84825",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "欧盟拟立法限制青少年使用社交媒体，可能包括年龄限制和分阶段开放，平台需先证明服务无害。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "互联网之父Vinton Cerf从谷歌退休",
+      "url": "https://www.solidot.org/story?sid=84820",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "现年83岁的TCP/IP协议联合设计者Vinton Cerf卸任谷歌首席互联网布道官，标志其职业生涯落幕。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "世界首创“超级合金”或彻底改变金属制造方式",
+      "url": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "科学家研发出一种新型“超级合金”，有望颠覆传统金属制造工艺，带来材料科学领域的重大突破。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 67,
+      "original_comments": 35
+    },
+    {
+      "title": "印度科学家绘制出最详细的人类脑干3D图谱",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "印度科学家成功制作出迄今最精细的人类脑干三维图谱，为神经科学研究提供了重要工具。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 42,
+      "original_comments": 2
+    },
+    {
+      "title": "悉尼托儿所员工被控329项儿童性侵罪名",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "一名悉尼托儿所员工被指控在16年间于5家托儿所虐待136名儿童，面临329项罪名。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《侏罗纪公园》演员萨姆·尼尔去世，享年78岁",
+      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "著名演员萨姆·尼尔去世，各界人士纷纷悼念这位“英雄、传奇、甜心”，其离世“突然且意外”。",
+      "categories": [
+        "国际",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta因AI图像功能引发争议而紧急撤回",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta发布允许用户修改Instagram内容的AI功能后，因迅速招致强烈反对而被迫撤回该功能。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta允许用户用公开头像生成AI图像引发隐私担忧",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta新功能让用户可利用他人公开Instagram头像生成AI图像，隐私活动家称其为“灾难配方”。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法拉奇最大金主背后的神秘加密货币公司Tether",
+      "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "报道揭露了加密货币巨头Tether与英国政治人物法拉奇最大捐赠者之间的隐秘联系。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加州牵头起诉阻止派拉蒙与华纳兄弟的巨额合并",
+      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "加利福尼亚州联合其他11个州提起诉讼，以阻止派拉蒙和华纳兄弟探索公司的合并交易。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX上市一个月后，市场热度是否已消退？",
+      "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "SpaceX上市一个月后，其当前盈利模式的现实情况逐渐清晰，市场对其增长动力的质疑浮现。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源项目OpenCut：CapCut的替代方案走红GitHub",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源视频编辑工具OpenCut作为CapCut的替代品，在GitHub上获得大量关注，一日内收获超千星。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GitHub热门项目：100多个可运行的AI Agent应用合集",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "一个汇集了100多个AI Agent和RAG应用的GitHub项目爆火，用户可克隆、定制并部署。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Graphify：支持多款AI编码助手的通用技能工具",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Graphify可作为Claude Code、Cursor等AI编码助手的通用技能，处理代码、文档等多种内容。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "2026年菲尔兹奖得主疑似从官网代码泄露",
+      "url": "https://www.solidot.org/story?sid=84823",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "有人在2026年国际数学家大会官网代码中发现四条隐藏的菲尔兹奖得主字段，引发热议。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "蒋方舟因论文抄袭被人民大学撤销硕士学位",
+      "url": "https://www.solidot.org/story?sid=84821",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "中国人民大学经调查认定蒋方舟硕士学位论文存在学术不端，决定撤销其硕士学位。",
+      "categories": [
+        "社会",
+        "教育"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "数据中心用电量占爱尔兰全国用电量的23%",
+      "url": "https://www.solidot.org/story?sid=84818",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "2025年爱尔兰数据中心用电量占比飙升至23%，较2015年的5%大幅增长，引发能源担忧。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韦伯望远镜观测到逃脱死亡命运的类木星行星",
+      "url": "https://www.solidot.org/story?sid=84819",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "天文学家利用韦伯望远镜观测到一颗气态巨行星WD 1856 b，它奇迹般地逃脱了恒星死亡后的吞噬。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Linux 0.11内核被用地道Rust重写，可在QEMU启动",
+      "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "开发者用纯Rust语言重写了Linux 0.11内核，并成功在QEMU模拟器中启动运行。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 106,
+      "original_comments": 88
+    },
+    {
+      "title": "澳大利亚要求能源零售商提供每日3小时免费白天电力",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "澳大利亚出台新规，强制能源零售商在白天时段为用户提供3小时免费电力，以促进可再生能源利用。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 97,
+      "original_comments": 124
+    },
+    {
+      "title": "美国快餐巨头Chipotle将在墨西哥开设首家门店",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "美国墨西哥卷饼巨头Chipotle宣布将在墨西哥开设首家门店，挑战其发源地的本土市场。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国与瑞士签署协议，取消漫游费并开放电子通道",
+      "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "英国与瑞士达成新服务协议，将取消两国间手机漫游费，并允许英国人使用瑞士电子入境通道。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《宝可梦GO》十周年：仍有数百万玩家在坚持收集",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "《宝可梦GO》迎来十周年，游戏负责人表示其核心始终是连接人们，至今仍有数百万活跃玩家。",
+      "categories": [
+        "娱乐",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "色情网站因未通过年龄验证被罚款63万英镑",
+      "url": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国通信管理局对多个未能有效阻止儿童访问成人内容的色情网站处以总计63万英镑罚款。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国折扣超市Aldi如何用4美元杏仁酱挑战美国市场",
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "德国超市Aldi以4美元的超低价杏仁酱等策略，在美国市场展开攻势，挑战沃尔玛等巨头。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：公主与豌豆的新科学探索",
+      "url": "https://xkcd.com/3271/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画脑洞大开：一旦完全探索了公主与豌豆的空间，就可以开始改变公主的数量了。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：烤棉花糖的消防箱选择",
+      "url": "https://xkcd.com/3270/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画：面对火灾，有两个“紧急破窗”箱，一个装灭火器，另一个……取决于火势大小。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：足球越位规则应用于国际象棋",
+      "url": "https://xkcd.com/3268/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画：裁判因我的骑士“鞋钉朝上”吃子而亮出红牌，将足球越位规则引入国际象棋。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "孩子总把网络烂梗挂嘴边怎么办？【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1oxNA6SE8k",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频，UP主孔孟道探讨孩子沉迷网络烂梗现象，播放量超657万，引发广泛讨论。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 6575840,
+      "original_comments": 5023
+    },
+    {
+      "title": "挑战在200年历史的悬崖小屋上住一晚",
+      "url": "https://www.bilibili.com/video/BV1RmN16vEhe",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "UP主李维刚的日常在广东韶关挑战悬崖小屋过夜，体验野外生存，视频播放量超161万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1612533,
+      "original_comments": 6353
+    },
+    {
+      "title": "loopclub：与陌生人或AI一起打鼓的共享鼓机",
+      "url": "https://www.producthunt.com/products/loopclub",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品loopclub是一款共享鼓机，让你能与陌生人或Claude AI一起即兴合奏。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Breva：将Mac触控板变成温柔的呼吸引导器",
+      "url": "https://www.producthunt.com/products/breva",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Breva，可将Mac触控板转化为轻柔的呼吸引导工具，帮助用户放松。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AutoShelf 2.0：自动整理Mac文件的工具",
+      "url": "https://www.producthunt.com/products/autoshelf",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品AutoShelf 2.0，可自动整理Mac上的文件，并支持MCP和CLI。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Altersend：无云存储、无账户、无限制的文件传输",
+      "url": "https://www.producthunt.com/products/altersend",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Altersend提供点对点文件传输服务，无需云存储、注册账户且无大小限制。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Flyout：从Mac屏幕边缘弹出的富文本笔记",
+      "url": "https://www.producthunt.com/products/flyout",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Flyout，让富文本笔记从Mac屏幕边缘弹出，方便快速记录和查看。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude Overlay：悬浮的AI聊天窗口，能看见你的屏幕",
+      "url": "https://www.producthunt.com/products/claude-overlay",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Claude Overlay，提供一个悬浮的Claude Code聊天窗口，并能感知屏幕内容。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "疑AI照片拿了摄影比赛一等奖引争议",
+      "url": "https://s.weibo.com/weibo?q=%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "微博热搜：一张疑似AI生成的环卫工照片获得摄影比赛一等奖，引发关于AI与艺术的激烈讨论。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "金饰价格又崩了",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E5%8F%88%E5%B4%A9%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "微博热搜：黄金饰品价格出现大幅下跌，引发消费者和投资者广泛关注。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "邹市明2亿理财亏损始末",
+      "url": "https://s.weibo.com/weibo?q=%E9%82%B9%E5%B8%82%E6%98%8E2%E4%BA%BF%E7%90%86%E8%B4%A2%E4%BA%8F%E6%8D%9F%E5%A7%8B%E6%9C%AB&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "微博热搜：奥运冠军邹市明被曝出2亿元理财投资亏损的详细经过，引发热议。",
+      "categories": [
+        "财经",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "3岁女童疑被生父怀孕女友杀害",
+      "url": "https://s.weibo.com/weibo?q=3%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%96%91%E8%A2%AB%E7%94%9F%E7%88%B6%E6%80%80%E5%AD%95%E5%A5%B3%E5%8F%8B%E6%9D%80%E5%AE%B3&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "微博热搜：一起令人痛心的社会案件，一名3岁女童疑似被其生父的怀孕女友杀害。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 902.14 📉-3.51(-0.39%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 839161,
+      "summary": "今日 902.14 | 📉 -3.51(-0.39%) | 最高 906.28 最低 901.33 | 连涨 -3天 | 成交额 ¥4654万 | 成交量 839161件 | 📈1289 ➡2192 📉4013"
+    }
+  ]
+}
