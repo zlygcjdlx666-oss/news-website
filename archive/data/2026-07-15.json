@@ -1,0 +1,614 @@
+{
+  "date": "2026-07-15",
+  "commentary": "家人们，磊哥来了！今儿个咱不聊虚的，先瞅瞅CSGO大盘——涨了0.26%？好嘛，连涨一天就兴奋成这样，成交量才4711万，这跟打游戏被人刀了还发“nice”有啥区别？市场现在就是个“薛定谔的牛市”，你说它没戏吧，它给你弹两下，你说它行了，它立马躺平。建议各位老铁别当韭菜，该清仓清仓，留点钱买排骨不香吗？\n\n再看B站热榜，孩子总把网络烂梗挂嘴边？哎呦喂，这问题问得我血压都上来了！现在小孩张嘴就是“绝绝子”“yyds”，你跟他讲道理，他反手给你来个“栓Q”。磊哥认为，这不光是孩子的问题，是咱们整个网络环境在“返祖”——把低俗当有趣，把复读当幽默。要我说，家长别光骂孩子，先把自己手机里的土味短视频戒了，以身作则比啥都强。\n\n最后瞅瞅那个“哭着剪完这条视频”——兄弟，谁的生活不是一边崩溃一边剪辑？但磊哥得说，哭可以，别光哭不干。网络时代，情绪不值钱，行动才值钱。\n\n今日金句：别让烂梗教你的孩子说话，你得先教会孩子说人话。",
+  "news": [
+    {
+      "title": "孩子总把网络烂梗挂嘴边怎么办？【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1oxNA6SE8k",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:915.1万 | 弹幕:7427 | UP主:孔孟道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9150596,
+      "original_comments": 7427
+    },
+    {
+      "title": "【复制铜镜全系列合集】ai软件生成，剧情虚构，非官方）正片+番外+解说+彩蛋",
+      "url": "https://www.bilibili.com/video/BV1NnNr6BEGR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:725.7万 | 弹幕:8471 | UP主:强哥的小汤圆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7256566,
+      "original_comments": 8471
+    },
+    {
+      "title": "如何正确安慰兄弟",
+      "url": "https://www.bilibili.com/video/BV1gVN16fEs5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:486.5万 | 弹幕:2038 | UP主:cheems小电影",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4865171,
+      "original_comments": 2038
+    },
+    {
+      "title": "哭着剪完这条视频…",
+      "url": "https://www.bilibili.com/video/BV1rfNU6REhs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:259.5万 | 弹幕:2292 | UP主:陈玉sama",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2594700,
+      "original_comments": 2292
+    },
+    {
+      "title": "【狂怒】乌鲁鲁首款干员研究外观7月17日上线！",
+      "url": "https://www.bilibili.com/video/BV1RnNQ6EEKA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:248.5万 | 弹幕:1.9万 | UP主:三角洲行动",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2485396,
+      "original_comments": 18862
+    },
+    {
+      "title": "回 旋 彪",
+      "url": "https://www.bilibili.com/video/BV1kPNQ6FEEZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:175.0万 | 弹幕:3609 | UP主:_青红造了个白_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1749877,
+      "original_comments": 3609
+    },
+    {
+      "title": "郝 哥 连 线 勇 哥",
+      "url": "https://www.bilibili.com/video/BV1Y3Ne6hENH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:148.2万 | 弹幕:1445 | UP主:新世纪咖啡战士v",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1481654,
+      "original_comments": 1445
+    },
+    {
+      "title": "陈翔六点半：突然大方的兄弟",
+      "url": "https://www.bilibili.com/video/BV1WFNb6eE4X",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:140.9万 | 弹幕:977 | UP主:陈翔六点半",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1408671,
+      "original_comments": 977
+    },
+    {
+      "title": "【群星】人类联邦第一个百年",
+      "url": "https://www.bilibili.com/video/BV1cjN262Edh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:136.7万 | 弹幕:385 | UP主:喵劳大",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1366520,
+      "original_comments": 385
+    },
+    {
+      "title": "耗时9999小时！一口气看完熊出没末路大合集！",
+      "url": "https://www.bilibili.com/video/BV1CWNX6NE1A",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:129.9万 | 弹幕:7365 | UP主:等到雪花开",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1298693,
+      "original_comments": 7365
+    },
+    {
+      "title": "上集| 丧尸末日降临 而我还在送外卖",
+      "url": "https://www.bilibili.com/video/BV19BNN6JEcd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:129.7万 | 弹幕:4205 | UP主:李凛川",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1296859,
+      "original_comments": 4205
+    },
+    {
+      "title": "我这视频看完没啥感觉，但是暖暖的！",
+      "url": "https://www.bilibili.com/video/BV1XENb6nEUh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:120.5万 | 弹幕:1996 | UP主:爱画画的子衿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1205169,
+      "original_comments": 1996
+    },
+    {
+      "title": "足坛真神TOP：姆巴佩！离开世界杯！如果最高战力，为何不能天下第一！？",
+      "url": "https://www.bilibili.com/video/BV1t7Ne64EZP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:116.0万 | 弹幕:2576 | UP主:足球故事-李治霖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1159572,
+      "original_comments": 2576
+    },
+    {
+      "title": "我找到了三角洲里的零号大坝！？",
+      "url": "https://www.bilibili.com/video/BV1WfNt6NEX9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:89.1万 | 弹幕:995 | UP主:-欣小萌-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 890772,
+      "original_comments": 995
+    },
+    {
+      "title": "我的父亲 杀了我的父亲【完整版】",
+      "url": "https://www.bilibili.com/video/BV12bNm64Eeo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.8万 | 弹幕:731 | UP主:向挽意_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 807669,
+      "original_comments": 731
+    },
+    {
+      "title": "搞强拆能惹多大祸？【奇葩小国53】",
+      "url": "https://www.bilibili.com/video/BV1xdNt6TEP3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:74.9万 | 弹幕:9406 | UP主:小约翰可汗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 749260,
+      "original_comments": 9406
+    },
+    {
+      "title": "桑多喵奔月",
+      "url": "https://www.bilibili.com/video/BV1avN26YEZL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.2万 | 弹幕:296 | UP主:白银新手",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 502331,
+      "original_comments": 296
+    },
+    {
+      "title": "《神 人 最 多 的 一 集》",
+      "url": "https://www.bilibili.com/video/BV1pKN96iEk1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:35.5万 | 弹幕:312 | UP主:真栗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 355266,
+      "original_comments": 312
+    },
+    {
+      "title": "路边摊吃盒饭 吃成摊主",
+      "url": "https://www.bilibili.com/video/BV1XTNR69Etx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.6万 | 弹幕:587 | UP主:马李澳到处钓",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 296220,
+      "original_comments": 587
+    },
+    {
+      "title": "【运动会前 - 街霸故事】杰米哥受JP指点给阿鬼买豪鬼的大鹅腿，林鬼兄弟斥责杰米插队",
+      "url": "https://www.bilibili.com/video/BV1L8MG6SEG2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:21.9万 | 弹幕:187 | UP主:艾木逼神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 218719,
+      "original_comments": 187
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $649",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "The Outlast Trials",
+      "url": "https://store.steampowered.com/app/1304930",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $450",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Assassin’s Creed Shadows",
+      "url": "https://store.steampowered.com/app/3159330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-55% | $899",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5600,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $674",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $420",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "DELTARUNE",
+      "url": "https://store.steampowered.com/app/1671210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Esports Manager 2026",
+      "url": "https://store.steampowered.com/app/2749950",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $332",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Angels Fall First",
+      "url": "https://store.steampowered.com/app/367270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $233",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 815,
+      "original_comments": 481
+    },
+    {
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 598,
+      "original_comments": 211
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 528,
+      "original_comments": 559
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 470,
+      "original_comments": 223
+    },
+    {
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 454,
+      "original_comments": 109
+    },
+    {
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 365,
+      "original_comments": 172
+    },
+    {
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 307,
+      "original_comments": 145
+    },
+    {
+      "title": "I'm a USB-C Maximalist",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 289,
+      "original_comments": 382
+    },
+    {
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 268,
+      "original_comments": 110
+    },
+    {
+      "title": "How I use HTMX with Go",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 249,
+      "original_comments": 67
+    },
+    {
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "url": "https://github.com/juggler-ai/juggler",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 239,
+      "original_comments": 105
+    },
+    {
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "url": "https://2b2t.place/1million",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222,
+      "original_comments": 71
+    },
+    {
+      "title": "The kids with phones are alright",
+      "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 208,
+      "original_comments": 212
+    },
+    {
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 176,
+      "original_comments": 112
+    },
+    {
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 152,
+      "original_comments": 79
+    },
+    {
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "url": "https://www.starfleetmath.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 136,
+      "original_comments": 63
+    },
+    {
+      "title": "Microsoft has released software updates to plug at least 570 security holes",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 133,
+      "original_comments": 82
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "Steam 热销游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced",
+      "url": "https://store.steampowered.com/app/3751950",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1799",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "MECCHA CHAMELEON",
+      "url": "https://store.steampowered.com/app/4704690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$155",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Prime Status Upgrade",
+      "url": "https://store.steampowered.com/app/54029",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$650",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 899.72 📈+2.37(+0.26%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1033041,
+      "summary": "今日 899.72 | 📈 +2.37(+0.26%) | 最高 900.85 最低 896.89 | 连涨 1天 | 成交额 ¥4711万 | 成交量 1033041件 | 📈1637 ➡2225 📉3632"
+    }
+  ]
+}
