@@ -1,0 +1,649 @@
+{
+  "date": "2026-07-17",
+  "commentary": "哎，家人们，今天这新闻看得磊哥我是又惊又笑。先说月之暗面整出的Kimi K3，2.8万亿参数！这数字听着比我家小区的人口还多。但磊哥要说，参数再大，也得看落地能不能帮咱老百姓省点事儿，别光顾着刷榜，回头连个外卖券都算不明白，那可就真成“人工智能智障”了。\n\n再聊聊台积电又砸1000亿美元去美国。磊哥掐指一算，这都2650亿了，美国这是要搞“芯片铁幕”啊！可磊哥就纳闷了，你花这么多钱去美国建厂，到时候造出来的芯片是不是得比美国国旗还贵？咱就说，科技脱钩要是真那么容易，台积电在美国的工地早该盖成迪士尼了，别最后弄得两边都肉疼。\n\n最后必须吐槽下欧盟要罚Meta，说它让人刷上瘾。磊哥笑了，那是人家产品设计有“粘性”，你一个监管机构管天管地还管人刷手机？这不就跟说“你家WiFi信号太好导致我失眠”一个道理吗？要我说，这罚款不如罚点实在的，比如让扎克伯格亲自下场，把他那元宇宙里的腿给接上。\n\n今日金句：科技圈的饼，画得越大，噎得越狠；监管的铁拳，挥得越猛，显得越呆。",
+  "news": [
+    {
+      "title": "Kimi K3：开放前沿智能模型",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "月之暗面发布全球首个2.8万亿参数开放权重模型Kimi K3，具备原生视觉和百万词元上下文窗口，完整权重将于7月27日发布。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 1640,
+      "original_comments": 966
+    },
+    {
+      "title": "美国对伊朗发动新打击，伊朗称民用基础设施遭袭",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "伊朗称美国打击了桥梁等民用设施，同时美国在霍尔木兹海峡登上一艘船只，局势持续紧张。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普指控中国干预2020年大选，质疑中期选举安全",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "特朗普称中国干预选举，中国驳斥为捏造；民主党指责其试图破坏11月选举的公信力。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "台积电再投1000亿美元扩大美国生产",
+      "url": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "台积电承诺追加1000亿美元投资美国，总承诺额达2650亿美元，将创造高薪高科技岗位。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果起诉OpenAI及其员工窃取商业机密",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "苹果在诉讼中指控OpenAI的硬件业务“烂到骨子里”，称其员工窃取了苹果的商业机密。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "DeepSeek计划年内申请IPO，估值达4800亿",
+      "url": "https://www.solidot.org/story?sid=84845",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "DeepSeek计划启动新一轮500亿元融资，估值4800亿，并已探讨在上交所科创板上市，目标年内提交IPO申请。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "月之暗面发布首个3万亿参数开放权重模型Kimi K3",
+      "url": "https://www.solidot.org/story?sid=84852",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "月之暗面宣布2.8万亿参数开放权重模型Kimi K3，基于Delta Attention构建，具备原生视觉和百万词元上下文窗口。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加拿大山火烟雾笼罩美国多城，触发空气质量警报",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "超过800处山火产生的烟雾覆盖多伦多、纽约及美国中西部和五大湖地区，引发严重空气质量警报。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "超500名罗兴亚人在海上失踪，命运未卜",
+      "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "两艘载有约530名罗兴亚人的船只自6月29日离开缅甸后失踪，至今下落不明。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌干达校车事故致至少20名学生死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "乌干达一辆校车发生严重车祸，疑似机械故障导致至少20名学生死亡，多名教职员工受伤。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泽连斯基撤换国防部长引发乌克兰抗议",
+      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "泽连斯基解除受欢迎国防部长费多罗夫的职务，引发抗议，背后是费多罗夫与总司令瑟尔斯基之间的分歧。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟威胁对Meta罚款，指其Facebook和Instagram具有成瘾性",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "欧盟监管机构称Meta的无限滚动等功能导致“强迫性使用”和“不健康习惯”，可能面临巨额罚款。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta因AI图像功能引发争议后紧急撤回",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta本周推出的AI图像编辑功能允许用户修改Instagram内容，遭到强烈反对后迅速下架。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TikTok因儿童年龄验证问题遭英国Ofcom调查",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国通信管理局Ofcom对TikTok启动调查，此前监管机构批评该平台对儿童“不够安全”。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Grok Build开源前被发现上传用户完整代码库",
+      "url": "https://www.solidot.org/story?sid=84848",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "xAI开源Grok Build，但此前该工具被曝存在严重隐私问题，会上传用户完整代码库至Google Cloud。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "图书出版商指控Google在训练Gemini时大规模侵权",
+      "url": "https://www.solidot.org/story?sid=84846",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "Hachette等出版商起诉Google，称其在训练Gemini模型时未经许可使用数百万受版权保护的图书，为史上最严重版权侵权之一。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "IBM称客户转向AI硬件导致大型机收入下滑",
+      "url": "https://www.solidot.org/story?sid=84842",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "IBM季度业绩不及预期，客户将大型机预算用于AI硬件，导致基础设施收入下滑7%，股价暴跌25%。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国众议院通过永久性夏令时法案",
+      "url": "https://www.solidot.org/story?sid=84841",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "美国众议院以308票通过永久性夏令时法案，旨在结束一年两次调时钟，但参议院前景不明。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "恒星普查研究确认宇宙年龄为138亿岁",
+      "url": "https://www.solidot.org/story?sid=84854",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究团队结合LAMOST和盖亚数据，通过15.5万颗次巨星样本，精确确认宇宙年龄为138亿年。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "心脏病发作患者血液中微塑料含量更高",
+      "url": "https://www.solidot.org/story?sid=84850",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究发现心脏病发作患者血液中微塑料和纳米塑料含量显著高于健康人，吸烟和空气污染也增加含量。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马能识别屏幕上的捕食者，不依赖声音或气味",
+      "url": "https://www.solidot.org/story?sid=84847",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究发现马看到屏幕上的狼后心跳加速但表情镇定，表明它们能通过视觉识别捕食者。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "宜居带系外岩石行星大气中检测到氦气逃逸",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "科学家在邻近宜居带系外岩石行星的大气中检测到氦气正在逃逸，为系外行星研究提供新线索。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 110,
+      "original_comments": 32
+    },
+    {
+      "title": "刚果盆地发现新猴种“Likweli”",
+      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "科学家在刚果盆地发现一种新的猴子物种，命名为“Likweli”，丰富了灵长类动物多样性。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 80,
+      "original_comments": 18
+    },
+    {
+      "title": "1900年前古罗马厕所揭示混凝土千年不坏之谜",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "研究通过1900年前的罗马厕所发现，古罗马混凝土的耐久性源于其独特的化学成分和施工工艺。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 132,
+      "original_comments": 86
+    },
+    {
+      "title": "脑电图显示大脑可同时编码两种语音流",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "最新脑电图研究表明，人脑能够同时处理并编码两种不同的语音流，揭示听觉认知新机制。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 92,
+      "original_comments": 49
+    },
+    {
+      "title": "Google Play将于下周上架第三方应用商店",
+      "url": "https://www.solidot.org/story?sid=84851",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "从7月22日起，美国第三方应用商店可通过Google Play发行客户端，访问其应用目录。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "一加确认退出美国和欧洲市场，OxygenOS将被ColorOS取代",
+      "url": "https://www.solidot.org/story?sid=84849",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "一加宣布退出美欧市场，现有用户将继续获得软件更新，但OxygenOS系统将被OPPO的ColorOS取代。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软暂停向部分戴尔电脑推送七月安全更新",
+      "url": "https://www.solidot.org/story?sid=84844",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "因意外关机、过热和电池耗电过快等问题，微软暂停向部分配备英特尔处理器的戴尔电脑推送安全更新。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI公司高管加强个人安保措施",
+      "url": "https://www.solidot.org/story?sid=84843",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "在Sam Altman住所遭纵火未遂后，Anthropic也发生尾随事件，AI高管因反对声浪加剧而加强安保。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本放宽皇室继承规则，但仍禁止女性天皇",
+      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "日本新法律允许将15岁以上男性远亲收养回皇室，但维持禁止女性天皇的禁令。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "菲律宾谴责中国媒体发布涉南海种族主义猴子视频",
+      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "中国日报发布的AI视频中，一只穿菲律宾服装的猴子演唱南海主张，菲律宾谴责为种族主义。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国抨击英国国有化英国钢铁公司",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "英国政府将英国钢铁公司收归国有以保障“国家关键能力”，中国对此表示强烈不满。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "塔可钟因与爆炸性腹泻有关联下架生菜",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "塔可钟出于谨慎，无限期下架来自某供应商的生菜，因其与爆炸性腹泻病例存在关联。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "白宫提词器操作员被指控利用特朗普演讲信息获利10万美元",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "一名白宫工作人员被指控利用对特朗普演讲内容的内部信息，在Kalshi上押注获利近10万美元。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "直播网络攻击伦敦交通局的青少年黑客被判刑",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Owen Flowers和Thalha Jubair因直播攻击伦敦交通局被判刑，该攻击导致巨大经济损失。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国提议对16-17岁青少年实施午夜社交媒体宵禁",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国政府提议限制青少年深夜使用社交媒体以改善生活，但活动人士称其为“错失良机”。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国Ofcom提议大型科技公司必须处理诈骗广告",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Ofcom称超半数英国成年人遇到过潜在欺诈广告，提议要求大型科技公司承担更多责任。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "虚假便携空调广告充斥网络，号称90秒降温",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国广告标准局称，声称小型设备能快速降温房间的广告“好得令人难以置信”，实为虚假宣传。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "伯纳姆的“曼彻斯特主义”能否成为英国模板？",
+      "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "经济编辑分析安迪·伯纳姆的曼彻斯特模式，探讨其能否为整个英国提供发展模板。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "世界杯的金融赢家和输家",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "2026年世界杯场外巨额资金流动，分析谁在赚得盆满钵满，谁又在亏损。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国经济5月恢复增长",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国经济在5月实现温和增长，逆转了前一个月的小幅收缩。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "巴菲特称比尔·盖茨与爱泼斯坦的关系“令人反感”",
+      "url": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "巴菲特旗下公司已停止向盖茨基金会捐款，并公开批评盖茨与爱泼斯坦的关系。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普出手机了！Trump Phone开箱评测",
+      "url": "https://www.bilibili.com/video/BV1uUKV6zE9R",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主开箱评测特朗普品牌手机，展示这款美国总统卖的手机有多离谱，引发热议。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 992139,
+      "original_comments": 5057
+    },
+    {
+      "title": "122亿公里数据训练的ADS 5，能练出老司机吗？",
+      "url": "https://www.bilibili.com/video/BV11vKG6bEqA",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主分析基于122亿公里数据训练的自动驾驶系统ADS 5，探讨其能否达到老司机水平。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 791579,
+      "original_comments": 668
+    },
+    {
+      "title": "寻找卢本伟",
+      "url": "https://www.bilibili.com/video/BV1oHNv6kEzB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，UP主STN工作室发布“寻找卢本伟”内容，播放量超664万，弹幕近10万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 6648724,
+      "original_comments": 95771
+    },
+    {
+      "title": "路边摊吃盒饭 吃成摊主",
+      "url": "https://www.bilibili.com/video/BV1XTNR69Etx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主马李澳到处钓分享路边摊吃盒饭的趣事，播放量超473万，轻松幽默。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4732388,
+      "original_comments": 4024
+    },
+    {
+      "title": "厨师长下班后开小灶：和牛岩石烧、鲍鱼佐鲍鱼肝酱",
+      "url": "https://www.bilibili.com/video/BV1bbKG6YEGq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主张森的下班料理展示用剩余食材制作高级料理，播放量超136万，美食爱好者必看。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1362787,
+      "original_comments": 8783
+    },
+    {
+      "title": "我在寝室制取佛跳墙",
+      "url": "https://www.bilibili.com/video/BV1hAKV6gEeg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主Serin塞琳在寝室挑战制作佛跳墙，创意十足，播放量超83万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 835326,
+      "original_comments": 1592
+    },
+    {
+      "title": "Unabyss for Claude：跨应用共享记忆的AI工具",
+      "url": "https://www.producthunt.com/products/unabyss",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品，Unabyss为Claude提供跨所有应用和LLM的共享记忆功能。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Pocket Screen：让Mac窗口悬浮在迷你屏幕中",
+      "url": "https://www.producthunt.com/products/toybird-labs",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品，Pocket Screen可将任何Mac窗口保持可见于一个浮动迷你屏幕中。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Scribble Party：本地优先的白板工作室",
+      "url": "https://www.producthunt.com/products/scribble-party",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品，Scribble Party是一款面向教师和创作者的本地优先白板工作室。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 895.66 📉-5.96(-0.66%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1103463,
+      "summary": "今日 895.66 | 📉 -5.96(-0.66%) | 最高 902.03 最低 895.66 | 连涨 -2天 | 成交额 ¥4812万 | 成交量 1103463件 | 📈1275 ➡2192 📉4027"
+    }
+  ]
+}
