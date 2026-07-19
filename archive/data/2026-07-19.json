@@ -1,0 +1,635 @@
+{
+  "date": "2026-07-19",
+  "commentary": "咱今儿就挑几个有意思的聊聊。\n\n先说美伊这出大戏，美军连续八晚炸伊朗目标，伊朗转头就派无人机去科威特招呼美军基地。这哪里是中东局势升级，分明是两头都打急眼了，互相找个台阶下又都不敢真踩下去——毕竟真打起来，油价先炸，全球都得跟着买单。两边现在就像俩酒鬼互相揪领子，谁都不敢先松手，但谁也不敢真给一拳。\n\n再看DeepSeek之后，中国AI公司月之暗面扔出个Kimi K3，号称3万亿参数、能跟OpenAI掰手腕。这话搁一年前我当是吹牛，但今时不同往日。技术进步快得像坐火箭，可问题是，参数卷上天，最后用户要的还是能用得上、用得起的东西。别光比大小，得比谁真能落地干活。\n\n最后提一嘴苹果起诉OpenAI窃密。苹果骂人家“从根上烂透了”——这话从一个靠封闭生态吃遍天的公司嘴里说出来，味儿太冲了。硅谷的“偷学”文化谁不知道谁啊？专利官司就是高手过招前的热身运动。\n\n**今日金句：** 这个世界从来不怕硬碰硬，就怕软刀子割肉，还打着创新的大旗。",
+  "news": [
+    {
+      "title": "美伊互相发动袭击，两名美军士兵在约旦阵亡",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美军连续第八晚打击伊朗目标，伊朗则声称向驻科威特美军基地发射无人机，中东局势进一步升级。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯对基辅发动大规模弹道导弹袭击",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "乌克兰总统泽连斯基称这是对基辅“最大规模的弹道导弹攻击之一”，造成至少一人死亡。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泰特兄弟在美国被捕，英国新增指控总数达59项",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "英国皇家检控署已请求从美国引渡泰特兄弟，其律师声称他们无罪。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "月之暗面发布首个3万亿参数开放权重模型Kimi K3",
+      "url": "https://www.solidot.org/story?sid=84852",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "月之暗面宣布2.8万亿参数模型Kimi K3，完整权重将于7月27日发布，具备原生视觉和百万词元上下文窗口。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国月之暗面声称Kimi K3可媲美OpenAI和Anthropic",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "中国AI公司月之暗面推出大规模新模型，宣称能与美国顶尖AI公司竞争。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果起诉OpenAI及其员工窃取商业机密",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "苹果在诉讼中指控OpenAI的硬件业务“从根上烂透了”，涉嫌窃取商业机密。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度太空初创公司成功发射首枚商业轨道火箭",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "印度首家太空独角兽Skyroot Aerospace成功发射Vikram-1火箭，标志着印度商业航天的里程碑。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "天文学家确认25光年外宜居带岩石行星GJ3378b",
+      "url": "https://www.solidot.org/story?sid=84862",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "一颗位于红矮星宜居带内的系外行星被确认，距离地球仅25光年，可能是已知最近的潜在宜居世界。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "天文学家首次探测到宜居带岩石行星大气层中的氦气",
+      "url": "https://www.solidot.org/story?sid=84857",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "在系外行星LHS 1140 b大气层中直接探测到氦气，这是首次在宜居带类地岩石行星确认大气层。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "恒星普查研究确认宇宙年龄为138亿岁",
+      "url": "https://www.solidot.org/story?sid=84854",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "研究团队结合LAMOST和盖亚数据，通过15.5万颗次巨星样本精确推算出宇宙年龄。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟威胁对Meta的“成瘾性”Facebook和Instagram处以罚款",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "监管机构指出无限滚动等功能导致“强迫性使用”和“不健康习惯”。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta在持续数日批评后撤下新AI图像功能",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta本周推出的允许用户修改Instagram内容的AI功能引发强烈反弹。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TikTok因儿童年龄检查问题面临英国Ofcom调查",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "此前监管机构批评该平台对儿童“不够安全”。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "直播网络攻击伦敦交通局的青少年黑客被判入狱",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Owen Flowers和Thalha Jubair因参与攻击被判有罪，该攻击给伦敦交通局造成巨大损失。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "亚马逊AWS计费系统单位错误导致客户看到数万亿账单",
+      "url": "https://www.solidot.org/story?sid=84859",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "全球AWS客户周五看到异常巨额账单，亚马逊确认是计费系统单位错误导致，已暂停更新。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家揭示罗马混凝土建筑屹立两千年不倒的秘密",
+      "url": "https://www.solidot.org/story?sid=84856",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究发现火山灰反应和碳化反应共同作用，使古罗马混凝土比现代混凝土更耐久。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家确认一位名为“白胸狐狸”的玛雅数学家",
+      "url": "https://www.solidot.org/story?sid=84858",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "危地马拉遗址墙壁上的数学公式让学界首次确认了一位重要的玛雅数学家兼天文学家的姓名。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究显示重度电视观众大脑结构更小",
+      "url": "https://www.solidot.org/story?sid=84861",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "常看电视的人记忆相关脑区体积缩小，额叶和枕叶变小，白质出现衰老相关变化。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Firefox将从9月起每两周发布一个新版本",
+      "url": "https://www.solidot.org/story?sid=84860",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Mozilla宣布从2026年9月起，Firefox桌面版和Android版的发布周期从4周缩短到2周。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软开源Comic Chat聊天客户端",
+      "url": "https://www.solidot.org/story?sid=84853",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "微软以MIT许可证在GitHub上开源Comic Chat，这款软件能将IRC对话自动转化为漫画格形式。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国CD唱片销量涨幅超过黑胶唱片",
+      "url": "https://www.solidot.org/story?sid=84855",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "上半年CD销量飙升16%达1630万张，超过黑胶唱片2.4%的涨幅，K-pop专辑贡献显著。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "手动挡汽车在全球范围内日渐消失",
+      "url": "https://www.solidot.org/story?sid=84863",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "2025年美国新车仅0.6%为手动挡，欧洲手动挡比例从2001年的91%降至2024年的29%。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国命令ISP屏蔽预测市场平台Polymarket",
+      "url": "https://www.solidot.org/story?sid=84864",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "法国博彩监管机构命令ISP屏蔽Polymarket，违规宣传者最高可被罚款10万欧元。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "载有116人的渡轮在圭亚那海岸沉没",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "渡轮在乔治敦和凯图马港之间倾覆，目前已有8名乘客获救。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "匈牙利总统同意下台",
+      "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "被视为欧尔班忠实支持者的总统塔马什·舒约克在议会支持罢免后同意结束任期。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普威胁对加拿大加征新关税，因山火将“污浊空气”吹入美国",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "加拿大领导人马克·卡尼回应称美加双方都有责任应对气候变化。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯人转向现金，给战时经济带来更大压力",
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "俄罗斯人受到移动互联网中断影响，更多企业试图避税，经济压力加剧。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普媒体公司将向华尔街交易员提供即时付费信息流",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "特朗普媒体推出快速付费信息流，向交易员提供其最具影响力帖子的即时访问。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普媒体将向华尔街出售“影响市场”的社交帖子即时访问权",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "该服务旨在为交易员提供快速获取特朗普媒体平台上有影响力内容的机会。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国抨击英国钢铁公司国有化",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国政府表示将该公司收归国有是为了保护“至关重要的国家能力”。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国钢铁公司为何被国有化？",
+      "url": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国唯一一家生产原生钢材的工厂在多年不确定性后被收归国有。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国燃油价格为何再次上涨？",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "由于美以与伊朗的和平谈判破裂，英国燃油价格开始回升。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国提议对16-17岁青少年实施午夜社交媒体宵禁",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "政府称此举将改善青少年生活，但活动人士称之为“错失良机”。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "大型科技公司必须根据Ofcom提案处理诈骗广告",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Ofcom表示超过一半的英国成年人曾在网上遇到过潜在欺诈广告。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "“90秒凉爽”——虚假便携式空调充斥互联网",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国广告标准局称声称小型设备能快速冷却房间的广告好得令人难以置信。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "买家在交易前一天降价1.5万英镑：如何避免“压价”",
+      "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "房地产市场中的“压价”现象虽小但正在增长，本文提供了自我保护的方法。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "夜班的隐性成本及如何改善睡眠",
+      "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国超过300万人从事夜班工作，这严重影响健康，本文探讨了应对方法。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "宝可梦GO十周年：数百万人仍在努力“抓全”",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "游戏所有者Scopely副总裁表示，这款游戏始终是关于将人们聚集在一起。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《刺客信条：黑旗》重制版值得等待13年吗？",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "BBC记者试玩了这款备受期待、从头重制的海盗游戏。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "寻找卢本伟",
+      "url": "https://www.bilibili.com/video/BV1oHNv6kEzB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，播放量超920万，UP主STN工作室制作，引发大量弹幕讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 9207835,
+      "original_comments": 131386
+    },
+    {
+      "title": "新乐器！订书钉演奏《千本樱》",
+      "url": "https://www.bilibili.com/video/BV13YNd6dEb9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门视频，播放量超665万，UP主用订书钉演奏经典曲目，创意十足。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 6650526,
+      "original_comments": 23031
+    },
+    {
+      "title": "友情提示：这是一个解压视频",
+      "url": "https://www.bilibili.com/video/BV1uNNt6GEXE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站热门解压视频，播放量超665万，由风景旅行收藏家制作。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 6656412,
+      "original_comments": 11598
+    },
+    {
+      "title": "XKCD漫画：经纬度",
+      "url": "https://xkcd.com/3273/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "漫画调侃NGS和IERS抱怨洗衣机设置未按WGS84标准执行，幽默展现地理坐标系统的复杂性。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：时间变更",
+      "url": "https://xkcd.com/3272/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "漫画指出所有关于夏令时的政策讨论都注定失败，因为存在矛盾、不一致且不可能实现的偏好。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：烤棉花糖",
+      "url": "https://xkcd.com/3270/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "漫画中两个“紧急情况下打破玻璃”的盒子，一个装灭火器，另一个装……引发幽默联想。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Rewisp — 为Mac打造的背景记忆工具",
+      "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品，一款能让你“看过一次，永远可问”的Mac环境记忆应用。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Detourmap — 值得绕道而行的每个地方",
+      "url": "https://www.producthunt.com/products/detourmap",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品，一张交互式地图，汇集所有值得专程前往的有趣地点。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WX — 可玩性生成声音的实验性合成器",
+      "url": "https://www.producthunt.com/products/wx",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品，一款用于创造可玩性生成声音的实验合成器。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Mainichi — 一次一个县地学习日语",
+      "url": "https://www.producthunt.com/products/mainichi-2",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品，通过日本各县文化来学习日语的应用。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "codecrafters-io/build-your-own-x — 从零开始重建你喜爱的技术",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "source": "GitHub Trending",
+      "score": 4,
+      "summary": "GitHub今日热门，Markdown项目，教你通过重建技术来掌握编程，今日获1126星。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 898.56 📉-0.55(-0.06%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1038535,
+      "summary": "今日 898.56 | 📉 -0.55(-0.06%) | 最高 899.81 最低 898.51 | 连涨 -1天 | 成交额 ¥4372万 | 成交量 1038535件 | 📈1598 ➡2479 📉3417"
+    }
+  ]
+}
