@@ -1,0 +1,631 @@
+{
+  "date": "2026-07-20",
+  "commentary": "各位老铁，今天这新闻看得磊哥我血压飙升。先说中东那点破事，美军又死人了，特朗普说要“纪念阵亡士兵”去揍伊朗，结果伊朗反手就炸了叙利亚和约旦——这哪是纪念？这是拿士兵的命当点燃火药桶的打火机啊！霍尔木兹海峡船都炸了，油价直接破90美元，瑞安航空都哭穷了。磊哥就问一句：老百姓的钱包和命，到底谁在买单？\n\n再说科技圈，苹果起诉OpenAI偷商业机密，还骂人家硬件“烂到骨子里”。磊哥笑喷了——您老自己挤牙膏式创新，连充电器都舍不得送，现在跑出来当专利警察？AI赛道卷成这样，打官司不如赶紧造点真家伙，不然库克该去跟马斯克学造火箭了，可惜SpaceX股价都跌破发行价了……\n\n最后必须提一嘴：外卖骑手拿文学奖！王计兵兄弟这波操作比什么AI、火箭都带劲。蓝领工人写诗拿奖，打脸那些天天喊“阶层固化”的砖家。生活再难，只要笔杆子握在自己手里，谁都能当自己的英雄。\n\n【今日金句】世界在爆炸，科技在扯淡，只有送外卖的兄弟在写诗——这魔幻现实主义，好莱坞都不敢这么编。",
+  "news": [
+    {
+      "title": "美军士兵在伊朗袭击中阵亡，伊拉克局势升级",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美国军方确认一名士兵在伊朗对伊拉克的袭击中死亡，此前已有两名士兵在约旦遇袭身亡，中东紧张局势加剧。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯对乌克兰多座城市发动大规模弹道导弹袭击",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "俄罗斯对乌克兰多座城市发动大规模导弹和无人机袭击，造成8人死亡、数十人受伤，基辅继续打击俄基础设施。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普称美军为纪念阵亡士兵打击伊朗，伊朗反击叙利亚和约旦",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "特朗普表示美军为纪念阵亡士兵打击伊朗，伊朗随后对叙利亚和约旦发动反击，霍尔木兹海峡两艘船只发生爆炸。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国月之暗面发布Kimi K3模型，声称可媲美OpenAI和Anthropic",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "中国AI公司月之暗面发布全新大型AI模型Kimi K3，宣称其性能可与OpenAI和Anthropic等美国顶尖公司竞争。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果起诉OpenAI及其员工，指控窃取商业机密",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "苹果在诉讼中指控OpenAI的硬件业务“烂到骨子里”，称其员工窃取了苹果的商业机密。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟威胁对Meta罚款，因其Facebook和Instagram具有“成瘾性”",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟监管机构指责Meta的无限滚动等功能导致“强迫性使用”和“不健康习惯”，威胁将处以罚款。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "外卖骑手获中国顶级文学奖，蓝领作家群体受关注",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "外卖骑手王计兵获得中国顶级文学奖，成为蓝领工人文学创作受到更广泛关注的缩影。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX股价跌破上市首日价格，波动剧烈",
+      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "埃隆·马斯克的火箭公司SpaceX上市一个月后股价波动剧烈，目前已跌破上市首日价格。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "瑞安航空利润下滑，伊朗战争推高燃油成本并吓退乘客",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "瑞安航空表示油价上涨增加了成本，同时布伦特原油价格突破90美元，伊朗战争导致乘客减少。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "圭亚那海岸渡轮沉没，133人中有67人获救，数十人失踪",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "一艘载有133名乘客和船员的渡轮在圭亚那海岸沉没，官员称已有67人获救，其中包括15名儿童，仍有数十人失踪。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tate兄弟在美国被捕，英国新增指控总数达59项",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "英国皇家检控署已请求从美国引渡Tate兄弟，其律师声称他们是无辜的。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TikTok因儿童年龄检查问题面临英国Ofcom调查",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国通信管理局Ofcom对TikTok展开调查，此前监管机构批评该平台对儿童“不够安全”。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta在持续数日争议后撤下新的AI图像功能",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta本周发布的允许用户修改Instagram内容的AI功能遭到强烈反对，公司已将其撤下。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国提议对16至17岁青少年实施午夜社交媒体宵禁",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国政府表示此举将改善青少年生活，但活动人士称其为“错失良机”。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国考虑演示自己的行星防御技术",
+      "url": "https://www.solidot.org/story?sid=84871",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "中国科学家团队讨论建立自己的行星防御系统，计划直接破坏小行星结构，比NASA的DART任务更雄心勃勃。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "天文学家确认25光年外宜居带岩石行星，或具备孕育生命条件",
+      "url": "https://www.solidot.org/story?sid=84862",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "天文学家确认系外行星GJ3378b位于红矮星宜居带内，距离地球仅25光年，是已知最近的潜在宜居世界之一。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：代糖摄入量与认知能力加速下降相关",
+      "url": "https://www.solidot.org/story?sid=84867",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "发表在《Neurology》上的研究显示，多种代糖与记忆力和思维能力加速下降相关，糖尿病患者中关联最为显著。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：重度电视观众与大脑结构缩小相关",
+      "url": "https://www.solidot.org/story?sid=84861",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究发现常看电视的人大脑中与记忆相关的区域体积缩小，额叶和枕叶变小，白质出现与衰老相关的风险变化。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "LibreOffice再次谴责微软文档使用的私有格式",
+      "url": "https://www.solidot.org/story?sid=84869",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "LibreOffice批评微软Office使用的私有文档格式，强调开放标准的重要性，并指出私有格式限制了用户对数据的控制。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "六分之一Windows设备仍运行Windows 10，比例快速下降",
+      "url": "https://www.solidot.org/story?sid=84868",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "资产管理服务商Lansweeper数据显示，仍有16.9%的Windows设备运行Windows 10，自微软终止主流支持后比例快速下降。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Firefox将从9月1日起每两周发布一个新版本",
+      "url": "https://www.solidot.org/story?sid=84860",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Mozilla宣布从2026年9月起，Firefox桌面版和Android版本的发布周期从4周缩短至2周，称这是一次实验。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "亚马逊AWS计费系统单位错误，客户看到数亿乃至数万亿美元账单",
+      "url": "https://www.solidot.org/story?sid=84859",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "亚马逊AWS计费系统出现单位错误，导致全球客户看到远超实际的账单数字，亚马逊已暂停账单更新并修复问题。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Google工会致函CEO，要求保障被裁员工利益",
+      "url": "https://www.solidot.org/story?sid=84872",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "超过4500名Google员工联名写信给CEO皮查伊，要求保证遣散费、先推自愿离职计划再强制裁员，并取消按配额评绩效的制度。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "数据中心抗议席卷美国42州，两党民众联合反对扩张",
+      "url": "https://www.solidot.org/story?sid=84865",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "反数据中心抗议者在美国42州举行了142场抗议活动，由前茶党领袖联合创办的组织协调，反对数据中心缺乏问责的扩张。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国命令ISP屏蔽预测市场平台Polymarket",
+      "url": "https://www.solidot.org/story?sid=84864",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "法国博彩监管机构命令ISP屏蔽最大预测市场平台Polymarket，任何宣传该平台的人都可能被处以最高10万欧元罚款。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "手动挡汽车越来越少见，2025年美国新车仅0.6%为手动挡",
+      "url": "https://www.solidot.org/story?sid=84863",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "行业数据显示手动挡汽车在美国和欧洲的比例持续下降，电动汽车和自动驾驶汽车的兴起加速了其消失。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "MPEG-4 Part 2专利全部过期，XviD等编码器可自由使用",
+      "url": "https://www.solidot.org/story?sid=84870",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "MPEG-4 Part 2的最后一个专利于7月19日过期，这意味着XviD等视频编码器现在可以完全自由使用，无需支付专利费。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《半秒钟》——XZ后门启示录：一次偶然发现揭露隐蔽供应链攻击",
+      "url": "https://www.solidot.org/story?sid=84866",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "一篇深度文章回顾了2024年XZ Utils后门事件，一位微软工程师因发现登录慢半秒而揭露了持续两年的隐蔽供应链攻击。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "宝可梦GO十周年：仍有数百万人试图“抓住所有”",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "宝可梦GO迎来十周年，游戏所有者Scopely的副总裁表示，这款游戏一直致力于将人们聚集在一起。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "跑者完成“世界上最酷的马拉松”，在漂移的北极冰上奔跑",
+      "url": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "组织者称来自7个国家的23名跑者参加了在北极地理北极点举行的比赛，完成了这场独特的马拉松。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "新乐器！订书钉演奏《千本樱》",
+      "url": "https://www.bilibili.com/video/BV13YNd6dEb9",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主用订书钉作为乐器，演奏经典动漫歌曲《千本樱》，播放量超860万，弹幕超3万，创意十足。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 8614148,
+      "original_comments": 32444
+    },
+    {
+      "title": "用一块泥重塑哈兰德肉身",
+      "url": "https://www.bilibili.com/video/BV1gANz6GESz",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主用泥塑重塑足球明星哈兰德的形象，播放量超142万，展现了高超的手工技艺。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1423695,
+      "original_comments": 1623
+    },
+    {
+      "title": "树恨你",
+      "url": "https://www.bilibili.com/video/BV1h4KU66ENd",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主发布视频“树恨你”，播放量87万，弹幕超10万，引发网友热烈讨论，内容幽默有趣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 872096,
+      "original_comments": 103249
+    },
+    {
+      "title": "不是哥们，放火威胁律师？",
+      "url": "https://www.bilibili.com/video/BV1PmNd6jEij",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主“法内狂徒高法师”发布视频，讲述放火威胁律师的奇葩案例，播放量超153万，普法又搞笑。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1533502,
+      "original_comments": 4123
+    },
+    {
+      "title": "对对子战神8",
+      "url": "https://www.bilibili.com/video/BV1ngKq6XEgb",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主“洛温阿特金森”发布系列视频“对对子战神”第8集，播放量超240万，网友互动热烈。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2407700,
+      "original_comments": 5194
+    },
+    {
+      "title": "《秋名山外卖神》",
+      "url": "https://www.bilibili.com/video/BV1iSKy6uEvw",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主制作搞笑视频《秋名山外卖神》，将外卖配送与赛车文化结合，播放量超127万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1269784,
+      "original_comments": 765
+    },
+    {
+      "title": "Backbeat Forge：将鼓点音频转换为可编辑乐谱",
+      "url": "https://www.producthunt.com/products/backbeat-forge",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Backbeat Forge，可将鼓点音频转换为可编辑的乐谱，为音乐制作人提供便利。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "CaptureKit：自动整理截图，保持桌面整洁",
+      "url": "https://www.producthunt.com/products/capturekit-2",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品CaptureKit，可自动整理桌面截图，帮助用户保持桌面清洁。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Free AI Tools：免费AI浏览器工具，无需登录",
+      "url": "https://www.producthunt.com/products/free-ai-tools-4",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Free AI Tools，提供一系列免费浏览器AI工具，用于日常任务，无需登录即可使用。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Scriptyard：免费可视化故事开发工作区",
+      "url": "https://www.producthunt.com/products/scriptyard",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Scriptyard，一个免费的可视化故事开发工作区，帮助创作者规划故事。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NeuroVidz：观察大脑对视频片段的反应",
+      "url": "https://www.producthunt.com/products/neurovidz",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品NeuroVidz，可展示大脑对视频片段的反应，提供独特的神经科学视角。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "用1600美元的ESP32替代了12万美元的保龄球中心系统",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News用户分享用1600美元的ESP32微控制器替代了价值12万美元的保龄球中心计分系统，展示了低成本硬件解决方案。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 2391,
+      "original_comments": 261
+    },
+    {
+      "title": "卖掉2500台MIDI录音机后学到的：硬件没那么难",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News上一位创业者分享销售2500台MIDI录音机的经验，认为硬件创业并非想象中那么困难。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 497,
+      "original_comments": 232
+    },
+    {
+      "title": "英国雷利花园的香蕉树15年后首次结果",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "英国雷利花园的一棵香蕉树在种植15年后首次结出果实，引发网友关注。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 161,
+      "original_comments": 121
+    },
+    {
+      "title": "John Margolies美国建筑档案馆11700张免费照片上线",
+      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "John Margolies的美国建筑档案馆提供了11700张免费照片，记录了美国各地的独特建筑风格。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 73,
+      "original_comments": 3
+    },
+    {
+      "title": "埃及发现密封古墓，内部充满绘画和铭文",
+      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "考古学家在埃及发现一座密封的古墓，内部墙壁上布满了精美的绘画和铭文，具有重要历史价值。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 52,
+      "original_comments": 39
+    },
+    {
+      "title": "情侣采10斤菌子被本地小孩扔到2斤",
+      "url": "https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E9%87%8710%E6%96%A4%E8%8F%8C%E5%AD%90%E8%A2%AB%E6%9C%AC%E5%9C%B0%E5%B0%8F%E5%AD%A9%E6%89%94%E5%88%B02%E6%96%A4&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜：一对情侣采摘了10斤野生菌，却被本地小孩扔掉了大部分，只剩2斤，引发网友热议。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "不太理解光脚穿洞洞鞋的人",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%A4%AA%E7%90%86%E8%A7%A3%E5%85%89%E8%84%9A%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E7%9A%84%E4%BA%BA&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜：关于光脚穿洞洞鞋的讨论引发网友共鸣，成为热门话题。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "驾照考的早的好处还在提升",
+      "url": "https://s.weibo.com/weibo?q=%E9%A9%BE%E7%85%A7%E8%80%83%E7%9A%84%E6%97%A9%E7%9A%84%E5%A5%BD%E5%A4%84%E8%BF%98%E5%9C%A8%E6%8F%90%E5%8D%87&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜：网友讨论早考驾照的好处，引发广泛共鸣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "早睡早起读书健身 真正的亚文化",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A9%E7%9D%A1%E6%97%A9%E8%B5%B7%E8%AF%BB%E4%B9%A6%E5%81%A5%E8%BA%AB%20%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%BA%9A%E6%96%87%E5%8C%96&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜：早睡早起、读书健身的生活方式被网友称为“真正的亚文化”，引发讨论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 892.07 📉-4.95(-0.55%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1060301,
+      "summary": "今日 892.07 | 📉 -4.95(-0.55%) | 最高 896.89 最低 891.84 | 连涨 -2天 | 成交额 ¥5154万 | 成交量 1060301件 | 📈1093 ➡1932 📉4469"
+    }
+  ]
+}
