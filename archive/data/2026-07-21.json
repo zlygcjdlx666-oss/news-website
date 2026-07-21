@@ -1,0 +1,608 @@
+{
+  "date": "2026-07-21",
+  "commentary": "哎哟我去，今天这新闻菜单够硬啊，咱挑几道硬菜唠唠。\n\n第一道，特朗普对加拿大加征50%关税。这老小子是真不嫌事大，北美贸易战直接升级成“互撕2.0”。卡尼说要加强谈判？磊哥劝你别太天真，跟懂王谈判就像跟菜市场大妈讨价还价——他翻脸比翻书还快。这哪是贸易战，这是北美版“分手擂台”，观众席的我们都得跟着买单。\n\n第二道，欧盟罚阿里5.5亿欧元。欧洲人终于找到印钞机了？这招“数字服务法”大棒抡得虎虎生风，专挑中概股开刀。不过磊哥得说句公道话：阿里你管管你那平台上的山寨货行吗？别总让老外拿“中国制造”当借口罚款。这钱交得冤，但也不全冤。\n\n最让我上头的是中国AI这波操作。一边是Kimi K3号称对标OpenAI，一边是开源战略全球圈粉。磊哥想说：这才是聪明打法！美国人搞闭源搞垄断，咱们直接掀桌子开源，让全世界开发者都来薅羊毛。等他们用顺手了，谁还买贵的？这招“农村包围城市”，玩得漂亮！\n\n**今日金句：** 关税大棒砸不碎全球化，开源代码却能撬动地球——格局，从来都是自己给的。",
+  "news": [
+    {
+      "title": "特朗普对加拿大加征50%关税，卡尼誓言加强贸易谈判",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美国对加拿大商品加征50%关税，标志着北美贸易紧张局势重大升级，加拿大总理卡尼回应将加强谈判。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国对伊朗发动新一轮打击，特朗普警告报复",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美国对伊朗发动空袭，伊朗则攻击了霍尔木兹海峡的两艘船只及巴林、约旦境内目标，中东局势急剧升温。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟对阿里巴巴处以创纪录的5.5亿欧元罚款",
+      "url": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟因AliExpress未能有效阻止非法商品销售，依据《数字服务法》开出5.5亿欧元最高罚单。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国开源AI战略正在赢得全球认可",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "分析指出，中国通过开放权重模型策略，在AI领域快速崛起，正获得全球开发者与市场的广泛认可。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 1116,
+      "original_comments": 843
+    },
+    {
+      "title": "月之暗面发布Kimi K3模型，声称可媲美OpenAI和Anthropic",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "中国AI公司月之暗面推出3万亿参数级开放权重模型Kimi K3，宣称性能足以与顶尖美国AI公司竞争。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "圭亚那发生渡轮倾覆事故，至少27死83失踪",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "一艘载有大量乘客的渡轮在圭亚那海域倾覆，造成严重伤亡，总理表示已启动调查并希望找到更多幸存者。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "墨西哥毒枭“El Mayo”在美国被判终身监禁",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "锡那罗亚卡特尔联合创始人伊斯梅尔·赞巴达因贩毒罪被美国法院判处终身监禁，并处罚金150亿美元。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯加强黑海商船攻击，七月已致28人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "俄军对敖德萨地区的袭击持续升级，本月已造成28名平民死亡，黑海航运安全受到严重威胁。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法官叫停派拉蒙与华纳兄弟的超级合并案",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "美国法院暂时阻止派拉蒙与华纳兄弟的合并，此前12个州发起法律诉讼，认为该交易损害竞争。",
+      "categories": [
+        "财经",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "哈马斯任命哈利勒·哈亚为新任最高领导人",
+      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "哈马斯宣布由卡塔尔首席谈判代表哈利勒·哈亚接替被以军击毙的叶海亚·辛瓦尔，成为组织新领袖。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX股价跌破上市首日水平",
+      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "埃隆·马斯克的火箭公司SpaceX自一个月前上市以来，股价波动剧烈，现已跌破发行首日价格。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta因强烈反对撤下新AI图像编辑功能",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta本周推出的允许用户修改Instagram内容的AI功能引发广泛批评，公司迅速将其下架。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国拟对16-17岁青少年实施午夜社交媒体宵禁",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国政府提出限制青少年深夜使用社交媒体的计划，旨在改善其生活，但被活动人士批评为错失良机。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家警告：地球水体溶解氧正迅速减少",
+      "url": "https://www.solidot.org/story?sid=84882",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "研究指出海洋与淡水系统溶解氧快速下降，可能触发不可逆的生态变化，应纳入地球限度理论框架。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国五大科技巨头隐性债务高达1.65万亿美元",
+      "url": "https://www.solidot.org/story?sid=84880",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "日经调查显示，因AI投资激增，谷歌、微软等五家科技巨头的表外债务远超账面债务，总额惊人。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "男子移植童年冷冻睾丸组织，成功恢复精子生成",
+      "url": "https://www.solidot.org/story?sid=84878",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "医学界完成里程碑式手术：一名男性移植了自己童年化疗前冷冻保存16年的睾丸组织，重新恢复生育能力。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI高管批评中国开源AI战略为“AI共产主义”",
+      "url": "https://www.solidot.org/story?sid=84877",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "在月之暗面发布Kimi K3后，OpenAI战略主管Dean Ball公开批评开放权重模型会阻碍AI领域的资本支出。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国十月起将削减家庭电费增值税",
+      "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国首相伯纳姆宣布，从10月起家庭电费增值税将下调，每户每年可节省约45英镑。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泰晤士水务债权人提出“黄金股”方案以避免国有化",
+      "url": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "泰晤士水务的贷款人正试图通过提供“黄金股”来阻止公司被伯纳姆政府国有化。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TikTok直播带货单日销售额达10万英镑的生意经",
+      "url": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "社交媒体直播购物正成为主流消费行为，有卖家在TikTok上单日销售额突破10万英镑。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "二十多岁年轻人正大举押注科技股",
+      "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "BBC采访多位年轻投资者，探讨他们投资科技股票的高风险与高回报策略。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "瑞安航空利润下滑，伊朗战争推高燃油成本",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "受伊朗战争影响，油价上涨导致瑞安航空成本增加，同时旅客出行意愿下降，公司利润大幅减少。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《深入理解AI Agent》开源书籍登顶GitHub趋势榜",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "李博杰所著《深入理解AI Agent》全书开源，包含正文、PDF及配套代码，单日获4400余星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Code Review Graph：本地优先的代码智能图谱工具",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Code Review Graph为MCP和CLI构建持久化代码库地图，帮助AI工具只读取关键上下文。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Open SEO：Semrush和Ahrefs的开源替代品",
+      "url": "https://github.com/every-app/open-seo",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Open SEO提供与商业SEO工具类似的功能，单日获得939颗星，成为热门替代方案。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Openship：自托管部署平台获1641星",
+      "url": "https://github.com/oblien/openship",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源自托管部署平台Openship在GitHub上单日获得1641颗星，受到开发者社区热捧。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Voicebox：开源AI语音工作室，支持克隆与创作",
+      "url": "https://github.com/jamiepine/voicebox",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Voicebox提供语音克隆、听写和创作功能，单日获得821颗星，成为AI语音领域新星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Wigolo：本地优先的AI编码代理网络搜索工具",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Wigolo为AI编码代理提供本地搜索、抓取和研究功能，无需API密钥，零成本使用。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Jelly UI：为原生HTML表单控件添加软体物理效果",
+      "url": "https://jelly-ui.com/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者创建了Jelly UI库，为HTML表单控件引入果冻般的软体物理交互效果，创意十足。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 502,
+      "original_comments": 157
+    },
+    {
+      "title": "新宿站3D模型：东京最复杂车站的立体呈现",
+      "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News上分享的新宿站3D模型，以立体方式展示了这座全球最复杂车站之一的内部结构。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 228,
+      "original_comments": 52
+    },
+    {
+      "title": "沉浸式高斯泼溅游览旧金山恩典座堂",
+      "url": "https://vincentwoo.com/3d/grace_cathedral/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者展示了一个使用高斯泼溅技术制作的旧金山恩典座堂沉浸式3D游览项目。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 172,
+      "original_comments": 42
+    },
+    {
+      "title": "用10磅3D打印废料制成的锦鲤池马赛克",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一位艺术家将10磅重的3D打印废料转化为精美的锦鲤池马赛克艺术品，变废为宝。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 36,
+      "original_comments": 31
+    },
+    {
+      "title": "VTubing：日本虚拟主播现象如何席卷全球",
+      "url": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "文章探讨了VTubing（虚拟主播）从日本小众文化发展为全球性现象的历程与影响。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 33,
+      "original_comments": 14
+    },
+    {
+      "title": "新乐器！订书钉演奏《千本樱》",
+      "url": "https://www.bilibili.com/video/BV13YNd6dEb9",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主用订书钉作为乐器，演奏经典曲目《千本樱》，播放量超千万，创意十足。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 10043754,
+      "original_comments": 39143
+    },
+    {
+      "title": "树恨你：B站热门搞笑视频",
+      "url": "https://www.bilibili.com/video/BV1h4KU66ENd",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主“鲤鱼Ace”的搞笑视频《树恨你》播放量达483万，弹幕超30万，引发网友热议。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4829821,
+      "original_comments": 307995
+    },
+    {
+      "title": "入伏了，解暑实力排行",
+      "url": "https://www.bilibili.com/video/BV1uuKm6PEKu",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频盘点各种解暑方式的实力排行，播放量近290万，为炎炎夏日带来清凉话题。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2886857,
+      "original_comments": 5994
+    },
+    {
+      "title": "鬼压床：全人类为何共享着同一个噩梦？",
+      "url": "https://www.bilibili.com/video/BV1ovKm6jE8U",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "科普视频深入探讨“鬼压床”现象的科学解释，播放量超160万，引发广泛讨论。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 1629403,
+      "original_comments": 2159
+    },
+    {
+      "title": "Universal Dictation：跨iOS和Mac的私人语音听写工具",
+      "url": "https://www.producthunt.com/products/stream-stream-ring-by-sandbar",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品，提供跨苹果设备的私人语音听写环，支持iOS和Mac。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "ProtoFlow：AI驱动的PCB设计工具",
+      "url": "https://www.producthunt.com/products/protoflow-2",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "面向工程师和硬件团队的AI驱动PCB设计工具ProtoFlow在Product Hunt上发布。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "tterm：集成终端、浏览器和Claude Code的新工具",
+      "url": "https://www.producthunt.com/products/tterm",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品tterm将终端、真实浏览器和Claude Code整合在一个界面中。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "ditto.site：免费开源克隆任何网站为干净代码",
+      "url": "https://www.producthunt.com/products/ditto-site",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt上发布的ditto.site工具，可免费将任何网站克隆为整洁代码，且开源。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Skim：Windows平台免费开源AI邮件客户端",
+      "url": "https://www.producthunt.com/products/skim-5",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Skim是一款面向Windows的免费开源AI电子邮件客户端。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tidy：让Mac自动整理截图、安装包和下载文件",
+      "url": "https://www.producthunt.com/products/tidy-5",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt上的Tidy应用可自动整理Mac上的截图、安装程序和下载文件夹。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "MeetIsland：让iPhone灵动岛帮你准时开会",
+      "url": "https://www.producthunt.com/products/meetisland",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品MeetIsland利用iPhone的灵动岛功能，提醒用户准时参加会议。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《宝可梦GO》十周年：数百万玩家仍在抓宝可梦",
+      "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "《宝可梦GO》迎来十周年，其母公司副总裁表示游戏的核心始终是将人们聚集在一起。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《刺客信条：黑旗》重制版值得13年等待吗？",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "BBC记者试玩了从零重制的《刺客信条：黑旗》，探讨这款备受期待的海盗游戏是否值得等待。",
+      "categories": [
+        "娱乐",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚罕见自然受孕四胞胎女婴出生",
+      "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "一对澳大利亚夫妇自然受孕生下罕见的同卵四胞胎女婴，医院称父母对这次怀孕感到“无比惊喜”。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 887.43 📉-2.11(-0.24%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1082163,
+      "summary": "今日 887.43 | 📉 -2.11(-0.24%) | 最高 889.78 最低 885.84 | 连涨 -3天 | 成交额 ¥5630万 | 成交量 1082163件 | 📈1345 ➡2111 📉4038"
+    }
+  ]
+}
