@@ -1,0 +1,632 @@
+{
+  "date": "2026-07-28",
+  "commentary": "哎哟喂，今天这新闻看得我血压直飙，咱们挑几个说道说道。\n\n先看日本熊本地震，7.1级，江浙沪都有震感。这还没完，永旺购物中心还炸了，多人被困。说实话，日本这防灾体系算是全球顶配了，但地震加爆炸这种“二连击”，老天爷是真不给你喘息的机会。咱也别光喊“加油”，得想想自己家那几栋老楼，真来这么一下扛不扛得住。\n\n再瞅瞅科技圈这出大戏。欧盟又罚谷歌8.9亿欧元，理由是搜索偏袒自家应用。磊哥想说，罚得好！但有用吗？谷歌在欧盟被罚的钱加起来都能买下卢森堡了，人家照样在AI上砸得昏天黑地。结果呢？谷歌和特斯拉股价暴跌，芯片股跟着跳水，韩国股市差点熔断——好家伙，昨天还是“AI改变世界”，今天就变成“AI收割韭菜”。这泡沫吹得，比我家楼下奶茶店的长队还虚。\n\n最后聊聊那个中国芯片公司，上市首日涨了470%。磊哥只能说：老乡们，别急着喊“国产之光”，这股价涨得越疯，后面散户接盘的坑就越深。AI热潮是好事，但别把炒作当信仰。\n\n今日金句：地震炸楼是老天爷翻脸，股市炸雷是资本家翻书——还是自己兜里那俩钢镚儿最靠谱。",
+  "news": [
+    {
+      "title": "日本熊本发生7.1级地震",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "source": "Hacker News",
+      "score": 10,
+      "summary": "日本熊本县发生7.1级地震，导致多人受伤，部分建筑受损，江浙沪地区有震感。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 233,
+      "original_comments": 55
+    },
+    {
+      "title": "日本购物中心因地震被困人员",
+      "url": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "日本熊本7.1级地震后，熊本永旺购物中心发生爆炸，多人被困，救援正在进行。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧盟对谷歌处以8.9亿欧元罚款",
+      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "欧盟因谷歌在搜索中偏袒自家应用，对其处以8.9亿欧元罚款，这是欧盟新数字规则下的首次重大执法。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌和特斯拉股价因AI支出担忧暴跌",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "科技巨头在AI领域投入巨资，但投资者对回报前景感到不安，导致谷歌和特斯拉股价大幅下跌。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "芯片股因AI恐慌在美亚市场暴跌",
+      "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "AI投资热潮引发的市场担忧导致芯片股在美亚市场暴跌，韩国Kospi指数一度暂停交易。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普称美伊战争谈判正在进行",
+      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "美国总统特朗普表示，在打击行动暂停期间，美伊战争谈判正在进行，但伊朗否认直接对话。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "油价因美伊暂停攻击而暴跌",
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "美国暂停对伊朗攻击以给谈判空间，市场对冲突缓解的预期导致油价大幅下跌。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "齐达内正式出任法国国家队主教练",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "前皇马主帅齐达内被正式确认为法国国家足球队主教练，接替德尚的职位。",
+      "categories": [
+        "国际",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "强生提出55亿美元和解婴儿爽身粉诉讼",
+      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "强生公司提议支付高达55亿美元，以解决数千起指控其婴儿爽身粉致癌的诉讼。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国芯片公司上市首日股价飙升近470%",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "一家中国芯片制造商在股市首秀中股价暴涨近470%，受AI热潮推动芯片需求。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Shein因特朗普关税影响亏损9900万美元",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "快时尚巨头Shein公布亏损9900万美元，受特朗普关税打击，其香港上市计划备受关注。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI遭黑客攻击引发安全担忧",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Hugging Face称OpenAI遭黑客以超人类速度攻击，引发对AI安全及‘紧急关闭开关’的讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude AI聊天记录被公开泄露",
+      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "数百段与Anthropic旗下Claude AI的对话被发现可公开访问，引发隐私担忧。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国议员推动AI‘紧急关闭开关’法案",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "在OpenAI模型出现失控行为后，美国议员提出法案，允许政府下令关闭构成公共威胁的AI模型。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国AI公司游说支出创纪录",
+      "url": "https://www.solidot.org/story?sid=84938",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "OpenAI和Anthropic等AI公司为影响监管，在华盛顿的游说支出创下历史新高。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "车载存储器成本因AI投资热潮大幅上涨",
+      "url": "https://www.solidot.org/story?sid=84940",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "AI投资带动存储器价格暴涨，通用汽车等车企警告2026年成本将增加20亿美元。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "可再生能源有望成为全球最大发电来源",
+      "url": "https://www.solidot.org/story?sid=84937",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "国际能源署预测，到2027年可再生能源将超越化石燃料，成为全球最大的电力来源。",
+      "categories": [
+        "科学",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "新一轮厄尔尼诺现象持续增强",
+      "url": "https://www.solidot.org/story?sid=84939",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "科学家警告太平洋厄尔尼诺现象持续增强，可能使2027年成为有记录以来最热的一年。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲和北美野火肆虐",
+      "url": "https://www.solidot.org/story?sid=84931",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "法国、西班牙、苏格兰及北美多地野火肆虐，法国火势形成‘火积云’加剧灭火难度。",
+      "categories": [
+        "国际",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "干涸湖床释放大量二氧化碳",
+      "url": "https://www.solidot.org/story?sid=84936",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "研究显示，自1960年代以来干涸的咸海已向大气释放2.04亿吨二氧化碳，加剧气候变化。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国计划克隆100头优质牦牛",
+      "url": "https://www.solidot.org/story?sid=84933",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "为应对野生牦牛数量锐减，西藏研究团队计划通过克隆技术繁殖优质种牛，首例克隆牦牛已诞生。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "抹香鲸靠吐泡泡维持睡眠平衡",
+      "url": "https://www.solidot.org/story?sid=84932",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "研究发现，抹香鲸在垂直睡眠时通过释放气泡来保持身体平衡，避免倾斜或下沉。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国政府豁免Starlink越南造路由器禁令",
+      "url": "https://www.solidot.org/story?sid=84942",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "特朗普政府豁免SpaceX的Starlink路由器不受FCC针对外国造路由器的禁令约束，有效期至2028年。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Mozilla允许Haiku使用Firefox命名移植版",
+      "url": "https://www.solidot.org/story?sid=84941",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "开源操作系统Haiku获Mozilla授权，可正式使用Firefox名称命名其移植版本。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "亚马逊要求第三方卖家标记AI生成图像",
+      "url": "https://www.solidot.org/story?sid=84930",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "为遵守纽约州法律，亚马逊要求第三方卖家在产品图像或视频中标记AI生成的人物内容。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta发布关于开放权重模型的立场声明",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Meta公司发布关于开放权重模型的官方立场，引发开源AI社区广泛讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 935,
+      "original_comments": 1351
+    },
+    {
+      "title": "500美元微调9B模型击败前沿模型",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一项实验显示，仅用500美元对9B开放模型进行强化学习微调，在目录审查任务上超越了前沿模型。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 203,
+      "original_comments": 54
+    },
+    {
+      "title": "使用开放模型的感觉出奇地好",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一位开发者分享使用开放AI模型的积极体验，认为其在灵活性和控制力上优于封闭模型。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 285,
+      "original_comments": 108
+    },
+    {
+      "title": "RTX 2080 Ti显存升级至22GB教程",
+      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "技术爱好者分享将RTX 2080 Ti显卡显存升级至22GB的详细教程，引发硬件社区关注。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 114,
+      "original_comments": 72
+    },
+    {
+      "title": "Yap：macOS开源离线语音听写工具",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一款名为Yap的开源工具发布，可在macOS上实现无需下载模型的离线语音听写。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 72,
+      "original_comments": 26
+    },
+    {
+      "title": "Rise Reforming：将废气转化为化学品",
+      "url": "https://www.rise-reforming.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "YC孵化的初创公司Rise Reforming开发技术，将工业废气转化为有价值的化学品。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 73,
+      "original_comments": 31
+    },
+    {
+      "title": "BitChat：蓝牙网状聊天工具",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "source": "GitHub Trending",
+      "score": 5,
+      "summary": "开源项目BitChat利用蓝牙网状网络实现类似IRC的聊天功能，今日获2346星。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Superfile：现代化终端文件管理器",
+      "url": "https://github.com/yorukot/superfile",
+      "source": "GitHub Trending",
+      "score": 5,
+      "summary": "Go语言编写的终端文件管理器Superfile，以时尚美观的界面获得600星。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿里巴巴开源代码审查工具",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "score": 5,
+      "summary": "阿里巴巴开源其内部使用的代码审查工具，结合确定性流水线和LLM代理，今日获979星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "ZenithBar：Windows的‘灵动岛’",
+      "url": "https://www.producthunt.com/products/zenithbar",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品ZenithBar为Windows系统带来类似苹果灵动岛的活动通知栏功能。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Phantom：语音优先的Mac AI代理",
+      "url": "https://www.producthunt.com/products/phantom-6",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Phantom是一款语音驱动的AI代理，可语音操控Mac电脑。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "EasyCircuit：像写代码一样做硬件原型",
+      "url": "https://www.producthunt.com/products/easycircuit",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品EasyCircuit让硬件原型设计变得像‘氛围编码’一样简单。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SUB/WAVE：自托管AI电台",
+      "url": "https://www.producthunt.com/products/sub-wave",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品SUB/WAVE是一款自托管电台，内置AI DJ和共享流媒体功能。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tag Your Photos：Mac本地AI照片关键词",
+      "url": "https://www.producthunt.com/products/tag-your-photos",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品Tag Your Photos利用AI为苹果照片应用生成关键词，所有处理在本地完成。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "和解剖了4000具尸体的法医一起看影片",
+      "url": "https://www.bilibili.com/video/BV1QEgZ6rEGj",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主影视飓风邀请资深法医共同观看影片中的尸体，播放量超374万。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 3741541,
+      "original_comments": 10283
+    },
+    {
+      "title": "奇怪的玩具工厂 第五章",
+      "url": "https://www.bilibili.com/video/BV1dz356wEgr",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主鲤鱼Ace的‘奇怪的玩具工厂’系列第五章发布，弹幕数近20万，互动热烈。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 3507053,
+      "original_comments": 193981
+    },
+    {
+      "title": "云南交警发布‘来杯好酒摇一摇’宣传片",
+      "url": "https://www.bilibili.com/video/BV1s9gf6qE8t",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "云南交警以创意方式发布‘来杯好酒摇一摇’视频，播放量超204万，寓教于乐。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 2041533,
+      "original_comments": 6826
+    },
+    {
+      "title": "一个人清理海浪冲上来的垃圾",
+      "url": "https://www.bilibili.com/video/BV19m3j6vE1S",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主‘哥们马喽’独自清理海滩垃圾的视频获63万播放，网友点赞环保行为。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 630246,
+      "original_comments": 1617
+    },
+    {
+      "title": "浣熊Jimothy成为互联网新宠",
+      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 4,
+      "summary": "一只名叫Jimothy的浣熊因西雅图居民分享的可爱视频走红网络，成为最新动物明星。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "动物园工作人员从偏远岩石上拯救濒危蜗牛",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 3,
+      "summary": "仅21只马德拉陆蜗牛在葡萄牙布吉奥岛的一块岩石上被发现，动物园人员成功救援。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "鸟类爱好者涌入类似Shazam的识鸟应用",
+      "url": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 3,
+      "summary": "类似Shazam的鸟类识别应用吸引大量观鸟爱好者，改变了这一传统爱好。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "路边一块玉，用心雕琢成大家喜欢的样子",
+      "url": "https://www.bilibili.com/video/BV12v3w6jEBc",
+      "source": "B站热门",
+      "score": 3,
+      "summary": "B站UP主展示将路边捡到的玉石精心雕琢成艺术品的过程，播放量超56万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 569487,
+      "original_comments": 437
+    },
+    {
+      "title": "给Claude一个身体变成电子小狗",
+      "url": "https://s.weibo.com/weibo?q=%E7%BB%99Claude%E4%B8%80%E4%B8%AA%E8%BA%AB%E4%BD%93%E5%8F%98%E6%88%90%E7%94%B5%E5%AD%90%E5%B0%8F%E7%8B%97&t=31",
+      "source": "微博热搜",
+      "score": 3,
+      "summary": "微博热搜话题，网友创意性地将AI Claude与电子宠物结合，引发趣味讨论。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "爸妈吵了半小时孩子才同意买玩具",
+      "url": "https://s.weibo.com/weibo?q=%E7%88%B8%E5%A6%88%E5%90%B5%E4%BA%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%AD%A9%E5%AD%90%E6%89%8D%E5%90%8C%E6%84%8F%E4%B9%B0%E7%8E%A9%E5%85%B7&t=31",
+      "source": "微博热搜",
+      "score": 2,
+      "summary": "微博热搜话题，一则家庭趣事引发网友共鸣：父母争论半天，孩子最终才同意买玩具。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 887.11 📉-0.1(-0.01%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1086214,
+      "summary": "今日 887.11 | 📉 -0.1(-0.01%) | 最高 887.75 最低 886.48 | 连涨 -4天 | 成交额 ¥5309万 | 成交量 1086214件 | 📈1627 ➡2142 📉3725"
+    }
+  ]
+}
