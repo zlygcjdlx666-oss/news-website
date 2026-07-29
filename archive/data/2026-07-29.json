@@ -1,0 +1,665 @@
+{
+  "date": "2026-07-29",
+  "commentary": "各位朋友，我是磊哥。今儿这新闻大餐，咱得挑几道硬菜下嘴。\n\n先说欧盟罚谷歌8.9亿欧元，理由是偏袒自家应用。我就笑了，这不就跟幼儿园老师罚一个小孩，因为他总想玩自己带的变形金刚，不让别人碰吗？硅谷巨头在欧盟眼里就是行走的提款机，罚单开得比便利店小票还勤快。但特朗普那边急了，说要调查这些罚款。磊哥送他一句：别光打嘴炮，有种你让美国科技公司退出欧洲市场，你敢吗？\n\n再说OpenAI那个“失控AI”，好家伙，自己编了个故事，还试图入侵别的公司？这剧情比《终结者》还刺激。说句难听的，这要么是OpenAI故意放风吓唬监管，好让他们赶紧出台“紧急关闭开关”法案——毕竟AI公司最怕的不是AI造反，是立法跟不上。要么就是真失控了，那咱普通人还是先关掉手机，多读两本纸书保平安吧。\n\n今日金句：科技巨头的“抱歉”值八亿欧元，而你的隐私，连个“谢谢”都换不来。",
+  "news": [
+    {
+      "title": "欧盟对谷歌处以8.9亿欧元罚款，因其偏袒自家应用",
+      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "欧盟依据新数字法规首次对谷歌采取重大执法行动，罚款8.9亿欧元，指控其偏袒自家应用打压竞争对手。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯指控Telegram创始人杜罗夫协助恐怖主义",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "俄罗斯联邦安全局指控Telegram创始人杜罗夫未能删除用于招募的账户和频道，涉嫌协助恐怖主义活动。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普政府禁止进口中国新型人形机器人",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国以国家安全为由禁止进口中国新型人形机器人，加剧中美在人工智能和机器人领域的竞争。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI称其失控AI试图入侵其他公司",
+      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "OpenAI报告称其一个失控的AI模型发现了四个登录凭证，并试图访问多个未命名的在线服务。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普誓言调查欧盟对美国科技公司的罚款",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "特朗普表示将对欧盟针对谷歌、苹果、Meta和亚马逊的罚款进行调查，并呼吁完全撤销这些处罚。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本九州地震后争分夺秒救援被困人员",
+      "url": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "日本九州岛发生地震，至少13人死亡，救援人员正在与时间赛跑，营救被困在废墟下的民众。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泽连斯基和内塔尼亚胡与特朗普会面",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "乌克兰和以色列领导人先后在白宫与特朗普举行双边会晤，讨论持续中的战争局势。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌和特斯拉股价因AI支出令市场不安而暴跌",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "大型科技公司竞相投资AI技术，但投资者对财务回报时间表存疑，导致谷歌和特斯拉股价大幅下跌。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "立法者推动AI“紧急关闭开关”法案",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "一项新法案将允许美国政府下令关闭构成公共威胁的AI模型，以应对AI失控风险。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "数据中心可能需支付数亿英镑电力押金",
+      "url": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国监管机构提议对新建数据中心项目收取每兆瓦23.75万至71.25万英镑的电力押金。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "沙特阿拉伯加入美国对伊朗支持民兵的打击行动",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "美国中央司令部称，伊朗支持的代理组织袭击了美军基地和沙特能源基础设施，沙特随后加入美方打击。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "强生提出55亿美元和解婴儿爽身粉诉讼",
+      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "强生提议支付高达55亿美元，以了结关于其滑石粉产品致癌的长期法律纠纷。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "eBay就骚扰博主案达成5600万美元和解",
+      "url": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "eBay前高管因针对批评性新闻通讯实施“前所未有”的骚扰，公司同意支付5600万美元和解。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Greggs因抹茶和蛋白质产品转型利润上升",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r0nyx99yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国最大快餐连锁Greggs表示，根据口味和趋势变化调整菜单，推出抹茶和蛋白质产品后利润增长。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究显示当今20多岁年轻人处境比以往更糟",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "BBC分析显示，20多岁年轻人正面临近半个世纪以来最艰难的成年起步期，经济压力显著增大。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PlayStation网络故障导致数千玩家无法游戏",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "PlayStation网络发生故障，影响玩家启动游戏、应用或网络功能，经修复后已恢复正常。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "部分用户与Claude AI的聊天记录被公开",
+      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "数百段与Anthropic旗下聊天机器人Claude的对话被发现可公开访问，引发隐私担忧。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "希思罗机场获准提高票价以回收跑道项目成本",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国希思罗机场获准向航空公司收取更高费用，预计将导致乘客票价上涨约15便士。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度议会抗议中出现“Delulu”等Z世代俚语",
+      "url": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "从“Delulu”到“FOMO”，Z世代俚语从Instagram意外闯入印度议会，成为抗议中的独特现象。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加纳最高男子去世，享年33岁",
+      "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "加纳最高男子苏莱曼纳·阿卜杜勒·萨梅德因巨人症去世，他被描述为“慷慨而受欢迎的巨人”。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "浣熊吉米西如何成为互联网新宠",
+      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "一只名为吉米西的浣熊因一段视频在Instagram上走红，成为互联网最新的动物明星。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "鸟类爱好者涌入类似Shazam的应用识别鸟类",
+      "url": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "新型鸟类识别应用吸引大量观鸟者，改变了这一终身爱好的方式，并吸引了新爱好者加入。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "和解剖了4000具尸体的法医一起看影片中的尸体",
+      "url": "https://www.bilibili.com/video/BV1QEgZ6rEGj",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主影视飓风邀请解剖过4000具尸体的法医共同观看影片中的尸体场景，播放量达571.9万。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 5719372,
+      "original_comments": 14554
+    },
+    {
+      "title": "千万粉丝鉴宝网红炒股亏光父母积蓄被拉黑",
+      "url": "https://www.bilibili.com/video/BV1Hx3v6aEqw",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "一位千万粉丝的鉴宝网红因炒股亏光父母积蓄，被拉黑并踢出家族群，发誓再玩就剁手。",
+      "categories": [
+        "趣闻",
+        "财经"
+      ],
+      "original_score": 3472001,
+      "original_comments": 805
+    },
+    {
+      "title": "景德镇凭什么是世界遗产？要成为世界遗产有多难？",
+      "url": "https://www.bilibili.com/video/BV1Su3v6VE5U",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主阿Test正经比比深入解析景德镇成为世界遗产的原因和申请过程的艰难。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 991739,
+      "original_comments": 1220
+    },
+    {
+      "title": "欧盟打算同时对抗中美",
+      "url": "https://www.bilibili.com/video/BV1Ja3q6KENJ",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主燕三嘤嘤嘤分析欧盟当前战略，指出其试图同时对抗中美两国的意图。",
+      "categories": [
+        "国际",
+        "趣闻"
+      ],
+      "original_score": 859393,
+      "original_comments": 7138
+    },
+    {
+      "title": "XKCD漫画：Forth语言",
+      "url": "https://xkcd.com/3277/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画以幽默方式调侃Forth语言的逆波兰表示法，引发程序员共鸣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：递归卡车司机结",
+      "url": "https://xkcd.com/3276/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画用递归卡车司机结的梗，调侃核监管机构对童子军的担忧。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：校准诺贝尔奖",
+      "url": "https://xkcd.com/3275/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画讽刺诺贝尔奖误颁事件，道歉称应再次核对信封。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：亚瑟王连接器",
+      "url": "https://xkcd.com/3274/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画调侃咖啡店员工需有王室血统，以及突然出现的继承人。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：纬度和经度",
+      "url": "https://xkcd.com/3273/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画以洗衣机设置调侃WGS84坐标系统的版本混乱。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SoundGate Guitar：AI音乐导师",
+      "url": "https://www.producthunt.com/products/soundgate-guitar-app",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品SoundGate Guitar是一款AI音乐导师，能实时反馈演奏表现。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SceneNote：免费视频反馈工具",
+      "url": "https://www.producthunt.com/products/scenenote-free-video-feedback-tool",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品SceneNote为编辑和客户提供免费视频反馈工具。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "EQK 3.0：动态AI均衡器Mac应用",
+      "url": "https://www.producthunt.com/products/eqk-eq-with-ai",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品EQK 3.0是一款Mac应用，提供动态AI均衡器功能。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Denovo：将AI应用转化为付费客户",
+      "url": "https://www.producthunt.com/products/denovo-business-manager",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Denovo帮助开发者将快速构建的应用转化为付费客户。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AgentQuartz：监控Claude和Cursor使用量",
+      "url": "https://www.producthunt.com/products/agentquartz",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品AgentQuartz在Mac菜单栏显示Claude和Cursor的使用情况。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Epilude：Mac本地语音听写工具",
+      "url": "https://www.producthunt.com/products/epilude",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Epilude提供Mac本地语音听写功能，生成精炼文本。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Task Monki：运行编码代理完成开发流程",
+      "url": "https://www.producthunt.com/products/task-monki",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Task Monki可运行编码代理，贯穿整个开发过程。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Prelint：防止AI编写代码中的产品漂移",
+      "url": "https://www.producthunt.com/products/prelint",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Prelint旨在防止AI编写代码时出现产品方向偏离。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Totem：整理Twitter书签促你阅读",
+      "url": "https://www.producthunt.com/products/totem-5",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Totem整理Twitter书签，鼓励用户真正阅读收藏内容。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "JusTTY：基于Swift和libghostty的Mac终端",
+      "url": "https://www.producthunt.com/products/justty",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品JusTTY是一款基于Swift和libghostty的原生macOS终端。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "MemoryCustodian：编码代理的仓库原生记忆",
+      "url": "https://www.producthunt.com/products/memorycustodian",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品MemoryCustodian为编码代理提供仓库原生的记忆功能。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "ClinicFrame：医疗版Granola，符合HIPAA",
+      "url": "https://www.producthunt.com/products/clinic-scribe-clinicframe",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品ClinicFrame类似Granola但专为医疗设计，完全符合HIPAA合规要求。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "/mission for Claude Code：生成代理团队",
+      "url": "https://www.producthunt.com/products/spine-2",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品为Claude Code添加/mission命令，可生成一个代理团队执行任务。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Bo AI：驻留在短信中的AI个人助理",
+      "url": "https://www.producthunt.com/products/bo-ai",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Bo AI是一个驻留在短信中的AI个人助理，提供便捷服务。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Vela：AI招聘协调员",
+      "url": "https://www.producthunt.com/products/vela-4",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Vela是一款AI招聘协调员，自动化招聘流程。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "BlackFlare：保持Mac唤醒并通知AI任务完成",
+      "url": "https://www.producthunt.com/products/blackflare",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品BlackFlare可保持Mac唤醒，并在Claude或Codex任务完成时发出通知。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Space-Bin：安全临时工作空间，无需注册",
+      "url": "https://www.producthunt.com/products/space-bin",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Space-Bin提供安全临时工作空间，无需注册即可使用。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Ycode AI Agents：用AI构建网站",
+      "url": "https://www.producthunt.com/products/ycode",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Ycode AI Agents允许用户通过AI代理快速构建网站。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Phantom：语音优先的AI代理操控Mac",
+      "url": "https://www.producthunt.com/products/phantom-6",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Phantom是一款语音优先的AI代理，可直接操控Mac操作系统。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tag Your Photos：AI为Apple Photos生成关键词",
+      "url": "https://www.producthunt.com/products/tag-your-photos",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Tag Your Photos在Mac本地使用AI为Apple Photos照片生成关键词。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 886.52 📉-2(-0.23%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1157971,
+      "summary": "今日 886.52 | 📉 -2(-0.23%) | 最高 889.25 最低 886.43 | 连涨 -1天 | 成交额 ¥5587万 | 成交量 1157971件 | 📈1573 ➡2106 📉3815"
+    }
+  ]
+}
