@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-03",
+  "commentary": "家人们，今儿这大盘绿得跟韭菜地似的，CS:GO指数又跌了0.64%，成交额5621万，看着热闹，其实全是散户在互相割肉。磊哥就说一句：皮肤市场炒得比A股还玄学，今天你当韭菜，明天你当镰刀，可最后镰刀也卷刃了，谁接盘谁就是活菩萨。\n\n再说说B站那帮整活的。那个“抽烟抽得慢也得死”的，播放509万，弹幕才2154条？兄弟们，这视频不是让你看乐子的，是让你看透一个理儿——资本家连你抽烟的节奏都想管，你还指望他给你发福利？还有那个《四驱兄弟》改真车，磊哥佩服这UP主的动手能力，但咱得说句掏心窝子的话：你改的是车，改不掉的是童年那点中二病。花几万块改个车，不如花几块钱买包辣条，至少辣条不会让你烧机油。\n\n最值得看的还是那个“租卫星拍地球”，影视飓风这期是真让人开眼。上亿的卫星租来拍张照，这就是科技时代的浪漫——你在地球上抠抠搜搜过日子，人家在天上花钱买风景。磊哥劝各位，别光顾着刷手机看别人上天，低头看看自己那点余额，能租个无人机拍个小区就算赢。\n\n今日金句：**“生活就像CSGO，你永远不知道下一把是翻盘还是翻车，但只要你敢开箱，就敢破产。”** 散会！",
+  "news": [
+    {
+      "title": "老大，你的意思是我们抽烟抽的慢也得死吗？",
+      "url": "https://www.bilibili.com/video/BV126GG62E9G",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:509.2万 | 弹幕:2154 | UP主:是橘长呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5091990,
+      "original_comments": 2154
+    },
+    {
+      "title": "陈翔六点半：已知的数字，未知的人",
+      "url": "https://www.bilibili.com/video/BV1Gz396iEa1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:425.5万 | 弹幕:1212 | UP主:陈翔六点半",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4254945,
+      "original_comments": 1212
+    },
+    {
+      "title": "开庭",
+      "url": "https://www.bilibili.com/video/BV1HzGP6jEJS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:382.8万 | 弹幕:2044 | UP主:西装裤iio",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3827605,
+      "original_comments": 2044
+    },
+    {
+      "title": "《四驱兄弟》骗了我20年，直到我把真车改成了四驱车",
+      "url": "https://www.bilibili.com/video/BV1xtGV61Et4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:310.1万 | 弹幕:2559 | UP主:所长Wy",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3101079,
+      "original_comments": 2559
+    },
+    {
+      "title": "租几颗上亿元的卫星，能拍到什么？",
+      "url": "https://www.bilibili.com/video/BV1Pt3D6jEob",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:239.1万 | 弹幕:6758 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2391121,
+      "original_comments": 6758
+    },
+    {
+      "title": "【最闪暖的一集】闪暖七周年CG首曝 | 8月5日更新",
+      "url": "https://www.bilibili.com/video/BV1xS396ZEUz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:234.9万 | 弹幕:759 | UP主:闪耀暖暖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2349065,
+      "original_comments": 759
+    },
+    {
+      "title": "大家还想看我搬空什么店",
+      "url": "https://www.bilibili.com/video/BV1bz3Q6oEMP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:215.5万 | 弹幕:2277 | UP主:李炮炮儿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2154881,
+      "original_comments": 2277
+    },
+    {
+      "title": "几十块入手世界级顶尖好物——居家用品篇",
+      "url": "https://www.bilibili.com/video/BV1Vo3C6VE1B",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:180.7万 | 弹幕:526 | UP主:环球百强",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1806665,
+      "original_comments": 526
+    },
+    {
+      "title": "你 吸 不 过 我 你 信 吗",
+      "url": "https://www.bilibili.com/video/BV1HA3o6ZEbL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:164.5万 | 弹幕:2402 | UP主:萝太永不破防",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1644528,
+      "original_comments": 2402
+    },
+    {
+      "title": "在云南昆明盘龙区吃烟火气烧烤，感受炭火与肉的滇味暴击，配上灵魂蘸水直接封神#云南美食#昆明美食#烧烤#烤肉",
+      "url": "https://www.bilibili.com/video/BV1Mb3R6wE5s",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:154.2万 | 弹幕:2105 | UP主:达哥在上海",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1542047,
+      "original_comments": 2105
+    },
+    {
+      "title": "九只猫大战一只老鼠，结局万万没想到啊",
+      "url": "https://www.bilibili.com/video/BV1Nt3D6jEPB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:137.5万 | 弹幕:2129 | UP主:猫小哥i",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1374647,
+      "original_comments": 2129
+    },
+    {
+      "title": "英国新首相拯救英国的计划",
+      "url": "https://www.bilibili.com/video/BV15H3f6pEVd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.9万 | 弹幕:8135 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 809318,
+      "original_comments": 8135
+    },
+    {
+      "title": "王者新平行世界系列皮肤CG《无尽之局：夜半钟鸣》——当午夜的钟声响起，你将以何种身份睁眼？",
+      "url": "https://www.bilibili.com/video/BV1z33f6FEri",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:78.1万 | 弹幕:1797 | UP主:王者荣耀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 781316,
+      "original_comments": 1797
+    },
+    {
+      "title": "【MC】耗时一年制作真正能玩的赛博朋克世界！？丨RPG剧情向地图丨",
+      "url": "https://www.bilibili.com/video/BV1pt3x6gErU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.5万 | 弹幕:250 | UP主:血月月月月",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 644509,
+      "original_comments": 250
+    },
+    {
+      "title": "【独家】《记忆管理局》第2集 陀螺，记忆层，管理员们【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1M6GA6dEtM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.1万 | 弹幕:4783 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 480873,
+      "original_comments": 4783
+    },
+    {
+      "title": "【剧情】昭阳公主（2026）14【孔雪儿/李宏毅】（按姓氏笔画排序）",
+      "url": "https://www.bilibili.com/video/BV1ST3v6yEGZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.2万 | 弹幕:5107 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 372281,
+      "original_comments": 5107
+    },
+    {
+      "title": "8月8日，我打算去寻宝，谁赞成，谁反对？",
+      "url": "https://www.bilibili.com/video/BV1SvMQ6UEKR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:32.8万 | 弹幕:900 | UP主:三角洲行动",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 328146,
+      "original_comments": 900
+    },
+    {
+      "title": "过年的鞭炮声太吵，以后看你的时候我带上一束花",
+      "url": "https://www.bilibili.com/video/BV1z9MQ6iEtv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.5万 | 弹幕:1427 | UP主:大森子哈哈哈",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 265024,
+      "original_comments": 1427
+    },
+    {
+      "title": "猫咖续命计划",
+      "url": "https://www.bilibili.com/video/BV1JfGA6CEgg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.5万 | 弹幕:313 | UP主:猫不理咖啡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 255182,
+      "original_comments": 313
+    },
+    {
+      "title": "戏如人生",
+      "url": "https://www.bilibili.com/video/BV1zvMX6BEb4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:17.2万 | 弹幕:1726 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 172198,
+      "original_comments": 1726
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Marvel’s Spider-Man Remastered",
+      "url": "https://store.steampowered.com/app/1817070",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Marvel’s Spider-Man: Miles Morales",
+      "url": "https://store.steampowered.com/app/1817190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Squad",
+      "url": "https://store.steampowered.com/app/393380",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $16",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Marvel's Spider-Man 2",
+      "url": "https://store.steampowered.com/app/2651280",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Schedule I",
+      "url": "https://store.steampowered.com/app/3164500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $14",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Corsair Cove",
+      "url": "https://store.steampowered.com/app/1368140",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Machine Party",
+      "url": "https://store.steampowered.com/app/4108000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Mistfall Hunter",
+      "url": "https://store.steampowered.com/app/3282300",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $22",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Don't be a meat proxy",
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 734,
+      "original_comments": 314
+    },
+    {
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 648,
+      "original_comments": 322
+    },
+    {
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 239,
+      "original_comments": 52
+    },
+    {
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 224,
+      "original_comments": 56
+    },
+    {
+      "title": "Developers are attached to tools because tools encode trust",
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 219,
+      "original_comments": 120
+    },
+    {
+      "title": "Note-Taking and Personal Knowledge Management",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 210,
+      "original_comments": 70
+    },
+    {
+      "title": "SwiftUI After 7 Years",
+      "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 207,
+      "original_comments": 189
+    },
+    {
+      "title": "Show HN: ssh ssh.place",
+      "url": "https://ssh.place",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 127,
+      "original_comments": 74
+    },
+    {
+      "title": "Show HN: A Handwritten Blogging Platform",
+      "url": "https://handwritten.blog/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 118,
+      "original_comments": 61
+    },
+    {
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 114,
+      "original_comments": 10
+    },
+    {
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 111,
+      "original_comments": 66
+    },
+    {
+      "title": "The myth of Snow Leopard",
+      "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 107,
+      "original_comments": 86
+    },
+    {
+      "title": "Read the novels and forget everything else",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 107,
+      "original_comments": 92
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$99",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 97,
+      "original_comments": 23
+    },
+    {
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 92,
+      "original_comments": 66
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 861.76 📉-5.53(-0.64%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1122682,
+      "summary": "今日 861.76 | 📉 -5.53(-0.64%) | 最高 867.24 最低 861.69 | 连涨 -2天 | 成交额 ¥5621万 | 成交量 1122682件 | 📈1166 ➡2013 📉4315"
+    }
+  ]
+}
