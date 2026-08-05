@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-05",
+  "commentary": "兄弟们，今天这CSGO大盘涨得跟蜗牛爬似的，0.18%的涨幅，还不够我抽根烟的功夫。但真正让我拍桌子的，是那条“游戏账号继承”的新闻。独子走了，母亲想继承87个账号，游戏公司却说“所有权归平台”——这逻辑就跟“你花钱买了房，但房产证写开发商的”一样离谱。法院判了，可继承，公司得配合变更。这才对嘛！虚拟财产也是财产，是孩子的心血，更是母亲的念想。游戏公司别光惦记着玩家兜里的钱，该讲人情的时候别装死。\n\n再看B站那个“高三返校”的，8月返校？那不是上学，那是去渡劫。评论区一片哀嚎，全是“开学即地狱”的既视感。要我说，这届学生比谁都清醒，他们不是怕苦，是怕那种“努力了也没用”的无力感。但没办法，卷就是咱们的宿命，只能硬着头皮上。\n\n最后那句“美利坚糖门VS国产板面长老”，听着像玄幻对决，其实就是中西快餐大乱斗。但咱们别光看热闹，国产食品品牌要想真站住脚，别整虚的，把料给足，把味儿做正，比啥营销都强。\n\n**今日金句：虚拟账号能继承，但游戏公司的人性，得靠法院判才找得回来。**",
+  "news": [
+    {
+      "title": "老大，你的意思是我们抽烟抽的慢也得死吗？",
+      "url": "https://www.bilibili.com/video/BV126GG62E9G",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:858.0万 | 弹幕:3170 | UP主:是橘长呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8580075,
+      "original_comments": 3170
+    },
+    {
+      "title": "大家还想看我搬空什么店",
+      "url": "https://www.bilibili.com/video/BV1bz3Q6oEMP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:646.1万 | 弹幕:4521 | UP主:李炮炮儿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6460703,
+      "original_comments": 4521
+    },
+    {
+      "title": "《最讨厌复联の一集》",
+      "url": "https://www.bilibili.com/video/BV1KduF6ME4b",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:515.6万 | 弹幕:1262 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5155793,
+      "original_comments": 1262
+    },
+    {
+      "title": "8月份返校的高三生",
+      "url": "https://www.bilibili.com/video/BV1QgMX6REzf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:399.5万 | 弹幕:5691 | UP主:阿君AI小剧场",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3994788,
+      "original_comments": 5691
+    },
+    {
+      "title": "你说偷吃零食被发现会死是吗？",
+      "url": "https://www.bilibili.com/video/BV1fGuc6xEmp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:380.2万 | 弹幕:4903 | UP主:与山0v0",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3802258,
+      "original_comments": 4903
+    },
+    {
+      "title": "完蛋！我被男同学包围了",
+      "url": "https://www.bilibili.com/video/BV1uPMZ6NEBb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:378.7万 | 弹幕:1.3万 | UP主:Z贤者",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3786940,
+      "original_comments": 12967
+    },
+    {
+      "title": "美利坚糖门黄油大胃袋VS国产味真族良子板面长老",
+      "url": "https://www.bilibili.com/video/BV1JmMf69EZY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:305.5万 | 弹幕:2063 | UP主:克里斯丧钟",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3055428,
+      "original_comments": 2063
+    },
+    {
+      "title": "【半佛】小米澎程，让行业睡不着了？",
+      "url": "https://www.bilibili.com/video/BV1iFMX6aE9b",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:288.8万 | 弹幕:2508 | UP主:硬核的半佛仙人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2887831,
+      "original_comments": 2508
+    },
+    {
+      "title": "独子去世，母亲起诉要求继承87个游戏账号，游戏公司：账号所有权归平台，拒绝变更实名信息，法院：可继承 游戏公司应协助变更",
+      "url": "https://www.bilibili.com/video/BV1GguP6sEzT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:248.1万 | 弹幕:390 | UP主:大象新闻",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2480824,
+      "original_comments": 390
+    },
+    {
+      "title": "当我被外星人取代",
+      "url": "https://www.bilibili.com/video/BV1RoMf6mEra",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:192.9万 | 弹幕:9145 | UP主:呆毛咸鱼王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1929181,
+      "original_comments": 9145
+    },
+    {
+      "title": "《雾海之下》首曝PV｜贪吃无罪，撤离万岁！",
+      "url": "https://www.bilibili.com/video/BV17vuw68E58",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:187.1万 | 弹幕:901 | UP主:雾海之下",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1871099,
+      "original_comments": 901
+    },
+    {
+      "title": "柯洁VS党毅飞（不可能的逆转）",
+      "url": "https://www.bilibili.com/video/BV1kxuw6iEb2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:144.0万 | 弹幕:766 | UP主:阿引围棋",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1439510,
+      "original_comments": 766
+    },
+    {
+      "title": "曼玉火山主题SPA日",
+      "url": "https://www.bilibili.com/video/BV1Nr346JEsS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:139.7万 | 弹幕:982 | UP主:是曼玉不是鳗鱼",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1396799,
+      "original_comments": 982
+    },
+    {
+      "title": "自制短剧《全民围棋：我觉醒了金铲铲业余玩家》第一集",
+      "url": "https://www.bilibili.com/video/BV1gRMX6RE1P",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:114.3万 | 弹幕:1349 | UP主:明月漫剧呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1142699,
+      "original_comments": 1349
+    },
+    {
+      "title": "(完整版)再见了，我那有着婴儿般蓝色眼睛的爱人【Emoji】",
+      "url": "https://www.bilibili.com/video/BV1WbMX6kEMG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:99.8万 | 弹幕:1141 | UP主:虚假的朋友-虚鹏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 997863,
+      "original_comments": 1141
+    },
+    {
+      "title": "近期热点事件：7月神人合集（二）",
+      "url": "https://www.bilibili.com/video/BV1Vcuw6XEfx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:95.6万 | 弹幕:4026 | UP主:我是M菌",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 956465,
+      "original_comments": 4026
+    },
+    {
+      "title": "太卷了！改变视频行业的AI又迭代了什么？",
+      "url": "https://www.bilibili.com/video/BV1teuc63E6D",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:86.6万 | 弹幕:3907 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 865940,
+      "original_comments": 3907
+    },
+    {
+      "title": "【独家】有兽焉 第六季 第1集 寻母之路【总第61集】",
+      "url": "https://www.bilibili.com/video/BV1Nc346mEEk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.5万 | 弹幕:5193 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 725277,
+      "original_comments": 5193
+    },
+    {
+      "title": "8.4事态升级！泰国俄罗斯姐弟，案中案爆发！ 毛骨悚然！全网炸锅！网友纷纷退P！泰国旅游业直接无了！",
+      "url": "https://www.bilibili.com/video/BV1Ryuw6pEA9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.3万 | 弹幕:1055 | UP主:军武-那兔",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 642709,
+      "original_comments": 1055
+    },
+    {
+      "title": "取一滴帝王血 做中国最贵的泥",
+      "url": "https://www.bilibili.com/video/BV17ouc6xEBD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.8万 | 弹幕:184 | UP主:陈川同学",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 267579,
+      "original_comments": 184
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Marvel’s Spider-Man Remastered",
+      "url": "https://store.steampowered.com/app/1817070",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Marvel’s Spider-Man: Miles Morales",
+      "url": "https://store.steampowered.com/app/1817190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Ready or Not",
+      "url": "https://store.steampowered.com/app/1144200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "PEAK",
+      "url": "https://store.steampowered.com/app/3527290",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Marvel's Spider-Man 2",
+      "url": "https://store.steampowered.com/app/2651280",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk and PEAK\t",
+      "url": "https://store.steampowered.com/app/78920",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-32% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3300,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Machine Party",
+      "url": "https://store.steampowered.com/app/4108000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1384,
+      "original_comments": 80
+    },
+    {
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 662,
+      "original_comments": 692
+    },
+    {
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 541,
+      "original_comments": 93
+    },
+    {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 428,
+      "original_comments": 110
+    },
+    {
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 388,
+      "original_comments": 403
+    },
+    {
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 383,
+      "original_comments": 163
+    },
+    {
+      "title": "Waymo in Dallas",
+      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 296,
+      "original_comments": 528
+    },
+    {
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 283,
+      "original_comments": 64
+    },
+    {
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 250,
+      "original_comments": 194
+    },
+    {
+      "title": "Stateless MCP has recaptured my interest",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 233,
+      "original_comments": 120
+    },
+    {
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 219,
+      "original_comments": 180
+    },
+    {
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 137,
+      "original_comments": 117
+    },
+    {
+      "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+      "url": "https://deepgrove.ai/maple-preview",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 123,
+      "original_comments": 37
+    },
+    {
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 117,
+      "original_comments": 16
+    },
+    {
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 112,
+      "original_comments": 17
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "MARVEL Tōkon: Fighting Souls",
+      "url": "https://store.steampowered.com/app/3787240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Fallout 1st",
+      "url": "https://store.steampowered.com/app/1202520",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gears of War: E-Day",
+      "url": "https://store.steampowered.com/app/3010850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 854.07 📈+1.54(+0.18%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1099000,
+      "summary": "今日 854.07 | 📈 +1.54(+0.18%) | 最高 855 最低 852.72 | 连涨 1天 | 成交额 ¥5307万 | 成交量 1099000件 | 📈1806 ➡2075 📉3613"
+    }
+  ]
+}
