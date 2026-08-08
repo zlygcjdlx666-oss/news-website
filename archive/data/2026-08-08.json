@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-08",
+  "commentary": "咱先说CSGO大盘，862.53，跌了0.21%，成交额4800多万。要我说啊，这玩意儿现在跟股市一个德行——韭菜们以为自己在玩饰品，其实是饰品在玩你。涨的时候喊“电子文玩”，跌的时候装死，连跌一天就慌成这样？您那库存要是真值钱，早该套现买房了，还搁这儿看K线呢？\n\n再看B站，杨梅那条视频200万播放，评论区清一色“酸了”。我倒觉得挺真实——现在年轻人连杨梅自由都要靠视频解馋，跟当年看吃播解馋一个套路。但您别笑，这背后是消费降级的大实话：以前是“车厘子自由”，现在是“杨梅自由”，再过两年怕不是“土豆自由”都费劲。\n\n最后点名《凡人修仙传》186集，309万播放，弹幕6万。国产动画能撑到186集的稀罕货，但你们发现没？弹幕里全是“韩老魔又装逼了”。说到底，修仙本质是当代打工人的精神代餐——老板画饼，韩立画饼还能飞升，您那饼呢？吃完了还得加班。\n\n今日金句：**大盘会绿，杨梅会酸，但你的命比CSGO饰品跌得还快，别太当真。**",
+  "news": [
+    {
+      "title": "聪明猫在一起久了也会有一些共同点……",
+      "url": "https://www.bilibili.com/video/BV1Guu46sEkA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:318.0万 | 弹幕:3425 | UP主:亮亮也是酿酿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3180431,
+      "original_comments": 3425
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第10集【总第186集】",
+      "url": "https://www.bilibili.com/video/BV1uduP69Esr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:309.8万 | 弹幕:6.2万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3098020,
+      "original_comments": 61840
+    },
+    {
+      "title": "家里的旧光盘，为什么播不出来了？",
+      "url": "https://www.bilibili.com/video/BV1ymux6BEFU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:266.7万 | 弹幕:1.1万 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2666949,
+      "original_comments": 11055
+    },
+    {
+      "title": "怪兽中 出了一个奥特曼的卧底",
+      "url": "https://www.bilibili.com/video/BV1gnub6REqy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:239.5万 | 弹幕:1447 | UP主:istupidpig",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2394601,
+      "original_comments": 1447
+    },
+    {
+      "title": "时停/欧拉！达摩空条承太郎皮肤，三形态白金之星打穿峡谷！自制联动皮肤特效！",
+      "url": "https://www.bilibili.com/video/BV19Yut6oEp7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:212.7万 | 弹幕:914 | UP主:王者人格小A",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2126903,
+      "original_comments": 914
+    },
+    {
+      "title": "不要“做”挑战？（第二十一期）",
+      "url": "https://www.bilibili.com/video/BV18Jub6sECJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:205.0万 | 弹幕:2.3万 | UP主:小潮院长",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2050027,
+      "original_comments": 22858
+    },
+    {
+      "title": "在东方明珠玩100人躲猫猫！奖金10万元",
+      "url": "https://www.bilibili.com/video/BV1ocu46fE1z",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:200.7万 | 弹幕:1.3万 | UP主:飓多多StormCrew",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2007491,
+      "original_comments": 12908
+    },
+    {
+      "title": "杨梅",
+      "url": "https://www.bilibili.com/video/BV18yuE6tETS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:200.6万 | 弹幕:676 | UP主:不吃吐司面包片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2005934,
+      "original_comments": 676
+    },
+    {
+      "title": "在洛杉矶喝200%糖蜜雪冰城，吃全球最古早麦当劳，有不胖的风险吗",
+      "url": "https://www.bilibili.com/video/BV1rRut6rEGS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:194.3万 | 弹幕:6162 | UP主:超Carry的柴西",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1942720,
+      "original_comments": 6162
+    },
+    {
+      "title": "《异环》残虹角色短片丨灵魂的颜色",
+      "url": "https://www.bilibili.com/video/BV1RgM16rEe6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:186.1万 | 弹幕:2595 | UP主:异环",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1860841,
+      "original_comments": 2595
+    },
+    {
+      "title": "青春没有售价！面包车？ 直达拉萨！！",
+      "url": "https://www.bilibili.com/video/BV1CLuE67Ep9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:178.2万 | 弹幕:6380 | UP主:张舒克和黄贝塔旅行版",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1782232,
+      "original_comments": 6380
+    },
+    {
+      "title": "滑铲全向移动？自动吸附瞄准！原神射击玩法太爽了吧！",
+      "url": "https://www.bilibili.com/video/BV1kWup6tEgL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:176.3万 | 弹幕:1636 | UP主:无知de王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1763031,
+      "original_comments": 1636
+    },
+    {
+      "title": "发烧梗",
+      "url": "https://www.bilibili.com/video/BV1Unub69EpX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:169.8万 | 弹幕:7.5万 | UP主:鲤鱼Ace",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1697588,
+      "original_comments": 75234
+    },
+    {
+      "title": "住宅低频噪音现场溯源-山东4家",
+      "url": "https://www.bilibili.com/video/BV19juJ6vEqh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:160.7万 | 弹幕:1077 | UP主:朱林-声学",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1606758,
+      "original_comments": 1077
+    },
+    {
+      "title": "哈哈哈哈哈哈哈！！！",
+      "url": "https://www.bilibili.com/video/BV1NRun6bEgv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:142.0万 | 弹幕:4036 | UP主:爱画画的子衿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1419657,
+      "original_comments": 4036
+    },
+    {
+      "title": "“那些只打高端局的神级串烧”",
+      "url": "https://www.bilibili.com/video/BV1J4un6mEV1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:134.3万 | 弹幕:2998 | UP主:小杯清柠茶",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1342798,
+      "original_comments": 2998
+    },
+    {
+      "title": "改画哪有不疯的！（第26期）",
+      "url": "https://www.bilibili.com/video/BV1oxut6hEMH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:114.6万 | 弹幕:724 | UP主:哲哲哲同学",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1146490,
+      "original_comments": 724
+    },
+    {
+      "title": "《青春期土豆幻想物语》",
+      "url": "https://www.bilibili.com/video/BV1viun6rELr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:114.4万 | 弹幕:950 | UP主:客岭苹果",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1144160,
+      "original_comments": 950
+    },
+    {
+      "title": "《明日方舟：终末地》干员叙事 [梨诺：心与星的焦点]",
+      "url": "https://www.bilibili.com/video/BV1egub6hEwp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:112.9万 | 弹幕:3370 | UP主:明日方舟终末地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1128796,
+      "original_comments": 3370
+    },
+    {
+      "title": "全网首发！藏宝图/宝藏箱全部点位来啦！记得先领口令联动红！",
+      "url": "https://www.bilibili.com/video/BV1q4uT6gE71",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:111.0万 | 弹幕:618 | UP主:Key725",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1109655,
+      "original_comments": 618
+    },
+    {
+      "title": "Tom Clancy's Ghost Recon® Wildlands",
+      "url": "https://store.steampowered.com/app/460930",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-95% | $2",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk and PEAK\t",
+      "url": "https://store.steampowered.com/app/78920",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-32% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3300,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "IRON NEST: Heavy Turret Simulator",
+      "url": "https://store.steampowered.com/app/2950790",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Machine Party",
+      "url": "https://store.steampowered.com/app/4108000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "ReStory: Chill Electronics Repairs",
+      "url": "https://store.steampowered.com/app/3812600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "GRAIN ROT",
+      "url": "https://store.steampowered.com/app/4450620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Fields of Mistria",
+      "url": "https://store.steampowered.com/app/2142790",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 758,
+      "original_comments": 405
+    },
+    {
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 620,
+      "original_comments": 693
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 607,
+      "original_comments": 366
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 465,
+      "original_comments": 314
+    },
+    {
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 350,
+      "original_comments": 311
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 336,
+      "original_comments": 83
+    },
+    {
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 284,
+      "original_comments": 135
+    },
+    {
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 284,
+      "original_comments": 136
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 231,
+      "original_comments": 201
+    },
+    {
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222,
+      "original_comments": 73
+    },
+    {
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 219,
+      "original_comments": 39
+    },
+    {
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 203,
+      "original_comments": 62
+    },
+    {
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 197,
+      "original_comments": 108
+    },
+    {
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 191,
+      "original_comments": 50
+    },
+    {
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 188,
+      "original_comments": 124
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 182,
+      "original_comments": 174
+    },
+    {
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 166,
+      "original_comments": 37
+    },
+    {
+      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 164,
+      "original_comments": 29
+    },
+    {
+      "title": "Carl's Required Reading",
+      "url": "https://carlkolon.com/reading/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 161,
+      "original_comments": 20
+    },
+    {
+      "title": "Radical Study Suggests Life on Earth Arose Twice",
+      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 139,
+      "original_comments": 99
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 862.53 📉-1.84(-0.21%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1055872,
+      "summary": "今日 862.53 | 📉 -1.84(-0.21%) | 最高 865.75 最低 862.53 | 连涨 -1天 | 成交额 ¥4801万 | 成交量 1055872件 | 📈1633 ➡2525 📉3336"
+    }
+  ]
+}
