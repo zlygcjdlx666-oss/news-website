@@ -1,0 +1,712 @@
+{
+  "date": "2026-08-09",
+  "commentary": "各位老铁，今天这新闻大杂烩，磊哥我得挑几个硬菜说道说道。\n\n首先，Meta被罚了5.67亿美金，累计快十亿了。这叫什么？这叫“罚酒三杯”，对于扎克伯格这种级别的大佬，九牛一毛。但话说回来，这是社交媒体儿童安全案的最高纪录，说明啥？说明资本在孩子的数据面前，连装都不装了。这钱罚得不冤，但咱得盯着，别下次又拿个“精神损失费”当保护费交。\n\n再说说特朗普前律师布莱奇当上司法部长，这哥们儿险胜，连共和党自己人都有人反对。这就有意思了，美国最高执法官，是总统的前辩护律师，这画面太美，简直是把“法律”俩字儿写在餐巾纸上。我看啊，这不叫司法，这叫“私人法律顾问上岗记”。\n\n最后，西伯利亚甲烷排放一年涨1200万吨，加拿大野火翻倍，台风又来了。地球已经开启“狂暴模式”，咱某些国家还在那儿算芯片关税的账。真是“星辰大海没见着，海水倒灌先来了”。\n\n**今日金句：当资本开始给孩子设防，当法律开始给总统让路，地球的怒火也就快烧到咱脚后跟了。**",
+  "news": [
+    {
+      "title": "Meta因儿童安全违规被罚5.67亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "Meta因在儿童安全方面违规被处以5.67亿美元罚款，加上此前罚金总计达9.42亿美元，创下社交媒体儿童安全案件最高纪录。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普前律师布莱奇险胜出任美司法部长",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "特朗普前刑事辩护律师托德·布莱奇以微弱优势获参议院确认，成为美国最高执法官员，尽管遭到部分共和党人罕见反对。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "艺电以550亿美元被沙特财团收购",
+      "url": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "《模拟人生》和EA FC开发商电子艺界以550亿美元被沙特主导财团收购，交易使公司私有化并背负债务。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普对关键芯片材料征收15%关税",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "美国对关键芯片材料加征15%关税以应对中国芯片产业竞争，此举旨在保护面临日益激烈竞争的美国企业。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "字节跳动开发10万亿参数AI模型",
+      "url": "https://www.solidot.org/story?sid=85034",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "字节跳动正在训练10万亿参数模型，处于预训练阶段，规模远超月之暗面Kimi K3的2.8万亿参数，显示中国AI竞赛白热化。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄导弹袭击基辅致3人死亡含儿童",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "俄罗斯夜间导弹袭击基辅附近致3人死亡，包括一名儿童，泽连斯基警告乌克兰导弹拦截器库存告急。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "DeepMind WeatherNext模型飓风预测突破",
+      "url": "https://www.solidot.org/story?sid=85042",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "Google DeepMind的WeatherNext模型在飓风路径预测上取得突破，风暴登陆前五天以80%置信度准确预测路径，或革新气象预报。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国科学家确认胶球存在",
+      "url": "https://www.solidot.org/story?sid=85037",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "北京正负电子对撞机北京谱仪III实验确认胶球存在，这种仅由胶子组成的复合粒子是粒子物理学重大发现。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "西伯利亚甲烷排放量年增1200万吨",
+      "url": "https://www.solidot.org/story?sid=85040",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "研究显示因气候暖化、野火和永久冻土融化，西伯利亚甲烷排放量2010-2023年间每年增加1200万吨，加剧全球暖化。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加拿大野火翻倍蔓延进入紧急状态",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "加拿大不列颠哥伦比亚省秃岭野火失控蔓延超95平方公里，面积翻倍，当地宣布进入紧急状态。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "台风海豚袭击日本冲绳后逼近中国",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "台风海豚袭击日本冲绳，切断至少4.4万栋建筑电力并致5人受伤，随后向中国逼近。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "沙特、土耳其和巴基斯坦签署防务条约",
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "沙特、土耳其和巴基斯坦签署防务条约，巴基斯坦称三国中任一遭袭即视为对全体攻击，中东冲突背景下意义重大。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果挑战英国用户数据访问令",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "苹果就英国要求访问私人用户数据的命令提出新挑战，这是苹果与英国内政部数据隐私争端的最新进展。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI和Meta接连遭AI黑客攻击",
+      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "多家公司披露AI模型获得互联网访问权限并造成实际后果，OpenAI和Meta相继遭黑客攻击引发行业担忧。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国7月就业意外下降2.3万",
+      "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "美国7月就业岗位意外减少2.3万个，与分析师预期增长相悖，显示夏季经济放缓超预期。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "易捷航空同意57亿英镑被美企收购",
+      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "廉价航空公司易捷航空同意以57亿英镑被美国Apollo公司收购，此前竞争对手退出竞购。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普政府向德企支付12亿美元叫停风电",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "特朗普政府向德国RWE公司支付12亿美元以终止美国风电项目，这是系列取消风电项目交易的最新一例。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本要求美国停止使用动漫IP制作梗图",
+      "url": "https://www.solidot.org/story?sid=85032",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "日本政府多次要求特朗普政府停止用马里奥、宝可梦等热门IP制作梗图，认为损害知识产权，白宫社媒账号频繁发布相关内容。",
+      "categories": [
+        "国际",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "甲骨文禁止OpenJDK项目使用AI生成代码",
+      "url": "https://www.solidot.org/story?sid=85041",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "甲骨文以安全、隐私和知识产权风险为由，禁止OpenJDK项目使用AI生成代码，尽管内部鼓励使用AI工具。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AMD收购芯片直刻权重AI初创公司",
+      "url": "https://www.solidot.org/story?sid=85035",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "AMD收购AI初创公司Taalas，该公司将模型权重直接刻在芯片上，推理速度比GPU高一个数量级以上。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软Edge即将屏蔽uBlock Origin扩展",
+      "url": "https://www.solidot.org/story?sid=85038",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "微软跟随谷歌步伐，Edge浏览器将停止支持Manifest V2扩展如广告屏蔽工具uBlock Origin，影响用户广告拦截能力。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "电动滑板车事故风险远高于摩托和自行车",
+      "url": "https://www.solidot.org/story?sid=85039",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "英格兰和威尔士事故数据分析显示，电动滑板车比摩托车和自行车危险得多，涉及15247名中重度创伤患者。",
+      "categories": [
+        "社会",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "糖在人类演化中起核心作用",
+      "url": "https://www.solidot.org/story?sid=85036",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究显示以水果为食的灵长类大脑更大，含糖食物在人类演化中发挥核心作用，大脑依赖葡萄糖作为能量来源。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美洲狮改变鹿行为减少交通事故",
+      "url": "https://www.solidot.org/story?sid=85033",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究发现美洲狮能改变鹿的行为，使其更愿白天活动并避开道路密集区，5年内动物撞车事故显著减少。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《时代》杂志展示仅AI可见广告",
+      "url": "https://www.solidot.org/story?sid=85031",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "《时代》杂志网站开始展示只有AI爬虫能看到的品牌广告，旨在影响AI聊天机器人对品牌的正面描述。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "BBC分析中国AI生成灾害假视频",
+      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "随着极端天气事件增多，AI生成的假视频在中国社交媒体迅速传播，造成现实问题，BBC对此进行了分析。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX股价因AI支出计划下跌",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "SpaceX首份财报显示巨额AI支出计划，股价下跌，马斯克告诉投资者人们低估了他的公司。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "迪士尼允许TikTok用户使用其影视片段",
+      "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "迪士尼达成协议，允许部分TikTok创作者在视频中使用迪士尼电影和电视节目片段。",
+      "categories": [
+        "娱乐",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科技助力野火监测与扑救",
+      "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "科技被用于监测野火，但消防员仍是扑灭火灾的关键，技术辅助与人力结合成主流模式。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI付费模式面临挑战",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "AI服务买家难以控制成本，卖家不确定如何定价，代币经济学成为行业难题。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "西班牙破获大型走私网络逮捕78人",
+      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "西班牙警方逮捕78人，破获大型走私网络，该组织从西班牙向阿尔及利亚运毒并回程走私移民和武器。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泰国总理承诺加强枪支管控",
+      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "泰国14岁少年开枪致8人死亡后，总理承诺推行更严格枪支法律，事件引发社会震动。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "梅西父亲豪尔赫去世享年68岁",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "梅西的父亲兼经纪人豪尔赫·梅西在长期患病后去世，享年68岁，全球球迷哀悼。",
+      "categories": [
+        "国际",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "洛杉矶仓库大火致腐烂食物恶臭",
+      "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "洛杉矶大型仓库火灾后，成吨腐烂鸡肉、家禽和鱼类吸引苍蝇老鼠，产生难以忍受的恶臭。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "西班牙对意大利实施边境管控",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "因约7.8万移民从摩洛哥涌入西班牙飞地休达，西班牙对意大利实施边境管控，争端加剧。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "霍尔木兹海峡谈判取得进展",
+      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "阿曼称霍尔木兹海峡谈判积极，伊朗警告协议不会开放海峡，新航运路线协议仍不明朗。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国向哥伦比亚提供10亿美元援助",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "美国在哥伦比亚新右翼总统就职首日提供10亿美元，新总统承诺对\"毒品恐怖主义\"发动全面战争。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "自行车品牌Raleigh母公司申请破产",
+      "url": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "荷兰Accell公司拥有著名自行车品牌Raleigh，已申请破产，品牌前景不明。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "90秒停电引发铁路通勤混乱",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "一次90秒的电力中断导致铁路通勤大范围混乱，引发对供电中断影响范围的质疑。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Argos品牌改造能否吸引新顾客",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "拥有50年历史的零售商Argos进行品牌改造，但面临亚马逊等新对手竞争，新东家能否扭转局面待观察。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "短裤凉鞋上班着装争议",
+      "url": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "夏季高温下，短裤、吊带背心和凉鞋是否适合上班成为热议话题，职场着装规范面临挑战。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：足球规则与选择公理",
+      "url": "https://xkcd.com/3282/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画调侃足球规则是否依赖选择公理，作者称FIFA官员一直屏蔽他的号码。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：古董路演",
+      "url": "https://xkcd.com/3281/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画讽刺家族传说称古董来自恒星形成气体云，但更可能来自曾祖父母，幽默探讨物品起源。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：迷宫与后室神话",
+      "url": "https://xkcd.com/3280/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画以迷宫研究为背景，调侃老鼠成为除人类外唯一发展出后室神话的动物。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：主跨与风应力",
+      "url": "https://xkcd.com/3279/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画以悬索桥为主题，讽刺性地质疑风应力是否真的是问题，展现工程幽默。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：薇拉·鲁宾天文台",
+      "url": "https://xkcd.com/3278/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃光学望远镜比射电望远镜更难排除厨房杂散信号，但只要有决心和创造力就能做到。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "怪兽中出了一个奥特曼的卧底",
+      "url": "https://www.bilibili.com/video/BV1gnub6REqy",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站热门视频播放量达567万，UP主istupidpig创作奥特曼卧底怪兽的搞笑内容，引发网友热议。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 5670787,
+      "original_comments": 2763
+    },
+    {
+      "title": "东方明珠百人躲猫猫奖金10万",
+      "url": "https://www.bilibili.com/video/BV1ocu46fE1z",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主飓多多StormCrew在东方明珠组织100人躲猫猫活动，奖金高达10万元，播放量超443万。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 4434168,
+      "original_comments": 18123
+    },
+    {
+      "title": "面包车直达拉萨青春之旅",
+      "url": "https://www.bilibili.com/video/BV1CLuE67Ep9",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主张舒克和黄贝塔旅行版开面包车直达拉萨，播放量316万，展现青春冒险精神。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 3160824,
+      "original_comments": 10571
+    },
+    {
+      "title": "发烧梗视频引92071条弹幕",
+      "url": "https://www.bilibili.com/video/BV1Unub69EpX",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主鲤鱼Ace的\"发烧梗\"视频播放量318万，弹幕超9.2万条，成为热门话题。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 3181134,
+      "original_comments": 92071
+    },
+    {
+      "title": "Proxy Tester代理测试工具发布",
+      "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "ScrapeOps推出Proxy Tester工具，可基准测试代理可靠性，支持目标特定抓取场景。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Grok Imagine 2.0图像生成器发布",
+      "url": "https://www.producthunt.com/products/grok-com-beta",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Grok Imagine 2.0是新一代AI图像生成器，支持分割编辑功能，可精准修改图像特定区域。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Soup CLI在4GB笔记本GPU微调8B模型",
+      "url": "https://www.producthunt.com/products/soup-cli",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Soup CLI工具支持在4GB笔记本GPU上微调80亿参数LLM，大幅降低AI模型微调门槛。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Prime-Agent自改进编码智能体开源",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "PrimeIntellect-ai开源prime-agent，一个自改进RLM智能体，用于编码工作流和长期自主任务，今日获2483星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "ChinaTextbook开源全学段PDF教材",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "GitHub项目ChinaTextbook收录所有小初高和大学PDF教材，今日获118星，方便学生获取学习资料。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TradingAgents多智能体金融交易框架",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "TauricResearch开源TradingAgents，一个多智能体LLM金融交易框架，今日获153星。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 859.31 📉-2.08(-0.24%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 971269,
+      "summary": "今日 859.31 | 📉 -2.08(-0.24%) | 最高 862.48 最低 859.3 | 连涨 -2天 | 成交额 ¥4184万 | 成交量 971269件 | 📈1485 ➡2547 📉3462"
+    }
+  ]
+}
