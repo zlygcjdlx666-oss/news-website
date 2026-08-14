@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-14",
+  "commentary": "各位老铁，今儿这大盘子，磊哥我差点没笑出声。CSGO饰品指数840.89，涨了四分钱，连涨一天，成交额四千多万。这哪是理财啊，这是给V社送手续费做慈善呢。你看着那绿油油的3880件下跌，再看看那红彤彤的1389件上涨，这不就是典型的“指数稳如老狗，散户亏成舔狗”吗？听磊哥一句劝，玩梗归玩梗，别真把这当股市炒，你当接盘侠的姿势，比张叔的背刺还熟练。\n\n再说B站这边，半佛老师那个《足不出户，背刺满屋》播放三百多万，弹幕才279条？这届观众不行啊，光顾着看乐子，连个“真实”都不刷。半佛说的没错，现在这消费主义陷阱，你躺家里刷手机都能被割韭菜，什么智商税、情绪税，那都是明码标价的。你以为你在薅羊毛，其实你是那羊，毛都快被薅秃噜皮了还搁那乐呢。\n\n最后必须提一嘴《时光代理人》第三季，弹幕19.6万，这才是真顶流。剧情咱不剧透，但就这热度，证明国创只要好好讲故事，观众眼睛是雪亮的。不像某些游戏，预告片拍得跟电影似的，实机一玩，好家伙，又是“电子烟”的命。\n\n**今日金句：** 资本市场里，你以为是抄底，其实是给庄家递刀；B站弹幕里，你以为是共鸣，其实是给UP主递币。都别装大聪明，乐呵乐呵得了。",
+  "news": [
+    {
+      "title": "《影之刃零》预购开启，11分钟实机预告公开",
+      "url": "https://www.bilibili.com/video/BV1Hmuv68EWW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:1260.4万 | 弹幕:4.6万 | UP主:影之刃零",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 12604406,
+      "original_comments": 45724
+    },
+    {
+      "title": "长着云台的手机？荣耀Robot Phone上手",
+      "url": "https://www.bilibili.com/video/BV1UKgL6SEyA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:547.9万 | 弹幕:7254 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5478584,
+      "original_comments": 7254
+    },
+    {
+      "title": "【半佛】足不出户，背刺满屋",
+      "url": "https://www.bilibili.com/video/BV1oUg56wEaQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:345.3万 | 弹幕:279 | UP主:硬核的半佛仙人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3452573,
+      "original_comments": 279
+    },
+    {
+      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
+      "url": "https://www.bilibili.com/video/BV1FRgn6pEph",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:328.9万 | 弹幕:818 | UP主:WasteTheFallen",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3288721,
+      "original_comments": 818
+    },
+    {
+      "title": "河流地貌",
+      "url": "https://www.bilibili.com/video/BV1o1gG6xEXK",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:323.7万 | 弹幕:2212 | UP主:川不过气",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3237038,
+      "original_comments": 2212
+    },
+    {
+      "title": "路况千千万，总能遇到点新知识，今天是地上的大镜子",
+      "url": "https://www.bilibili.com/video/BV16juq6bEFc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:277.7万 | 弹幕:519 | UP主:张扯扯b站号",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2777260,
+      "original_comments": 519
+    },
+    {
+      "title": "《人类史上最绝望事件》",
+      "url": "https://www.bilibili.com/video/BV1ZwgG6dEUs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:264.8万 | 弹幕:880 | UP主:凌识啊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2647919,
+      "original_comments": 880
+    },
+    {
+      "title": "琢磨个把月，用一张纸折出了奥黛塔",
+      "url": "https://www.bilibili.com/video/BV1QRuB6HEnA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:180.9万 | 弹幕:5700 | UP主:某一个晓",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1809495,
+      "original_comments": 5700
+    },
+    {
+      "title": "猎哥说打绝航能让人眼前一亮【三角洲动画·勇敢者篇】",
+      "url": "https://www.bilibili.com/video/BV13Ygn6qEG3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:174.2万 | 弹幕:7219 | UP主:神·潜行瞬杀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1742385,
+      "original_comments": 7219
+    },
+    {
+      "title": "黑白色经典星空喷漆画，划走你就草率了",
+      "url": "https://www.bilibili.com/video/BV1Mquv6MEEw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:168.4万 | 弹幕:5547 | UP主:绘拓空间喷漆绘画",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1684371,
+      "original_comments": 5547
+    },
+    {
+      "title": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
+      "url": "https://www.bilibili.com/video/BV1cXgp6aESY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:141.6万 | 弹幕:923 | UP主:荒草音乐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1416244,
+      "original_comments": 923
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第1集 遗忘的过去【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1hyuC6eEwm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:133.1万 | 弹幕:19.6万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1330910,
+      "original_comments": 196040
+    },
+    {
+      "title": "【恐怖版】PVZ恐怖版：序章宣传片",
+      "url": "https://www.bilibili.com/video/BV1F2gj6GEMw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:122.3万 | 弹幕:1136 | UP主:对不起贱笑了",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1222999,
+      "original_comments": 1136
+    },
+    {
+      "title": "🐧功夫女足🐧",
+      "url": "https://www.bilibili.com/video/BV1PzgE6RE4D",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:109.2万 | 弹幕:907 | UP主:时崎狂徒",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1091704,
+      "original_comments": 907
+    },
+    {
+      "title": "《洛克王国：世界》皮卡月刊「初心的继承者」上架预告！",
+      "url": "https://www.bilibili.com/video/BV1HTgn6sEU9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.7万 | 弹幕:1688 | UP主:洛克王国世界",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 727024,
+      "original_comments": 1688
+    },
+    {
+      "title": "用MC还原《神的随波逐流》 【B萌应援】",
+      "url": "https://www.bilibili.com/video/BV1e1gH67EjN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.7万 | 弹幕:2072 | UP主:dawn214",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 586593,
+      "original_comments": 2072
+    },
+    {
+      "title": "《绝区零》希格莉德角色展示 | 好马识途",
+      "url": "https://www.bilibili.com/video/BV1bWgA6SEnT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.0万 | 弹幕:2196 | UP主:绝区零",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 409524,
+      "original_comments": 2196
+    },
+    {
+      "title": "《下一个是谁》音乐特辑",
+      "url": "https://www.bilibili.com/video/BV1nLgs6vEX5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.4万 | 弹幕:1.6万 | UP主:雨哥到处跑",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 374403,
+      "original_comments": 16473
+    },
+    {
+      "title": "【火遮眼】浪客剑心武指执导，年度最爽打戏！",
+      "url": "https://www.bilibili.com/video/BV135gG6UEui",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.1万 | 弹幕:2157 | UP主:哔哩哔哩电影",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 361090,
+      "original_comments": 2157
+    },
+    {
+      "title": "小米澎湃OS4上手体验：变化如何，优化怎样？",
+      "url": "https://www.bilibili.com/video/BV1mkgw6mEQt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.3万 | 弹幕:1191 | UP主:极客湾Geekerwan",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253168,
+      "original_comments": 1191
+    },
+    {
+      "title": "PEAK",
+      "url": "https://store.steampowered.com/app/3527290",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "No More Room in Hell 2",
+      "url": "https://store.steampowered.com/app/292000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $19",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Sandustry",
+      "url": "https://store.steampowered.com/app/2764460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk and PEAK\t",
+      "url": "https://store.steampowered.com/app/78920",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-32% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3300,
+      "original_comments": 0
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "url": "https://store.steampowered.com/app/2358720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "IRON NEST: Heavy Turret Simulator",
+      "url": "https://store.steampowered.com/app/2950790",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "HELLDIVERS™ 2",
+      "url": "https://store.steampowered.com/app/553850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Duskfade",
+      "url": "https://store.steampowered.com/app/2542020",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Pax Autocratica",
+      "url": "https://store.steampowered.com/app/1067360",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-17% | $25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1800,
+      "original_comments": 0
+    },
+    {
+      "title": "The Lord of the Rings: War in the North™ - Legacy Edition",
+      "url": "https://store.steampowered.com/app/2523770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 822,
+      "original_comments": 432
+    },
+    {
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 654,
+      "original_comments": 273
+    },
+    {
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 614,
+      "original_comments": 160
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 587,
+      "original_comments": 235
+    },
+    {
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 420,
+      "original_comments": 172
+    },
+    {
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 339,
+      "original_comments": 135
+    },
+    {
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 336,
+      "original_comments": 173
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 324,
+      "original_comments": 172
+    },
+    {
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 309,
+      "original_comments": 179
+    },
+    {
+      "title": "Ordinary Abundance",
+      "url": "https://ordinaryabundance.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 300,
+      "original_comments": 158
+    },
+    {
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 229,
+      "original_comments": 105
+    },
+    {
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 211,
+      "original_comments": 133
+    },
+    {
+      "title": "NP-overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 206,
+      "original_comments": 142
+    },
+    {
+      "title": "Hello, me. It's been a while",
+      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 200,
+      "original_comments": 94
+    },
+    {
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "url": "https://0.mk/blog/link-rot",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 179,
+      "original_comments": 169
+    },
+    {
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 161,
+      "original_comments": 32
+    },
+    {
+      "title": "How Compaction Works in Pi",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 160,
+      "original_comments": 62
+    },
+    {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 106,
+      "original_comments": 64
+    },
+    {
+      "title": "How Gödel's Proof Works (2020)",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 103,
+      "original_comments": 42
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 840.89 📈+0.37(+0.04%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 978262,
+      "summary": "今日 840.89 | 📈 +0.37(+0.04%) | 最高 840.95 最低 838.45 | 连涨 1天 | 成交额 ¥4413万 | 成交量 978262件 | 📈1389 ➡2225 📉3880"
+    }
+  ]
+}
