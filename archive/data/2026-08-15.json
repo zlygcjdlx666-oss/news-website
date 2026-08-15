@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-15",
+  "commentary": "哎，先看CSGO大盘，连跌六天，成交额四千多万，这是玩家在跑路还是庄家出货？好家伙，饰品市场现在比A股还刺激，前天追高的兄弟今天估计连裤子都当出去了。我早说了，虚拟皮肤这玩意儿，涨起来是泡沫，跌起来是瀑布，玩的就是心跳，但别把身家性命押上去，小心哪天醒来发现库存全变白板。\n\n再说B站，一眼扫过去全是原神、凡人修仙，还有个赛博大圣？这年头连孙悟空都要穿机械臂打妖怪了？最逗的是那个“央妈运镜”视频，三百多万播放，评论区估计都在喊“这才是国家队审美”。我说实话，官方整活比某些流量明星的摆拍强了不止一个次元，这波文化输出，我给满分。\n\n最后说说那个《WasteTheFallen》首曝，六百万播放，名字起得挺文艺，但“凝视深渊”这种词儿，咱们游戏圈早就用烂了。能不能来点新鲜的？别光顾着深沉，把玩法做好比啥都强。\n\n**今日金句：虚拟盘里没有常胜将军，但现实生活里，你永远可以选择不跟牌。**",
+  "news": [
+    {
+      "title": "WasteTheFallen丨首曝PV＆实机演示：凝视深渊，人性渐泯",
+      "url": "https://www.bilibili.com/video/BV1FRgn6pEph",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:665.3万 | 弹幕:1601 | UP主:WasteTheFallen",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6652841,
+      "original_comments": 1601
+    },
+    {
+      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉119/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:644.4万 | 弹幕:4.0万 | UP主:你的影月月",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6443649,
+      "original_comments": 39720
+    },
+    {
+      "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
+      "url": "https://www.bilibili.com/video/BV15xgn6GEjH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:541.3万 | 弹幕:5410 | UP主:里无敌本人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5413436,
+      "original_comments": 5410
+    },
+    {
+      "title": "这会不会有点太刺激了？！",
+      "url": "https://www.bilibili.com/video/BV1Ukgp6uErY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:360.5万 | 弹幕:1592 | UP主:伢伢gagako",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3605408,
+      "original_comments": 1592
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第11集【总第187集】",
+      "url": "https://www.bilibili.com/video/BV1hbgu66EyA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:306.7万 | 弹幕:6.8万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3067306,
+      "original_comments": 68423
+    },
+    {
+      "title": "“央妈这段运镜太有手法了，完全拍出了什么叫意气风发！”",
+      "url": "https://www.bilibili.com/video/BV1cXgp6aESY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:305.5万 | 弹幕:1706 | UP主:荒草音乐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3054608,
+      "original_comments": 1706
+    },
+    {
+      "title": "黑白色经典星空喷漆画，划走你就草率了",
+      "url": "https://www.bilibili.com/video/BV1Mquv6MEEw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:248.0万 | 弹幕:9094 | UP主:绘拓空间喷漆绘画",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2480337,
+      "original_comments": 9094
+    },
+    {
+      "title": "用MC还原《神的随波逐流》 【B萌应援】",
+      "url": "https://www.bilibili.com/video/BV1e1gH67EjN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:198.6万 | 弹幕:7372 | UP主:dawn214",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1986084,
+      "original_comments": 7372
+    },
+    {
+      "title": "老王出息了，今天带家人们一起探班龙餐馆的幕后~",
+      "url": "https://www.bilibili.com/video/BV1e5gN6eE1D",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:185.6万 | 弹幕:4531 | UP主:老王在中国",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1855930,
+      "original_comments": 4531
+    },
+    {
+      "title": "我实现了我儿时的梦想",
+      "url": "https://www.bilibili.com/video/BV1iTgA6hENv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:175.3万 | 弹幕:3210 | UP主:李炮炮儿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1752763,
+      "original_comments": 3210
+    },
+    {
+      "title": "都什么年代，谁还渡传统通天河？！！",
+      "url": "https://www.bilibili.com/video/BV1CDgw6GEQ2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:150.5万 | 弹幕:3867 | UP主:马刀刻森",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1504836,
+      "original_comments": 3867
+    },
+    {
+      "title": "那年盖亚的导演选择了弹幕最多的打法！",
+      "url": "https://www.bilibili.com/video/BV1kcgN6VEXC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:125.9万 | 弹幕:389 | UP主:小古侃片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1259045,
+      "original_comments": 389
+    },
+    {
+      "title": "十八载征程，感谢有你，一路相伴。",
+      "url": "https://www.bilibili.com/video/BV19YgP6aEq6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:120.1万 | 弹幕:78 | UP主:京东",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1200978,
+      "original_comments": 78
+    },
+    {
+      "title": "【我在现代当幽差】EP01 大哥，你阳寿未尽啊【UP动画】",
+      "url": "https://www.bilibili.com/video/BV17Hgp6XEaR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.8万 | 弹幕:896 | UP主:红豆稀饭中",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1048327,
+      "original_comments": 896
+    },
+    {
+      "title": "第6集丨“各怀心事？”",
+      "url": "https://www.bilibili.com/video/BV1S1gP6WE75",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:102.7万 | 弹幕:796 | UP主:是DollDoll",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1027024,
+      "original_comments": 796
+    },
+    {
+      "title": "【短的发布会】我要验湃！一条视频带你看懂全网最带湃的澎湃OS 4",
+      "url": "https://www.bilibili.com/video/BV1mygw6jEg6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:86.7万 | 弹幕:1536 | UP主:短的发布会",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 867323,
+      "original_comments": 1536
+    },
+    {
+      "title": "【挽救计划】Amaze Amaze Amaze！",
+      "url": "https://www.bilibili.com/video/BV1sTgw6kESv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:83.7万 | 弹幕:1783 | UP主:哔哩哔哩电影",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 837139,
+      "original_comments": 1783
+    },
+    {
+      "title": "恐怖奶奶1",
+      "url": "https://www.bilibili.com/video/BV1ZtuC6LEDJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.3万 | 弹幕:2733 | UP主:hid解说",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 812631,
+      "original_comments": 2733
+    },
+    {
+      "title": "你醒啦！你已经变成苦力怕娘惹……",
+      "url": "https://www.bilibili.com/video/BV1CmgF6iEyd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:74.7万 | 弹幕:1376 | UP主:MxHao_15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 747494,
+      "original_comments": 1376
+    },
+    {
+      "title": "法国最有松弛感的劫案是哪起？【硬核狠人91】",
+      "url": "https://www.bilibili.com/video/BV1y5gP61E6m",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.2万 | 弹幕:8628 | UP主:小约翰可汗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 612377,
+      "original_comments": 8628
+    },
+    {
+      "title": "Total War: WARHAMMER III",
+      "url": "https://store.steampowered.com/app/1142710",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-85% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8600,
+      "original_comments": 0
+    },
+    {
+      "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "url": "https://store.steampowered.com/app/2552430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "PEAK",
+      "url": "https://store.steampowered.com/app/3527290",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "No More Room in Hell 2",
+      "url": "https://store.steampowered.com/app/292000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $19",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Sandustry",
+      "url": "https://store.steampowered.com/app/2764460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk and PEAK\t",
+      "url": "https://store.steampowered.com/app/78920",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-32% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3300,
+      "original_comments": 0
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "url": "https://store.steampowered.com/app/2358720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "HELLDIVERS™ 2",
+      "url": "https://store.steampowered.com/app/553850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "IRON NEST: Heavy Turret Simulator",
+      "url": "https://store.steampowered.com/app/2950790",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Pax Autocratica",
+      "url": "https://store.steampowered.com/app/1067360",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-17% | $25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1800,
+      "original_comments": 0
+    },
+    {
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1116,
+      "original_comments": 686
+    },
+    {
+      "title": "The Lord of the Rings: War in the North™ - Legacy Edition",
+      "url": "https://store.steampowered.com/app/2523770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1088,
+      "original_comments": 528
+    },
+    {
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 924,
+      "original_comments": 344
+    },
+    {
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 859,
+      "original_comments": 773
+    },
+    {
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 377,
+      "original_comments": 219
+    },
+    {
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 328,
+      "original_comments": 145
+    },
+    {
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 294,
+      "original_comments": 22
+    },
+    {
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 286,
+      "original_comments": 119
+    },
+    {
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 205,
+      "original_comments": 119
+    },
+    {
+      "title": "Introducing Toast 1",
+      "url": "https://www.mixedbread.com/blog/toast-1",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 198,
+      "original_comments": 61
+    },
+    {
+      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 186,
+      "original_comments": 44
+    },
+    {
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 184,
+      "original_comments": 73
+    },
+    {
+      "title": "Ultraviolet Bird Photography",
+      "url": "https://uvbirds.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 143,
+      "original_comments": 23
+    },
+    {
+      "title": "eigendrum",
+      "url": "https://eigendrum.com/#p=circle",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 141,
+      "original_comments": 31
+    },
+    {
+      "title": "The other Sean Byrne doesn't exist",
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 111,
+      "original_comments": 40
+    },
+    {
+      "title": "Hell Let Loose: Vietnam",
+      "url": "https://store.steampowered.com/app/3079210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Fallout 1st",
+      "url": "https://store.steampowered.com/app/1202520",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 836.59 📉-2.76(-0.33%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1012737,
+      "summary": "今日 836.59 | 📉 -2.76(-0.33%) | 最高 839.75 最低 836.56 | 连涨 -6天 | 成交额 ¥4188万 | 成交量 1012737件 | 📈1477 ➡2410 📉3607"
+    }
+  ]
+}
