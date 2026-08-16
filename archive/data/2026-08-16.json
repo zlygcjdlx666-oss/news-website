@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-16",
+  "commentary": "大伙儿看今天这盘面，CSGO大盘又双叒叕绿了，连跌七天，成交额还在那硬撑，四千多万，但画风是1317涨对3769跌，这哪是回调啊，这是单方面挨揍。说白了，市场情绪比冬天的至冬国还冷，玩家手里的饰品比冰神瞳还难集齐，你指望它反弹？不如指望影月月把原神7.0的全收集攻略再刷一遍，人家播放量876万，弹幕5万5，那才是真·大盘飘红。\n\n再说B站这边，最扎眼的是《赛伯朋克之大圣归来》，耗时两年半，810万播放，评论区全是“精品”。我寻思这年头能让人花两年半做一个视频，比让米哈游不挤牙膏还难。这UP主是把“用爱发电”干成了“用命发电”，就冲这劲儿，比那些三天两头水视频的强出十个三星堆。\n\n还有那个《一切正常》，当所有日本人都说“没问题”的时候，那问题大了去了——这标题就是当代互联网嘴替，你细品，多少事儿就是这么被“没问题”给糊弄过去的。\n\n今日金句：**市场绿了不可怕，怕的是你心里那盏灯也跟着灭了。**",
+  "news": [
+    {
+      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:876.0万 | 弹幕:5.5万 | UP主:你的影月月",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8760063,
+      "original_comments": 54930
+    },
+    {
+      "title": "赛伯朋克之大圣归来：耗时两年半，精品制作，一口气看完。",
+      "url": "https://www.bilibili.com/video/BV15xgn6GEjH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:810.4万 | 弹幕:7587 | UP主:里无敌本人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8104007,
+      "original_comments": 7587
+    },
+    {
+      "title": "飞机安检模拟器",
+      "url": "https://www.bilibili.com/video/BV1fTb16KEDk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:450.1万 | 弹幕:4.2万 | UP主:鲤鱼Ace",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4500800,
+      "original_comments": 41963
+    },
+    {
+      "title": "难倒100万人的铁球难题，我终于！解！开！了！",
+      "url": "https://www.bilibili.com/video/BV1RYbk6QE9o",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:273.6万 | 弹幕:1.2万 | UP主:GM的秘密基地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2736020,
+      "original_comments": 12277
+    },
+    {
+      "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
+      "url": "https://www.bilibili.com/video/BV1Z9gT61EnM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:258.4万 | 弹幕:1066 | UP主:即兴演奏家",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2584429,
+      "original_comments": 1066
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第2集 困兽【8月国创】",
+      "url": "https://www.bilibili.com/video/BV18yuC6eEyM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:204.5万 | 弹幕:8.7万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2044678,
+      "original_comments": 86789
+    },
+    {
+      "title": "⚡️老 叟 肘 高 玩⚡️",
+      "url": "https://www.bilibili.com/video/BV116gu6AEiw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:143.9万 | 弹幕:605 | UP主:酸奶煎个蛋",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1439380,
+      "original_comments": 605
+    },
+    {
+      "title": "【独家】牧神记 第96集 延康双雄",
+      "url": "https://www.bilibili.com/video/BV1Mjgg6BEjx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:128.9万 | 弹幕:6129 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1289500,
+      "original_comments": 6129
+    },
+    {
+      "title": "轮  回  跑  酷",
+      "url": "https://www.bilibili.com/video/BV1EWbk6ZE6d",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:105.2万 | 弹幕:633 | UP主:cantnavet",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1051743,
+      "original_comments": 633
+    },
+    {
+      "title": "三星堆：是谁杀死了他们的神？",
+      "url": "https://www.bilibili.com/video/BV1o7bm6TEMY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.8万 | 弹幕:1307 | UP主:大圆镜科普",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1037818,
+      "original_comments": 1307
+    },
+    {
+      "title": "看完心跳停止 ，可以纳入影史的一坨史--《牛来》观影吐槽【周余】",
+      "url": "https://www.bilibili.com/video/BV12Xby62E32",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:101.7万 | 弹幕:2955 | UP主:不知所措的周余",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1016915,
+      "original_comments": 2955
+    },
+    {
+      "title": "当我人生第一次体验cosplay..",
+      "url": "https://www.bilibili.com/video/BV1oVgN6NEJH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:96.4万 | 弹幕:1535 | UP主:杰克小兔",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 963852,
+      "original_comments": 1535
+    },
+    {
+      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV18Tby67EG9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:86.8万 | 弹幕:877 | UP主:超级神奇的木偶",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 868442,
+      "original_comments": 877
+    },
+    {
+      "title": "口技表演《定海神珍铁》",
+      "url": "https://www.bilibili.com/video/BV1N8gG6qEpm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:77.2万 | 弹幕:1438 | UP主:BBoxer酋长",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 772415,
+      "original_comments": 1438
+    },
+    {
+      "title": "热播剧《来自河南的你 》",
+      "url": "https://www.bilibili.com/video/BV1JLgp6oEAs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:75.5万 | 弹幕:942 | UP主:凨胤言生",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 754650,
+      "original_comments": 942
+    },
+    {
+      "title": "财神窦占龙 第1集 家宴【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1azgP6bEaA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:67.9万 | 弹幕:1282 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 678857,
+      "original_comments": 1282
+    },
+    {
+      "title": "ASMR 当憋了半个月没洗头的你去做头疗（绝望的“单王”）",
+      "url": "https://www.bilibili.com/video/BV1bXb26sEGu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.5万 | 弹幕:500 | UP主:乌乌Woozzz",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 465287,
+      "original_comments": 500
+    },
+    {
+      "title": "《干噎砒霜》",
+      "url": "https://www.bilibili.com/video/BV1LrbU66E1G",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:38.9万 | 弹幕:652 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 388943,
+      "original_comments": 652
+    },
+    {
+      "title": "我们的秘密……（1）",
+      "url": "https://www.bilibili.com/video/BV1n1gN6VE7j",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:32.1万 | 弹幕:9316 | UP主:高斯Goh",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 320733,
+      "original_comments": 9316
+    },
+    {
+      "title": "什么⁉Bye bye baby blue翻译竟然是错的✖！",
+      "url": "https://www.bilibili.com/video/BV1tMby62EC4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:15.9万 | 弹幕:338 | UP主:毛毛qi",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 159474,
+      "original_comments": 338
+    },
+    {
+      "title": "Total War: WARHAMMER III",
+      "url": "https://store.steampowered.com/app/1142710",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-85% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8600,
+      "original_comments": 0
+    },
+    {
+      "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "url": "https://store.steampowered.com/app/2552430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $19",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cult of the Lamb",
+      "url": "https://store.steampowered.com/app/1313140",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "PEAK",
+      "url": "https://store.steampowered.com/app/3527290",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "No More Room in Hell 2",
+      "url": "https://store.steampowered.com/app/292000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk and PEAK\t",
+      "url": "https://store.steampowered.com/app/78920",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $16",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "url": "https://store.steampowered.com/app/2358720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $56",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "HELLDIVERS™ 2",
+      "url": "https://store.steampowered.com/app/553850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $41",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $14",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "IRON NEST: Heavy Turret Simulator",
+      "url": "https://store.steampowered.com/app/2950790",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 485,
+      "original_comments": 414
+    },
+    {
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 419,
+      "original_comments": 290
+    },
+    {
+      "title": "Asus Bike Booster",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 351,
+      "original_comments": 211
+    },
+    {
+      "title": "RISC-V: They Should Have Known Better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 296,
+      "original_comments": 358
+    },
+    {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253,
+      "original_comments": 88
+    },
+    {
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 249,
+      "original_comments": 179
+    },
+    {
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222,
+      "original_comments": 118
+    },
+    {
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 218,
+      "original_comments": 74
+    },
+    {
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 161,
+      "original_comments": 39
+    },
+    {
+      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 140,
+      "original_comments": 10
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 136,
+      "original_comments": 72
+    },
+    {
+      "title": "Software Engineering fundamentals matter more",
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 114,
+      "original_comments": 52
+    },
+    {
+      "title": "Path of Exile 2",
+      "url": "https://store.steampowered.com/app/2694490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$26",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Escape from Tarkov",
+      "url": "https://store.steampowered.com/app/3932890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$27",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "DragonSword : Awakening",
+      "url": "https://store.steampowered.com/app/4570720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Mortal Shell II",
+      "url": "https://store.steampowered.com/app/2584270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "A fortuitous decade as an indie software developer",
+      "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 77,
+      "original_comments": 9
+    },
+    {
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 73,
+      "original_comments": 28
+    },
+    {
+      "title": "Tracking down a Zsh history data loss bug",
+      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 69,
+      "original_comments": 24
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 827.92 📉-6.05(-0.73%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 955187,
+      "summary": "今日 827.92 | 📉 -6.05(-0.73%) | 最高 833.98 最低 827.82 | 连涨 -7天 | 成交额 ¥4363万 | 成交量 955187件 | 📈1327 ➡2398 📉3769"
+    }
+  ]
+}
