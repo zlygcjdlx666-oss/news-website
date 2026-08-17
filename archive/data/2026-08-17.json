@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-17",
+  "commentary": "哎哟我滴个乖乖，今天这CSGO大盘真是脸都跌绿了，连跌七天，成交额还缩水到四千多万。这哪是炒股啊，这是给V社的服务器交电费呢。要我说，这饰品市场比渣男的心还难猜，你以为是抄底，结果人家直接给你玩自由落体，套牢的兄弟别慌，实在不行把刀挂闲鱼，标个“传家宝”，主打一个信念感。\n\nB站这边更是神仙打架。影月月那原神七点零一条龙，一千多万播放，兄弟们，这哪是攻略啊，这是赛博导游带团，冰天雪地里硬生生走出了黄金旅游线路的架势。但最绝的还是那个《一切正常》的MV，日本全员说没问题，那问题就大了去了，这歌简直是当代社会生存图鉴，建议循环播放，治好了我多年的“报喜不报忧”精神内耗。\n\n至于那霸王龙偷自行车……我只能说，AI生成时代，连监控都能拍侏罗纪公园了，以后丢车别报警，先问问保安是不是穿越了。\n\n今日金句：**大盘绿得发慌，不如原神开荒；日子过得迷茫，看看霸王龙偷车忙。**",
+  "news": [
+    {
+      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:1066.7万 | 弹幕:6.9万 | UP主:你的影月月",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 10667249,
+      "original_comments": 69035
+    },
+    {
+      "title": "飞机安检模拟器",
+      "url": "https://www.bilibili.com/video/BV1fTb16KEDk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:591.5万 | 弹幕:5.1万 | UP主:鲤鱼Ace",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5915478,
+      "original_comments": 50571
+    },
+    {
+      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV18Tby67EG9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:464.5万 | 弹幕:4411 | UP主:超级神奇的木偶",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4645184,
+      "original_comments": 4411
+    },
+    {
+      "title": "《一切正常｜異常なし》MV：当所有日本人都说没问题 那问题大了",
+      "url": "https://www.bilibili.com/video/BV1Z9gT61EnM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:398.7万 | 弹幕:1552 | UP主:即兴演奏家",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3987386,
+      "original_comments": 1552
+    },
+    {
+      "title": "《干噎砒霜》",
+      "url": "https://www.bilibili.com/video/BV1LrbU66E1G",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:287.0万 | 弹幕:2273 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2870301,
+      "original_comments": 2273
+    },
+    {
+      "title": "【我在现代当幽差】EP01 大哥，你阳寿未尽啊【UP动画】",
+      "url": "https://www.bilibili.com/video/BV17Hgp6XEaR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:239.9万 | 弹幕:1968 | UP主:红豆稀饭中",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2399346,
+      "original_comments": 1968
+    },
+    {
+      "title": "什么⁉Bye bye baby blue翻译竟然是错的✖！",
+      "url": "https://www.bilibili.com/video/BV1tMby62EC4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:163.7万 | 弹幕:1857 | UP主:毛毛qi",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1637066,
+      "original_comments": 1857
+    },
+    {
+      "title": "龙 餐 馆 连 线 勇 哥",
+      "url": "https://www.bilibili.com/video/BV1o8b96pEQA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:137.9万 | 弹幕:770 | UP主:新世纪咖啡战士v",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1379064,
+      "original_comments": 770
+    },
+    {
+      "title": "我把全网热梗做成了捏捏乐【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV173b16eEPD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:130.8万 | 弹幕:297 | UP主:扎克鸡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1308465,
+      "original_comments": 297
+    },
+    {
+      "title": "速度要快、动作要帅！",
+      "url": "https://www.bilibili.com/video/BV1EqbU6VECe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:128.0万 | 弹幕:388 | UP主:麻怪与麻瓜",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1279881,
+      "original_comments": 388
+    },
+    {
+      "title": "当表情包也有了战力图，你最爱哪个表情包呢？",
+      "url": "https://www.bilibili.com/video/BV1fWbQ6UEFF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:126.9万 | 弹幕:2113 | UP主:爱鉴赏の子干",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1269029,
+      "original_comments": 2113
+    },
+    {
+      "title": "严浩翔生日会全程回顾：严浩翔YAN常热爱【2026时代少年团系列直播】",
+      "url": "https://www.bilibili.com/video/BV1e3gA6ZE7u",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:124.8万 | 弹幕:1835 | UP主:时代少年团",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1247635,
+      "original_comments": 1835
+    },
+    {
+      "title": "《鸣潮》共鸣者战斗演示 | 清宵",
+      "url": "https://www.bilibili.com/video/BV1q2b86sEZz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.3万 | 弹幕:4067 | UP主:鸣潮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1032743,
+      "original_comments": 4067
+    },
+    {
+      "title": "周处除三害现实版，我们干掉他了！",
+      "url": "https://www.bilibili.com/video/BV1VfbR6pEw9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:93.9万 | 弹幕:2604 | UP主:温柔JUNZ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 938762,
+      "original_comments": 2604
+    },
+    {
+      "title": "三角洲s11前瞻爆料",
+      "url": "https://www.bilibili.com/video/BV11Xb96qE97",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:90.8万 | 弹幕:3343 | UP主:杨齐家_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 908378,
+      "original_comments": 3343
+    },
+    {
+      "title": "【独家】《记忆管理局》第5集 主角光环【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1N2gp6iEn8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:79.2万 | 弹幕:6622 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 791815,
+      "original_comments": 6622
+    },
+    {
+      "title": "德穆兰Boss扮演来啦！重生之我在航天城当安保总监！胜者为王自建房下放！烽火1v1单挑房搞起！S11测试服爆料！",
+      "url": "https://www.bilibili.com/video/BV1kwbR6hEAV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.8万 | 弹幕:2590 | UP主:Key725",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 617640,
+      "original_comments": 2590
+    },
+    {
+      "title": "关于我的手工猫咪",
+      "url": "https://www.bilibili.com/video/BV1Axgg6aExW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.4万 | 弹幕:861 | UP主:麋鹿大佬",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 443646,
+      "original_comments": 861
+    },
+    {
+      "title": "【新赛季内容前瞻】大狗嚼，重生老太，长弓玩法变革！",
+      "url": "https://www.bilibili.com/video/BV1LXb86nEjd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:43.3万 | 弹幕:1678 | UP主:老飞宇66",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 432731,
+      "original_comments": 1678
+    },
+    {
+      "title": "第12期：收官之夜！无双唱将集结合唱《小美满》【国乐无双】",
+      "url": "https://www.bilibili.com/video/BV1KUbk6rE7q",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:33.9万 | 弹幕:793 | UP主:综艺哔哔机",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 339049,
+      "original_comments": 793
+    },
+    {
+      "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "url": "https://store.steampowered.com/app/2552430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cult of the Lamb",
+      "url": "https://store.steampowered.com/app/1313140",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "PEAK",
+      "url": "https://store.steampowered.com/app/3527290",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "No More Room in Hell 2",
+      "url": "https://store.steampowered.com/app/292000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $19",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk and PEAK\t",
+      "url": "https://store.steampowered.com/app/78920",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-32% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3300,
+      "original_comments": 0
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "url": "https://store.steampowered.com/app/2358720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "HELLDIVERS™ 2",
+      "url": "https://store.steampowered.com/app/553850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "IRON NEST: Heavy Turret Simulator",
+      "url": "https://store.steampowered.com/app/2950790",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "The Lord of the Rings: War in the North™ - Legacy Edition",
+      "url": "https://store.steampowered.com/app/2523770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "ReStory: Chill Electronics Repairs",
+      "url": "https://store.steampowered.com/app/3812600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 645,
+      "original_comments": 254
+    },
+    {
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 495,
+      "original_comments": 260
+    },
+    {
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 484,
+      "original_comments": 127
+    },
+    {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 433,
+      "original_comments": 191
+    },
+    {
+      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 338,
+      "original_comments": 206
+    },
+    {
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 278,
+      "original_comments": 113
+    },
+    {
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 228,
+      "original_comments": 214
+    },
+    {
+      "title": "The Life and Death of Direct File [pdf]",
+      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 184,
+      "original_comments": 91
+    },
+    {
+      "title": "Low-Tech Ceramic Water Filter",
+      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 174,
+      "original_comments": 44
+    },
+    {
+      "title": "Protobuf has LSP support",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 152,
+      "original_comments": 101
+    },
+    {
+      "title": "GIMP Development Update",
+      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 124,
+      "original_comments": 60
+    },
+    {
+      "title": "Reticulum – Decentralized Mesh Network",
+      "url": "https://reticulum.network/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 116,
+      "original_comments": 27
+    },
+    {
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 114,
+      "original_comments": 48
+    },
+    {
+      "title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
+      "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 105,
+      "original_comments": 70
+    },
+    {
+      "title": "Mortal Shell II",
+      "url": "https://store.steampowered.com/app/2584270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Hell Let Loose: Vietnam",
+      "url": "https://store.steampowered.com/app/3079210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck - Valve Certified Refurbished",
+      "url": "https://store.steampowered.com/app/2550670",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$279",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 90,
+      "original_comments": 28
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 820.73 📉-4.23(-0.51%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 913882,
+      "summary": "今日 820.73 | 📉 -4.23(-0.51%) | 最高 824.93 最低 820.29 | 连涨 -7天 | 成交额 ¥4322万 | 成交量 913882件 | 📈1343 ➡2259 📉3892"
+    }
+  ]
+}
