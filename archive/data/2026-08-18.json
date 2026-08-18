@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-18",
+  "commentary": "大伙儿看今天这数据没？CSGO大盘又涨了0.4%，成交额四千多万，乍一看挺红火。但我跟你们说，这玩意儿就是个数字游戏，连涨一天就敢吹？你点开明细看看，跌的比涨的多一千多件，典型的“指数遮羞布”。这玩意儿就跟炒股似的，庄家拉几个饰品控盘，散户跟风接盘，最后谁在裸泳，心里没点数吗？这波我劝各位老哥，捂好钱包，别当那个“最高822”的接盘侠。\n\n然后B站那边，原神7.0一条龙视频播放量直接干到一千两百万，影月月这哥们儿是真肝帝，我服。但更让我乐的是那个“自行车被偷，保安发现霸王龙”的AI视频，五百多万播放。你说现在这AI整活儿，已经离谱到用恐龙追贼了？这保安要是真看见霸王龙，第一反应应该是报警还是打博物馆电话？不过说真的，这玩意儿能火，恰恰说明大伙儿就爱看这种一本正经的胡说八道，比那些假模假式的正能量带劲多了。\n\n**今日金句：** 大盘涨跌都是戏，AI整活才是真；要是生活欺骗了你，你就打开原神去冰原捡神瞳。",
+  "news": [
+    {
+      "title": "【原神一条龙全收集】至冬7.0(成就数345/冰神瞳140/摩拉120/影生翼滴58)古兽冰原+焰羽谷+永凝冻土+霜殛寒峰+白桦雪藏地/玉帛/原神7.0一条龙",
+      "url": "https://www.bilibili.com/video/BV1BMgj6MEz4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:1235.1万 | 弹幕:8.1万 | UP主:你的影月月",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 12351428,
+      "original_comments": 81326
+    },
+    {
+      "title": "极品金灵根各峰主都想收我为徒#meme剧场",
+      "url": "https://www.bilibili.com/video/BV1x6gu6AEyb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:654.5万 | 弹幕:980 | UP主:狸果宝",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6544582,
+      "original_comments": 980
+    },
+    {
+      "title": "自行车被偷后，保安在监控里发现了霸王龙？#SpecialForAAIFF【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV18Tby67EG9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:594.8万 | 弹幕:5969 | UP主:超级神奇的木偶",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5948252,
+      "original_comments": 5969
+    },
+    {
+      "title": "奥特曼中 出了一个怪兽的卧底【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1wrba6iE56",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:364.1万 | 弹幕:1753 | UP主:istupidpig",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3640872,
+      "original_comments": 1753
+    },
+    {
+      "title": "地球毁灭后，人类只剩四条路｜你会把文明带向哪里？",
+      "url": "https://www.bilibili.com/video/BV1DTbv6xEHK",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:218.0万 | 弹幕:2108 | UP主:丁达尔的梦-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2179596,
+      "original_comments": 2108
+    },
+    {
+      "title": "《关于室友邀请我参加他婚礼这件事》",
+      "url": "https://www.bilibili.com/video/BV1QWb16sEjm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:211.7万 | 弹幕:742 | UP主:张天翊yi",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2117304,
+      "original_comments": 742
+    },
+    {
+      "title": "我们不欢迎这样的客人，也不赚这种米",
+      "url": "https://www.bilibili.com/video/BV1Neba63EDK",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:172.3万 | 弹幕:2005 | UP主:谢谢侬陈森",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1722938,
+      "original_comments": 2005
+    },
+    {
+      "title": "特效小哥大战逗比的雀巢！",
+      "url": "https://www.bilibili.com/video/BV1mkbQ6iEWJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:162.5万 | 弹幕:4838 | UP主:特效小哥studio",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1625116,
+      "original_comments": 4838
+    },
+    {
+      "title": "当搞艺术的一切需求得到满足",
+      "url": "https://www.bilibili.com/video/BV1DybY6pEiA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:161.7万 | 弹幕:867 | UP主:想想工作室",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1617141,
+      "original_comments": 867
+    },
+    {
+      "title": "忍术回战   26分钟沉浸式观看",
+      "url": "https://www.bilibili.com/video/BV1GNbv6ZE1N",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:150.2万 | 弹幕:5129 | UP主:牙牙的包裹",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1501853,
+      "original_comments": 5129
+    },
+    {
+      "title": "《鸣潮》共鸣者「清宵」PV | 修行",
+      "url": "https://www.bilibili.com/video/BV1GFbk6LEVm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:125.6万 | 弹幕:6447 | UP主:鸣潮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1256233,
+      "original_comments": 6447
+    },
+    {
+      "title": "我这一生最大的罪，是把人写成了妖……",
+      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:121.7万 | 弹幕:2194 | UP主:青瓜蛋丶",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1216886,
+      "original_comments": 2194
+    },
+    {
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:101.6万 | 弹幕:8607 | UP主:PlayStation",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1016084,
+      "original_comments": 8607
+    },
+    {
+      "title": "三角洲s11老太扮演全局实况",
+      "url": "https://www.bilibili.com/video/BV1Kibi6xEUq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:97.3万 | 弹幕:4289 | UP主:周二过后是周一",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 972687,
+      "original_comments": 4289
+    },
+    {
+      "title": "微酸的青苹果",
+      "url": "https://www.bilibili.com/video/BV1Dxbe6sEgk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:96.4万 | 弹幕:600 | UP主:刺妮酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 963940,
+      "original_comments": 600
+    },
+    {
+      "title": "意外穿越怪谈世界，十二星座决定你的专属变身 第二期 （下） ASMR",
+      "url": "https://www.bilibili.com/video/BV1ynbv62EUZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:66.5万 | 弹幕:749 | UP主:Aismr_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 665036,
+      "original_comments": 749
+    },
+    {
+      "title": "差点被系统误判扣分了，还好机制公平没冤枉我",
+      "url": "https://www.bilibili.com/video/BV1Zibv6iE55",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:62.8万 | 弹幕:801 | UP主:磊哥游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 627797,
+      "original_comments": 801
+    },
+    {
+      "title": "《商务柔道》",
+      "url": "https://www.bilibili.com/video/BV1cqb86hE8B",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:55.2万 | 弹幕:420 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 551595,
+      "original_comments": 420
+    },
+    {
+      "title": "【独家】《百日成王》第17集 每一场应援就像一场战斗！【7月国创】",
+      "url": "https://www.bilibili.com/video/BV1ndgp68EVE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.0万 | 弹幕:1044 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 500188,
+      "original_comments": 1044
+    },
+    {
+      "title": "替你们试了网上各种干巴酸奶过滤效果,还是。。。。。",
+      "url": "https://www.bilibili.com/video/BV1Fzb86FEyA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:43.1万 | 弹幕:253 | UP主:沫沫超爱喝",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 430871,
+      "original_comments": 253
+    },
+    {
+      "title": "EA Play",
+      "url": "https://store.steampowered.com/app/1289670",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-83% | $1",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8400,
+      "original_comments": 0
+    },
+    {
+      "title": "Kingdom Come: Deliverance II",
+      "url": "https://store.steampowered.com/app/1771300",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "PEAK",
+      "url": "https://store.steampowered.com/app/3527290",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Sandustry",
+      "url": "https://store.steampowered.com/app/2764460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "url": "https://store.steampowered.com/app/2358720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "url": "https://store.steampowered.com/app/1643320",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $14",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "IRON NEST: Heavy Turret Simulator",
+      "url": "https://store.steampowered.com/app/2950790",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Pax Autocratica",
+      "url": "https://store.steampowered.com/app/1067360",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-17% | $25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1800,
+      "original_comments": 0
+    },
+    {
+      "title": "The Lord of the Rings: War in the North™ - Legacy Edition",
+      "url": "https://store.steampowered.com/app/2523770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 855,
+      "original_comments": 524
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 624,
+      "original_comments": 112
+    },
+    {
+      "title": "Ask HN: Alternatives to GitHub",
+      "url": "https://news.ycombinator.com/item?id=49331033",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 586,
+      "original_comments": 368
+    },
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 468,
+      "original_comments": 324
+    },
+    {
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 449,
+      "original_comments": 292
+    },
+    {
+      "title": "Olo (Color)",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 419,
+      "original_comments": 80
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 412,
+      "original_comments": 243
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 367,
+      "original_comments": 141
+    },
+    {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 338,
+      "original_comments": 161
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 321,
+      "original_comments": 134
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 295,
+      "original_comments": 175
+    },
+    {
+      "title": "Sun Clock",
+      "url": "https://sunclock.net/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 223,
+      "original_comments": 73
+    },
+    {
+      "title": "An update on leaving Gmail for Fastmail",
+      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 215,
+      "original_comments": 136
+    },
+    {
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 209,
+      "original_comments": 42
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 177,
+      "original_comments": 41
+    },
+    {
+      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 163,
+      "original_comments": 62
+    },
+    {
+      "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
+      "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 144,
+      "original_comments": 49
+    },
+    {
+      "title": "India has paved the way for charging merchants a fee on UPI transactions",
+      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 144,
+      "original_comments": 173
+    },
+    {
+      "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
+      "url": "https://www.nature.com/articles/d41586-026-02498-1",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 132,
+      "original_comments": 40
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 102,
+      "original_comments": 58
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 821.24 📈+3.29(+0.4%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 949017,
+      "summary": "今日 821.24 | 📈 +3.29(+0.4%) | 最高 822.42 最低 817.97 | 连涨 1天 | 成交额 ¥4469万 | 成交量 949017件 | 📈1783 ➡2453 📉3258"
+    }
+  ]
+}
