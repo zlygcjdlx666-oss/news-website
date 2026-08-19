@@ -1,0 +1,668 @@
+{
+  "date": "2026-08-19",
+  "commentary": "哎，朋友们，今天这新闻看得磊哥我是又惊又喜，跟坐过山车似的。\n\n先说个提气的，蓝箭航天朱雀三号回收成功！这可不是小事儿，说明咱中国商业航天也迈进了“可回收”俱乐部。以前看马斯克那火箭跟窜天猴似的上天又落地，咱只能“羡慕嫉妒恨”，现在好了，咱自己也能把火箭当“筷子”夹回来了。这波操作，硬气！\n\n再瞅瞅大洋彼岸，特朗普又玩“变脸”艺术，对加拿大关税说暂停三天就暂停三天，合着这贸易战是拍连续剧呢？三天一更，比追剧还累。这哪是谈判，这是耍猴呢。\n\n不过最让磊哥我“血压飙升”的，还得是那DDR5内存条，12个月暴涨500%！现在装台电脑，内存钱能顶一台主机了。资本是闻着AI的味儿就跑了，留下咱们普通消费者在风中凌乱。这哪是内存条，这是理财产品啊！比炒股还刺激。\n\n今日金句：**科技树点歪了，镰刀自然就长歪了。** 咱还是赶紧把钱包捂紧实点吧！",
+  "news": [
+    {
+      "title": "蓝箭航天成功回收朱雀三号火箭第一级",
+      "url": "https://www.solidot.org/story?sid=85134",
+      "source": "Solidot",
+      "score": 10,
+      "summary": "蓝箭航天朱雀三号火箭完成第二次飞行，第一级成功软着陆，成为继美国Falcon 9和New Shepard之后又一实现火箭回收的壮举，标志着中国商业航天迈入新阶段。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普暂停对加拿大新关税三天，称协议接近达成",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国总统特朗普宣布暂停对加拿大商品加征新关税三天，称双方正在敲定文件以避免贸易战，为紧张的贸易谈判带来一丝缓和。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta被诉“让儿童上瘾”，美国法庭开审",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国30个州联合起诉Meta，指控其通过算法和设计让儿童沉迷Facebook和Instagram。庭审开始，Meta辩称社交媒体成瘾不存在，若败诉或面临万亿美元索赔。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国机器人巨头宇树科技上市首日股价飙升",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "全球最大的人形机器人制造商宇树科技在上海科创板上市，首日股价大涨，引发市场关注，并催生一批亿万富翁。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "DDR5内存条价格12个月暴涨500%",
+      "url": "https://www.solidot.org/story?sid=85133",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "受AI热潮影响，内存厂商将产能转向高带宽内存（HBM），导致消费级DDR5内存条供应短缺，价格在过去一年内飙升500%，128GB套装售价高达3399美元。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "诺基亚大幅缩减中国业务，计划裁员关厂",
+      "url": "https://www.solidot.org/story?sid=85135",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "诺基亚宣布年底前裁减大部分在华员工并关闭工厂，仅保留售后服务，约7200名员工受影响，采用N+3补偿方案。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果开发配备摄像头的AirPods耳机",
+      "url": "https://www.solidot.org/story?sid=85128",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "据macOS系统代码显示，苹果正在研发配备摄像头的AirPods，可通过AI进行目标识别，如识别书籍信息，产品已接近发布状态。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta面临修改社媒算法和设计的诉讼",
+      "url": "https://www.solidot.org/story?sid=85123",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "美国30个州联合起诉Meta的案件开审，指控其平台设计对儿童有害。若败诉，Meta可能被迫改变核心功能并面临高达万亿美元的索赔。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI为青少年推出更安全的ChatGPT版本",
+      "url": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "OpenAI发布针对青少年的ChatGPT安全更新，减少拟人化表达，避免青少年误以为AI有生命，但强调并非针对特定事件。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Twitch用户愤怒：亚马逊默认用其内容训练AI",
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Twitch平台推出“选择退出”机制，默认允许亚马逊使用用户直播内容训练生成式AI，引发用户强烈不满和批评。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "能源账单上涨推动英国通胀率升至四个月新高",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国能源价格攀升导致通胀率加速上涨，达到四个月以来的最高水平，物价上涨速度加快。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "全球借贷成本因石油、AI和通胀担忧创历史新高",
+      "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "受石油、AI投资和通胀担忧影响，美国、英国、德国和日本的长期政府债券利率大幅飙升，全球借贷成本触及历史高位。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "被解职的乌克兰国防部长呼吁举行总统选举",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "乌克兰自2022年以来实施戒严，暂停选举。被解职的国防部长公开呼吁举行总统选举，引发政治关注。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国谴责以色列空袭叙利亚空军基地为“不必要的升级”",
+      "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "以色列对叙利亚空军基地发动空袭，大马士革称其为“无理的侵略行为”，美国则谴责此举是“不必要的升级”，地区紧张局势加剧。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加沙数千人仍失踪，家属痛苦寻找答案",
+      "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "停火十个月后，加沙仍有数千名巴勒斯坦人下落不明，家属在痛苦中寻找亲人的下落，人道主义危机持续。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "关键科技设施转入地下以保安全",
+      "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "乌克兰战争促使各国考虑将关键基础设施（如数据中心和通信网络）转入地下，以躲避攻击和自然灾害。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "二手书销量激增，或因AI训练数据需求",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "书商报告出现神秘的批量订单，怀疑这些书籍被用于训练AI，最终被拆解扫描后销毁，导致二手书市场异常火爆。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "珍稀图书被追踪至亚马逊AI训练设施",
+      "url": "https://www.solidot.org/story?sid=85119",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "404 Media通过内置AirTag追踪一批珍稀图书，发现它们最终被送往亚马逊的仓库，用于AI训练数据，过程中图书被拆解销毁。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "迪士尼和ABC起诉特朗普媒体监管机构",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "迪士尼和ABC起诉特朗普政府的媒体监管机构，反对提前吊销广播执照，指控其因不满ABC内容而进行报复。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国被曝性贿赂3名中国足协人士",
+      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%80%A7%E8%B4%BF%E8%B5%823%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E4%BA%BA%E5%A3%AB&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "有报道称韩国方面曾对3名中国足协相关人士进行性贿赂，事件引发广泛关注和讨论。",
+      "categories": [
+        "社会",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "iPhone 18发布会或定档9月9日",
+      "url": "https://s.weibo.com/weibo?q=iPhone18%E5%8F%91%E5%B8%83%E4%BC%9A%E6%88%96%E5%AE%9A%E6%A1%A39%E6%9C%889%E6%97%A5&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "据微博热搜消息，苹果新一代iPhone 18发布会可能定于9月9日举行，引发果粉期待。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "劝阻吸烟被打男子起诉上海迪士尼",
+      "url": "https://s.weibo.com/weibo?q=%E5%8A%9D%E9%98%BB%E5%90%B8%E7%83%9F%E8%A2%AB%E6%89%93%E7%94%B7%E5%AD%90%E8%B5%B7%E8%AF%89%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "一名男子在上海迪士尼劝阻吸烟时被打，随后起诉迪士尼，事件引发公众对公共场所吸烟和安全管理问题的讨论。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SK海力士拟回购286亿美元股份",
+      "url": "https://s.weibo.com/weibo?q=SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%8B%9F%E5%9B%9E%E8%B4%AD286%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E4%BB%BD&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "韩国半导体巨头SK海力士宣布计划回购286亿美元股份，以提升股东价值，应对市场变化。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "出生后限制糖分摄入与成年后更低癌症风险相关",
+      "url": "https://www.solidot.org/story?sid=85131",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究利用二战后英国糖配额制的历史数据发现，出生后前1000天限制糖分摄入，与成年后更低的癌症风险相关。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国青少年吸烟率降至历史新低1.4%",
+      "url": "https://www.solidot.org/story?sid=85127",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "FDA年度调查显示，2025年美国青少年吸烟率降至历史最低的1.4%，远低于1997年高峰期的水平。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "极端高温对老年人口危害比预期更大",
+      "url": "https://www.solidot.org/story?sid=85126",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "《柳叶刀-公共卫生》研究指出，老年人因生理机能退化，在极端高温下面临更大健康风险，随着全球人口老龄化，影响将加剧。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日常饮用含糖饮料与胃癌风险上升相关",
+      "url": "https://www.solidot.org/story?sid=85124",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Mass General Brigham医院研究发现，每天至少喝一杯含糖饮料会使胃癌风险增加两倍以上，研究分析了超11万人的数据。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic CEO称对AI的抵触根源在于信任危机",
+      "url": "https://www.solidot.org/story?sid=85122",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Anthropic CEO Dario Amodei表示，公众对AI的抵触情绪源于企业、政府和科技行业普遍存在的信任危机，而非AI风险警告本身。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "通过Zoom解雇900名雇员的CEO被解雇",
+      "url": "https://www.solidot.org/story?sid=85120",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "2021年因通过Zoom会议解雇900名员工而臭名昭著的Better.com CEO Vishal Garg，五年后自己也遭解雇。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "亚马逊税：电商巨头的税务争议",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Hacker News热议“亚马逊税”现象，讨论电商巨头在税务方面的争议和影响，引发对公平税收的思考。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 1157,
+      "original_comments": 622
+    },
+    {
+      "title": "Cerebras发布CS-4 AI芯片",
+      "url": "https://www.cerebras.ai/cs4",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "AI芯片公司Cerebras推出新一代CS-4芯片，旨在挑战英伟达在AI训练市场的地位，引发业界关注。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 255,
+      "original_comments": 179
+    },
+    {
+      "title": "Meta大规模审判引发与“大烟草”类比",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Meta因儿童成瘾问题面临审判，有评论将其与“大烟草”公司类比，认为其明知危害却仍追求利润。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 222,
+      "original_comments": 169
+    },
+    {
+      "title": "苹果宣布欧盟应用商店政策变更",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "苹果宣布针对欧盟市场的App Store政策调整，以符合《数字市场法案》要求，可能影响应用分发和支付方式。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 180,
+      "original_comments": 245
+    },
+    {
+      "title": "25年视频专利到期，Linux摆脱法律困扰",
+      "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一项困扰Linux社区长达25年的视频编码专利终于到期，为开源操作系统解除了法律风险。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 175,
+      "original_comments": 59
+    },
+    {
+      "title": "Mojo语言宣布开源",
+      "url": "https://www.modular.com/blog/modcon-announcements",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "由Modular开发、现归Qualcomm所有的Mojo编程语言宣布开源，该语言旨在结合Python的易用性与C的性能。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 18,
+      "original_comments": 1
+    },
+    {
+      "title": "MoneyPrinterTurbo：AI一键生成短视频",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目MoneyPrinterTurbo在GitHub爆火，利用AI大模型和自动化工作流，可根据主题或关键词一键生成高清短视频。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "public-apis：免费API集合列表",
+      "url": "https://github.com/public-apis/public-apis",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "GitHub热门项目public-apis整理了海量免费API资源，为开发者提供便捷的接口查找工具，今日新增1005星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenCut：开源的CapCut替代品",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源视频编辑工具OpenCut在GitHub上受到关注，作为CapCut的替代方案，提供免费的视频剪辑功能。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Comcast将数百万路由器变成运动探测器",
+      "url": "https://www.solidot.org/story?sid=85132",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "美国通信公司Comcast在数百万台Xfinity网关上启用Wi-Fi运动感应功能，通过信号中断探测室内运动，作为安全服务的一部分。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Firefox 154释出：新增本地网络保护",
+      "url": "https://www.solidot.org/story?sid=85130",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Mozilla发布Firefox 154，新增Local Network Access保护，支持WebSocket连接，并引入Smart Window标签页分组功能。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Google拍下破产航空公司Spirit的数据",
+      "url": "https://www.solidot.org/story?sid=85129",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Google以1000万美元拍下已破产的Spirit航空公司的数据资产，该公司在疫情后倒闭，目前正清算资产。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "罕见病例：40岁女性同时患有四种自身免疫性疾病",
+      "url": "https://www.solidot.org/story?sid=85125",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "北京中医院报告一例罕见病例，一名40岁女性同时患有溃疡性结肠炎、自身免疫性肝炎等四种自身免疫性疾病。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Web开发者不再重视Web标准",
+      "url": "https://www.solidot.org/story?sid=85121",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "一项名为ValidateHTML的项目检查了5000个最流行网站，发现大量网站存在HTML错误，表明Web标准遵循度下降。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "花41元从中国坐火车去蒙古国，探访当地真实生活",
+      "url": "https://www.bilibili.com/video/BV1XbgF6SEfr",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主小钟Johnny分享从中国坐火车去蒙古国的经历，仅花41元，并展示了蒙古国的现状和当地人生活，引发热议。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 1669832,
+      "original_comments": 8257
+    },
+    {
+      "title": "萨特：当所有人都在定义你，你还能怎么做自己？",
+      "url": "https://www.bilibili.com/video/BV1pN8g6yE7m",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站科普UP主大圆镜科普发布哲学视频，探讨萨特的存在主义思想，引发网友对自我定义的思考，播放量超222万。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 2221970,
+      "original_comments": 1560
+    },
+    {
+      "title": "Mochi：每个浏览器标签页里的小动画猫",
+      "url": "https://www.producthunt.com/products/githumochib",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt上发布了一款名为Mochi的可爱产品，能在每个浏览器标签页中显示一只小动画猫，为浏览体验增添趣味。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Paper Critters：儿童友好的纸玩具",
+      "url": "https://www.producthunt.com/products/paper-critters",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt上推出Paper Critters，一款儿童友好的纸玩具，可免费装饰，并符合COPPA安全标准，寓教于乐。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "宜家产品名称的由来",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News上热议宜家如何为其产品命名，探讨这家瑞典家具巨头独特的命名体系和文化背景。",
+      "categories": [
+        "趣闻",
+        "其他"
+      ],
+      "original_score": 338,
+      "original_comments": 216
+    },
+    {
+      "title": "超音速投石机视频",
+      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News上分享了一段超音速投石机的视频，展示了这一古老武器在现代工程下的惊人威力，引发网友惊叹。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 88,
+      "original_comments": 20
+    },
+    {
+      "title": "ZZ Top鼓手Frank Beard去世，享年77岁",
+      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "美国蓝调摇滚乐队ZZ Top的鼓手Frank Beard于周一在临终关怀中心去世，享年77岁，乐队官网发布声明。",
+      "categories": [
+        "娱乐",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "我当首相两年，内阁却抛弃了我——游戏《No.10》体验",
+      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "一款名为《No.10: Full Confidence》的移动游戏在英国App Store付费榜上超过《我的世界》，玩家可体验当首相的滋味。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 809.52 📉-7.08(-0.87%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 924526,
+      "summary": "今日 809.52 | 📉 -7.08(-0.87%) | 最高 816.59 最低 809.52 | 连涨 -7天 | 成交额 ¥3861万 | 成交量 924526件 | 📈1341 ➡2204 📉3949"
+    }
+  ]
+}
