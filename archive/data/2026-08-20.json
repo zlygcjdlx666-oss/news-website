@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-20",
+  "commentary": "家人们，今儿这大盘看得我直犯困，809.56，涨了五分钱，连涨一天，成交额倒是快四千万了——我说这CSGO饰品市场是搁这儿搞“温水煮青蛙”呢？涨不上去也跌不下来，散户们拿着印花集和蝴蝶刀，眼巴巴等着“再涨一点就跑”，结果主力在背后偷偷出货。记住磊哥一句话：这行情，比七夕节单身狗的夜还难熬。\n\n但真正炸裂的还得是《影之刃零》和《黑神话：钟馗》这俩实机演示，加起来一千多万播放，弹幕都快把屏幕糊穿了。我说实话，国产单机这波是“憋大招”憋到肾亏，终于放出点真东西了。影之刃那个水墨风格加高速战斗，看得我肾上腺素飙升；钟馗那个15分钟，阴间美学直接拉满，比那些只会抽卡氪金的手游不知道高到哪里去了。但磊哥得泼盆冷水——现在吹得越狠，发售时摔得越惨，参考某款“年度最佳”翻车现场，咱得稳住，别急着封神。\n\n最后必须夸夸那个外卖小哥，电动车直接撞翻持刀歹徒，这波操作属于“物理超度”，比什么超级英雄都真实。建议警方给小哥发个“年度最强路人王”锦旗，顺便把电动车报销了——这才是真·社会正能量，比那些摆拍剧本强一万倍。\n\n今日金句：**股市可以绿，但国产游戏的魂不能丢；视频可以水，但外卖小哥的腰杆必须硬。**",
+  "news": [
+    {
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:658.1万 | 弹幕:1.5万 | UP主:PlayStation",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6581093,
+      "original_comments": 15241
+    },
+    {
+      "title": "《黑神话：钟馗》15分钟实机演示",
+      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:461.1万 | 弹幕:8.8万 | UP主:黑神话",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4611003,
+      "original_comments": 87674
+    },
+    {
+      "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
+      "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:461.0万 | 弹幕:1292 | UP主:小憩memories",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4609612,
+      "original_comments": 1292
+    },
+    {
+      "title": "七夕节老番茄就和自己玩游戏",
+      "url": "https://www.bilibili.com/video/BV1q28V6VEYU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:268.9万 | 弹幕:2.0万 | UP主:老番茄",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2688938,
+      "original_comments": 19519
+    },
+    {
+      "title": "各个省份早餐对比（第一期）",
+      "url": "https://www.bilibili.com/video/BV15a856kEtX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:265.7万 | 弹幕:597 | UP主:猫meme团子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2657458,
+      "original_comments": 597
+    },
+    {
+      "title": "外卖小哥用电动车撞翻持刀男子，目击者赞撞翻持刀男子小哥有勇有谋",
+      "url": "https://www.bilibili.com/video/BV1K78n67EkC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:221.8万 | 弹幕:1843 | UP主:九派新闻",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2217657,
+      "original_comments": 1843
+    },
+    {
+      "title": "《鸡来》一个半小时超长电影！！！",
+      "url": "https://www.bilibili.com/video/BV1NBbe6jEzz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:214.3万 | 弹幕:3651 | UP主:限时理想-背带侠",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2142688,
+      "original_comments": 3651
+    },
+    {
+      "title": "当朋友总用奇怪的皮肤和你一起玩...",
+      "url": "https://www.bilibili.com/video/BV1Hn8j6ZEqN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:178.4万 | 弹幕:2067 | UP主:MC_东方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1784498,
+      "original_comments": 2067
+    },
+    {
+      "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
+      "url": "https://www.bilibili.com/video/BV1BS876oEwP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:148.0万 | 弹幕:594 | UP主:阿蔡美食雕刻",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1479906,
+      "original_comments": 594
+    },
+    {
+      "title": "你们忍得住不说吗？",
+      "url": "https://www.bilibili.com/video/BV1u4876CE5w",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:145.9万 | 弹幕:3701 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1459490,
+      "original_comments": 3701
+    },
+    {
+      "title": "我的蚊子生病了，带它去看病",
+      "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:125.3万 | 弹幕:3027 | UP主:柯铭和四只熊孩子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1252576,
+      "original_comments": 3027
+    },
+    {
+      "title": "他予回声StarToU | MacGuffin<打歌舞台-排练版>公开",
+      "url": "https://www.bilibili.com/video/BV1bM8E6yEYd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:121.2万 | 弹幕:1431 | UP主:他予回声StarToU",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1212364,
+      "original_comments": 1431
+    },
+    {
+      "title": "怪谈逃生指南第一期：《恶魔法典》",
+      "url": "https://www.bilibili.com/video/BV1iv8j6EE77",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:116.9万 | 弹幕:7212 | UP主:是许木木啊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1168996,
+      "original_comments": 7212
+    },
+    {
+      "title": "好专业的煎饼果子来一套",
+      "url": "https://www.bilibili.com/video/BV18UgK6cEX8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:110.4万 | 弹幕:584 | UP主:地方美食文集录",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1103801,
+      "original_comments": 584
+    },
+    {
+      "title": "华人美女酒驾，魅力征服警察，全程公主般待遇，4个警察抢着送她 | Eric长安万年",
+      "url": "https://www.bilibili.com/video/BV1iQ8L6mE9o",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.4万 | 弹幕:3595 | UP主:eric长安万年",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1034072,
+      "original_comments": 3595
+    },
+    {
+      "title": "【独家/完结】《将夜》第19集 光明之夜【4月国创】",
+      "url": "https://www.bilibili.com/video/BV1UE8p6WEP3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:83.5万 | 弹幕:2341 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 835002,
+      "original_comments": 2341
+    },
+    {
+      "title": "【七夕】我用50部电影来感受《出现又离开》这首歌，发现早已热泪盈眶",
+      "url": "https://www.bilibili.com/video/BV1Ee8n6vExr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.6万 | 弹幕:2302 | UP主:音乐私藏馆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 646409,
+      "original_comments": 2302
+    },
+    {
+      "title": "【IGN】《黑神话：钟馗》实机演示",
+      "url": "https://www.bilibili.com/video/BV1SDbZ6sETi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:63.0万 | 弹幕:5112 | UP主:IGN中国",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 630420,
+      "original_comments": 5112
+    },
+    {
+      "title": "停更7年，我又以经典的方式玩MC",
+      "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:30.7万 | 弹幕:5175 | UP主:时空小涵",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 306538,
+      "original_comments": 5175
+    },
+    {
+      "title": "18岁，我做了一个希望永远没人用上的AI产品【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1BvbZ6eE3J",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:21.4万 | 弹幕:2 | UP主:知安局",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 214229,
+      "original_comments": 2
+    },
+    {
+      "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "url": "https://store.steampowered.com/app/2552430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $22",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Kingdom Come: Deliverance II",
+      "url": "https://store.steampowered.com/app/1771300",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $36",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "url": "https://store.steampowered.com/app/2358720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $63",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "url": "https://store.steampowered.com/app/1643320",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $63",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "IRON NEST: Heavy Turret Simulator",
+      "url": "https://store.steampowered.com/app/2950790",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $22",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Pax Autocratica",
+      "url": "https://store.steampowered.com/app/1067360",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-17% | $35",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1800,
+      "original_comments": 0
+    },
+    {
+      "title": "Project P.I.T.T.",
+      "url": "https://store.steampowered.com/app/4026250",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $12",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Hearth and Hamlet",
+      "url": "https://store.steampowered.com/app/4315040",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "ReStory: Chill Electronics Repairs",
+      "url": "https://store.steampowered.com/app/3812600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $27",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 888,
+      "original_comments": 142
+    },
+    {
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 828,
+      "original_comments": 427
+    },
+    {
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 620,
+      "original_comments": 171
+    },
+    {
+      "title": "Google has stopped pushing Git tags for some Android source code",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 519,
+      "original_comments": 215
+    },
+    {
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 473,
+      "original_comments": 78
+    },
+    {
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 368,
+      "original_comments": 304
+    },
+    {
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 358,
+      "original_comments": 217
+    },
+    {
+      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+      "url": "https://theremin.bizibah.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 272,
+      "original_comments": 92
+    },
+    {
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 259,
+      "original_comments": 94
+    },
+    {
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 258,
+      "original_comments": 107
+    },
+    {
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 245,
+      "original_comments": 141
+    },
+    {
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 201,
+      "original_comments": 49
+    },
+    {
+      "title": "Turns are Better than Radians (2022)",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 195,
+      "original_comments": 84
+    },
+    {
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 167,
+      "original_comments": 194
+    },
+    {
+      "title": "Sol loves to cheat",
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 161,
+      "original_comments": 103
+    },
+    {
+      "title": "Extensible Software in the age of LLMs",
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 148,
+      "original_comments": 60
+    },
+    {
+      "title": "A faster way to calculate the day of the week",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 133,
+      "original_comments": 22
+    },
+    {
+      "title": "Windows brings out the Rorschach test in everyone",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 130,
+      "original_comments": 50
+    },
+    {
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 125,
+      "original_comments": 14
+    },
+    {
+      "title": "The little-known winstart.bat batch file",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 113,
+      "original_comments": 31
+    },
+    {
+      "title": "Mortal Shell II",
+      "url": "https://store.steampowered.com/app/2584270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 809.56 📈+0.42(+0.05%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1049397,
+      "summary": "今日 809.56 | 📈 +0.42(+0.05%) | 最高 811.26 最低 808.65 | 连涨 1天 | 成交额 ¥3973万 | 成交量 1049397件 | 📈1534 ➡2256 📉3704"
+    }
+  ]
+}
