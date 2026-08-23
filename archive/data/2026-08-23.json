@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-23",
+  "commentary": "来来来，先看CSGO大盘，涨了0.72%，成交额五千万。我跟你讲，这数字比A股还稳，至少它不割散户韭菜，割的是开箱赌狗。连涨两天？别高兴太早，这玩意儿跟年轻人的发际线一样，涨两天就得给你跌回原形。\n\n再说说B站那个“窒息45秒”的炸鸡店事件。全网疯传？我看是全网焦虑。年轻人被压得喘不过气，连吃个炸鸡都能整出哲学悲剧。商家只管出餐速度，谁管你打工人那45秒里咽下去的是鸡块还是委屈？这新闻最讽刺的是，评论区一群人共情，第二天照样去排队。悲哀吗？不，这叫清醒地沉沦。\n\n最后那个“把人写成了妖”的，播放量一千多万。我看不是把人写成了妖，是把现实写成了魔幻。UP主在玩梗，观众在照镜子。现在这世道，当人太累，当妖反而自由。弹幕里刷“罪过”，我看最大的罪是大家都学会了装疯卖傻。\n\n今日金句：**大盘涨跌只是数字，人生的K线才是真行情——可惜没人和你对赌。**",
+  "news": [
+    {
+      "title": "我这一生最大的罪，是把人写成了妖……",
+      "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:1280.5万 | 弹幕:3.2万 | UP主:青瓜蛋丶",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 12805347,
+      "original_comments": 31650
+    },
+    {
+      "title": "\"复活吧！我的（ ）\"",
+      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:465.8万 | 弹幕:3497 | UP主:HL-Flame",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4658040,
+      "original_comments": 3497
+    },
+    {
+      "title": "我收容了100位粉丝到我的一辈子存档里！",
+      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:426.8万 | 弹幕:1.6万 | UP主:与山0v0",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4267909,
+      "original_comments": 15829
+    },
+    {
+      "title": "真的...没有人类了",
+      "url": "https://www.bilibili.com/video/BV1au8F6wEhC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:325.1万 | 弹幕:2293 | UP主:人类观察所",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3250537,
+      "original_comments": 2293
+    },
+    {
+      "title": "我正在烧烤…哦不是..思考..",
+      "url": "https://www.bilibili.com/video/BV1RT816FEYe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:251.8万 | 弹幕:1625 | UP主:青浦模子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2518181,
+      "original_comments": 1625
+    },
+    {
+      "title": "严肃观看儿子的历史记录",
+      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:216.6万 | 弹幕:8179 | UP主:逗比的雀巢",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2165679,
+      "original_comments": 8179
+    },
+    {
+      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
+      "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:170.3万 | 弹幕:7715 | UP主:战双帕弥什",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1702536,
+      "original_comments": 7715
+    },
+    {
+      "title": "上学都被没收过哪些东西？",
+      "url": "https://www.bilibili.com/video/BV1UL8169EUX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:169.9万 | 弹幕:3936 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1699093,
+      "original_comments": 3936
+    },
+    {
+      "title": "商家绝不会告诉你的真相！历经394天，我们终于揭开了防晒喷雾行业的漏洞！",
+      "url": "https://www.bilibili.com/video/BV1ra8C6NEDh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:157.4万 | 弹幕:338 | UP主:老爸评测",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1574283,
+      "original_comments": 338
+    },
+    {
+      "title": "【独家】牧神记 第97集 登基",
+      "url": "https://www.bilibili.com/video/BV1rg8y6uEtG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:149.9万 | 弹幕:8343 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1498873,
+      "original_comments": 8343
+    },
+    {
+      "title": "奶龙大战僵尸最终版",
+      "url": "https://www.bilibili.com/video/BV1ev8z62EU4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:139.0万 | 弹幕:1342 | UP主:格里奶斯",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1389518,
+      "original_comments": 1342
+    },
+    {
+      "title": "没人会记得神作之下的第二名，除非那一年都是神仙！",
+      "url": "https://www.bilibili.com/video/BV1rv8m6UEiU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:108.9万 | 弹幕:1338 | UP主:燃茶哥哥在此",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1089411,
+      "original_comments": 1338
+    },
+    {
+      "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
+      "url": "https://www.bilibili.com/video/BV1ES876dErp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:99.6万 | 弹幕:2810 | UP主:小椰子专栏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 996056,
+      "original_comments": 2810
+    },
+    {
+      "title": "原来我是只蚊子！",
+      "url": "https://www.bilibili.com/video/BV1Br8m6yEaS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:92.2万 | 弹幕:484 | UP主:薪儿姐师尊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 922352,
+      "original_comments": 484
+    },
+    {
+      "title": "护理：一把斩向死亡的温柔刀",
+      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:70.7万 | 弹幕:1797 | UP主:大圆镜科普",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 706705,
+      "original_comments": 1797
+    },
+    {
+      "title": "全 网 最 骇 人 的 动 画 教 程 4.0",
+      "url": "https://www.bilibili.com/video/BV1x68y6UESE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:70.6万 | 弹幕:565 | UP主:滑铲师SQsir",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 705689,
+      "original_comments": 565
+    },
+    {
+      "title": "【纪录片TV】大乾乾被撞成两半了……",
+      "url": "https://www.bilibili.com/video/BV1db8x6VE73",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.2万 | 弹幕:1096 | UP主:大乾乾是顾乾宇",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 651886,
+      "original_comments": 1096
+    },
+    {
+      "title": "真的要玩这么大吗？？？",
+      "url": "https://www.bilibili.com/video/BV1nT866REM6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:57.2万 | 弹幕:1901 | UP主:伢伢gagako",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 571920,
+      "original_comments": 1901
+    },
+    {
+      "title": "【独家】《记忆管理局》第6集 空洞【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1GT8F6YEKY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.4万 | 弹幕:8346 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 443645,
+      "original_comments": 8346
+    },
+    {
+      "title": "原创民俗AI短片《槐灯》",
+      "url": "https://www.bilibili.com/video/BV15B8z61EbV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.6万 | 弹幕:1490 | UP主:二白午",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 295535,
+      "original_comments": 1490
+    },
+    {
+      "title": "Total War: WARHAMMER III",
+      "url": "https://store.steampowered.com/app/1142710",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-85% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8600,
+      "original_comments": 0
+    },
+    {
+      "title": "Kingdom Come: Deliverance II",
+      "url": "https://store.steampowered.com/app/1771300",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Stray",
+      "url": "https://store.steampowered.com/app/1332010",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $14",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Outer Wilds",
+      "url": "https://store.steampowered.com/app/753640",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $14",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Sandustry",
+      "url": "https://store.steampowered.com/app/2764460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "url": "https://store.steampowered.com/app/2358720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "url": "https://store.steampowered.com/app/1643320",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gallipoli",
+      "url": "https://store.steampowered.com/app/3065940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $22",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "VHOLUME",
+      "url": "https://store.steampowered.com/app/4131730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $6",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 392,
+      "original_comments": 115
+    },
+    {
+      "title": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 367,
+      "original_comments": 196
+    },
+    {
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 337,
+      "original_comments": 80
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 325,
+      "original_comments": 110
+    },
+    {
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 277,
+      "original_comments": 118
+    },
+    {
+      "title": "typ.ing",
+      "url": "https://typ.ing/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 262,
+      "original_comments": 88
+    },
+    {
+      "title": "A Friendly Introduction to Racket",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 226,
+      "original_comments": 119
+    },
+    {
+      "title": "New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 202,
+      "original_comments": 130
+    },
+    {
+      "title": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 199,
+      "original_comments": 35
+    },
+    {
+      "title": "A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 190,
+      "original_comments": 212
+    },
+    {
+      "title": "Thinking in Python",
+      "url": "https://thinkinginpython.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 156,
+      "original_comments": 33
+    },
+    {
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 153,
+      "original_comments": 51
+    },
+    {
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "url": "https://atproto.com/blog/atproto-spaces-alpha",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 142,
+      "original_comments": 18
+    },
+    {
+      "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 136,
+      "original_comments": 66
+    },
+    {
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 125,
+      "original_comments": 28
+    },
+    {
+      "title": "Autolith: A programming agent with a live runtime",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 123,
+      "original_comments": 48
+    },
+    {
+      "title": "To become a better writer, read as much as you can",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 111,
+      "original_comments": 60
+    },
+    {
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 105,
+      "original_comments": 27
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1039",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 831.44 📈+5.94(+0.72%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 971666,
+      "summary": "今日 831.44 | 📈 +5.94(+0.72%) | 最高 833.54 最低 825.74 | 连涨 2天 | 成交额 ¥5190万 | 成交量 971666件 | 📈2367 ➡2341 📉2786"
+    }
+  ]
+}
