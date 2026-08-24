@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-24",
+  "commentary": "哎哟我去，今天这盘面绿得跟张伟的头顶似的，CSGO大盘又跌了，成交额四千多万，看着热闹，其实都是散户在那儿左手倒右手。我早说了，饰品市场现在就是击鼓传花，你以为是理财，其实是给庄家送外卖，连个好评都不带给的。\n\n但今天真正扎心的，是那个“窒息45秒”的炸鸡店视频。全网疯传，播放四百多万，看着是店员跟顾客起冲突，实际上呢？那是底层打工人在生存线上被按在地上摩擦的缩影。年轻人不是悲哀，是累到连愤怒都像在喘气。别光顾着刷弹幕“破防了”，你上去可能连那45秒都撑不住。\n\n还有那个“复活吧！我的（）”，播放六百多万，弹幕五千八。我寻思着，你们天天搁这儿玩梗，到底想复活啥？是逝去的青春，还是A股的大盘？要我说，先别急着复活别的，把咱这CSGO的账户余额复活一下比啥都强。\n\n**今日金句：你永远叫不醒一个装睡的人，但你能用一条短视频让他装死。**",
+  "news": [
+    {
+      "title": "\"复活吧！我的（ ）\"",
+      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:603.5万 | 弹幕:5807 | UP主:HL-Flame",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6035317,
+      "original_comments": 5807
+    },
+    {
+      "title": "全网疯传深圳某炸鸡店“窒息45秒”事件，暴露年轻人的悲哀困境",
+      "url": "https://www.bilibili.com/video/BV1ES876dErp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:410.7万 | 弹幕:6398 | UP主:小椰子专栏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4106748,
+      "original_comments": 6398
+    },
+    {
+      "title": "严肃观看儿子的历史记录",
+      "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:363.2万 | 弹幕:1.0万 | UP主:逗比的雀巢",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3632191,
+      "original_comments": 10245
+    },
+    {
+      "title": "【纪录片TV】大乾乾被撞成两半了……",
+      "url": "https://www.bilibili.com/video/BV1db8x6VE73",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:349.0万 | 弹幕:2496 | UP主:大乾乾是顾乾宇",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3489985,
+      "original_comments": 2496
+    },
+    {
+      "title": "护理：一把斩向死亡的温柔刀",
+      "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:312.9万 | 弹幕:4507 | UP主:大圆镜科普",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3128547,
+      "original_comments": 4507
+    },
+    {
+      "title": "【战双帕弥什】「于频率中相汇」全球线上音乐会回顾",
+      "url": "https://www.bilibili.com/video/BV1VH8K67ENH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:292.4万 | 弹幕:1.3万 | UP主:战双帕弥什",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2923897,
+      "original_comments": 12988
+    },
+    {
+      "title": "原来我是只蚊子！",
+      "url": "https://www.bilibili.com/video/BV1Br8m6yEaS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:241.1万 | 弹幕:1287 | UP主:薪儿姐师尊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2411479,
+      "original_comments": 1287
+    },
+    {
+      "title": "搞笑疯人院：满级病友竟是大佬！大家都有病的时候，楚闻野张口闭口就喊桑九舅舅，桑九也觉得楚闻野是个好孩子，就是脑子不太好。",
+      "url": "https://www.bilibili.com/video/BV1j38B65Eyw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:172.9万 | 弹幕:6296 | UP主:修仙摆烂王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1728607,
+      "original_comments": 6296
+    },
+    {
+      "title": "Attention 注意别喝多",
+      "url": "https://www.bilibili.com/video/BV11S826nE2Z",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:134.5万 | 弹幕:913 | UP主:莫梓艺大笑",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1344662,
+      "original_comments": 913
+    },
+    {
+      "title": "日本社畜吃点啥？私密马赛老板✋🏻😭🤚🏻瓦塔西只是午休找餐馆花了丁点儿时间",
+      "url": "https://www.bilibili.com/video/BV1rF8B6QECt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:131.4万 | 弹幕:1522 | UP主:大阪流浪社长",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1313693,
+      "original_comments": 1522
+    },
+    {
+      "title": "原创民俗AI短片《槐灯》",
+      "url": "https://www.bilibili.com/video/BV15B8z61EbV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:130.1万 | 弹幕:4978 | UP主:二白午",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1301437,
+      "original_comments": 4978
+    },
+    {
+      "title": "警员执法遇F-18战机坠落，6700万战损，飞行员报警求助！",
+      "url": "https://www.bilibili.com/video/BV1P38x6dET4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:111.5万 | 弹幕:7114 | UP主:爱看热闹的大鹏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1114560,
+      "original_comments": 7114
+    },
+    {
+      "title": "我做了两个一模一样的视频，你被分配到的是——真人手搓版",
+      "url": "https://www.bilibili.com/video/BV1tA8U68ESF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:102.5万 | 弹幕:177 | UP主:阿星and阿奇",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1024939,
+      "original_comments": 177
+    },
+    {
+      "title": "当星界军穿越绝地潜兵？【战锤胡诌】",
+      "url": "https://www.bilibili.com/video/BV1Gqb663EwV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.8万 | 弹幕:1038 | UP主:一碗龙虾汤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 818064,
+      "original_comments": 1038
+    },
+    {
+      "title": "僵 尸 进 村",
+      "url": "https://www.bilibili.com/video/BV15v8x6gEjN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:79.4万 | 弹幕:1157 | UP主:次级英雄娄不凡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 793676,
+      "original_comments": 1157
+    },
+    {
+      "title": "【不是规则怪谈】前考古队员给即将要去考古的同学一点经验",
+      "url": "https://www.bilibili.com/video/BV1Gd846yErD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:74.0万 | 弹幕:914 | UP主:一棵一棵",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 739778,
+      "original_comments": 914
+    },
+    {
+      "title": "放弃一切，只为等你",
+      "url": "https://www.bilibili.com/video/BV1f38b6pE5x",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:60.1万 | 弹幕:455 | UP主:三金啊GC",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 600754,
+      "original_comments": 455
+    },
+    {
+      "title": "325",
+      "url": "https://www.bilibili.com/video/BV1Wq846oExx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.5万 | 弹幕:505 | UP主:我才不是嘉年",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 584879,
+      "original_comments": 505
+    },
+    {
+      "title": "以色列狠狠压力美国",
+      "url": "https://www.bilibili.com/video/BV1rg8Y6zET2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:54.5万 | 弹幕:3918 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 545365,
+      "original_comments": 3918
+    },
+    {
+      "title": "「小白」小米玄戒O3芯片实测解析：太豪了！",
+      "url": "https://www.bilibili.com/video/BV1b68v6oEv9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:15.7万 | 弹幕:2671 | UP主:小白测评",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 156799,
+      "original_comments": 2671
+    },
+    {
+      "title": "Persona 5 Royal",
+      "url": "https://store.steampowered.com/app/1687950",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Persona 3 Reload",
+      "url": "https://store.steampowered.com/app/2161700",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-65% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6600,
+      "original_comments": 0
+    },
+    {
+      "title": "Kingdom Come: Deliverance II",
+      "url": "https://store.steampowered.com/app/1771300",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "No More Room in Hell 2",
+      "url": "https://store.steampowered.com/app/292000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $19",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "url": "https://store.steampowered.com/app/2358720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
+      "url": "https://store.steampowered.com/app/4294490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $6",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish X Gamble With Your Friends",
+      "url": "https://store.steampowered.com/app/83697",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-19% | $12",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2000,
+      "original_comments": 0
+    },
+    {
+      "title": "VHOLUME",
+      "url": "https://store.steampowered.com/app/4131730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Lantern of the Laughless Saint",
+      "url": "https://store.steampowered.com/app/3849000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 834,
+      "original_comments": 243
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 482,
+      "original_comments": 434
+    },
+    {
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 436,
+      "original_comments": 151
+    },
+    {
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 401,
+      "original_comments": 128
+    },
+    {
+      "title": "A website for debloated open source alternatives",
+      "url": "https://debloat.dev/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 328,
+      "original_comments": 104
+    },
+    {
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 307,
+      "original_comments": 72
+    },
+    {
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 300,
+      "original_comments": 132
+    },
+    {
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 291,
+      "original_comments": 88
+    },
+    {
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 239,
+      "original_comments": 123
+    },
+    {
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 228,
+      "original_comments": 84
+    },
+    {
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 176,
+      "original_comments": 104
+    },
+    {
+      "title": "Fable and the end of the free lunch",
+      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 149,
+      "original_comments": 131
+    },
+    {
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 138,
+      "original_comments": 26
+    },
+    {
+      "title": "Explain it to me like I'm ten",
+      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 132,
+      "original_comments": 49
+    },
+    {
+      "title": "Prime Status Upgrade",
+      "url": "https://store.steampowered.com/app/54029",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Mortal Shell II",
+      "url": "https://store.steampowered.com/app/2584270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "STAR WARS Zero Company™",
+      "url": "https://store.steampowered.com/app/2075800",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Fallout 1st",
+      "url": "https://store.steampowered.com/app/1202520",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "New EU-wide product repair rules come into force",
+      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 95,
+      "original_comments": 22
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 826.24 📉-3.49(-0.42%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 942535,
+      "summary": "今日 826.24 | 📉 -3.49(-0.42%) | 最高 830.31 最低 823.12 | 连涨 -1天 | 成交额 ¥4264万 | 成交量 942535件 | 📈1557 ➡2659 📉3278"
+    }
+  ]
+}
