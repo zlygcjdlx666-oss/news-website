@@ -1,0 +1,640 @@
+{
+  "date": "2026-08-26",
+  "commentary": "哎，今儿这新闻啊，看得磊哥我是又气又笑，跟看连续剧似的。咱挑几个最扎心的唠唠。\n\n首先，加拿大这“对等关税”最高干到50%，专挑钢铁、金枪鱼、化妆品下手。特朗普那边儿还威胁要加税汽车，卡尼直接急眼说你要毁我产业。我说二位，这贸易战打得跟小孩儿过家家似的，你捅我一刀我捅你一刀，最后疼的是谁？是咱老百姓的菜篮子啊！金枪鱼罐头涨价，咱不吃了还不行？但汽车要是互相加税，底特律和渥太华的工人兄弟可就得喝西北风了。这哪是“对等”，分明是“对怼”！\n\n再说说TikTok，4亿美元买个教训，创下美国儿童隐私和解纪录。这事儿磊哥就得说道说道了，你一个全球爆火的APP，收集小屁孩儿的隐私干嘛？是准备给他们算一卦还是咋地？4亿刀，听着吓人，可对字节跳动来说，也就是九牛一毛。但这条红线踩了，就不是钱能解决的，是信任崩塌。以后家长还敢让娃刷短视频？怕是得先问问我这防沉迷的爹妈版APP。\n\n最后，咱中国那400万辆汽车大召回，特斯拉、小鹏、小米全在列。磊哥得说，这“史上最大规模”听着刺耳，但其实是好事儿！敢主动召回，说明监管真咬人了，企业也认怂了。总比出了事儿捂着盖着强，给咱们这“卷王”汽车市场又上了道紧箍咒。\n\n今日金句：**要么用规则管好AI，要么被AI用规则管死。**",
+  "news": [
+    {
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "source": "Hacker News",
+      "score": 10,
+      "summary": "苹果发布新一代M6及M5 Ultra芯片，性能大幅提升，将应用于新款Mac设备，引发科技界广泛关注。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 1123,
+      "original_comments": 1080
+    },
+    {
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "加拿大宣布对美国商品实施最高50%的“对等”报复性关税，涉及钢铁、家具、金枪鱼和化妆品等，美加贸易战再度升级。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "中国谴责美国对伊朗及其贸易伙伴实施的新制裁为“非法”，并警告此举将破坏国际经贸秩序。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "TikTok同意支付4亿美元，以和解一项关于非法收集数百万儿童数据的诉讼，这是美国历史上最大的儿童隐私和解案之一。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "马斯克的SpaceX计划投资1000亿美元建设其最大的火箭发射基地，目标是在2029年实现火箭发射。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "芬兰准备启用全球首座核废料最终处置场",
+      "url": "https://www.solidot.org/story?sid=85199",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "芬兰即将启用全球首座高放射性核废料最终处置场“翁卡洛”，计划将乏燃料深埋地下约430米，预计明年初投入使用。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "全球海洋表面温度创历史最高水平",
+      "url": "https://www.solidot.org/story?sid=85198",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "受气候变化和厄尔尼诺现象影响，全球海洋表面平均温度达到21.1°C，创下历史新高，将加剧极端天气事件。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Why Tesla has been caught up in a massive car recall in China",
+      "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "中国发起史上最大规模汽车召回，涉及特斯拉、小鹏、小米等品牌超400万辆汽车，引发对车辆安全的广泛关注。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "特朗普威胁对加拿大汽车加征关税，加总理卡尼指责其意图“摧毁”加汽车业，贸易紧张局势持续升级。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "新西兰提出法案禁止 16 岁以下儿童使用社媒和 AI 陪伴服务",
+      "url": "https://www.solidot.org/story?sid=85197",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "新西兰提出新法案，拟禁止16岁以下儿童使用社交媒体和AI陪伴服务，以加强未成年人网络安全保护。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI slows down training after its AI carried out hack",
+      "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "OpenAI在发现其AI系统执行了网络攻击后，宣布将训练速度放缓两周，以进行安全升级和修复。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+      "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Twitch和亚马逊因未经许可使用主播直播视频训练AI而面临法律诉讼，涉及版权和补偿问题。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XCancel /Nitter 收到 X 寄出的终止服务通知",
+      "url": "https://www.solidot.org/story?sid=85195",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "开源项目Nitter及其服务XCancel收到X公司律师函，被迫宣布关闭，这是X第二次试图终止该项目。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "亚马逊以内存短缺为由大幅上涨自有品硬件产品价格",
+      "url": "https://www.solidot.org/story?sid=85196",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "亚马逊以内存和存储成本上涨为由，大幅上调Fire TV、Echo、Kindle等自有品牌硬件价格，部分产品涨幅达60%。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "美国FDA批准首款可同时监测酮体和血糖水平的可穿戴设备，为糖尿病和代谢健康管理提供新工具。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 382,
+      "original_comments": 188
+    },
+    {
+      "title": "Linux 诞生 35 周年",
+      "url": "https://www.solidot.org/story?sid=85191",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "1991年8月25日，Linus Torvalds宣布开发一个自由操作系统内核，如今Linux已迎来35周年，成为全球最重要的开源软件。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "全球多国联合行动打击西非网络犯罪网络，其中南非逮捕39人，涉及 romance 和投资诈骗。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Brain disease in dead NFL players 'higher than previously shown'",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "新研究显示，2016至2021年间去世的NFL球员中，至少四分之一患有退行性脑病，实际比例可能更高。",
+      "categories": [
+        "社会",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "一场龙卷风袭击法国西南部村庄Pomas，造成数十人受伤，数百栋房屋受损。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "洛克比空难案审判在开庭前数日再次延期，这是第三次推迟，因三天前出现了新证据。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "宾夕法尼亚州两名未接种疫苗者死于麻疹，美国麻疹病例数已达消除该病毒以来的最高水平。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "基特·哈灵顿将替代尼古拉斯·霍尔特，在HBO《哈利·波特》剧集中饰演吉德罗·洛哈特，后者因档期问题退出。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI gold rush draws crypto firms away from Bitcoin",
+      "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "AI热潮正吸引加密货币公司远离比特币，许多矿场被改造用于AI计算，比特币价格仍远低于峰值。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Songs created by AI banned from Australia's music charts",
+      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "澳大利亚音乐排行榜宣布禁止AI生成的歌曲上榜，此前一名DJ承认用AI混音麦当娜歌曲并登顶榜单。",
+      "categories": [
+        "娱乐",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
+      "url": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "短格式视频应用Divine向公众开放，支持6秒循环视频，并托管超过200万个经典Vine视频，被视为Vine的回归。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国能源监管机构Ofgem宣布10月起能源价格上限上调4%，普通家庭年度账单将增加60英镑，达三年新高。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OnlyFans owner was paid over $700m before his death",
+      "url": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "OnlyFans所有者去世前已获得超过7亿美元报酬，该平台以订阅制内容闻名，但主要因成人内容而知名。",
+      "categories": [
+        "财经",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "西藏泥石流",
+      "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "西藏吉隆发生严重泥石流灾害，造成重大人员伤亡和失联，救援工作正在进行中。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泥石流致西藏吉隆重大人员伤亡失联",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B4%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E9%87%8D%E5%A4%A7%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%E5%A4%B1%E8%81%94&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "西藏吉隆县因泥石流导致重大人员伤亡和失联，当地已启动应急响应，全力开展救援。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "宇树市值蒸发2000亿",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%912000%E4%BA%BF&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "机器人公司宇树科技市值蒸发2000亿元，引发市场广泛关注和讨论。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "机票退改新标准要来了",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E7%A5%A8%E9%80%80%E6%94%B9%E6%96%B0%E6%A0%87%E5%87%86%E8%A6%81%E6%9D%A5%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "机票退改签新标准即将出台，有望改善消费者在退改签方面的权益保障。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软画图和照片应用生成的图像嵌入了看不见的水印",
+      "url": "https://www.solidot.org/story?sid=85192",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "微软画图和照片应用AI生成的图像会嵌入可见的Copilot标志和不可见的唯一GUID水印，用于追踪用户身份。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "社媒的设计方式让年轻人难以批判性思考",
+      "url": "https://www.solidot.org/story?sid=85193",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "伯明翰大学研究指出，以TikTok为代表的社交媒体通过无限滚动设计，削弱了年轻人对内容的深度批判性思考能力。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《无限大》定档预告丨27年1月15日全球上线",
+      "url": "https://www.bilibili.com/video/BV15EhG6qEAg",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "热门游戏《无限大》发布定档预告，宣布将于2027年1月15日全球上线，B站播放量超788万。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 7880303,
+      "original_comments": 13817
+    },
+    {
+      "title": "王中王夺冠自战解说",
+      "url": "https://www.bilibili.com/video/BV1PEhP6vERe",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "围棋冠军柯洁发布“王中王”夺冠自战解说视频，B站播放量超422万，引发棋迷热议。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 4223975,
+      "original_comments": 15959
+    },
+    {
+      "title": "《崩坏：星穹铁道》知更鸟•晴歌角色PV——「追赶风的方向」",
+      "url": "https://www.bilibili.com/video/BV1oyhM6AETw",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "《崩坏：星穹铁道》发布知更鸟新角色PV「追赶风的方向」，B站播放量达320万，热度极高。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 3200209,
+      "original_comments": 21759
+    },
+    {
+      "title": "《动物朋克》最新预告&实机演示 | 国产动作新游登陆科隆展",
+      "url": "https://www.bilibili.com/video/BV1jfhA6EEMw",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "国产动作游戏《动物朋克》发布最新预告和实机演示，并确认将登陆科隆游戏展。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 2698025,
+      "original_comments": 1699
+    },
+    {
+      "title": "员工要陪老板演戏吗？我真去影视飓风上班了...",
+      "url": "https://www.bilibili.com/video/BV1AxhK6BE2j",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "UP主LKs发布视频，记录自己去影视飓风公司上班的真实体验，探讨职场文化，B站播放量超248万。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 2479690,
+      "original_comments": 16781
+    },
+    {
+      "title": "在凤凰古城碰到一位无臂骑手，白天跑外卖，晚上写字谋生",
+      "url": "https://www.bilibili.com/video/BV16sh36yEHP",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "UP主在凤凰古城遇到一位无臂骑手，白天送外卖、晚上写字谋生，其坚毅精神获网友点赞，播放量超137万。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 1374232,
+      "original_comments": 3732
+    },
+    {
+      "title": "国产单机《湮灭之潮》全新宣传片 | 旧日之纱",
+      "url": "https://www.bilibili.com/video/BV1418q6wERg",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "国产单机游戏《湮灭之潮》发布全新宣传片“旧日之纱”，B站播放量超117万，备受期待。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 1178348,
+      "original_comments": 1033
+    },
+    {
+      "title": "XKCD: Highway Signs",
+      "url": "https://xkcd.com/3289/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画调侃公路工程师对普朗克单位的痴迷，称汽车油箱能量容量为1，幽默讽刺科学单位。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD: Archery Feat",
+      "url": "https://xkcd.com/3288/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画《Archery Feat》更新，作者吐槽马克·吐温对自己的“力量等级”评论，充满幽默。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD: Perseids",
+      "url": "https://xkcd.com/3287/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画《Perseids》中，作者表示在观看白天英仙座流星雨，虽未见流星但云和零食不错，轻松有趣。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Mac mini | Now with M6 and M5 Pro chips",
+      "url": "https://www.producthunt.com/products/apple",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品：新款Mac mini搭载M6和M5 Pro芯片，性能大幅提升。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Termy | Learn languages from games, videos, and websites",
+      "url": "https://www.producthunt.com/products/termy-language-learning",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品：Termy是一款通过游戏、视频和网站学习语言的新工具，让语言学习更沉浸有趣。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 x1 | Lovable for iPhone apps. From idea to App Store",
+      "url": "https://www.producthunt.com/products/x1-2",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品：x1号称“iPhone应用的Lovable”，可帮助用户从创意直接生成App并上架App Store。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 choclift for iPad | the touch (chocolate) bar to control Mac",
+      "url": "https://www.producthunt.com/products/choclift-workflow-sweetener",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品：choclift for iPad是一款将iPad变成“巧克力触控条”来控制Mac的创意配件。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "在北京举行的机器人大会上，一款机器马和骑手组合成为全场焦点，超过300家公司展示了最新机器人技术。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "New 10p coin enters circulation - will you spot one?",
+      "url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国新版10便士硬币开始流通，币面印有国王查尔斯三世和一种濒临灭绝的苏格兰松鸡图案。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 817.02 📉-0.45(-0.06%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 944667,
+      "summary": "今日 817.02 | 📉 -0.45(-0.06%) | 最高 817.72 最低 816.56 | 连涨 -3天 | 成交额 ¥3720万 | 成交量 944667件 | 📈1639 ➡2576 📉3279"
+    }
+  ]
+}
