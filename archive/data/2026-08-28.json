@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-28",
+  "commentary": "哎哟我滴妈，打开热搜一看，孙宇晨和景甜这出大戏比CSGO开箱还刺激啊！前脚币圈大佬还在喊单，后脚就上演“彩礼追讨”的连续剧，三千万？我看孙哥这是把区块链的“不可篡改”用到婚恋市场了，想上链锁死呢。不过话说回来，娱乐圈和金融圈一接轨，果然全是“空气币”项目，PPT画得比谁都圆，最后全是一地鸡毛。\n\n再说这CSGO大盘，连涨三天，成交额一千多万，我寻思这玩意儿比A股稳多了啊。这哪是游戏饰品，分明是当代年轻人的“数字黄金”。但磊哥劝各位一句，咱玩的是情怀，别把身家性命压上去，小心最后连“刀”都租不起。\n\n最后看看LPL比赛和GTA6预告，一个图一乐，一个爷青回。还是那句话，这年头，看别人打游戏比自己上班都操心。\n\n今日金句：**“币圈的爱情像空气，涨的时候是泡沫，跌的时候是空气；而我们的青春，就像CSGO的皮肤，看着值钱，其实早就磨损了。”**",
+  "news": [
+    {
+      "title": "币圈富豪孙宇晨手撕景甜，索赔3千万彩礼，娱乐圈+金融圈惊天巨瓜！",
+      "url": "https://www.bilibili.com/video/BV1N1tF6SE2S",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:391.3万 | 弹幕:2.6万 | UP主:一只吐槽圆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3913366,
+      "original_comments": 25598
+    },
+    {
+      "title": "我被100名警察追捕，抓到我赢50万美金！",
+      "url": "https://www.bilibili.com/video/BV1bMhV6PEtE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:365.2万 | 弹幕:6972 | UP主:野兽先生MrBeast",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3652410,
+      "original_comments": 6972
+    },
+    {
+      "title": "这盘棋已经赢不了，只能把对面打死了！",
+      "url": "https://www.bilibili.com/video/BV1DR8e6tE3P",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:358.5万 | 弹幕:3374 | UP主:修2",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3584692,
+      "original_comments": 3374
+    },
+    {
+      "title": "怪兽中 出了一个...不对！是一群奥特曼的卧底！【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1DNhw6iE1V",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:258.6万 | 弹幕:1459 | UP主:istupidpig",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2586103,
+      "original_comments": 1459
+    },
+    {
+      "title": "吃瓜必看！一个视频带你全面复盘景甜、孙宇晨炸裂大瓜！娱乐圈还是太乱了",
+      "url": "https://www.bilibili.com/video/BV1JJtF6qEgn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:216.6万 | 弹幕:4582 | UP主:三代鹿人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2165544,
+      "original_comments": 4582
+    },
+    {
+      "title": "炸了！3亿代孕费！片场互相睡！2026头号大瓜新鲜出炉！",
+      "url": "https://www.bilibili.com/video/BV1XT4f6dED8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:200.8万 | 弹幕:3235 | UP主:LexBurner",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2007591,
+      "original_comments": 3235
+    },
+    {
+      "title": "蒙眼挑战之泥坑剪绳子恐惧版！",
+      "url": "https://www.bilibili.com/video/BV1doh56EE1c",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:198.3万 | 弹幕:747 | UP主:三一八本人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1983182,
+      "original_comments": 747
+    },
+    {
+      "title": "接下来一万期都是这家剁椒面了",
+      "url": "https://www.bilibili.com/video/BV1Wz8b6PEgU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:145.0万 | 弹幕:1626 | UP主:庞博zoro",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1450171,
+      "original_comments": 1626
+    },
+    {
+      "title": "【2026LPL第三赛段】8月28日 TT vs IG",
+      "url": "https://www.bilibili.com/video/BV166tA6SECF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:143.3万 | 弹幕:1.4万 | UP主:哔哩哔哩英雄联盟赛事",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1432772,
+      "original_comments": 13625
+    },
+    {
+      "title": "三姐妹凌晨醉酒后，居然？？？ 【雷霆姐妹花2】",
+      "url": "https://www.bilibili.com/video/BV1QX8e6fE3g",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:142.4万 | 弹幕:6585 | UP主:宝剑嫂",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1424452,
+      "original_comments": 6585
+    },
+    {
+      "title": "【招笑版】新植物2:朝阳葵",
+      "url": "https://www.bilibili.com/video/BV1P6496fExM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:97.7万 | 弹幕:282 | UP主:时空go蛙",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 977109,
+      "original_comments": 282
+    },
+    {
+      "title": "Grand Theft Auto VI：分量十足的一瞥",
+      "url": "https://www.bilibili.com/video/BV1vm4f6bETN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:95.2万 | UP主:RockstarGames",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 951974,
+      "original_comments": 0
+    },
+    {
+      "title": "中国首位逃离塔科夫专属主播定制道具拥有者——油墨香车",
+      "url": "https://www.bilibili.com/video/BV1Gp4963Egk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:86.9万 | 弹幕:428 | UP主:油墨香车",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 868816,
+      "original_comments": 428
+    },
+    {
+      "title": "寿星来切蛋糕啦！！「谁是杀手」？？！",
+      "url": "https://www.bilibili.com/video/BV1Go8f6PEHd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:77.8万 | 弹幕:6.1万 | UP主:大炒面制造者Cen",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 777954,
+      "original_comments": 60764
+    },
+    {
+      "title": "这不是幻想",
+      "url": "https://www.bilibili.com/video/BV137tc6ZExx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:73.9万 | 弹幕:2030 | UP主:7鲸尾",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 738857,
+      "original_comments": 2030
+    },
+    {
+      "title": "美术展里的假人模型，为何变成了真人尸体...？",
+      "url": "https://www.bilibili.com/video/BV1NC4Z6VEUQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:71.8万 | 弹幕:1.4万 | UP主:某幻君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 717586,
+      "original_comments": 13983
+    },
+    {
+      "title": "看了10年网络热门生物，无穷小亮能看出AI吗？",
+      "url": "https://www.bilibili.com/video/BV1eVtc6hEhn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:70.7万 | 弹幕:6647 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 707120,
+      "original_comments": 6647
+    },
+    {
+      "title": "“无法善终的王。”",
+      "url": "https://www.bilibili.com/video/BV1Bktc66EA7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.6万 | 弹幕:249 | UP主:Mr-Ferret",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 526304,
+      "original_comments": 249
+    },
+    {
+      "title": "《绝区零》3.2版本PV | 她与她的隐秘往事",
+      "url": "https://www.bilibili.com/video/BV1vRtA6gE5m",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.2万 | 弹幕:1836 | UP主:绝区零",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 482202,
+      "original_comments": 1836
+    },
+    {
+      "title": "耗时一年，救赎相信光的小女孩，完整后续来了！",
+      "url": "https://www.bilibili.com/video/BV1Jrtc6GEVU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:45.6万 | 弹幕:1854 | UP主:扯淡人生-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 456290,
+      "original_comments": 1854
+    },
+    {
+      "title": "Hogwarts Legacy",
+      "url": "https://store.steampowered.com/app/990080",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $6",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "Manor Lords",
+      "url": "https://store.steampowered.com/app/1363080",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $26",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $56",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Ambitions",
+      "url": "https://store.steampowered.com/app/1331550",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Far Far West",
+      "url": "https://store.steampowered.com/app/3124540",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $16",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Forza Horizon 6",
+      "url": "https://store.steampowered.com/app/2483190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Get your Windows license refund",
+      "url": "https://en.refund4freedom.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 568,
+      "original_comments": 227
+    },
+    {
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 415,
+      "original_comments": 143
+    },
+    {
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 387,
+      "original_comments": 303
+    },
+    {
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 351,
+      "original_comments": 322
+    },
+    {
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 340,
+      "original_comments": 112
+    },
+    {
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 328,
+      "original_comments": 180
+    },
+    {
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "url": "https://www.orbify.eu/demo/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 323,
+      "original_comments": 113
+    },
+    {
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 318,
+      "original_comments": 73
+    },
+    {
+      "title": "Hilariously fast volume computation with the divergence theorem (2018)",
+      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 224,
+      "original_comments": 60
+    },
+    {
+      "title": "Migrating to HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 170,
+      "original_comments": 74
+    },
+    {
+      "title": "The Twelve-Factor App",
+      "url": "https://12factor.net/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 154,
+      "original_comments": 80
+    },
+    {
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 147,
+      "original_comments": 51
+    },
+    {
+      "title": "State of the Map 2026",
+      "url": "https://2026.stateofthemap.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 107,
+      "original_comments": 41
+    },
+    {
+      "title": "STAR WARS Zero Company™",
+      "url": "https://store.steampowered.com/app/2075800",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "ELDEN RING Tarnished Pack",
+      "url": "https://store.steampowered.com/app/3655690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "NBA 2K27",
+      "url": "https://store.steampowered.com/app/4356430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "An investigation into the state of corvid–human relations",
+      "url": "https://www.audubon.org/magazine/are-crows-really-our-friends",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 91,
+      "original_comments": 52
+    },
+    {
+      "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
+      "url": "https://www.nature.com/articles/d41586-026-02506-4",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 81,
+      "original_comments": 111
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 832.05 📈+2.03(+0.24%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 244130,
+      "summary": "今日 832.05 | 📈 +2.03(+0.24%) | 最高 832.06 最低 830.03 | 连涨 3天 | 成交额 ¥1110万 | 成交量 244130件 | 📈1630 ➡4656 📉1208"
+    }
+  ]
+}
