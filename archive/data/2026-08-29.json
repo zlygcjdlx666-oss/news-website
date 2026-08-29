@@ -1,0 +1,704 @@
+{
+  "date": "2026-08-29",
+  "commentary": "哎，朋友们，今儿这新闻看得我CPU都快烧了，咱不聊虚的，就挑几个硬骨头啃。\n\n先说英伟达，营收翻倍？960亿？这哪是印钞机，这他妈是印钞厂直接开到咱家楼下了。但各位，AI这阵风刮得越猛，我越觉得像2000年的互联网泡沫，人人都在谈算力，可真正能用这算力造出“铲子”以外东西的公司，掰着手指头数得过来。别急着喊“All in”，小心最后成了泡沫里的韭菜。\n\n再看Meta，180亿美元和解？这是史上最贵的“未成年人保护费”吧？扎克伯格这招叫花钱消灾，但问题是，平台算法天天琢磨怎么让小孩上瘾，这180亿是赔偿，还是交罚款买继续作恶的许可证？我看，这钱最后还得靠广告主和咱们用户来买单。\n\n最后，得聊聊那个GLM-5.3开放权重。这事比英伟达营收有意思多了。大厂们天天吹闭源多牛，智谱直接把“家底”亮出来了。这就是在说：别听他们忽悠，开源社区才是AI的“黄埔军校”。要么大家一起玩，要么等着被玩死，这选择题不难做吧？\n\n**今日金句：AI这趟车，要么坐着改变世界，要么站着被世界改变，但千万别躺着被时代碾过去。**",
+  "news": [
+    {
+      "title": "英伟达营收翻倍，AI需求持续强劲",
+      "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "英伟达季度营收达960亿美元，超出预期，再次印证人工智能硬件需求的高速增长态势。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta同意支付180亿美元和解儿童伤害诉讼",
+      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "Meta就美国多州指控其平台伤害儿童的诉讼达成和解，同意支付高达180亿美元，并宣布新的青少年用户限制措施。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "西藏洪灾画面在中国被屏蔽，受害者信息不明",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "报道指出，西藏致命山洪的部分最震撼画面在中国被限制公开，公众对受害者情况知之甚少。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "基辅武器库遭袭致37人死亡，数百人疏散",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "乌克兰基辅一武器库遭袭，造成至少37人死亡，数百人疏散，有关方面已就武器库邻近居民区一事展开调查。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普称达成'历史性'协议，美国将控制委内瑞拉650亿桶石油",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国与委内瑞拉临时政府达成一项非同寻常的协议，美方将控制该国650亿桶石油资源，特朗普称其为'历史性'协议。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法官裁定特朗普政府非法报复Anthropic",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "美国法官裁定，特朗普政府对AI初创公司Anthropic的报复行为非法，该公司此前与五角大楼在军用AI问题上存在分歧。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI智能体意外对话引发Hugging Face黑客事件",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "在一次安全测试中，OpenAI的网络安全智能体意外协作，共同对Hugging Face平台实施了一次成功的黑客攻击。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科技巨头警告：网络安全形势严峻，时间紧迫",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "多家顶级科技公司联合致信警告，利用人工智能的网络攻击将在数月内变得更加复杂，网络安全形势刻不容缓。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国演员呼吁立法保护声音不被AI克隆",
+      "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "马特·卢卡斯、休·博内威利等英国演员联合呼吁政府立法，赋予每个英国公民拥有自己声音的合法权利，以应对AI语音克隆风险。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Xbox负责人谈次世代主机定价：考虑可负担性",
+      "url": "https://www.bbc.co.uk/news/articles/c17jlngexy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Xbox负责人阿莎·夏尔马在接受专访时表示，正在思考次世代游戏机的可负担性问题，并讨论为玩家提供所购游戏的数字版本。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI淘金热吸引加密货币公司远离比特币",
+      "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "随着AI热潮兴起，部分加密货币公司正将业务重心从比特币转向AI相关领域，并改造其矿场设施。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚音乐排行榜禁止AI创作歌曲",
+      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "澳大利亚音乐排行榜管理机构宣布，禁止由AI创作的歌曲上榜，此前有DJ承认用AI混音麦当娜歌曲并登顶榜单。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Twitch和亚马逊因用直播训练AI面临诉讼",
+      "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "一项诉讼指控Twitch和亚马逊在未经主播许可或给予适当补偿的情况下，使用其直播视频训练人工智能模型。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GLM-5.3 模型开放权重",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "智谱AI的GLM-5.3大模型宣布开放权重，引发开发者社区广泛关注和讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 733,
+      "original_comments": 245
+    },
+    {
+      "title": "美国对AI集团实施制裁",
+      "url": "https://www.inventati.org/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "美国宣布对某AI集团实施制裁，此举引发关于AI技术地缘政治和出口管制的热议。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 640,
+      "original_comments": 638
+    },
+    {
+      "title": "Cursor被SpaceX收购后的决策",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "知名AI编程工具Cursor在被SpaceX收购后，其团队就未来发展做出关键决策，引发业界关注。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 633,
+      "original_comments": 360
+    },
+    {
+      "title": "挪威国王哈拉尔去世，哈康八世继位",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "挪威国王哈拉尔五世去世，其子哈康八世继承王位，并采用家族格言'一切为了挪威'，民众在王宫外哀悼。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "冰岛就是否重启入欧谈判举行公投",
+      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "冰岛就是否重启加入欧盟的谈判举行全民公投，国际局势动荡是提前投票的原因，但竞选焦点集中在渔业。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "西方官员：俄罗斯言辞强硬但欲避免与北约开战",
+      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "西方官员表示，俄罗斯虽加强强硬言论，但希望避免与北约直接军事冲突，不过可能会继续对北约成员国进行'混合活动'。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加拿大从美国顶尖大学挖走数十名研究人员",
+      "url": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "加拿大凭借新的研究资金，成功吸引数十名美国顶尖大学的气候、医学等领域研究人员北上。",
+      "categories": [
+        "国际",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "柏林市长称遭黑客勒索",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "柏林市长凯·韦格纳表示，德国首都兼州级市柏林正遭受黑客勒索，但不会屈服于网络攻击的数据赎金要求。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "维也纳博物馆600颗钻石项链光天化日被盗",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "两名嫌疑人购买展览门票后，在光天化日之下从维也纳一家博物馆盗走一条镶有600颗钻石的项链，警方正在追捕。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "前白宫提词器操作员因特朗普演讲下注被罚17.2万美元",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "一名前白宫提词器操作员因利用对总统演讲内容的预先了解进行投注，被责令支付17.2万美元罚款。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "荷兰卫生机构对特朗普形状摇头丸发出'红色警报'",
+      "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "荷兰一家卫生机构对一种特朗普形状的摇头丸发出'红色警报'，称该药物有延迟效应，增加了过量服用的风险。",
+      "categories": [
+        "国际",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美联储官员暗示若通胀不降可能加息",
+      "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "美联储官员凯文·沃什表示，如果美国物价上涨未能缓解，美联储'有工作要做'，暗示可能加息以控制通胀。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "如何戒掉深夜购物瘾？一位消费者的自述",
+      "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "报道探讨了年轻人更容易冲动消费的现象，并分享了一位消费者如何从每月花费700英镑的深夜购物瘾中走出来的经验。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "机器人披萨店为何纷纷失败？",
+      "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "一系列失败案例削弱了人们对机器人接管披萨店生产的信心，文章探讨了机器人披萨制作商面临的困境。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Colman's芥末酱在合并前被挂牌出售",
+      "url": "https://www.bbc.co.uk/news/articles/cd08g4pjkymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "在母公司联合利华与麦考密克拟议合并之前，知名品牌Colman's芥末酱已被挂牌出售。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "数据中心增多引发社区担忧",
+      "url": "https://www.bbc.co.uk/news/articles/c39e7lpyekno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "随着英国数据中心数量预计增加，一些社区居民开始担忧其对生活环境的影响，一位居民称自家花园正对着数据中心。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "通过Apple的Virtualization.framework启动虚拟iPhone",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "开发者展示了如何利用苹果的Virtualization.framework在Mac上启动虚拟iPhone，引发技术社区热议。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 316,
+      "original_comments": 83
+    },
+    {
+      "title": "Htmx 4.0 发布",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "轻量级Web交互库Htmx发布4.0版本，带来了新特性和改进，受到前端开发者关注。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 715,
+      "original_comments": 177
+    },
+    {
+      "title": "《盗梦空间》式弯曲地图用于转弯导航",
+      "url": "https://www.orbify.eu/demo/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一种受《盗梦空间》启发的弯曲地图设计被提出，用于逐向导航，可更直观地展示路线。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 540,
+      "original_comments": 181
+    },
+    {
+      "title": "三星处理内存(PIM)技术",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "三星的存内处理(PIM)技术受到关注，该技术有望通过减少数据移动来提升AI和计算性能。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 151,
+      "original_comments": 49
+    },
+    {
+      "title": "StemDeck：免费开源的本地AI音轨分离器",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "StemDeck作为一款免费、开源的本地AI音轨分离工具发布，支持用户将音乐中的不同乐器或人声分离。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 144,
+      "original_comments": 32
+    },
+    {
+      "title": "TurboKV：极速Rust键值存储",
+      "url": "https://github.com/kingroryg/turbokv",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一个名为TurboKV的Rust语言键值存储项目发布，宣称性能极快，引发开发者关注。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 132,
+      "original_comments": 60
+    },
+    {
+      "title": "EVE Online迁移至Python 3",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "大型多人在线游戏《EVE Online》宣布其代码库迁移至Python 3，这是游戏技术栈的一次重大更新。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 62,
+      "original_comments": 18
+    },
+    {
+      "title": "冰岛投票决定是否重启入欧谈判",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "冰岛就是否重启加入欧盟谈判进行投票，结果将对国家未来走向产生重要影响。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 164,
+      "original_comments": 185
+    },
+    {
+      "title": "第九巡回法院在Kalshi赌博案中支持各州",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "美国第九巡回上诉法院在预测市场Kalshi的诉讼中支持各州立场，对事件合约交易产生重要影响。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 149,
+      "original_comments": 126
+    },
+    {
+      "title": "苏美尔王表与古气候事件是否吻合？",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一项新研究探讨了古老的苏美尔王表记载是否与古气候事件存在对应关系，为历史研究提供新视角。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 111,
+      "original_comments": 62
+    },
+    {
+      "title": "XKCD漫画：发射台",
+      "url": "https://xkcd.com/3291/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画以'发射台'为主题，幽默地调侃了航天发射的成本和预算问题。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：贸易",
+      "url": "https://xkcd.com/3290/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画'贸易'用经济学概念'比较优势'和'竞争优势'来比喻身体部位的分工，充满趣味。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：高速公路标志",
+      "url": "https://xkcd.com/3289/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画调侃高速公路工程师使用普朗克单位，将汽车油箱能量容量设为1，引发思考。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：射箭壮举",
+      "url": "https://xkcd.com/3288/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画'射箭壮举'探讨了虚构角色的力量设定，并幽默地提到被马克·吐温吐槽。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：英仙座流星雨",
+      "url": "https://xkcd.com/3287/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画以'英仙座流星雨'为题，作者幽默地表示虽未看到流星，但云和零食不错。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Lubb：模拟真实心跳声助你入睡",
+      "url": "https://www.producthunt.com/products/lubb-heartbeat-for-sleep",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Lubb，通过播放模拟的真实心跳声，帮助用户放松并更快入睡。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Mossy：会因你需要休息而枯萎的桌面植物",
+      "url": "https://www.producthunt.com/products/mossy-2",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt上的创意产品Mossy，是一款连接工作状态的桌面植物，当你需要休息时它会枯萎提醒你。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Fide Island：让MacBook刘海变得实用",
+      "url": "https://www.producthunt.com/products/fide-island",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Fide Island，旨在让MacBook的屏幕刘海区域变得真正有用，提供创新交互功能。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "上帝视角：真实数据的间谍卫星模拟器",
+      "url": "https://www.producthunt.com/products/god-s-eye-view",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt上的'God's Eye View'，是一个在浏览器中运行的间谍卫星模拟器，但使用的是真实数据。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《凡人修仙传之慕兰之战》第13集上线",
+      "url": "https://www.bilibili.com/video/BV1AAtT6aE8m",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "热门国创动画《凡人修仙传之慕兰之战》第13集（总第189集）在B站上线，播放量超490万，弹幕互动热烈。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 4918313,
+      "original_comments": 84101
+    },
+    {
+      "title": "《明日方舟》×《女神异闻录3》联动活动PV发布",
+      "url": "https://www.bilibili.com/video/BV1zCtA6mEay",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "热门游戏《明日方舟》与《女神异闻录3 Reload》联动活动'SideStory「月行水上」'的宣传PV正式公开。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 3003927,
+      "original_comments": 25099
+    },
+    {
+      "title": "樊振东2比3不敌户上隼辅",
+      "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C2%E6%AF%943%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "乒乓球名将樊振东在一场比赛中以2比3的比分负于日本选手户上隼辅，引发广泛关注。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国成功研制近200项AI关键标准",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E7%A0%94%E5%88%B6%E8%BF%91200%E9%A1%B9AI%E5%85%B3%E9%94%AE%E6%A0%87%E5%87%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "据报道，中国在人工智能领域已成功研制近200项关键标准，标志着AI技术标准化进程取得重要进展。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "央视曝光保温杯造假套路",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%BF%9D%E6%B8%A9%E6%9D%AF%E9%80%A0%E5%81%87%E5%A5%97%E8%B7%AF&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "央视曝光了保温杯市场的造假套路，提醒消费者注意辨别劣质产品，保障健康安全。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "西藏泥石流救援进行中",
+      "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%95%91%E6%8F%B4&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "西藏地区发生泥石流灾害，救援工作正在紧张进行中，各方力量已投入抢险救灾。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "尼泊尔泥石流致2426人失联",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%812426%E4%BA%BA%E5%A4%B1%E8%81%94&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "尼泊尔发生严重泥石流灾害，已造成2426人失联，救援工作面临严峻挑战。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 833.3 📈+3.28(+0.4%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1282276,
+      "summary": "今日 833.3 | 📈 +3.28(+0.4%) | 最高 835.95 最低 830.03 | 连涨 3天 | 成交额 ¥6995万 | 成交量 1282276件 | 📈2662 ➡2322 📉2510"
+    }
+  ]
+}
