@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-30",
+  "commentary": "哎，兄弟们，今天这盘面有意思啊！CSGO大盘连涨四天，成交额干到6300多万，看着是红红火火，结果涨幅才0.23%——这不就是传说中的“一顿操作猛如虎，一看战绩0.5”吗？皮肤市场现在跟老太太的牙一样，晃得厉害但咬不动肉。我劝那些想进场抄底的，先摸摸自己钱包，别最后从“资产缩水”直接奔着桥洞底下选户型去了。说到这个，B站那个《挑选优质桥洞六大方案》能上热门，才是真·人间清醒，建议和“资产A0层级”配套观看，主打一个提前规划。\n\n另外，《古神：风里希》这预告片580万播放，科隆展上确实炸场。但咱得说，国产游戏别光顾着炫技堆料，世界观整得跟哲学论文似的，到时候玩法拉胯，玩家照样用脚投票。这年头，情怀不值钱，好不好玩才值钱。\n\n最后，那句“世界破破烂烂，总有人缝缝补补”能火，说明大家心里都揣着暖水瓶。但记住，缝补之前，先把自己那件破衣裳看好喽。\n\n**今日金句：大盘连涨别上头，桥洞精选要趁早；游戏预告别全信，实机演示才算好。**",
+  "news": [
+    {
+      "title": "《古神: 风里希》科隆游戏展最新预告片 | 世界观前瞻",
+      "url": "https://www.bilibili.com/video/BV1xQtw6WELS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:584.2万 | 弹幕:2783 | UP主:古神风里希",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5842343,
+      "original_comments": 2783
+    },
+    {
+      "title": "《抵抗者》2026科隆最新演示",
+      "url": "https://www.bilibili.com/video/BV1Gxhj6EE9a",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:331.1万 | 弹幕:1112 | UP主:浩汤科技",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3311087,
+      "original_comments": 1112
+    },
+    {
+      "title": "当你的资产缩水到A0层级，挑选优质桥洞的六大方案！",
+      "url": "https://www.bilibili.com/video/BV1ZNtA6CExY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:322.7万 | 弹幕:1342 | UP主:手搓工坊M",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3226850,
+      "original_comments": 1342
+    },
+    {
+      "title": "世界破破烂烂，总有人缝缝补补",
+      "url": "https://www.bilibili.com/video/BV1wZtw6JERc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:302.3万 | 弹幕:820 | UP主:高天天天翔",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3023068,
+      "original_comments": 820
+    },
+    {
+      "title": "【独家】牧神记 第98集 杀新皇",
+      "url": "https://www.bilibili.com/video/BV1bt4k6MEPF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:239.8万 | 弹幕:1.5万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2397545,
+      "original_comments": 14789
+    },
+    {
+      "title": "您叫的骑手正忙 请稍后再拨",
+      "url": "https://www.bilibili.com/video/BV13k4C6mEDv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:184.7万 | 弹幕:2589 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1846606,
+      "original_comments": 2589
+    },
+    {
+      "title": "立瓶子挑战，相亲相爱~",
+      "url": "https://www.bilibili.com/video/BV1PN4266Eys",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:145.5万 | 弹幕:889 | UP主:瓜哥超爱玩QAQ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1454985,
+      "original_comments": 889
+    },
+    {
+      "title": "⚡ 舞 立 方 . m p 4 ⚡",
+      "url": "https://www.bilibili.com/video/BV1td4o6LEFr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:129.3万 | 弹幕:4011 | UP主:沉默-_-微笑",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1293183,
+      "original_comments": 4011
+    },
+    {
+      "title": "【大学生就业指导】麦当当薯条N重奏！200块买两斤土豆？不能够了！",
+      "url": "https://www.bilibili.com/video/BV16g4y6tEzY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:110.3万 | 弹幕:327 | UP主:阿白的金手指厨房",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1102711,
+      "original_comments": 327
+    },
+    {
+      "title": "《龙族：卡塞尔之门》x《新世纪福音战士》全新联动 | 世界余响",
+      "url": "https://www.bilibili.com/video/BV1D5tc6fEzM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:107.3万 | 弹幕:3007 | UP主:龙族卡塞尔之门",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1072974,
+      "original_comments": 3007
+    },
+    {
+      "title": "在美国最彪悍的州，骑最野的牛、啃最香的肉！",
+      "url": "https://www.bilibili.com/video/BV1HP4y6YEyQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.7万 | 弹幕:4473 | UP主:食贫道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1037189,
+      "original_comments": 4473
+    },
+    {
+      "title": "这个丝瓜抹布真的有这么好用吗！！！",
+      "url": "https://www.bilibili.com/video/BV1Q5tc6fEn4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:95.1万 | 弹幕:502 | UP主:小马哥测评",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 951491,
+      "original_comments": 502
+    },
+    {
+      "title": "去了一趟西班牙2.0（荒岛四兄弟篇）",
+      "url": "https://www.bilibili.com/video/BV1Na4Q64Eos",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:89.2万 | 弹幕:2.0万 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 891518,
+      "original_comments": 20434
+    },
+    {
+      "title": "【独家/完结】《记忆管理局》第7集 记忆这样脆弱的东西【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1dTtc6eEno",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:88.5万 | 弹幕:3.3万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 884715,
+      "original_comments": 33182
+    },
+    {
+      "title": "【第四十五赛季·精华1】故事视频公开：——“如坠梦中的幸福时光，万物焕然……”",
+      "url": "https://www.bilibili.com/video/BV1S64D6wEdq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:82.0万 | 弹幕:3237 | UP主:网易第五人格手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 819598,
+      "original_comments": 3237
+    },
+    {
+      "title": "《我们的家2》",
+      "url": "https://www.bilibili.com/video/BV1pP4y6YEBq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.5万 | 弹幕:1.0万 | UP主:是许木木啊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 804847,
+      "original_comments": 10029
+    },
+    {
+      "title": "一个人，耗时18个月，2万元成本，手搓94分钟以刘慈欣小说《山》为故事原型的AI仿真人科幻电影",
+      "url": "https://www.bilibili.com/video/BV1o74y6XEcM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:67.7万 | 弹幕:5653 | UP主:野生锅导演",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 677245,
+      "original_comments": 5653
+    },
+    {
+      "title": "如果让专业厨师推荐私藏小店他们会怎么推荐？",
+      "url": "https://www.bilibili.com/video/BV18s4k6gESU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:67.2万 | 弹幕:1270 | UP主:特厨隋坡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 672402,
+      "original_comments": 1270
+    },
+    {
+      "title": "FALSITY…（完整版电影 / 官方正版)",
+      "url": "https://www.bilibili.com/video/BV1qH4U6iEEy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:55.9万 | 弹幕:2.3万 | UP主:7xqree",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 558825,
+      "original_comments": 23057
+    },
+    {
+      "title": "《全障碍沟通》",
+      "url": "https://www.bilibili.com/video/BV1gk4X6zEm5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.2万 | 弹幕:909 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 482389,
+      "original_comments": 909
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "Manor Lords",
+      "url": "https://store.steampowered.com/app/1363080",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $26",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $56",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Ambitions",
+      "url": "https://store.steampowered.com/app/1331550",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Far Far West",
+      "url": "https://store.steampowered.com/app/3124540",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $16",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Forza Horizon 6",
+      "url": "https://store.steampowered.com/app/2483190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 489,
+      "original_comments": 193
+    },
+    {
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 437,
+      "original_comments": 198
+    },
+    {
+      "title": "EVE Online moves to Python 3",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 382,
+      "original_comments": 206
+    },
+    {
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 347,
+      "original_comments": 209
+    },
+    {
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 343,
+      "original_comments": 212
+    },
+    {
+      "title": "Glacier Mice",
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 316,
+      "original_comments": 64
+    },
+    {
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 314,
+      "original_comments": 192
+    },
+    {
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 231,
+      "original_comments": 85
+    },
+    {
+      "title": "RISC-V is now officially supported by CPython",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 229,
+      "original_comments": 41
+    },
+    {
+      "title": "SQLite as a Document Database (2020)",
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 225,
+      "original_comments": 54
+    },
+    {
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 200,
+      "original_comments": 122
+    },
+    {
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 134,
+      "original_comments": 72
+    },
+    {
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 129,
+      "original_comments": 32
+    },
+    {
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 102,
+      "original_comments": 42
+    },
+    {
+      "title": "STAR WARS Zero Company™",
+      "url": "https://store.steampowered.com/app/2075800",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "No More Room in Hell 2",
+      "url": "https://store.steampowered.com/app/292000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Mortal Shell II",
+      "url": "https://store.steampowered.com/app/2584270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+      "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 83,
+      "original_comments": 12
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 836.41 📈+1.95(+0.23%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1235364,
+      "summary": "今日 836.41 | 📈 +1.95(+0.23%) | 最高 836.41 最低 833.19 | 连涨 4天 | 成交额 ¥6323万 | 成交量 1235364件 | 📈2401 ➡2440 📉2653"
+    }
+  ]
+}
