@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-01",
+  "commentary": "兄弟们，今儿这瓜咱得挑着吃。先说CSGO大盘，845点，成交额6675万，看着挺热闹，但连跌一天，涨1919跌3273，这哪是市场啊，这是韭菜地集体做俯卧撑——跌下去的动作倒是挺整齐。饰品这玩意儿，现在比A股还玄学，昨天你一万收的蝴蝶刀，今天可能就值一顿海底捞。别问，问就是“情怀溢价”，反正咱也看不懂，咱也不敢抄底。\n\n再说B站，特厨隋坡那期“私藏小店”，178万播放，弹幕才2329条，说明啥？大伙儿光顾着咽口水，手指头都懒得敲键盘。但我要说的是，专业厨子推荐的店，那才叫真·宝藏，比那些探店博主收钱念稿的强一万倍。老隋这波，是把餐饮圈的底裤给扒了，建议所有美食UP主都来学学，什么叫“用勺子和锅铲说话”。\n\n最后提一嘴《老钱班34》，130万播放，515条弹幕，这数据对比太真实了——看的是“老钱”，弹幕里全是“老穷”在哀嚎。这剧是懂黑色幽默的，把阶级焦虑拍成了电子榨菜，咱们嚼着嚼着，就尝出了自己那点工资条的味道。\n\n今日金句：**“股市割我，游戏唬我，连看个视频都提醒我穷，但没关系，我心态好，穷得叮当响，也算是一种节奏感。”**",
+  "news": [
+    {
+      "title": "如果让专业厨师推荐私藏小店他们会怎么推荐？",
+      "url": "https://www.bilibili.com/video/BV18s4k6gESU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:178.8万 | 弹幕:2329 | UP主:特厨隋坡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1787886,
+      "original_comments": 2329
+    },
+    {
+      "title": "这也能装？给车内塞一套工作站！小米澎程N90 Max用车体验！",
+      "url": "https://www.bilibili.com/video/BV1k2t86hEuD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:178.1万 | 弹幕:417 | UP主:苏打baka",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1780969,
+      "original_comments": 417
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第6集】",
+      "url": "https://www.bilibili.com/video/BV1eHt86mErz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:151.7万 | 弹幕:6863 | UP主:九夜听风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1516866,
+      "original_comments": 6863
+    },
+    {
+      "title": "当你穿进老钱班34",
+      "url": "https://www.bilibili.com/video/BV1e6tb61ETL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:130.1万 | 弹幕:515 | UP主:侯绿萝",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1300916,
+      "original_comments": 515
+    },
+    {
+      "title": "《明日方舟：终末地》干员叙事 [提弗洛斯：萨米维格的孩子]",
+      "url": "https://www.bilibili.com/video/BV1uht86rEDA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:111.6万 | 弹幕:3008 | UP主:明日方舟终末地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1116331,
+      "original_comments": 3008
+    },
+    {
+      "title": "这是个辅助万豪！？",
+      "url": "https://www.bilibili.com/video/BV1y3tp63ET8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:110.7万 | 弹幕:691 | UP主:BBGG丶狮子喵",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1107070,
+      "original_comments": 691
+    },
+    {
+      "title": "漂亮的恶意01|误入充满恶意的顶级财阀校园，川渝转学生表示，她真的只想好好学习！",
+      "url": "https://www.bilibili.com/video/BV1Aj4D6UEHB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:108.2万 | 弹幕:1603 | UP主:海底蟹黄堡007",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1082388,
+      "original_comments": 1603
+    },
+    {
+      "title": "西西弗斯推的石头，居然是孙悟空......【AI全民制作人】#SpecialForAAIFF",
+      "url": "https://www.bilibili.com/video/BV1a3th65EQb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.2万 | 弹幕:646 | UP主:张拉灯",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1042005,
+      "original_comments": 646
+    },
+    {
+      "title": "《安心安全 | 安心安全》MV ：日本制造最重视的就是企业形象",
+      "url": "https://www.bilibili.com/video/BV1WPt86FETB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.1万 | 弹幕:956 | UP主:即兴演奏家",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1031050,
+      "original_comments": 956
+    },
+    {
+      "title": "带精神小妹买衣服，并回复评论区的一些评论",
+      "url": "https://www.bilibili.com/video/BV1swt86hE64",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:77.7万 | 弹幕:4972 | UP主:旺卡_Wonka",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 777447,
+      "original_comments": 4972
+    },
+    {
+      "title": "【英雄联盟】15周年战斗之夜福利速览",
+      "url": "https://www.bilibili.com/video/BV16itg6iEnT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:77.5万 | 弹幕:94 | UP主:英雄联盟",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 774631,
+      "original_comments": 94
+    },
+    {
+      "title": "为了测试这台7座车，我们找来了最难伺候的6种人！",
+      "url": "https://www.bilibili.com/video/BV17Jta6oEyE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:70.9万 | 弹幕:439 | UP主:老蒋巨靠谱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 708878,
+      "original_comments": 439
+    },
+    {
+      "title": "还是穿不了“大人”的衣服",
+      "url": "https://www.bilibili.com/video/BV1Ugtb6KEXU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:57.3万 | 弹幕:1118 | UP主:浅尝小辣酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 573485,
+      "original_comments": 1118
+    },
+    {
+      "title": "1.6万人同唱，龚琳娜现场全开麦！《剑网3》十七周年庆典全程回顾上线",
+      "url": "https://www.bilibili.com/video/BV1FXt864EDe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.3万 | 弹幕:1721 | UP主:剑网3",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 502862,
+      "original_comments": 1721
+    },
+    {
+      "title": "【铁豆钢蛋】你好 斌斌！",
+      "url": "https://www.bilibili.com/video/BV1KxtY6kEwY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.0万 | 弹幕:9219 | UP主:铁豆钢蛋",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 490391,
+      "original_comments": 9219
+    },
+    {
+      "title": "从零开始，黑龙江发现废弃石头屋改造寒冬避难所，首场暴风雪来之前要做好准备，提前存储物资",
+      "url": "https://www.bilibili.com/video/BV1BLt86QECJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:38.6万 | 弹幕:1517 | UP主:漠生铁铁",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 385756,
+      "original_comments": 1517
+    },
+    {
+      "title": "【纪录片】进化 01 从单细胞到大象",
+      "url": "https://www.bilibili.com/video/BV1cgtu6vETB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:34.3万 | 弹幕:31 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 343242,
+      "original_comments": 31
+    },
+    {
+      "title": "【何同学】库克时代",
+      "url": "https://www.bilibili.com/video/BV1G7tG6tEwL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.4万 | 弹幕:1909 | UP主:老师好我叫何同学",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 254368,
+      "original_comments": 1909
+    },
+    {
+      "title": "把公司当成主题乐园",
+      "url": "https://www.bilibili.com/video/BV1n1tA67EsT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.7万 | 弹幕:598 | UP主:papi酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 227069,
+      "original_comments": 598
+    },
+    {
+      "title": "我们在日本皇宫寻找中国文物",
+      "url": "https://www.bilibili.com/video/BV1Wutu6KEny",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:13.2万 | 弹幕:1127 | UP主:大漠叔叔",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 132002,
+      "original_comments": 1127
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $649",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $180",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $879",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "Terraria",
+      "url": "https://store.steampowered.com/app/105600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $112",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Project Zomboid",
+      "url": "https://store.steampowered.com/app/108600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $355",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Raft",
+      "url": "https://store.steampowered.com/app/648800",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $288",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $420",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Being a DIK: Seasons 1-3 + The complete official guide Seasons 1-3",
+      "url": "https://store.steampowered.com/app/84388",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-23% | $922",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2400,
+      "original_comments": 0
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $1959",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Being a DIK - Season 3",
+      "url": "https://store.steampowered.com/app/1807120",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $387",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 673,
+      "original_comments": 215
+    },
+    {
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 555,
+      "original_comments": 328
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 539,
+      "original_comments": 142
+    },
+    {
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 484,
+      "original_comments": 68
+    },
+    {
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 450,
+      "original_comments": 186
+    },
+    {
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 436,
+      "original_comments": 498
+    },
+    {
+      "title": "I think the military commissary's freezers were hacked",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 379,
+      "original_comments": 211
+    },
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 351,
+      "original_comments": 51
+    },
+    {
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 330,
+      "original_comments": 62
+    },
+    {
+      "title": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 300,
+      "original_comments": 172
+    },
+    {
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 286,
+      "original_comments": 201
+    },
+    {
+      "title": "Reverse engineering my ADHD test",
+      "url": "https://nullpt.rs/reverse-engineering-adhd-test",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 255,
+      "original_comments": 159
+    },
+    {
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 239,
+      "original_comments": 69
+    },
+    {
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 217,
+      "original_comments": 45
+    },
+    {
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "url": "https://ravynos.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 214,
+      "original_comments": 122
+    },
+    {
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 188,
+      "original_comments": 47
+    },
+    {
+      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 168,
+      "original_comments": 166
+    },
+    {
+      "title": "44% on ARC-AGI-1 in 67 cents",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 143,
+      "original_comments": 37
+    },
+    {
+      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 136,
+      "original_comments": 52
+    },
+    {
+      "title": "Tmp.0ut Volume 5",
+      "url": "https://tmpout.sh/5/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 120,
+      "original_comments": 28
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 845.96 📉-1.37(-0.16%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1139256,
+      "summary": "今日 845.96 | 📉 -1.37(-0.16%) | 最高 849.11 最低 845.06 | 连涨 -1天 | 成交额 ¥6675万 | 成交量 1139256件 | 📈2019 ➡2202 📉3273"
+    }
+  ]
+}
