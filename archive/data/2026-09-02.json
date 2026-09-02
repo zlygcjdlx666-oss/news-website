@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-02",
+  "commentary": "哎哟我滴个乖乖，今天这CSGO大盘，涨了0.01%，成交额五千七百万，涨跌比两千对三千三。这叫什么？这叫——大户人家遛狗，绳子松了，狗跑了，主人还在后面喊“慢点跑别摔着”。韭菜们以为要起飞，结果一看是原地蹦了个高。这行情啊，就跟咱们周一早上起床一样：起来了，但又没完全起来。\n\n再看B站这热榜，我得说两句。何同学那《库克时代》一百二十万播放，评论区估计又是一场“科技与狠活”的辩论赛。但咱说句实在话，库克时代最成功的不是iPhone，是把“环保”卖成了奢侈品配件的理由。还有那个《明日方舟》新干员结城理，弹幕六千多条，玩家是真爱。但游戏圈的老哥们，你们氪金的时候手别抖，想想CSGO那个绿油油的指数，天下乌鸦一般黑，都是概率游戏，谁也别笑谁。\n\n不过今天最让我上头的，是那个“把公司当成主题乐园”。papi酱是真敢说啊，打工人看了直呼内行——公司是乐园，老板是NPC，任务是画饼，奖励是加班。这话精辟到我想给她刷个火箭，可惜我的钱都套在饰品里了。\n\n今日金句：**大盘涨跌靠运气，上班摸鱼靠演技；别看指数绿油油，不如papi一句“主题乐园”解千愁。**",
+  "news": [
+    {
+      "title": "《异环》灵可角色PV丨宇宙的频段",
+      "url": "https://www.bilibili.com/video/BV1jVtt6LEjP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:164.7万 | 弹幕:838 | UP主:异环",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1647461,
+      "original_comments": 838
+    },
+    {
+      "title": "绝活",
+      "url": "https://www.bilibili.com/video/BV1GStg6oEQe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:156.2万 | 弹幕:1629 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1561519,
+      "original_comments": 1629
+    },
+    {
+      "title": "《明日方舟》干员「结城理」技能展示PV",
+      "url": "https://www.bilibili.com/video/BV1RhtV6iEt3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:133.2万 | 弹幕:6279 | UP主:明日方舟",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1331524,
+      "original_comments": 6279
+    },
+    {
+      "title": "把公司当成主题乐园",
+      "url": "https://www.bilibili.com/video/BV1n1tA67EsT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:124.4万 | 弹幕:1349 | UP主:papi酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1243628,
+      "original_comments": 1349
+    },
+    {
+      "title": "【何同学】库克时代",
+      "url": "https://www.bilibili.com/video/BV1G7tG6tEwL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:121.8万 | 弹幕:5639 | UP主:老师好我叫何同学",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1217651,
+      "original_comments": 5639
+    },
+    {
+      "title": "曾经最成功的游戏类型，为什么没人做了？",
+      "url": "https://www.bilibili.com/video/BV1Zpt36PE2n",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:105.7万 | 弹幕:1863 | UP主:智能路障",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1056559,
+      "original_comments": 1863
+    },
+    {
+      "title": "08年美国讽刺金曲《朋友的酒》（英语填词cover）“空城计の小曲”",
+      "url": "https://www.bilibili.com/video/BV1Este6wExx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:105.5万 | 弹幕:413 | UP主:梨茗子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1054694,
+      "original_comments": 413
+    },
+    {
+      "title": "连英语人都发不明白uygur这个词的音",
+      "url": "https://www.bilibili.com/video/BV1Datu6JEEi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.5万 | 弹幕:1775 | UP主:路西法Lusiferr",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 814688,
+      "original_comments": 1775
+    },
+    {
+      "title": "有市无价再创记录！世界最大顶级黄油蟹与巨型松茸的完美邂逅！鱼子酱只配当咸菜？！",
+      "url": "https://www.bilibili.com/video/BV1ZJtu6tEyd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:78.4万 | 弹幕:2020 | UP主:大祥哥来了",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 784196,
+      "original_comments": 2020
+    },
+    {
+      "title": "炊哥生日加更一期爆蛋炒饭",
+      "url": "https://www.bilibili.com/video/BV11XtV6HEHc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:78.1万 | 弹幕:1441 | UP主:炊哥不加戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 780787,
+      "original_comments": 1441
+    },
+    {
+      "title": "【暗区突围手游版本PV】硝烟无声，S19赛季现已上线！",
+      "url": "https://www.bilibili.com/video/BV1batE63ECg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:71.8万 | 弹幕:304 | UP主:暗区突围",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 717795,
+      "original_comments": 304
+    },
+    {
+      "title": "“用最温柔的方式，体面的告别了这个世界”｜听歌/小曲",
+      "url": "https://www.bilibili.com/video/BV1P4th6PE81",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:66.0万 | 弹幕:598 | UP主:我爱吃派大星",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 660298,
+      "original_comments": 598
+    },
+    {
+      "title": "“什么叫程心的威慑度是100%？”",
+      "url": "https://www.bilibili.com/video/BV1p5t366EuM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.9万 | 弹幕:1387 | UP主:自动鬼畜中的WZ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 658779,
+      "original_comments": 1387
+    },
+    {
+      "title": "“小传人”来了（假期拍摄，快乐起来）",
+      "url": "https://www.bilibili.com/video/BV1potV6SEWY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.6万 | 弹幕:943 | UP主:铭门学府张超",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 645633,
+      "original_comments": 943
+    },
+    {
+      "title": "特种兵，你的情书被华晨宇念出来了！",
+      "url": "https://www.bilibili.com/video/BV1pUtE68E7C",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:60.9万 | 弹幕:115 | UP主:和平精英",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 609226,
+      "original_comments": 115
+    },
+    {
+      "title": "这首歌改变了我的人生，并带我走进了中国这个美丽的世界。",
+      "url": "https://www.bilibili.com/video/BV1vQ4Q6rEFR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.1万 | 弹幕:413 | UP主:appleby_music",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 500757,
+      "original_comments": 413
+    },
+    {
+      "title": "美国银行32岁副总裁在时代广场被随机捅死",
+      "url": "https://www.bilibili.com/video/BV1jHtn6oEKJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:38.0万 | 弹幕:3550 | UP主:波士顿圆脸",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 379668,
+      "original_comments": 3550
+    },
+    {
+      "title": "极限挑战——时光大桥",
+      "url": "https://www.bilibili.com/video/BV1BjtE6HExq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:30.7万 | 弹幕:371 | UP主:王迅",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 307291,
+      "original_comments": 371
+    },
+    {
+      "title": "我们又一次从网上买来了一些玩具…",
+      "url": "https://www.bilibili.com/video/BV1eCtJ6XESY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.0万 | 弹幕:2651 | UP主:摸鱼事务所",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 160036,
+      "original_comments": 2651
+    },
+    {
+      "title": "星期日：纯路人，我觉得封面很可爱",
+      "url": "https://www.bilibili.com/video/BV1STtS6fE7B",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:4.4万 | 弹幕:372 | UP主:呵纹Hevon",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 44242,
+      "original_comments": 372
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "Project Zomboid",
+      "url": "https://store.steampowered.com/app/108600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "007 First Light",
+      "url": "https://store.steampowered.com/app/1488462",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $56",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1307,
+      "original_comments": 1231
+    },
+    {
+      "title": "Being a DIK - Season 3",
+      "url": "https://store.steampowered.com/app/1807120",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 768,
+      "original_comments": 838
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 517,
+      "original_comments": 169
+    },
+    {
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 440,
+      "original_comments": 202
+    },
+    {
+      "title": "Ambient CSS v3 – Blender meets CSS",
+      "url": "https://ambientcss.vercel.app/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 285,
+      "original_comments": 82
+    },
+    {
+      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+      "url": "https://moviescenemap.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 282,
+      "original_comments": 38
+    },
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 275,
+      "original_comments": 141
+    },
+    {
+      "title": "True Rate of Unemployment",
+      "url": "https://www.lisep.org/tru",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 272,
+      "original_comments": 244
+    },
+    {
+      "title": "The creator of Jujutsu has joined ERSC",
+      "url": "https://ersc.io/blog/martin-joins-ersc",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 250,
+      "original_comments": 193
+    },
+    {
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "url": "https://lws.io/blog/my-local-model-setup/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 243,
+      "original_comments": 149
+    },
+    {
+      "title": "Sonic Pi",
+      "url": "https://sonic-pi.net/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 196,
+      "original_comments": 44
+    },
+    {
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 191,
+      "original_comments": 63
+    },
+    {
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "url": "https://www.norirobotics.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 183,
+      "original_comments": 57
+    },
+    {
+      "title": "Fine, I'll build my own text editor",
+      "url": "https://dbushell.com/2026/09/01/text-editor/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 171,
+      "original_comments": 154
+    },
+    {
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 157,
+      "original_comments": 70
+    },
+    {
+      "title": "Commodore 64 released September 1, 1982",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 155,
+      "original_comments": 67
+    },
+    {
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 135,
+      "original_comments": 58
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 133,
+      "original_comments": 38
+    },
+    {
+      "title": "The Blood of Dawnwalker",
+      "url": "https://store.steampowered.com/app/3751260",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$99",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 844.47 📈+0.04(+0.01%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1135458,
+      "summary": "今日 844.47 | 📈 +0.04(+0.01%) | 最高 844.53 最低 841.94 | 连涨 1天 | 成交额 ¥5749万 | 成交量 1135458件 | 📈2033 ➡2184 📉3277"
+    }
+  ]
+}
