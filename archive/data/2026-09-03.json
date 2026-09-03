@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-03",
+  "commentary": "兄弟们，今天这大盘子绿得跟韭菜盒子似的，843点还往下溜达，成交额五千多万，涨跌比跟那扶不起的阿斗一样。但磊哥我扫了一眼，真正有意思的压根不在红绿K线里，全在B站那旮沓藏着呢。\n\n先说《鸣潮》这新角色演示，两百万播放，弹幕两万条，你们是真爱看“心”和“锁暝”在那比划。但磊哥我瞅着这热度，心里直嘀咕：这年头，游戏角色但凡露个大腿、耍个光污染特效，评论区就一堆人喊“老婆”。咱就是说，能不能整点硬货？别到时候抽卡一时爽，玩起来跟上班似的，那才叫真“锁”住你的钱包跟“暝”目张胆割韭菜。\n\n再看陈翔六点半那个《渴望远方，却困在楼下》，名字起得是真扎心。这不就是咱们的日常吗？心里装着诗和远方，肉身被房贷和外卖困在小区栅栏里。磊哥我话放这儿：你要真渴望远方，先把你楼下那个天天蹲着刷手机的自己拽起来，迈出第一步比啥都强。\n\n最后得夸夸无穷小亮那生物鉴定，就这玩意能让人看上一天，不光是图一乐，是治“网络装X病”的良药。啥“水猴子”都敢出来冒充神秘生物，在亮哥那儿，两句话就给你打回原形，痛快！\n\n**今日金句：大盘可以绿，但咱们的嘴皮子得红；生活可以困在楼下，但心气儿永远得在远方飘着。**",
+  "news": [
+    {
+      "title": "【IGN独家】《鸣潮》共鸣者「心」、「锁暝」演示",
+      "url": "https://www.bilibili.com/video/BV1Q5tG6bEX3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:264.8万 | 弹幕:2.0万 | UP主:IGN中国",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2647637,
+      "original_comments": 20089
+    },
+    {
+      "title": "致热爱捉宠的你——《伊莫》幕后制作纪录片",
+      "url": "https://www.bilibili.com/video/BV12ctX68Ex6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:149.5万 | 弹幕:675 | UP主:伊莫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1494848,
+      "original_comments": 675
+    },
+    {
+      "title": "陈翔六点半：渴望远方，却困在楼下",
+      "url": "https://www.bilibili.com/video/BV1GMtJ62Eo5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:138.9万 | 弹幕:1204 | UP主:陈翔六点半",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1389223,
+      "original_comments": 1204
+    },
+    {
+      "title": "“我从小抽核弹长大的”，抽一个可变形核弹发射井模型",
+      "url": "https://www.bilibili.com/video/BV1abtE6VE2f",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:93.6万 | 弹幕:740 | UP主:隔墙总有耳",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 936329,
+      "original_comments": 740
+    },
+    {
+      "title": "黄 毛 抢 钱 记",
+      "url": "https://www.bilibili.com/video/BV1e4tn6pEg6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:89.3万 | 弹幕:1568 | UP主:马哥巨离谱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 892594,
+      "original_comments": 1568
+    },
+    {
+      "title": "韩语版《朋友的酒》【韩国大叔Trot版】（空城计の小曲）",
+      "url": "https://www.bilibili.com/video/BV1pqtG6CE59",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:85.4万 | 弹幕:532 | UP主:181319",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 853593,
+      "original_comments": 532
+    },
+    {
+      "title": "欢迎来到霍格沃茨的新学年",
+      "url": "https://www.bilibili.com/video/BV1kktD69EaX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.4万 | 弹幕:1922 | UP主:哈利波特",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 803866,
+      "original_comments": 1922
+    },
+    {
+      "title": "Pov：那个喜欢雄竞 又要装低调的男生",
+      "url": "https://www.bilibili.com/video/BV1cjt36uEdS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:74.2万 | 弹幕:889 | UP主:爱健身的大炮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 741536,
+      "original_comments": 889
+    },
+    {
+      "title": "网络热传生物鉴定 第63期",
+      "url": "https://www.bilibili.com/video/BV1FQtt6JEKs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:57.3万 | 弹幕:3650 | UP主:无穷小亮的科普日常",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 573340,
+      "original_comments": 3650
+    },
+    {
+      "title": "小米澎程如何保留SUV的全能，又拥有MPV的空间？",
+      "url": "https://www.bilibili.com/video/BV16StE6fEML",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.2万 | 弹幕:508 | UP主:所长Wy",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 521897,
+      "original_comments": 508
+    },
+    {
+      "title": "【科学修仙】今日不死，儿孙满堂！【up动画】",
+      "url": "https://www.bilibili.com/video/BV1istn69EPU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.3万 | 弹幕:1227 | UP主:么鸣堂",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 463193,
+      "original_comments": 1227
+    },
+    {
+      "title": "极度冰凌·阿克希亚角色PV——坚毅的温柔",
+      "url": "https://www.bilibili.com/video/BV1pbt96cE3D",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:45.1万 | 弹幕:335 | UP主:赛尔号",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 450824,
+      "original_comments": 335
+    },
+    {
+      "title": "【warma/怒九】两个大聪明的宇宙冒险！《轨道双子星》实况【更新中】",
+      "url": "https://www.bilibili.com/video/BV16mtU6kEu9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.3万 | 弹幕:845 | UP主:Warma",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 442771,
+      "original_comments": 845
+    },
+    {
+      "title": "谁能想到钓个鱼能这么好笑？渔力全开！",
+      "url": "https://www.bilibili.com/video/BV1gNtS6cEjx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.6万 | 弹幕:4016 | UP主:吊德斯DioDes",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 375847,
+      "original_comments": 4016
+    },
+    {
+      "title": "假如夜神月捡到的是《复活笔记》",
+      "url": "https://www.bilibili.com/video/BV1VFtS6eEiA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.0万 | 弹幕:812 | UP主:人群当中钻出壹个光头",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 369706,
+      "original_comments": 812
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第5集 接风宴【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1RgtG6wEJx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:30.6万 | 弹幕:2524 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 305832,
+      "original_comments": 2524
+    },
+    {
+      "title": "难绷：尼泊尔就泥石流灾害对中美印提出赔偿要求",
+      "url": "https://www.bilibili.com/video/BV1uHtZ6HEa8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:19.2万 | 弹幕:896 | UP主:波士顿圆脸",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 192350,
+      "original_comments": 896
+    },
+    {
+      "title": "路过的狗吃了直接进化烈焰犬了",
+      "url": "https://www.bilibili.com/video/BV1Qk4C62E2t",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:17.0万 | 弹幕:380 | UP主:捷豹真的神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 170163,
+      "original_comments": 380
+    },
+    {
+      "title": "《崩坏3》全新S级角色寻梦者「时序之律者」预告",
+      "url": "https://www.bilibili.com/video/BV1URtJ65EUi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:9.1万 | 弹幕:472 | UP主:崩坏3第一偶像爱酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 90605,
+      "original_comments": 472
+    },
+    {
+      "title": "⚡️熟女被做局了？⚡️",
+      "url": "https://www.bilibili.com/video/BV1YttR6SE4K",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:7.8万 | 弹幕:82 | UP主:娜娜莉今晚吃什么",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 78371,
+      "original_comments": 82
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Forza Horizon 5",
+      "url": "https://store.steampowered.com/app/1551360",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "BOMBANANA!",
+      "url": "https://store.steampowered.com/app/4656000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Project Zomboid",
+      "url": "https://store.steampowered.com/app/108600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "007 First Light",
+      "url": "https://store.steampowered.com/app/1488462",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $56",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1064,
+      "original_comments": 600
+    },
+    {
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 619,
+      "original_comments": 405
+    },
+    {
+      "title": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 466,
+      "original_comments": 215
+    },
+    {
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 454,
+      "original_comments": 220
+    },
+    {
+      "title": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 417,
+      "original_comments": 296
+    },
+    {
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 311,
+      "original_comments": 111
+    },
+    {
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 303,
+      "original_comments": 123
+    },
+    {
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 284,
+      "original_comments": 81
+    },
+    {
+      "title": "Exit the Cave",
+      "url": "https://turtlespace.blog/p/exit-the-cave",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 284,
+      "original_comments": 97
+    },
+    {
+      "title": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 238,
+      "original_comments": 71
+    },
+    {
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222,
+      "original_comments": 42
+    },
+    {
+      "title": "Wendell Berry has died",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 206,
+      "original_comments": 101
+    },
+    {
+      "title": "A Selection of Los Alamos Rolodex Business Cards",
+      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 190,
+      "original_comments": 50
+    },
+    {
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 181,
+      "original_comments": 31
+    },
+    {
+      "title": "Poisson Disk Sampling",
+      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 179,
+      "original_comments": 21
+    },
+    {
+      "title": "The Browser's Main Thread Is Expensive",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 178,
+      "original_comments": 53
+    },
+    {
+      "title": "Holden's Lightning Flight",
+      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 178,
+      "original_comments": 39
+    },
+    {
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 158,
+      "original_comments": 92
+    },
+    {
+      "title": "Engineering of the fastest WebAssembly interpreters",
+      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 114,
+      "original_comments": 14
+    },
+    {
+      "title": "The Blood of Dawnwalker",
+      "url": "https://store.steampowered.com/app/3751260",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1039",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 843.14 📉-1.37(-0.16%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1213907,
+      "summary": "今日 843.14 | 📉 -1.37(-0.16%) | 最高 844.79 最低 843.14 | 连涨 -1天 | 成交额 ¥5492万 | 成交量 1213907件 | 📈2260 ➡2393 📉2841"
+    }
+  ]
+}
