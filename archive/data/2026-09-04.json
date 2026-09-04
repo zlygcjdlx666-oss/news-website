@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-04",
+  "commentary": "兄弟们，今天这CSGO大盘又是绿油油一片，跌了0.55%，成交额倒是还有五千多万，这说明啥？说明韭菜们割得都麻利了，但还没跑光！我早说过，饰品市场就跟渣男谈恋爱似的，你以为到底了，它还能给你来个“连跌两天”的惊喜。那些追高的兄弟，现在估计正抱着龙狙哭呢，记住磊哥的话：大盘绿的时候别抄底，你以为是黄金坑，搞不好是无底洞。\n\n再看B站，今天有意思啊，小约翰可汗讲纽约城，播放一百五十万，弹幕一万条，大家看的是乐子，品的是“人类迷惑行为大赏”。还有那个“日本铁血精中”的视频，八十五万播放，底下全在玩梗。我就纳了闷了，咱有些人一边骂着国内这不行那不行，一边看到个外国人夸中国就嗨得不行，这不纯纯的“家花不如野花香”吗？自信点行不行？\n\n不过最让我感慨的还是那句“这世上还是好人多”的播放量——214万。这说明啥？说明大伙儿心里都渴望点正能量，哪怕知道是鸡汤，也想吨吨吨喝一口。\n\n**今日金句：** 大盘可以绿，心态不能崩；世界可以乱，好人永流传。散会！",
+  "news": [
+    {
+      "title": "《马老师：这世上还是好人多呀》",
+      "url": "https://www.bilibili.com/video/BV1gptZ6DExF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:214.4万 | 弹幕:414 | UP主:嘞是唐孃孃",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2144127,
+      "original_comments": 414
+    },
+    {
+      "title": "《三角洲行动》全新【群星】赛季故事短片",
+      "url": "https://www.bilibili.com/video/BV15VtZ6oEk7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:198.7万 | 弹幕:2407 | UP主:三角洲行动",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1987103,
+      "original_comments": 2407
+    },
+    {
+      "title": "天 雷 滚 滚 纽 约 城【神奇组织53】",
+      "url": "https://www.bilibili.com/video/BV1bHtd6CESR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:150.1万 | 弹幕:1.0万 | UP主:小约翰可汗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1501220,
+      "original_comments": 10029
+    },
+    {
+      "title": "这只猫，性格好到让我无语",
+      "url": "https://www.bilibili.com/video/BV12Sto6VEnH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.6万 | 弹幕:1420 | UP主:萌宠指南",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1036376,
+      "original_comments": 1420
+    },
+    {
+      "title": "《绝区零》克拉蕾角色展示 | 不想培训，但攻略已写好",
+      "url": "https://www.bilibili.com/video/BV1wote6gEQ1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:89.0万 | 弹幕:5529 | UP主:绝区零",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 889709,
+      "original_comments": 5529
+    },
+    {
+      "title": "【月行水上】SR-1至SR-8 摆完挂机 简单好抄",
+      "url": "https://www.bilibili.com/video/BV1U8tq6sEb2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:85.6万 | 弹幕:405 | UP主:萧然Q",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 855554,
+      "original_comments": 405
+    },
+    {
+      "title": "笑死~日本新发现一名铁血精中！！比98%的中国人都愿意爱中国！！",
+      "url": "https://www.bilibili.com/video/BV1aGtd6SEfh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:85.4万 | 弹幕:3516 | UP主:文同学文案",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 854062,
+      "original_comments": 3516
+    },
+    {
+      "title": "三角洲行动 全身动态特效+史上最强数值手感！新刀重塑全网最详细测评与优缺点介绍！",
+      "url": "https://www.bilibili.com/video/BV1LGbF6KEXB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:85.3万 | 弹幕:696 | UP主:Always聪聪",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 852852,
+      "original_comments": 696
+    },
+    {
+      "title": "阿诺撒……我让你站起来你耳朵🐉吗？",
+      "url": "https://www.bilibili.com/video/BV1XXtd6HEHo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.5万 | 弹幕:470 | UP主:acg阿伦",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 725046,
+      "original_comments": 470
+    },
+    {
+      "title": "我在日本，找到了被李白杀死的遣唐使",
+      "url": "https://www.bilibili.com/video/BV1i5tU6NEAd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:54.1万 | 弹幕:5830 | UP主:有山先生",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 540530,
+      "original_comments": 5830
+    },
+    {
+      "title": "《为什么像我这样拉风的男人，却在当保安？》",
+      "url": "https://www.bilibili.com/video/BV1Phtd6qEDZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:51.1万 | 弹幕:499 | UP主:闲人1943",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 511236,
+      "original_comments": 499
+    },
+    {
+      "title": "结城理的入职测试！【明日方舟】",
+      "url": "https://www.bilibili.com/video/BV1c1tq6LEVW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.3万 | 弹幕:390 | UP主:-碱式碳酸咸鱼-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 442619,
+      "original_comments": 390
+    },
+    {
+      "title": "当我们决定：在村里给自己拍婚纱照，会发生什么？",
+      "url": "https://www.bilibili.com/video/BV1t2to6LEmj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:42.4万 | 弹幕:1351 | UP主:建康啊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 424213,
+      "original_comments": 1351
+    },
+    {
+      "title": "这次是真玩爽了",
+      "url": "https://www.bilibili.com/video/BV1e8tR6EER5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.9万 | 弹幕:144 | UP主:爱弹琴的Jony",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 378660,
+      "original_comments": 144
+    },
+    {
+      "title": "结城理 VS 全方舟BOSS，刮痧还是乱杀？【明日方舟】",
+      "url": "https://www.bilibili.com/video/BV1Exti6uEjc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.6万 | 弹幕:893 | UP主:樗柒ヽ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 365676,
+      "original_comments": 893
+    },
+    {
+      "title": "天崩开局，读博两年，我的论文中了顶会",
+      "url": "https://www.bilibili.com/video/BV1LZbF6vEVR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.4万 | 弹幕:589 | UP主:Zhan丨",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 363999,
+      "original_comments": 589
+    },
+    {
+      "title": "美国拉斯维加斯有点爽！",
+      "url": "https://www.bilibili.com/video/BV1jct96JE1n",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:32.6万 | 弹幕:2916 | UP主:蓝战非OvO",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 326316,
+      "original_comments": 2916
+    },
+    {
+      "title": "我不是公公，我是大美太子！万斯要重新证明自己",
+      "url": "https://www.bilibili.com/video/BV1PRti6JEtv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.8万 | 弹幕:1191 | UP主:麻薯波比呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 227900,
+      "original_comments": 1191
+    },
+    {
+      "title": "为COS旅人我横跨4国6城连夜翻山找到四叶狗狗！",
+      "url": "https://www.bilibili.com/video/BV1MCto6EEuv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:15.3万 | 弹幕:218 | UP主:名羲MX",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 152953,
+      "original_comments": 218
+    },
+    {
+      "title": "DECO*27 - 洗脳 feat. 初音未来",
+      "url": "https://www.bilibili.com/video/BV1UW8i6tEo1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:9.8万 | 弹幕:2286 | UP主:DECO27_Official",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 98418,
+      "original_comments": 2286
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Call of Duty®: Black Ops III",
+      "url": "https://store.steampowered.com/app/311210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "BOMBANANA!",
+      "url": "https://store.steampowered.com/app/4656000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Project Zomboid",
+      "url": "https://store.steampowered.com/app/108600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $27",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $56",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1947,
+      "original_comments": 485
+    },
+    {
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1903,
+      "original_comments": 1719
+    },
+    {
+      "title": "Dungeon Settlers",
+      "url": "https://store.steampowered.com/app/2798330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 594,
+      "original_comments": 198
+    },
+    {
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 370,
+      "original_comments": 260
+    },
+    {
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 360,
+      "original_comments": 137
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 313,
+      "original_comments": 102
+    },
+    {
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 306,
+      "original_comments": 108
+    },
+    {
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 287,
+      "original_comments": 93
+    },
+    {
+      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 257,
+      "original_comments": 96
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 241,
+      "original_comments": 111
+    },
+    {
+      "title": "GPS glitched across the US by as much as 33 feet",
+      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 193,
+      "original_comments": 117
+    },
+    {
+      "title": "Unusual Suspects",
+      "url": "https://neal.fun/unusual-suspects/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 175,
+      "original_comments": 29
+    },
+    {
+      "title": "Xanadu was waiting for agents",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 130,
+      "original_comments": 53
+    },
+    {
+      "title": "How an MIT research project became the Julia programming language",
+      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 129,
+      "original_comments": 57
+    },
+    {
+      "title": "Solving the Jane Street Reverse Engineering Challenge",
+      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 117,
+      "original_comments": 40
+    },
+    {
+      "title": "The Blood of Dawnwalker",
+      "url": "https://store.steampowered.com/app/3751260",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1039",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Onimusha: Way of the Sword",
+      "url": "https://store.steampowered.com/app/2638890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Halloween: The Game",
+      "url": "https://store.steampowered.com/app/3219630",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$41",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "NBA 2K27",
+      "url": "https://store.steampowered.com/app/4356430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 838.34 📉-4.64(-0.55%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1165431,
+      "summary": "今日 838.34 | 📉 -4.64(-0.55%) | 最高 843.53 最低 838.1 | 连涨 -2天 | 成交额 ¥5833万 | 成交量 1165431件 | 📈1606 ➡2285 📉3603"
+    }
+  ]
+}
