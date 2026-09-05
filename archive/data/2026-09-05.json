@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-05",
+  "commentary": "大伙儿看今天这行情没？CSGO大盘又绿了，跌了0.58%，成交额还缩到五千多万。我说句难听的，这破盘连跌三天，纯属“饰品炒家跑路，韭菜原地站岗”。但咱得讲道理，游戏里亏的钱，总能在B站找补回来——你看这热门榜，都成“蟑螂灭霸”和“修仙老登”的天下了。旗腹姬蜂那个视频391万播放，比大盘成交额还刺激，评论区清一色“求放过南方蟑螂”，要我说，这蜂比某些炒股软件靠谱，至少真能杀虫。\n\n再说《凡人修仙传》190集，弹幕6.7万，大伙儿是一边骂“断更狗”一边真香。最绝的是那个“最垃圾的一期视频”，小潮院长自己骂自己，播放量144万，这波叫“反向宣发，流量麻了”。还有磊哥游戏那个牢玩家李白，4个牢玩家对1个，评论区全是“对面打的是我，我是那个牢底坐穿”。\n\n我的观点就一条：B站热门跟CSGO大盘一个德行，要么靠猎奇撑场面，要么靠情怀骗三连。但咱老百姓图啥？就图个乐子，别真把炒股当修仙，把短视频当人生导师——你刷一百个“终南山怪虫”，也成不了法医。今日金句：**“大盘会绿，但乐子不会，只要心态够野，处处都是主场。”**",
+  "news": [
+    {
+      "title": "旗腹姬蜂是蟑螂杀手",
+      "url": "https://www.bilibili.com/video/BV1qCt96DEpj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:391.6万 | 弹幕:1609 | UP主:古法造物主",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3916003,
+      "original_comments": 1609
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第14集【总第190集】",
+      "url": "https://www.bilibili.com/video/BV1Satr6zETw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:377.0万 | 弹幕:6.7万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3770109,
+      "original_comments": 66597
+    },
+    {
+      "title": "万人追更的终南山怪虫，只有我们拍到了真相！",
+      "url": "https://www.bilibili.com/video/BV1yuto66E8J",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:316.6万 | 弹幕:1.3万 | UP主:中国国家地理",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3165968,
+      "original_comments": 12838
+    },
+    {
+      "title": "不同北京人的住处差异",
+      "url": "https://www.bilibili.com/video/BV1Fwtq6yErw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:189.0万 | 弹幕:585 | UP主:抵抗Resistance",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1889623,
+      "original_comments": 585
+    },
+    {
+      "title": "花600天做一道菜，切开的瞬间发光了！",
+      "url": "https://www.bilibili.com/video/BV1kGto6BEiG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:180.4万 | 弹幕:4914 | UP主:绵羊料理",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1804061,
+      "original_comments": 4914
+    },
+    {
+      "title": "全B站最垃圾的一期视频",
+      "url": "https://www.bilibili.com/video/BV1sxtk6YEGp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:144.4万 | 弹幕:1.1万 | UP主:小潮院长",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1443938,
+      "original_comments": 11376
+    },
+    {
+      "title": "接了好多蝌蚪…",
+      "url": "https://www.bilibili.com/video/BV1mT4X6aEKp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:126.2万 | 弹幕:605 | UP主:不辣的-皮冻",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1262084,
+      "original_comments": 605
+    },
+    {
+      "title": "史上最烂DC电影！万字赤石《超女》！",
+      "url": "https://www.bilibili.com/video/BV1mntg62Ed8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:117.5万 | 弹幕:1.1万 | UP主:BuriedAlien",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1174974,
+      "original_comments": 10820
+    },
+    {
+      "title": "世界末日，却打不通最后一通电话💔《Payphone》",
+      "url": "https://www.bilibili.com/video/BV1FUbF6rEFf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:102.2万 | 弹幕:366 | UP主:陈可尔Keer",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1021784,
+      "original_comments": 366
+    },
+    {
+      "title": "拉康：我们如何用一生，从别人那里偷来一个“我”？",
+      "url": "https://www.bilibili.com/video/BV1BZtC68EXq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.9万 | 弹幕:912 | UP主:大圆镜科普",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 808853,
+      "original_comments": 912
+    },
+    {
+      "title": "对面一个牢玩家李白，打我们这边4个牢玩家",
+      "url": "https://www.bilibili.com/video/BV1NAtr68EaE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:74.1万 | 弹幕:272 | UP主:磊哥游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 740591,
+      "original_comments": 272
+    },
+    {
+      "title": "《营救匪徒》",
+      "url": "https://www.bilibili.com/video/BV1pst66xETg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:63.9万 | 弹幕:934 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 639271,
+      "original_comments": 934
+    },
+    {
+      "title": "喝多了没人能制裁我 除了我老婆",
+      "url": "https://www.bilibili.com/video/BV1i5tz65EfM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.2万 | 弹幕:282 | UP主:卷毛懂个球",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 582352,
+      "original_comments": 282
+    },
+    {
+      "title": "DECO*27 - 洗脳 feat. 初音未来",
+      "url": "https://www.bilibili.com/video/BV1UW8i6tEo1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.5万 | 弹幕:6473 | UP主:DECO27_Official",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 494615,
+      "original_comments": 6473
+    },
+    {
+      "title": "午夜轮班，伪人超市",
+      "url": "https://www.bilibili.com/video/BV16Htm6rE8n",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.3万 | 弹幕:3.6万 | UP主:鲤鱼Ace",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 462794,
+      "original_comments": 36267
+    },
+    {
+      "title": "慢下来，就会死！",
+      "url": "https://www.bilibili.com/video/BV1T2ti6REsF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.2万 | 弹幕:6918 | UP主:某幻君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 402318,
+      "original_comments": 6918
+    },
+    {
+      "title": "我好像找到了特别贴numb numb副歌音效的跳法…",
+      "url": "https://www.bilibili.com/video/BV1s9tf6EE3N",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.3万 | 弹幕:371 | UP主:Tutting-Max",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253076,
+      "original_comments": 371
+    },
+    {
+      "title": "这巴克什太简单辣！",
+      "url": "https://www.bilibili.com/video/BV1W7tm65EWd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:18.0万 | 弹幕:2846 | UP主:杨齐家_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 179940,
+      "original_comments": 2846
+    },
+    {
+      "title": "又来新新新人！",
+      "url": "https://www.bilibili.com/video/BV1F6t266EYV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:14.9万 | 弹幕:1595 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 148564,
+      "original_comments": 1595
+    },
+    {
+      "title": "【TF_ING】《CHILL ING》S2 EP01：厂家的故事",
+      "url": "https://www.bilibili.com/video/BV1Ekty68Eot",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:7.7万 | 弹幕:2.6万 | UP主:TF_ING",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 76706,
+      "original_comments": 26081
+    },
+    {
+      "title": "Call of Duty®: Black Ops III",
+      "url": "https://store.steampowered.com/app/311210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $27",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $56",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1764,
+      "original_comments": 1349
+    },
+    {
+      "title": "Dungeon Settlers",
+      "url": "https://store.steampowered.com/app/2798330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 631,
+      "original_comments": 395
+    },
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 540,
+      "original_comments": 287
+    },
+    {
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 459,
+      "original_comments": 353
+    },
+    {
+      "title": "Shutting down our public encrypted DNS",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 363,
+      "original_comments": 161
+    },
+    {
+      "title": "Statichost.eu – European static site hosting",
+      "url": "https://www.statichost.eu/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 315,
+      "original_comments": 135
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 297,
+      "original_comments": 102
+    },
+    {
+      "title": "Nitter has more working instances than before the takedowns",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 283,
+      "original_comments": 103
+    },
+    {
+      "title": "IBM Bob",
+      "url": "https://bob.ibm.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 280,
+      "original_comments": 294
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 274,
+      "original_comments": 166
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 238,
+      "original_comments": 150
+    },
+    {
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 175,
+      "original_comments": 162
+    },
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 155,
+      "original_comments": 68
+    },
+    {
+      "title": "Ask HN: Resources to get good at soldering?",
+      "url": "https://news.ycombinator.com/item?id=49533840",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 147,
+      "original_comments": 80
+    },
+    {
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 147,
+      "original_comments": 38
+    },
+    {
+      "title": "The Rust React Compiler is now native in Vite",
+      "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 146,
+      "original_comments": 38
+    },
+    {
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 123,
+      "original_comments": 47
+    },
+    {
+      "title": "RSA-260 Factorized",
+      "url": "https://twitter.com/penlume/status/2095372672356212876",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 119,
+      "original_comments": 65
+    },
+    {
+      "title": "Fermat's Last Theorem in Lean 4",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 119,
+      "original_comments": 21
+    },
+    {
+      "title": "The Blood of Dawnwalker",
+      "url": "https://store.steampowered.com/app/3751260",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Onimusha: Way of the Sword",
+      "url": "https://store.steampowered.com/app/2638890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Halloween: The Game",
+      "url": "https://store.steampowered.com/app/3219630",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS - Supporter Edition",
+      "url": "https://store.steampowered.com/app/1746527",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 831.43 📉-4.84(-0.58%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1199771,
+      "summary": "今日 831.43 | 📉 -4.84(-0.58%) | 最高 836.56 最低 831.14 | 连涨 -3天 | 成交额 ¥5586万 | 成交量 1199771件 | 📈1769 ➡2380 📉3345"
+    }
+  ]
+}
