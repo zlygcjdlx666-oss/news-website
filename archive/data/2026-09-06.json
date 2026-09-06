@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-06",
+  "commentary": "老铁们，咱先说说这个CSGO饰品大盘，830点，涨了0.02%，成交额五千万。磊哥我看了直摇头——这哪是炒股啊，这是给V社的“皮肤赌场”交手续费呢。涨一天跌三天，连涨一天就敢叫“大盘回暖”？醒醒吧，你那是库存，不是资产，别把游戏道具当养老保险。\n\n再说说B站热门，米哈游又拿《崩铁》PV刷屏，两百万播放，九千条弹幕。我承认画面是精致，但说白了，这不就是“动画公司兼职做游戏”的日常营业吗？玩家们一边骂着“米抠游”，一边老老实实贡献播放量，这叫什么？这就叫“嘴上说不要，身体很诚实”。\n\n不过今天最让我乐的是那个“给盲人投放弹窗广告”。嚯，这创意简直是“缺德他妈给缺德开门——缺德到家了”！盲人朋友用读屏软件，你给人弹窗？这跟往轮椅人士脚边扔香蕉皮有什么区别？互联网广告商为了KPI，连基本人道主义都不讲了，我建议这公司改行去卖“智商税盲盒”，反正用户看不见内容，打开全是惊喜。\n\n今日金句：**“这年头，有人拿游戏皮肤当理财，有人拿盲人当流量池，都不如动物园的猪，减个肥还能上热门，起码人家是真在干活儿。”**",
+  "news": [
+    {
+      "title": "《崩坏：星穹铁道》千星纪游PV——「深水区」",
+      "url": "https://www.bilibili.com/video/BV1sAbL6tEEC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:201.4万 | 弹幕:9000 | UP主:崩坏星穹铁道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2014155,
+      "original_comments": 9000
+    },
+    {
+      "title": "【独家】牧神记 第99集 医毒斗法",
+      "url": "https://www.bilibili.com/video/BV1CYt265E6e",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:176.3万 | 弹幕:6438 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1762628,
+      "original_comments": 6438
+    },
+    {
+      "title": "还记得全国养猪模范基地攀枝花动物园吗，现在动物减肥成功了吗？",
+      "url": "https://www.bilibili.com/video/BV1VLtZ6xEAC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:150.8万 | 弹幕:366 | UP主:嗨皮动物园长",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1508016,
+      "original_comments": 366
+    },
+    {
+      "title": "我把汉堡搬到了星星上",
+      "url": "https://www.bilibili.com/video/BV1Xdt26bECx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:147.2万 | 弹幕:1166 | UP主:李炮炮儿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1472146,
+      "original_comments": 1166
+    },
+    {
+      "title": "【2026LPL第三赛段】9月6日 IG vs WE",
+      "url": "https://www.bilibili.com/video/BV1vobp6eEnT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:100.7万 | 弹幕:8710 | UP主:哔哩哔哩英雄联盟赛事",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1006648,
+      "original_comments": 8710
+    },
+    {
+      "title": "西部神枪手快意恩仇，亲手报血海深仇后，却坠入一场惊天大阴谋",
+      "url": "https://www.bilibili.com/video/BV1BXtz67E2S",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:89.6万 | 弹幕:2748 | UP主:九条猫讲影",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 895710,
+      "original_comments": 2748
+    },
+    {
+      "title": "给盲人投放弹窗广告？",
+      "url": "https://www.bilibili.com/video/BV1gNbH6nEfT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:88.9万 | 弹幕:441 | UP主:销冠李老板",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 888978,
+      "original_comments": 441
+    },
+    {
+      "title": "《下一个是谁》第七季（4）",
+      "url": "https://www.bilibili.com/video/BV1HBbE6cEc5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:87.8万 | 弹幕:5.8万 | UP主:力元君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 878369,
+      "original_comments": 57940
+    },
+    {
+      "title": "《绝区零》克拉蕾EP | Link Up 血火相连",
+      "url": "https://www.bilibili.com/video/BV1C9b76cEks",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:78.1万 | 弹幕:1391 | UP主:绝区零",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 780766,
+      "original_comments": 1391
+    },
+    {
+      "title": "我去了世界最大的男女混浴温泉瀑布，泡起来到底多刺激？",
+      "url": "https://www.bilibili.com/video/BV1afbn6sExH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:78.1万 | 弹幕:1498 | UP主:兔兔不会秃秃",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 780561,
+      "original_comments": 1498
+    },
+    {
+      "title": "当你吃出口腔溃疡时体内正在发生什么",
+      "url": "https://www.bilibili.com/video/BV145t66AEfZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.6万 | 弹幕:469 | UP主:meme小短剧",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 616405,
+      "original_comments": 469
+    },
+    {
+      "title": "全网首发！爆肝3天！S11新NPC佐拉、唐吉任务线全流程攻略！完成后送口琴和火箭！可演奏可互动可入局！单人几乎无法完成！",
+      "url": "https://www.bilibili.com/video/BV1X5bE62EbZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:57.6万 | 弹幕:6962 | UP主:Key725",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 575607,
+      "original_comments": 6962
+    },
+    {
+      "title": "什么！“紫色的蜂蜜？如果给蜜蜂喂火龙果里的天然色素，会不会吧蜂巢里的“蜂蜜”也染色？今天就来做一下实验！看看会不会酿造出“紫色的蜂蜜”！",
+      "url": "https://www.bilibili.com/video/BV1p8bj6ZEZm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:47.8万 | 弹幕:594 | UP主:蜂农小姜",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 477939,
+      "original_comments": 594
+    },
+    {
+      "title": "【剧情】良医 第七季（2024）01【弗莱迪·海默 / 佩奇·斯巴勒】",
+      "url": "https://www.bilibili.com/video/BV1MThw6NEv6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.1万 | 弹幕:94 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 440796,
+      "original_comments": 94
+    },
+    {
+      "title": "【早期视频】逃离电视宝宝联机，绝命逃亡！",
+      "url": "https://www.bilibili.com/video/BV1Utbp6WE2s",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:38.6万 | 弹幕:9945 | UP主:鲤鱼Ace",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 386033,
+      "original_comments": 9945
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第7集】",
+      "url": "https://www.bilibili.com/video/BV1GAbW68EcH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.3万 | 弹幕:3151 | UP主:九夜听风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 272811,
+      "original_comments": 3151
+    },
+    {
+      "title": "【TF家族练习生】《千万分之一的我》02「幸会，再会」先导片",
+      "url": "https://www.bilibili.com/video/BV16Nbp6uEJQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:20.0万 | 弹幕:5.2万 | UP主:TF家族",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 199549,
+      "original_comments": 51982
+    },
+    {
+      "title": "今日说法",
+      "url": "https://www.bilibili.com/video/BV1qhbH6YEAt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.5万 | 弹幕:1292 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 165388,
+      "original_comments": 1292
+    },
+    {
+      "title": "《杜鹃》",
+      "url": "https://www.bilibili.com/video/BV19Btm6fEJo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.0万 | 弹幕:2488 | UP主:是许木木啊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 159743,
+      "original_comments": 2488
+    },
+    {
+      "title": "《锻刀大赛》翻车大赏 金属如奶油般化开！锻造西班牙神器",
+      "url": "https://www.bilibili.com/video/BV1Fubp6qEPz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:14.6万 | 弹幕:1232 | UP主:沫子瞪片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 146034,
+      "original_comments": 1232
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $62",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $32",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $99",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "Terraria",
+      "url": "https://store.steampowered.com/app/105600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "BOMBANANA!",
+      "url": "https://store.steampowered.com/app/4656000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Raft",
+      "url": "https://store.steampowered.com/app/648800",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $52",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $76",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2201,
+      "original_comments": 1553
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $214",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $102",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 642,
+      "original_comments": 344
+    },
+    {
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 455,
+      "original_comments": 225
+    },
+    {
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 447,
+      "original_comments": 66
+    },
+    {
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 400,
+      "original_comments": 173
+    },
+    {
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 351,
+      "original_comments": 103
+    },
+    {
+      "title": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 293,
+      "original_comments": 207
+    },
+    {
+      "title": "Learn Programming with OCaml",
+      "url": "https://usr.lmf.cnrs.fr/lpo/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 266,
+      "original_comments": 101
+    },
+    {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 258,
+      "original_comments": 57
+    },
+    {
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 204,
+      "original_comments": 160
+    },
+    {
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 181,
+      "original_comments": 38
+    },
+    {
+      "title": "Music Theory for Programmers",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 178,
+      "original_comments": 86
+    },
+    {
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 171,
+      "original_comments": 100
+    },
+    {
+      "title": "Delidded Intel I9-14900KS CT Scan",
+      "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 109,
+      "original_comments": 11
+    },
+    {
+      "title": "Topologist's Map of the World",
+      "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 103,
+      "original_comments": 25
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Onimusha: Way of the Sword",
+      "url": "https://store.steampowered.com/app/2638890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$298",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "NBA 2K27",
+      "url": "https://store.steampowered.com/app/4356430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$298",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Wallpaper Engine",
+      "url": "https://store.steampowered.com/app/431960",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$23",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "FINAL FANTASY VII Remake Series Trilogy Edition",
+      "url": "https://store.steampowered.com/app/82650",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$366",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 830.07 📈+0.2(+0.02%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1121393,
+      "summary": "今日 830.07 | 📈 +0.2(+0.02%) | 最高 830.62 最低 827.01 | 连涨 1天 | 成交额 ¥5318万 | 成交量 1121393件 | 📈1722 ➡2486 📉3286"
+    }
+  ]
+}
