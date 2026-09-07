@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-07",
+  "commentary": "兄弟姐妹们，今儿这CSGO大盘又是绿油油一片，跌了0.34%，成交额缩到5000多万，妥妥的“温水煮青蛙”。最扎眼的是连跌5天了，搁这儿给玩家上绿色健康课呢？饰品这玩意儿，现在比A股还A股，建议大家别急着抄底，小心抄在半山腰，回头一看，嘿，山顶上全是自己人。\n\nB站那帮整活的，今天真是神仙打架。但我一眼就锁定了那个《许家印从首富到白毛萝莉的一生》。哎呦喂，这标题起的，比房地产泡沫还刺激。从香槟射马云到舞女十八蹲，最后整成白毛萝莉？这哪是网络狠人，这是现实版《教父》加《变形记》啊！我就说一句，资本这东西，玩脱了连性别都能给你换了，你细品。\n\n还有那个《华强买瓜，但死神来了》，纯属是给咱们的精神状态做理疗。把“这瓜保熟吗”跟死神来了嫁接，二创鬼才。看这种视频就别带脑子，带嘴笑就完了，笑完你就发现，生活里那些破事儿，跟许老板的烂尾楼比起来，那都不算个瓜。\n\n今日金句：**人生就像CSGO饰品，你以为在抄底，其实在接盘；你以为在吃瓜，其实自己就是那个瓜。**",
+  "news": [
+    {
+      "title": "当你吃出口腔溃疡时体内正在发生什么",
+      "url": "https://www.bilibili.com/video/BV145t66AEfZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:286.3万 | 弹幕:845 | UP主:meme小短剧",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2863046,
+      "original_comments": 845
+    },
+    {
+      "title": "华强买瓜，但死神来了",
+      "url": "https://www.bilibili.com/video/BV1UBbL6YEtN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:215.0万 | 弹幕:2721 | UP主:伊介书生",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2150295,
+      "original_comments": 2721
+    },
+    {
+      "title": "江苏 | 南京麦乐鸡块碎尸案",
+      "url": "https://www.bilibili.com/video/BV1E1t26KEwz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:181.4万 | 弹幕:5846 | UP主:K侦探说案",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1814103,
+      "original_comments": 5846
+    },
+    {
+      "title": "怎么有网友让我走到西藏啊…",
+      "url": "https://www.bilibili.com/video/BV1eBbH6ZEL9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:151.8万 | 弹幕:7482 | UP主:拉宏桑",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1517898,
+      "original_comments": 7482
+    },
+    {
+      "title": "香槟射马云、舞女十八蹲！许家印从首富到白毛萝莉的一生【网络狠人114】",
+      "url": "https://www.bilibili.com/video/BV11dbH6LEm2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:109.5万 | 弹幕:2299 | UP主:喵喵即正义",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1094703,
+      "original_comments": 2299
+    },
+    {
+      "title": "北京门钉肉饼挑战，十分钟吃十个免单，你能吃多少？30个走起！",
+      "url": "https://www.bilibili.com/video/BV13rbH6dEU6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:91.1万 | 弹幕:4591 | UP主:橙飞一下",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 911223,
+      "original_comments": 4591
+    },
+    {
+      "title": "乌克兰的军统和中统内斗",
+      "url": "https://www.bilibili.com/video/BV1Akbw6WECj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:90.7万 | 弹幕:6695 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 907054,
+      "original_comments": 6695
+    },
+    {
+      "title": "和偷外卖的较量一番",
+      "url": "https://www.bilibili.com/video/BV1f4bH6NEu6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.1万 | 弹幕:223 | UP主:阁下有炸",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 810834,
+      "original_comments": 223
+    },
+    {
+      "title": "【自制动画】聊斋志异之《李伯言》",
+      "url": "https://www.bilibili.com/video/BV1gAtm69EBH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.8万 | 弹幕:312 | UP主:编导赵高",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 617883,
+      "original_comments": 312
+    },
+    {
+      "title": "武警版“恶魔引体5×10”来了，一起来挑战！",
+      "url": "https://www.bilibili.com/video/BV17Vbw6VE84",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:60.0万 | 弹幕:493 | UP主:新华社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 599804,
+      "original_comments": 493
+    },
+    {
+      "title": "【中国推理01】土木工程搞刺杀有没有搞头",
+      "url": "https://www.bilibili.com/video/BV1yqtq6SEcv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:54.1万 | 弹幕:1411 | UP主:阿怪MrWeird",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 541364,
+      "original_comments": 1411
+    },
+    {
+      "title": "薛甄珠手撕凌玲,但在印度",
+      "url": "https://www.bilibili.com/video/BV11cb46tECC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:53.8万 | 弹幕:630 | UP主:烨猫只玩抽象",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 538358,
+      "original_comments": 630
+    },
+    {
+      "title": "萌黄我...终于拥有新衣服了！！",
+      "url": "https://www.bilibili.com/video/BV1GSbA6BEyn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.9万 | 弹幕:1140 | UP主:火影忍者手游情报君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 509367,
+      "original_comments": 1140
+    },
+    {
+      "title": "第2期（上）：“神秘技师”惊现按摩店？！【时差五小时3】",
+      "url": "https://www.bilibili.com/video/BV1Cibn6gEC2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:34.5万 | 弹幕:1.5万 | UP主:综艺哔哔机",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 344951,
+      "original_comments": 14976
+    },
+    {
+      "title": "【终末地1.5】全网最强基建！划时代创新科技！颠覆你对基建深度的认知！",
+      "url": "https://www.bilibili.com/video/BV1tgbW6RE6W",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:33.1万 | 弹幕:460 | UP主:斯改",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 330506,
+      "original_comments": 460
+    },
+    {
+      "title": "出界就死（2）",
+      "url": "https://www.bilibili.com/video/BV1KFtr6aEoc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.6万 | 弹幕:4646 | UP主:高斯Goh",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 265704,
+      "original_comments": 4646
+    },
+    {
+      "title": "早期视频，方块小镇大乱斗1",
+      "url": "https://www.bilibili.com/video/BV12ZbA6wEiA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.3万 | 弹幕:1954 | UP主:鲤鱼Ace",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 252694,
+      "original_comments": 1954
+    },
+    {
+      "title": "孤岛小夫 第三集",
+      "url": "https://www.bilibili.com/video/BV1wKbs67Emc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.2万 | 弹幕:532 | UP主:派之新",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 251646,
+      "original_comments": 532
+    },
+    {
+      "title": "全网首发！周年庆解密我们搞出来啦！居然是双模式！全服活动！这下知道为什么S11叫群星了，快来投稿！",
+      "url": "https://www.bilibili.com/video/BV1JEbK6xEeK",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.4万 | 弹幕:355 | UP主:Key725",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 244155,
+      "original_comments": 355
+    },
+    {
+      "title": "立志成为恶兽第三集【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1HXbP6sEBq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.0万 | 弹幕:415 | UP主:立志成为恶兽",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 240063,
+      "original_comments": 415
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $22",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Call of Duty®: Black Ops III",
+      "url": "https://store.steampowered.com/app/311210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $22",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "BOMBANANA!",
+      "url": "https://store.steampowered.com/app/4656000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Project Zomboid",
+      "url": "https://store.steampowered.com/app/108600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $23",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $31",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $41",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 823,
+      "original_comments": 352
+    },
+    {
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 681,
+      "original_comments": 166
+    },
+    {
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 535,
+      "original_comments": 291
+    },
+    {
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 343,
+      "original_comments": 222
+    },
+    {
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 309,
+      "original_comments": 149
+    },
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 266,
+      "original_comments": 96
+    },
+    {
+      "title": "Ask HN: Fable hacked my piano, can I release the results?",
+      "url": "https://news.ycombinator.com/item?id=49577129",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 200,
+      "original_comments": 120
+    },
+    {
+      "title": "Ask HN: How do you manage skills files?",
+      "url": "https://news.ycombinator.com/item?id=49589914",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 193,
+      "original_comments": 178
+    },
+    {
+      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 174,
+      "original_comments": 112
+    },
+    {
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 141,
+      "original_comments": 53
+    },
+    {
+      "title": "Programming is Art",
+      "url": "https://orchidfiles.com/programming-is-art/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 131,
+      "original_comments": 132
+    },
+    {
+      "title": "Live map of public transport in Belgium",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 110,
+      "original_comments": 47
+    },
+    {
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 110,
+      "original_comments": 45
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$55",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1609",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Blood of Dawnwalker",
+      "url": "https://store.steampowered.com/app/3751260",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$110",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$12",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS - Supporter Edition",
+      "url": "https://store.steampowered.com/app/1746527",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$68",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$149",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+      "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 98,
+      "original_comments": 74
+    },
+    {
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "url": "https://arxiv.org/abs/2505.12540",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 98,
+      "original_comments": 31
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 826.31 📉-2.82(-0.34%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1188845,
+      "summary": "今日 826.31 | 📉 -2.82(-0.34%) | 最高 829.21 最低 825.53 | 连涨 -5天 | 成交额 ¥5880万 | 成交量 1188845件 | 📈1653 ➡2238 📉3603"
+    }
+  ]
+}
