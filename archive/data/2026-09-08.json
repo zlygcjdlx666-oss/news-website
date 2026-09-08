@@ -1,0 +1,643 @@
+{
+  "date": "2026-09-08",
+  "commentary": "哎，各位，今儿这新闻啊，信息量比早高峰地铁还挤。咱挑两个最扎眼的唠。\n\n先说英伟达那一百二十九亿美金砸向Hugging Face。磊哥我一看这数字，血压就上来了。这哪是收购啊？这是给整个开源社区脖子上套了根镶钻的狗链子。之前说好的“技术无国界、代码皆自由”呢？现在老黄一掏钱包，直接告诉你：自由是“标价”的，这个价儿，就是129亿。以后开发者们最怕的不是代码跑不通，是跑通了之后，老黄半夜给你改个开源协议。这手笔比当年抢矿卡狠多了，直接釜底抽薪，把AI界搞成了他的私人后花园。\n\n再瞅瞅加拿大跟美国这贸易战，那是真准备脱钩互砍了。200亿美元的反制关税就是两块多米诺骨牌，倒下去容易，想扶起来可就难喽。这俩邻居加一块儿的经济体量，现在愣是像俩闹别扭的小学生，谁也不先松手。加上欧洲那地界儿，又是炸基辅又是闹导弹，老穆的葬礼都能办成万人“偶像见面会”。我就纳了闷了，这世界是怕咱们段子手没素材还是怎么着？\n\n最后那句金句诸位拿走不谢：**“所谓的‘护城河’，在资本面前是条沟；所谓的‘停火协议’，在炮弹面前是张纸。”** 散会！",
+  "news": [
+    {
+      "title": "英伟达129亿美元收购AI平台Hugging Face",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "英伟达宣布以129亿美元收购开源AI平台Hugging Face，此举将使其控制领先的开源AI平台和开发者社区，进一步巩固其在AI领域的领导地位。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加拿大对美反制关税生效，贸易战恐长期化",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "加拿大针对200亿美元美国商品的反制关税正式生效，全球最大双边贸易关系的稳定性面临严峻挑战，两国或陷入长期贸易战。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯空袭基辅致至少两人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "俄罗斯军队周二凌晨对乌克兰首都基辅发动无人机袭击，造成至少两人死亡，空袭警报和爆炸声不断。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI首席科学家警告：无人对AI后果做好准备",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "OpenAI首席科学家在发布其最强产品GPT-6 Astra之际发出警告，称没有人真正为AI可能带来的后果做好了准备。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Isar Aerospace成欧洲首家成功入轨的私营公司",
+      "url": "https://www.solidot.org/story?sid=85313",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "德国Isar Aerospace公司的Spectrum火箭从挪威北极圈发射成功进入轨道，成为欧洲大陆首家实现此里程碑的私营企业。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：旗语通信",
+      "url": "https://xkcd.com/3295/",
+      "source": "XKCD",
+      "score": 8,
+      "summary": "本期XKCD漫画调侃了光在空气中比光纤中传播快50%的物理事实，但讽刺了实现这一延迟优势需要手臂挥动速度的现实难题。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国AI公司Mistral融资30亿欧元",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "法国AI初创公司Mistral成功筹集30亿欧元资金，这笔巨额融资将用于加速其大语言模型的研发与商业化进程。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 601,
+      "original_comments": 422
+    },
+    {
+      "title": "研究者破解90年代CA的RSA密钥",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "一名安全研究者宣布成功分解了上世纪90年代一家证书颁发机构的RSA密钥，引发了对旧加密基础设施安全性的新担忧。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 381,
+      "original_comments": 67
+    },
+    {
+      "title": "科学家首次在量子世界观测到爱因斯坦引力效应",
+      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "科学家宣布在量子尺度下观测到爱因斯坦引力理论的效应，这一突破性发现可能为统一量子力学与广义相对论提供关键线索。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 240,
+      "original_comments": 71
+    },
+    {
+      "title": "XKCD漫画：小行星任务",
+      "url": "https://xkcd.com/3294/",
+      "source": "XKCD",
+      "score": 8,
+      "summary": "漫画中，休斯顿控制中心要求着陆器重新开启裁剪功能并将质量设为1公斤，理论学家认为这样能解决任务难题，充满科学幽默。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "朝鲜与俄罗斯开通首座公路桥",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "连接朝鲜与俄罗斯的首座公路桥正式开通，标志着自乌克兰战争以来两国关系进一步强化，地缘政治格局再添变数。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "塞尔维亚数千人参加“波斯尼亚屠夫”姆拉迪奇葬礼",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "数千人在塞尔维亚参加了被判犯有种族灭绝罪的前波黑塞族军事领导人姆拉迪奇的葬礼，欧盟对此发出警告，反对美化战犯。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "以色列空袭黎巴嫩南部村庄致12人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "以色列对黎巴嫩南部一村庄发动空袭，造成12人死亡。黎方指责以色列的升级行动危及美国斡旋的停火协议。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：惯用手",
+      "url": "https://xkcd.com/3293/",
+      "source": "XKCD",
+      "score": 8,
+      "summary": "漫画巧妙地将棒球中的“左撇子专家”概念类比为物理学中研究弱相互作用的科学家，用双关语带来会心一笑。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果折叠iPhone初期产能严重受限",
+      "url": "https://www.solidot.org/story?sid=85317",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "因苹果对质量管控极为严格，其首款折叠屏iPhone初期日产量仅数百部，可能难以达成年内800万至1000万部的生产目标。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "小鼠实验显示GLP-1减肥药或有助于延缓衰老",
+      "url": "https://www.solidot.org/story?sid=85314",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "加州伯克利等机构的小鼠实验发现，老年雌性小鼠服用司美格鲁肽后寿命延长12%，多项衰老相关生物学变化得到减缓。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：地质学课堂",
+      "url": "https://xkcd.com/3292/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "漫画讽刺了AI评论轰炸工具的兴起，称其威胁到地质学本科生获取实地考察经验这一重要途径，幽默中带反思。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "针对整个Linux发行版的“信任之信任”攻击",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "安全研究人员展示了一种针对整个Linux发行版的“Trusting-Trust”攻击方法，揭示了供应链安全中存在的深层信任问题。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 222,
+      "original_comments": 48
+    },
+    {
+      "title": "欧洲使用CDN的企业近九成依赖Cloudflare",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一项调查显示，在欧洲使用CDN的企业中，近九成选择Cloudflare，凸显了该公司在欧洲网络基础设施市场的主导地位。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 220,
+      "original_comments": 186
+    },
+    {
+      "title": "博通撤回VDDK下载，离开VMware变得更难",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "博通撤回了VMware的VDDK（虚拟磁盘开发工具包）下载，此举使得用户和合作伙伴迁移离开VMware平台的难度进一步加大。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 220,
+      "original_comments": 108
+    },
+    {
+      "title": "XKCD漫画：发射台",
+      "url": "https://xkcd.com/3291/",
+      "source": "XKCD",
+      "score": 7,
+      "summary": "漫画讨论了为追求某种性能提升而扩建发射台和增加燃料的取舍，最终指出这些成本都出自设施预算，带有工程式冷幽默。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源媒体服务器Jellyfin发布12.0版本",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "知名开源媒体服务器软件Jellyfin发布12.0版本，带来多项功能改进与性能优化，为用户提供更强大的自托管媒体管理体验。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 447,
+      "original_comments": 192
+    },
+    {
+      "title": "谷歌发布新一代天气预报模型WeatherNext 3",
+      "url": "https://deepmind.google/science/weathernext/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "谷歌推出新一代AI天气预报模型WeatherNext 3，该模型在准确性和预报时效上均有显著提升，有望革新天气预报领域。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 359,
+      "original_comments": 90
+    },
+    {
+      "title": "可视化视频展示洛杉矶百年建筑变迁",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一段引人入胜的可视化视频展示了洛杉矶从1880年到2026年间一栋栋建筑的建造过程，生动呈现了城市发展的百年历史。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 309,
+      "original_comments": 152
+    },
+    {
+      "title": "独立维基面临新的“谷歌监狱”问题",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "有报告指出，独立维基网站正面临一种新的“谷歌监狱”现象，即在谷歌搜索结果中被系统性降权，影响其流量和生存。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 250,
+      "original_comments": 91
+    },
+    {
+      "title": "研究：冰冷卫星实为海洋世界",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "最新科学研究表明，太阳系中多颗冰冷的卫星实际上是隐藏着巨大液态水海洋的“海洋世界”，这大大扩展了寻找地外生命的视野。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 195,
+      "original_comments": 34
+    },
+    {
+      "title": "假如你生活在十万人的宿舍",
+      "url": "https://www.bilibili.com/video/BV138bP6gEvx",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "B站UP主“阿丸焖居”发布创意视频，设想生活在容纳十万人的巨型宿舍会是什么体验，脑洞大开引发网友热议。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1504095,
+      "original_comments": 1175
+    },
+    {
+      "title": "中国女主播连续跳舞数小时视频引外网热议",
+      "url": "https://www.bilibili.com/video/BV1d4tR6nEDb",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "一段中国女主播连续跳舞4至6小时几乎不停歇的视频在外网引发热议，有网友评论称这看起来像《黑镜》中的情节。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 1304216,
+      "original_comments": 845
+    },
+    {
+      "title": "骗子利用虚假版权声明向Instagram用户勒索",
+      "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Instagram用户正成为骗子的目标，骗子利用虚假版权声明进行勒索，用户面临金钱损失或账号被暂停的风险。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Grindr支付2600万英镑和解HIV状态共享指控",
+      "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "同性社交应用Grindr同意支付2600万英镑，以和解其涉嫌违反英国隐私法、与第三方共享用户HIV状态的长期指控。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Xbox将云游戏时长限制为每月15小时",
+      "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "微软Xbox宣布将Game Pass订阅用户的云游戏时长限制为每月15小时，称此举是由于云游戏成本上升，并有助于投资性能。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "机器人会成为主题公园的未来吗？",
+      "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "韩国“Galaxy Robot Park”机器人主题公园占地16500平方米，以伴随K-pop音乐跳舞的人形机器人为特色，探索娱乐新形态。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Uber在英推出首批带安全员的自动驾驶出租车",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Uber在英国伦敦推出首批15辆自动驾驶出租车，但车内仍配备安全驾驶员以保障安全，标志着英国自动驾驶商业化迈出重要一步。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Uber全球重组将裁员超3000人",
+      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "网约车巨头Uber宣布进行重大全球重组，将裁减超过3000个工作岗位，公司表示此举将使运营“更简单、更快速”。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国芯片巨头CEO称AI将在我们有生之年治愈癌症",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "Arm控股公司首席执行官Rene Haas大胆预测，人工智能将在我们这一代人的有生之年找到治愈癌症的方法。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加拿大对美反制关税生效，贸易战恐长期化",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "加拿大针对200亿美元美国商品的反制关税正式生效，全球最大双边贸易关系的稳定性面临严峻挑战，两国或陷入长期贸易战。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "设得兰航天港项目获英国政府3000万英镑投资",
+      "url": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "位于苏格兰设得兰群岛的航天港项目获得英国政府3000万英镑投资，这笔资金将用于增建两个发射台。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲国家为何将黄金移出北美？",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "荷兰已转移86吨黄金，多个欧洲国家正将存放在北美的黄金储备运回国内，这一现象背后反映了对地缘政治和经济风险的担忧。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "真实事件改编：史上最离谱劫机案",
+      "url": "https://www.bilibili.com/video/BV1Wqbn6zEbn",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "B站UP主“阿斗归来了”讲述根据真实事件改编的韩国史上最离谱劫机案，韩国政府的“极限忽悠”操作令人称奇。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1393540,
+      "original_comments": 1616
+    },
+    {
+      "title": "对话汉斯·季默：如何用旋律创造电影宇宙",
+      "url": "https://www.bilibili.com/video/BV1awbg6XELn",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "影视飓风发布独家专访，与著名电影配乐大师汉斯·季默探讨如何用一段旋律构建宏大的电影宇宙，揭秘创作背后的故事。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 362201,
+      "original_comments": 1222
+    },
+    {
+      "title": "全球最大游戏展上国产游戏已彻底疯狂",
+      "url": "https://www.bilibili.com/video/BV1BebG6zEBW",
+      "source": "B站热门",
+      "score": 7,
+      "summary": "在科隆游戏展等全球最大游戏展上，国产游戏大放异彩，其规模和品质让UP主感叹“已经彻底疯狂了”。",
+      "categories": [
+        "娱乐",
+        "科技"
+      ],
+      "original_score": 176112,
+      "original_comments": 513
+    },
+    {
+      "title": "为局域网派对而建的房子",
+      "url": "https://lanparty.house/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一位极客分享了自己为举办LAN派对而专门设计的房子，从网络布线到空间布局都为了最佳游戏体验，引发玩家社区热议。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 221,
+      "original_comments": 133
+    },
+    {
+      "title": "我的信息流我做主：澳大利亚拟推新法案",
+      "url": "https://www.pm.gov.au/media/my-feed-my-way",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "澳大利亚工党政府提出新法律草案，要求社媒平台允许用户选择退出算法推荐，只浏览自己关注的内容，赋予用户更多控制权。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 150,
+      "original_comments": 118
+    },
+    {
+      "title": "Asahi Linux宣布支持M3系列Mac",
+      "url": "https://www.solidot.org/story?sid=85319",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "致力于将Linux移植到Apple Silicon Mac的Asahi Linux项目宣布支持M3系列芯片，绝大多数功能已可正常工作。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国军方禁用设备广告追踪功能以防位置泄露",
+      "url": "https://www.solidot.org/story?sid=85318",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "为防止敌人通过商业追踪数据锁定士兵位置，美国军方正在禁用设备上的广告ID功能，涵盖Windows、Android和苹果设备。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国上半年CD和黑胶唱片销量大幅增长",
+      "url": "https://www.solidot.org/story?sid=85315",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "RIAA数据显示，美国上半年实体唱片收入增长25.9%，其中CD收入飙升58.6%，消费者对订阅服务涨价的不满推动了实体音乐复苏。",
+      "categories": [
+        "娱乐",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "实验：被洋辣子蜇后涂其体液能止疼吗？",
+      "url": "https://www.bilibili.com/video/BV1cobK68EoG",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主“路无边616”进行真人实验，测试被洋辣子（毛毛虫）蜇到后，用其体液涂抹是否能缓解疼痛，结果出人意料。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 519440,
+      "original_comments": 3351
+    },
+    {
+      "title": "小米澎程N90 Max探索版穿越大兴安岭睡觉全体验",
+      "url": "https://www.bilibili.com/video/BV1LtbK6JE5V",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "UP主“赛车星冰乐”体验小米澎程N90 Max探索版帐篷，在内蒙古敖鲁古雅穿越大兴安岭，带来独特的户外睡觉体验评测。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 577949,
+      "original_comments": 3986
+    },
+    {
+      "title": "阿尔巴尼亚欲成为下一个“土耳其”牙科旅游中心",
+      "url": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "阿尔巴尼亚正努力将自己打造为新的医疗旅游中心，特别是牙科治疗，希望吸引欧洲患者前来就医，被称为“地拉那之牙”。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "关税将真正给加拿大和美国民众带来什么代价",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "随着贸易战升级，分析指出关税将直接影响加美两国的家庭和企业，推高生活成本，并改变长期以来的贸易格局。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 828.66 📈+1.68(+0.2%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1095300,
+      "summary": "今日 828.66 | 📈 +1.68(+0.2%) | 最高 830.11 最低 826.92 | 连涨 1天 | 成交额 ¥5535万 | 成交量 1095300件 | 📈1882 ➡2259 📉3353"
+    }
+  ]
+}
