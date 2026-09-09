@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-09",
+  "commentary": "家人们，看今天的热榜，磊哥先给您各位提个醒：CSGO大盘又跌了，连跌七天，成交额五千多万。这玩意儿现在比A股还刺激，好歹A股跌了还能骂两句，这饰品跌了，你只能看着库存里那把刀默默抽烟，嘴上还得说“游戏道具，不慌”。这就是数字时代的自我修养。\n\n再说B站，复旦大学那个《我是自愿开学的》采访，哎呦我滴妈，这标题起的，跟“我是自愿加班”一样充满了一种黑色幽默。学生们嘴上说着自愿，眼神里全是“你猜我信不信”。这视频能火，说明大家心里都门儿清，开学这事儿，跟自愿不自愿没关系，主要是生活所迫。\n\n另外那个花20万买金丝楠树瘤藏了十年的老哥，锯开那一刻全场震惊。磊哥我震惊的不是木头纹路，是这老哥的家庭地位——能藏20万的木头藏十年不被老婆发现，这比木头本身值钱多了。\n\n今日金句：**大盘绿油油，开学愁上愁；要问啥最稳，还得是木头。**",
+  "news": [
+    {
+      "title": "《未眠野》首曝PV | 万物都在回应，世界没有答案",
+      "url": "https://www.bilibili.com/video/BV18gtJ6LECq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:656.8万 | 弹幕:4769 | UP主:未眠野",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6567580,
+      "original_comments": 4769
+    },
+    {
+      "title": "《阴阳师》石长姬CG丨拾光永恒（CV：小清水亚美）",
+      "url": "https://www.bilibili.com/video/BV1W3bK6cE37",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:259.0万 | 弹幕:3785 | UP主:网易阴阳师手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2590296,
+      "original_comments": 3785
+    },
+    {
+      "title": "【招笑版】新植物8:嘴巴很大花",
+      "url": "https://www.bilibili.com/video/BV16Pbn6wEGf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:178.5万 | 弹幕:390 | UP主:时空go蛙",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1784968,
+      "original_comments": 390
+    },
+    {
+      "title": "我 来 同 你 玩  丨 二洲年快乐",
+      "url": "https://www.bilibili.com/video/BV1eqYx6UE9V",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:149.2万 | 弹幕:2.6万 | UP主:三角洲行动",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1492153,
+      "original_comments": 25708
+    },
+    {
+      "title": "商业鬼才",
+      "url": "https://www.bilibili.com/video/BV1wybV6QEaN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:123.4万 | 弹幕:1566 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1234200,
+      "original_comments": 1566
+    },
+    {
+      "title": "花200000买个金丝楠树瘤，放家里藏了10年，锯开一看震惊全场",
+      "url": "https://www.bilibili.com/video/BV152b56uEgF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.1万 | 弹幕:7497 | UP主:老蒋根雕",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1030874,
+      "original_comments": 7497
+    },
+    {
+      "title": "挑战0元城市生存（1.2）",
+      "url": "https://www.bilibili.com/video/BV1TvbV6ZEZF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:85.9万 | 弹幕:3437 | UP主:杀心成焚酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 858763,
+      "original_comments": 3437
+    },
+    {
+      "title": "跑完沈阳马拉松挑战“全家福肘子饭”，一小时吃完奖金888元，能吃饱吗",
+      "url": "https://www.bilibili.com/video/BV1JXbV6jEA3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:84.2万 | 弹幕:3140 | UP主:橙飞一下",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 842352,
+      "original_comments": 3140
+    },
+    {
+      "title": "零食店开始集体\"动手脚\"，网友：不要把我们当傻子，好吗？",
+      "url": "https://www.bilibili.com/video/BV1s7bG6nE7x",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.2万 | 弹幕:1681 | UP主:魏武挥鞭否",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 812447,
+      "original_comments": 1681
+    },
+    {
+      "title": "《我是自愿开学的》复旦大学随机采访！",
+      "url": "https://www.bilibili.com/video/BV1zQb36MEGZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:77.5万 | 弹幕:735 | UP主:伢伢gagako",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 775286,
+      "original_comments": 735
+    },
+    {
+      "title": "S4前瞻特别节目精彩回顾 | 速览！看看S4到底有什么",
+      "url": "https://www.bilibili.com/video/BV1KqbV64ESg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:63.6万 | 弹幕:81 | UP主:逆战未来",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 636450,
+      "original_comments": 81
+    },
+    {
+      "title": "也算是太岁头上动了把土！",
+      "url": "https://www.bilibili.com/video/BV1LCb563EUG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:60.8万 | 弹幕:408 | UP主:许主任啊啊啊啊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 608246,
+      "original_comments": 408
+    },
+    {
+      "title": "老大！这么犯规的打法，我们真的能打赢吗！！？",
+      "url": "https://www.bilibili.com/video/BV1z1b36GEdQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.4万 | 弹幕:538 | UP主:小布敢",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 584400,
+      "original_comments": 538
+    },
+    {
+      "title": "爆肝六个月！40万字详解对越自卫反击战秘闻，我们对越南都做了什么？",
+      "url": "https://www.bilibili.com/video/BV1WnbG6EENE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.6万 | 弹幕:2888 | UP主:硬核奇点",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 525518,
+      "original_comments": 2888
+    },
+    {
+      "title": "《物业费最贵の一集》",
+      "url": "https://www.bilibili.com/video/BV1xsYn6pEw4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.3万 | 弹幕:492 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 493417,
+      "original_comments": 492
+    },
+    {
+      "title": "不是哥们儿，咱宿舍还有正常人嘛？",
+      "url": "https://www.bilibili.com/video/BV1z7YJ6MEA9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:43.3万 | 弹幕:401 | UP主:最帅之人jg",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 433229,
+      "original_comments": 401
+    },
+    {
+      "title": "「突围吧·少年」 —— 这一次，“突围”不是带出物资",
+      "url": "https://www.bilibili.com/video/BV1iTYp6kEwG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:38.6万 | 弹幕:785 | UP主:新华社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 385914,
+      "original_comments": 785
+    },
+    {
+      "title": "第三集上线！《新数码宝贝·全面战争》【15分钟管饱！】",
+      "url": "https://www.bilibili.com/video/BV19eYH6NEsC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:35.8万 | 弹幕:1029 | UP主:不睡的彻",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 358160,
+      "original_comments": 1029
+    },
+    {
+      "title": "德国政坛大地震，选择党，前进四！",
+      "url": "https://www.bilibili.com/video/BV1veYx6DESi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.8万 | 弹幕:1506 | UP主:麻薯波比呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 277873,
+      "original_comments": 1506
+    },
+    {
+      "title": "猎豹老虎随便撸？这不是动物园，是女王的千万珠宝柜！",
+      "url": "https://www.bilibili.com/video/BV1LHbV6qEGR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:11.3万 | 弹幕:327 | UP主:AHALOLO",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 113126,
+      "original_comments": 327
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $389",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $674",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Ready or Not",
+      "url": "https://store.steampowered.com/app/1144200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $312",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "BOMBANANA!",
+      "url": "https://store.steampowered.com/app/4656000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $120",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Wanderburg",
+      "url": "https://store.steampowered.com/app/3624140",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $194",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Resident Evil Requiem",
+      "url": "https://store.steampowered.com/app/3764200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $1399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $560",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $1959",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "PRAGMATA",
+      "url": "https://store.steampowered.com/app/3357650",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $1439",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1793,
+      "original_comments": 743
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1286,
+      "original_comments": 1035
+    },
+    {
+      "title": "In Falsus",
+      "url": "https://store.steampowered.com/app/3971950",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $891",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 574,
+      "original_comments": 124
+    },
+    {
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 554,
+      "original_comments": 607
+    },
+    {
+      "title": "We built our house for LAN parties (2024)",
+      "url": "https://lanparty.house/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 546,
+      "original_comments": 347
+    },
+    {
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 480,
+      "original_comments": 330
+    },
+    {
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 417,
+      "original_comments": 188
+    },
+    {
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 399,
+      "original_comments": 351
+    },
+    {
+      "title": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 379,
+      "original_comments": 84
+    },
+    {
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 266,
+      "original_comments": 128
+    },
+    {
+      "title": "Flock Wants a Closely Surveilled World with No Exit",
+      "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 218,
+      "original_comments": 187
+    },
+    {
+      "title": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 216,
+      "original_comments": 39
+    },
+    {
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 181,
+      "original_comments": 95
+    },
+    {
+      "title": "“Tweet” and the bird logo apparently enter the public domain",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 138,
+      "original_comments": 84
+    },
+    {
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 135,
+      "original_comments": 35
+    },
+    {
+      "title": "How An AI math breakthrough ignited a controversy",
+      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 132,
+      "original_comments": 118
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$829",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Halloween: The Game",
+      "url": "https://store.steampowered.com/app/3219630",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$765",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "Steam 热销游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS - Supporter Edition",
+      "url": "https://store.steampowered.com/app/1746527",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1029",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 822.14 📉-4.59(-0.56%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1116258,
+      "summary": "今日 822.14 | 📉 -4.59(-0.56%) | 最高 826.68 最低 821.71 | 连涨 -7天 | 成交额 ¥5488万 | 成交量 1116258件 | 📈1565 ➡2179 📉3750"
+    }
+  ]
+}
