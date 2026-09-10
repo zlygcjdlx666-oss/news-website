@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-10",
+  "commentary": "CSGO大盘连跌8天，818点，成交额5000多万，看着挺热闹，其实就一个字——惨。1506涨、3736跌，这数据搁这儿摆着，你跟我说是\"大盘\"？这叫大坝泄洪。饰品市场现在就跟过气网红似的，曾经一把龙狙能换辆车，现在挂出去连个问的人都没有。兄弟们，别抄底了，底在哪儿呢？底在V社下次大行动。\n\n再说B站热门，我一眼扫过去，好家伙，《流浪地球：望日》预告片来了，刘慈欣原著授权。但说实话，流浪地球这个IP已经被榨得跟甘蔗渣似的了，预告片播放量362万，弹幕才2064条——这转化率，观众是用脚投票的。反倒是老蒋根雕，花20万买树瘤锯开，300万播放1.9万弹幕，说明啥？说明大家宁可看木头，也不愿意看画饼。\n\n最后说那个\"老师投屏忘关了\"，143万播放。经典社死现场，我愿称之为当代互联网最真实的恐怖片。今日金句：CSGO的底你抄不到，老师的投屏你躲不掉。",
+  "news": [
+    {
+      "title": "《未眠野》首曝PV | 万物都在回应，世界没有答案",
+      "url": "https://www.bilibili.com/video/BV18gtJ6LECq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:1043.9万 | 弹幕:6868 | UP主:未眠野",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 10438958,
+      "original_comments": 6868
+    },
+    {
+      "title": "我 来 同 你 玩  丨 二洲年快乐",
+      "url": "https://www.bilibili.com/video/BV1eqYx6UE9V",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:575.8万 | 弹幕:12.2万 | UP主:三角洲行动",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5758475,
+      "original_comments": 121557
+    },
+    {
+      "title": "刘慈欣原著授权 |《流浪地球：望日》首支预告片",
+      "url": "https://www.bilibili.com/video/BV1tSYx66EvP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:362.3万 | 弹幕:2064 | UP主:流浪地球望日",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3623397,
+      "original_comments": 2064
+    },
+    {
+      "title": "花200000买个金丝楠树瘤，放家里藏了10年，锯开一看震惊全场",
+      "url": "https://www.bilibili.com/video/BV152b56uEgF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:300.3万 | 弹幕:1.9万 | UP主:老蒋根雕",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3003129,
+      "original_comments": 19289
+    },
+    {
+      "title": "《物业费最贵の一集》",
+      "url": "https://www.bilibili.com/video/BV1xsYn6pEw4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:188.1万 | 弹幕:1352 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1881236,
+      "original_comments": 1352
+    },
+    {
+      "title": "【影视飓风】iPhone Duo折叠屏真机上手",
+      "url": "https://www.bilibili.com/video/BV12PYh62E3c",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:177.1万 | 弹幕:6218 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1771137,
+      "original_comments": 6218
+    },
+    {
+      "title": "老师…你投屏忘关了……",
+      "url": "https://www.bilibili.com/video/BV1npbg6gE9Q",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:143.9万 | 弹幕:464 | UP主:鹤吱菌",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1439067,
+      "original_comments": 464
+    },
+    {
+      "title": "⚡️ 嘉 豪 の 小 曲 ⚡️",
+      "url": "https://www.bilibili.com/video/BV1KeY466Ekf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:135.0万 | 弹幕:1051 | UP主:哦呼w",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1349539,
+      "original_comments": 1051
+    },
+    {
+      "title": "《崩坏：星穹铁道》砂金•戏浪角色PV——「独家爆料」",
+      "url": "https://www.bilibili.com/video/BV1yjYx6AEp7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:122.8万 | 弹幕:6952 | UP主:崩坏星穹铁道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1227856,
+      "original_comments": 6952
+    },
+    {
+      "title": "【教师节TV】可恶……这么燃的考前动员？！",
+      "url": "https://www.bilibili.com/video/BV1AcY46PEYE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:86.1万 | 弹幕:604 | UP主:大乾乾是顾乾宇",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 861017,
+      "original_comments": 604
+    },
+    {
+      "title": "能在原神里玩空洞骑士了！这还是原神吗？？",
+      "url": "https://www.bilibili.com/video/BV19CYt6pEQ9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:70.8万 | 弹幕:1091 | UP主:小问号Official",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 707538,
+      "original_comments": 1091
+    },
+    {
+      "title": "终于找到你了，人类！",
+      "url": "https://www.bilibili.com/video/BV1PRti6JEi1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.9万 | 弹幕:2637 | UP主:人类观察所",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 619456,
+      "original_comments": 2637
+    },
+    {
+      "title": "【英雄联盟】打了 15 年， 对决还在继续。",
+      "url": "https://www.bilibili.com/video/BV16uYK6TEqe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:51.6万 | 弹幕:97 | UP主:英雄联盟",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 516325,
+      "original_comments": 97
+    },
+    {
+      "title": "A20 Pro来啦！散热拉满？iPhone Duo/18 Pro现场上手",
+      "url": "https://www.bilibili.com/video/BV1JVYM6GEof",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.7万 | 弹幕:1921 | UP主:极客湾Geekerwan",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 466619,
+      "original_comments": 1921
+    },
+    {
+      "title": "热烈欢迎欧阳娜娜！我们的第二位00后嘉宾～看看喜欢搞婚庆的娜娜带了什么可爱（但没用）的小东西呢？",
+      "url": "https://www.bilibili.com/video/BV1YkYx6LEun",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:45.4万 | 弹幕:5778 | UP主:papi酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 454407,
+      "original_comments": 5778
+    },
+    {
+      "title": "众望所归，今天带孙艺洲自律！",
+      "url": "https://www.bilibili.com/video/BV1e1Y86fEPD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.1万 | 弹幕:462 | UP主:花小龙oy",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 360798,
+      "original_comments": 462
+    },
+    {
+      "title": "一根铅笔300块？如今的文具让我大开眼界...",
+      "url": "https://www.bilibili.com/video/BV16hb56JEeU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.1万 | 弹幕:3793 | UP主:-LKs-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 360573,
+      "original_comments": 3793
+    },
+    {
+      "title": "《阴阳师》十周年庆典现已开启丨送你这样好的「石莲金」",
+      "url": "https://www.bilibili.com/video/BV1ZXY464EfR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:28.1万 | 弹幕:711 | UP主:网易阴阳师手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 280641,
+      "original_comments": 711
+    },
+    {
+      "title": "大美王朝2026：党争、测谎，挪用军饷，美国真有大明那味了！",
+      "url": "https://www.bilibili.com/video/BV1bwYg6tExB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:13.1万 | 弹幕:2019 | UP主:星辰趣味屋",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 131118,
+      "original_comments": 2019
+    },
+    {
+      "title": "明明没踩刹车，谁在偷偷拖慢你的车？",
+      "url": "https://www.bilibili.com/video/BV1LcYT6aEVf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:7.6万 | 弹幕:229 | UP主:所长Wy",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 75644,
+      "original_comments": 229
+    },
+    {
+      "title": "Call of Duty®: Black Ops III",
+      "url": "https://store.steampowered.com/app/311210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Wanderburg",
+      "url": "https://store.steampowered.com/app/3624140",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Resident Evil Requiem",
+      "url": "https://store.steampowered.com/app/3764200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $49",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $27",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "PRAGMATA",
+      "url": "https://store.steampowered.com/app/3357650",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $48",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1258,
+      "original_comments": 2206
+    },
+    {
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1067,
+      "original_comments": 414
+    },
+    {
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 576,
+      "original_comments": 355
+    },
+    {
+      "title": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 547,
+      "original_comments": 295
+    },
+    {
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 475,
+      "original_comments": 404
+    },
+    {
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 465,
+      "original_comments": 147
+    },
+    {
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 464,
+      "original_comments": 97
+    },
+    {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 430,
+      "original_comments": 175
+    },
+    {
+      "title": "No Man's Sky Cosmos",
+      "url": "https://www.nomanssky.com/cosmos-update/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 416,
+      "original_comments": 417
+    },
+    {
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 380,
+      "original_comments": 422
+    },
+    {
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 378,
+      "original_comments": 656
+    },
+    {
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 350,
+      "original_comments": 223
+    },
+    {
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 226,
+      "original_comments": 87
+    },
+    {
+      "title": "All grown-ups were once children, but only few of them remember it",
+      "url": "https://mathstodon.xyz/@tao/117244102901892965",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222,
+      "original_comments": 162
+    },
+    {
+      "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
+      "url": "https://honestlyranked.com/guides/streaming-price-increases/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 179,
+      "original_comments": 164
+    },
+    {
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 153,
+      "original_comments": 65
+    },
+    {
+      "title": "Stockfish 19",
+      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 110,
+      "original_comments": 57
+    },
+    {
+      "title": "Show HN: Compute polynomials twice as fast",
+      "url": "https://thomasahle.com/fast-polynomials/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 103,
+      "original_comments": 34
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS - Supporter Edition",
+      "url": "https://store.steampowered.com/app/1746527",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Halloween: The Game",
+      "url": "https://store.steampowered.com/app/3219630",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Blood of Dawnwalker",
+      "url": "https://store.steampowered.com/app/3751260",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Valheim",
+      "url": "https://store.steampowered.com/app/892970",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 818.32 📉-3.17(-0.39%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1181595,
+      "summary": "今日 818.32 | 📉 -3.17(-0.39%) | 最高 821.45 最低 817.56 | 连涨 -8天 | 成交额 ¥5197万 | 成交量 1181595件 | 📈1506 ➡2252 📉3736"
+    }
+  ]
+}
