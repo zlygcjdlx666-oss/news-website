@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-11",
+  "commentary": "好家伙，今天这B站热门榜，我愿称之为“精神分裂现场”。一边是刘慈欣授权的《流浪地球：望日》预告片，705万播放，弹幕全在刷“人类命运共同体”；另一边是《对三骗王炸》，斗地主都能整出115万播放，弹幕全是“我牌呢？”——这届网友，左手星辰大海，右手裤裆藏雷，格局和尿性无缝切换。\n\n最绝的是新华社整了个《突围吧·少年》，142万播放，2874条弹幕。你以为是军事演习？点进去一看，“突围”不是带出物资——好家伙，连官媒都开始玩“逃离塔科夫”的梗了，这波啊，这波是“正能量整活，最为致命”。\n\n再说那个《力竭豌豆》，218万播放，弹幕707条。我寻思这植物是去健身房办卡了吗？“力竭”这词儿从健身圈卷到植物大战僵尸圈，下次是不是该出个“增肌坚果”了？\n\n今日金句：这届网友的首页，一半是《流浪地球》拯救人类，一半是《对三骗王炸》拯救笑点——我们不是在流浪，就是在流窜。",
+  "news": [
+    {
+      "title": "刘慈欣原著授权 |《流浪地球：望日》首支预告片",
+      "url": "https://www.bilibili.com/video/BV1tSYx66EvP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:705.2万 | 弹幕:5456 | UP主:流浪地球望日",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7051507,
+      "original_comments": 5456
+    },
+    {
+      "title": "【招笑版】新植物9:力竭豌豆【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1sbbj6bEut",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:218.6万 | 弹幕:707 | UP主:时空go蛙",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2186213,
+      "original_comments": 707
+    },
+    {
+      "title": "当我把“大地”穿在身上｜结合自然元素还原绝美大地女神",
+      "url": "https://www.bilibili.com/video/BV1uFYg6fETn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:152.4万 | 弹幕:509 | UP主:o小庄o",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1524192,
+      "original_comments": 509
+    },
+    {
+      "title": "「突围吧·少年」 —— 这一次，“突围”不是带出物资",
+      "url": "https://www.bilibili.com/video/BV1iTYp6kEwG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:142.6万 | 弹幕:2874 | UP主:新华社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1426310,
+      "original_comments": 2874
+    },
+    {
+      "title": "我要把这个雪山天坑建造成一处秘境！",
+      "url": "https://www.bilibili.com/video/BV1WNYJ67EdR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:142.5万 | 弹幕:1537 | UP主:令宇_ArYu",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1425279,
+      "original_comments": 1537
+    },
+    {
+      "title": "【糖果】人类就要冲出太阳系了！然后被宇宙嫌弃了",
+      "url": "https://www.bilibili.com/video/BV1WuYh6VEaS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:134.1万 | 弹幕:1698 | UP主:DiDi_OK",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1340861,
+      "original_comments": 1698
+    },
+    {
+      "title": "差一天就能看到糖花の“监狱vlog”了",
+      "url": "https://www.bilibili.com/video/BV12HYu6REYk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:129.9万 | 弹幕:679 | UP主:我不是黄毛-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1298587,
+      "original_comments": 679
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第8集】",
+      "url": "https://www.bilibili.com/video/BV1CDYg69EGL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:124.8万 | 弹幕:1.1万 | UP主:九夜听风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1248087,
+      "original_comments": 11485
+    },
+    {
+      "title": "换一种心跳，感受世界的奇妙——《伊莫》联结玩法实机",
+      "url": "https://www.bilibili.com/video/BV1kMYb6KEQ9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:124.3万 | 弹幕:508 | UP主:伊莫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1243410,
+      "original_comments": 508
+    },
+    {
+      "title": "《对三骗王炸》",
+      "url": "https://www.bilibili.com/video/BV1bxYV6BEwS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:115.0万 | 弹幕:489 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1150373,
+      "original_comments": 489
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第6集 试探【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1t5b56cELB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:92.5万 | 弹幕:1.0万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 925318,
+      "original_comments": 10234
+    },
+    {
+      "title": "京圈太子爷，论迹不论心",
+      "url": "https://www.bilibili.com/video/BV1ThY46kERk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.6万 | 弹幕:300 | UP主:沉迷_Aholic",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 806195,
+      "original_comments": 300
+    },
+    {
+      "title": "近期热点事件：9月神人合集（一）",
+      "url": "https://www.bilibili.com/video/BV1eAYT6FEVx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:39.5万 | 弹幕:5309 | UP主:我是M菌",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 394928,
+      "original_comments": 5309
+    },
+    {
+      "title": "【赛尔号】灵渊的回响主线版本PV「风暴之中，雷神降临」",
+      "url": "https://www.bilibili.com/video/BV149Yt61ErM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:39.4万 | 弹幕:425 | UP主:赛尔号",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 394482,
+      "original_comments": 425
+    },
+    {
+      "title": "【warma/怒九】出国！去逛全球最大的游戏展吧！",
+      "url": "https://www.bilibili.com/video/BV1fsYG6JErA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.5万 | 弹幕:1804 | UP主:Warma",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 275129,
+      "original_comments": 1804
+    },
+    {
+      "title": "对话OPPO 陈希：ColorOS 17 流畅到底由什么决定？",
+      "url": "https://www.bilibili.com/video/BV1LjYL6WEg4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.3万 | 弹幕:794 | UP主:极客湾Geekerwan",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253324,
+      "original_comments": 794
+    },
+    {
+      "title": "麒麟9050 Pro性能解析：GPU提升很大！华为Mate XT 2 非凡大师 展翼三折叠",
+      "url": "https://www.bilibili.com/video/BV15fYL69EKz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.7万 | 弹幕:2770 | UP主:搞机所",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 246981,
+      "original_comments": 2770
+    },
+    {
+      "title": "你会翻过山，看到万丈青天",
+      "url": "https://www.bilibili.com/video/BV19JYL6nE34",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:11.3万 | 弹幕:923 | UP主:陈怀安_Aaa",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 112595,
+      "original_comments": 923
+    },
+    {
+      "title": "【徐静雨×追梦格林】贴脸开大！谁是篮球自媒体Goat？",
+      "url": "https://www.bilibili.com/video/BV1CCY76kEmt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:9.6万 | 弹幕:1791 | UP主:雨说体育徐静雨",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 96159,
+      "original_comments": 1791
+    },
+    {
+      "title": "如何制造海苔",
+      "url": "https://www.bilibili.com/video/BV1NsYE6yEna",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:6.9万 | 弹幕:638 | UP主:嘤武罗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 69103,
+      "original_comments": 638
+    },
+    {
+      "title": "DEATH STRANDING DIRECTOR'S CUT",
+      "url": "https://store.steampowered.com/app/1850570",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Ready or Not",
+      "url": "https://store.steampowered.com/app/1144200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Resident Evil Requiem",
+      "url": "https://store.steampowered.com/app/3764200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $49",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Diablo II: Resurrected – Infernal Edition",
+      "url": "https://store.steampowered.com/app/2536520",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $28",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "PRAGMATA",
+      "url": "https://store.steampowered.com/app/3357650",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $48",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1124,
+      "original_comments": 818
+    },
+    {
+      "title": "Drag'n Wash",
+      "url": "https://store.steampowered.com/app/4739660",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Welcome to Elderfield",
+      "url": "https://store.steampowered.com/app/3195440",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $16",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 828,
+      "original_comments": 763
+    },
+    {
+      "title": "Rust is tier-1 language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 696,
+      "original_comments": 452
+    },
+    {
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 601,
+      "original_comments": 372
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 426,
+      "original_comments": 176
+    },
+    {
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 348,
+      "original_comments": 56
+    },
+    {
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 282,
+      "original_comments": 157
+    },
+    {
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 266,
+      "original_comments": 86
+    },
+    {
+      "title": "Neki – Sharded Postgres",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253,
+      "original_comments": 133
+    },
+    {
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 249,
+      "original_comments": 110
+    },
+    {
+      "title": "So you want to use OpenRouter?",
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 243,
+      "original_comments": 45
+    },
+    {
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 228,
+      "original_comments": 150
+    },
+    {
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 195,
+      "original_comments": 75
+    },
+    {
+      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 193,
+      "original_comments": 86
+    },
+    {
+      "title": "Claude is no longer available for minors",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 137,
+      "original_comments": 191
+    },
+    {
+      "title": "Nine coding harnesses vs. your laptop",
+      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 127,
+      "original_comments": 41
+    },
+    {
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 120,
+      "original_comments": 212
+    },
+    {
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "url": "https://merybenavente.me/blog/proof-of-capture",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 118,
+      "original_comments": 68
+    },
+    {
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 115,
+      "original_comments": 65
+    },
+    {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 104,
+      "original_comments": 59
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 820.73 📈+2.43(+0.3%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1145356,
+      "summary": "今日 820.73 | 📈 +2.43(+0.3%) | 最高 820.73 最低 818.06 | 连涨 1天 | 成交额 ¥5177万 | 成交量 1145356件 | 📈1897 ➡2328 📉3269"
+    }
+  ]
+}
