@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-12",
+  "commentary": "今天这盘面，CSGO大盘822.84，涨了0.58，连涨两天，成交额小五千万。兄弟们，这不叫回暖，这叫ICU里心电图抖了一下。成交量一百多万件，涨跌家数2567比2854——跌的比涨的多，指数还能红？全靠那几把硬通货撑着。饰品市场现在就是个薛定谔的猫箱，你打开之前永远不知道里面是龙狙还是传家宝。\n\nB站这边，凡人修仙传第191集，393万播放，8.3万弹幕，这才是真·硬通货。国创区扛把子，韩立都元婴了还在打工，你我还有什么理由躺平？但真正让我破防的是“五分钟后年级查带手机”，199万播放。一个五分钟的校园恐怖片，比任何悬疑剧都刺激。建议各大视频平台买下版权，改名《手机风云》，绝对爆。\n\n最后说火箭军防毒面具版“恶魔引体”，155万播放。别人健身要钱，这健身要命。这才是真正的硬核狠活，建议某些擦边健身博主进来学习一下什么叫“负重前行”。\n\n今日金句：CSGO大盘连涨两天你就想抄底？记住，饰品市场没有底，只有你的钱包在替你负重前行。",
+  "news": [
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第15集【总第191集】",
+      "url": "https://www.bilibili.com/video/BV1EmYm6HE57",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:393.7万 | 弹幕:8.3万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3937196,
+      "original_comments": 83236
+    },
+    {
+      "title": "校长来啦",
+      "url": "https://www.bilibili.com/video/BV1odY76aEio",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:339.1万 | 弹幕:2093 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3390856,
+      "original_comments": 2093
+    },
+    {
+      "title": "换一种心跳，感受世界的奇妙——《伊莫》联结玩法实机",
+      "url": "https://www.bilibili.com/video/BV1kMYb6KEQ9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:249.3万 | 弹幕:598 | UP主:伊莫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2493031,
+      "original_comments": 598
+    },
+    {
+      "title": "解锁现实版“富豪主题公园” 探访欧洲老钱后花园摩纳哥",
+      "url": "https://www.bilibili.com/video/BV1c5YM6rETF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:212.4万 | 弹幕:336 | UP主:终极小腾",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2123719,
+      "original_comments": 336
+    },
+    {
+      "title": "五分钟后年级查带手机",
+      "url": "https://www.bilibili.com/video/BV1nDbP6dEv2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:199.0万 | 弹幕:162 | UP主:一颗霉屎的桔勒勒",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1990084,
+      "original_comments": 162
+    },
+    {
+      "title": "火箭军防毒面具版“恶魔引体”，硬核出战！",
+      "url": "https://www.bilibili.com/video/BV19HY76oEv3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:155.3万 | 弹幕:717 | UP主:中国火箭军",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1552538,
+      "original_comments": 717
+    },
+    {
+      "title": "小 兵 阿 嘎",
+      "url": "https://www.bilibili.com/video/BV1zuY46oE2V",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:131.3万 | 弹幕:2314 | UP主:推背兔の",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1312551,
+      "original_comments": 2314
+    },
+    {
+      "title": "什么叫你往mc添加了整套拼豆系统？",
+      "url": "https://www.bilibili.com/video/BV1NKYg6RE5M",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:107.8万 | 弹幕:326 | UP主:罐子pot",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1077546,
+      "original_comments": 326
+    },
+    {
+      "title": "“人们常常在夏天结束时，回忆那些美好的时光... ”【Shawdow of the sun】【夏天结束の小曲】",
+      "url": "https://www.bilibili.com/video/BV16XbP6sEX2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:107.7万 | 弹幕:2.8万 | UP主:早睡起大王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1077007,
+      "original_comments": 28344
+    },
+    {
+      "title": "21世纪波兰依然被闪击",
+      "url": "https://www.bilibili.com/video/BV1BdYQ6aEXv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:84.2万 | 弹幕:5591 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 842424,
+      "original_comments": 5591
+    },
+    {
+      "title": "去了一趟山西。",
+      "url": "https://www.bilibili.com/video/BV1xVY26dEbz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:84.1万 | 弹幕:6916 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 840660,
+      "original_comments": 6916
+    },
+    {
+      "title": "高糖VS戒糖14天！真的差别很大吗？",
+      "url": "https://www.bilibili.com/video/BV1enYL6SEtU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.2万 | 弹幕:2565 | UP主:亿点点不一样",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 651962,
+      "original_comments": 2565
+    },
+    {
+      "title": "光合作用：一次意外吞噬，改变了整个地球",
+      "url": "https://www.bilibili.com/video/BV1HyYS6wECP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.6万 | 弹幕:1328 | UP主:大圆镜科普",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 586385,
+      "original_comments": 1328
+    },
+    {
+      "title": "粤韵风华之驾校宝典",
+      "url": "https://www.bilibili.com/video/BV1d8Yg6MEF3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.2万 | 弹幕:256 | UP主:希诺_Sinon",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 461642,
+      "original_comments": 256
+    },
+    {
+      "title": "“一饭温情相赠，千里以报恩深.”【红色高跟鞋DJ-降调】【涌泉相报の小曲】",
+      "url": "https://www.bilibili.com/video/BV1HUY76uEMJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:38.2万 | 弹幕:530 | UP主:早睡起大王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 381748,
+      "original_comments": 530
+    },
+    {
+      "title": "回访篇：当年改造的家，现在怎么样了【梦想改造家 第13季】",
+      "url": "https://www.bilibili.com/video/BV1wKYK6uEus",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.8万 | 弹幕:253 | UP主:综艺哔哔机",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 297949,
+      "original_comments": 253
+    },
+    {
+      "title": "【独家】《百日成王》第24集 还有人在等着我【7月国创】",
+      "url": "https://www.bilibili.com/video/BV1dFth6DEc9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:28.0万 | 弹幕:762 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 279883,
+      "original_comments": 762
+    },
+    {
+      "title": "当你穿进老钱班《前传》",
+      "url": "https://www.bilibili.com/video/BV12fYD66EFC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.6万 | 弹幕:397 | UP主:侯绿萝",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 265812,
+      "original_comments": 397
+    },
+    {
+      "title": "模仿派对，配音挑战",
+      "url": "https://www.bilibili.com/video/BV1ZqYX6YEsu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.0万 | 弹幕:1.2万 | UP主:鲤鱼Ace",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 220307,
+      "original_comments": 11943
+    },
+    {
+      "title": "1%电量=1块钱！一线城市12小时极限消费体验！",
+      "url": "https://www.bilibili.com/video/BV1NAY962EZQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:11.4万 | 弹幕:1923 | UP主:啊吗粽",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 114053,
+      "original_comments": 1923
+    },
+    {
+      "title": "DEATH STRANDING DIRECTOR'S CUT",
+      "url": "https://store.steampowered.com/app/1850570",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $299",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $389",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $450",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $674",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Ready or Not",
+      "url": "https://store.steampowered.com/app/1144200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $312",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "RV There Yet?",
+      "url": "https://store.steampowered.com/app/3949040",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $112",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Wanderburg",
+      "url": "https://store.steampowered.com/app/3624140",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $194",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Diablo® IV: Lord of Hatred™ - Standard Edition",
+      "url": "https://store.steampowered.com/app/1390270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $1274",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "inZOI",
+      "url": "https://store.steampowered.com/app/2456740",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $959",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 990,
+      "original_comments": 942
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 764,
+      "original_comments": 422
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 584,
+      "original_comments": 313
+    },
+    {
+      "title": "google.com/goto: Google's anti-scraping update",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 474,
+      "original_comments": 370
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 316,
+      "original_comments": 82
+    },
+    {
+      "title": "Logo Programming",
+      "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 290,
+      "original_comments": 117
+    },
+    {
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 283,
+      "original_comments": 209
+    },
+    {
+      "title": "Show HN: Bodily Oddities",
+      "url": "https://vester.si/bodily-oddities/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 271,
+      "original_comments": 174
+    },
+    {
+      "title": "IKEA made a mod for Skyrim [video]",
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 250,
+      "original_comments": 41
+    },
+    {
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 225,
+      "original_comments": 81
+    },
+    {
+      "title": "Rune is now open source",
+      "url": "https://rune.build/blog/rune-is-now-open-source",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 197,
+      "original_comments": 61
+    },
+    {
+      "title": "Navier-Stokes Announcement",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 196,
+      "original_comments": 132
+    },
+    {
+      "title": "Mind-altering drugs played key role in rise of Andean civilization",
+      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 172,
+      "original_comments": 113
+    },
+    {
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 151,
+      "original_comments": 50
+    },
+    {
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "url": "https://snap.berkeley.edu/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 150,
+      "original_comments": 86
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 115,
+      "original_comments": 14
+    },
+    {
+      "title": "Another way to leak traffic on Android has been discovered",
+      "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 101,
+      "original_comments": 16
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$829",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "Steam 热销游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS - Supporter Edition",
+      "url": "https://store.steampowered.com/app/1746527",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1029",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Blood of Dawnwalker",
+      "url": "https://store.steampowered.com/app/3751260",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1999",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 822.84 📈+0.58(+0.07%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1171093,
+      "summary": "今日 822.84 | 📈 +0.58(+0.07%) | 最高 823.31 最低 822.26 | 连涨 2天 | 成交额 ¥4988万 | 成交量 1171093件 | 📈2073 ➡2567 📉2854"
+    }
+  ]
+}
