@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-14",
+  "commentary": "好家伙，今天这CSGO大盘绿得我眼睛疼。812点，连跌三天，成交额五千多万——兄弟们，这不是大盘，这是韭菜联合收割机啊。1516家上涨、3861家下跌，你打开库存一看，好嘛，全在打折促销。我早说了，饰品这东西，涨的时候你是巴菲特，跌的时候你是巴拉巴拉小魔仙，变没也就一瞬间。\n\n再说B站那个“黑帮集体跳槽干物业”，284万播放，我点进去差点笑岔气。黑帮发现物业更黑——这哪是搞笑视频，这是纪录片啊！建议直接送审奥斯卡，片名就叫《从良的代价》。还有那个“吃完菌子做的噩梦”，136万播放，云南人看完表示：这才哪到哪，我们吃菌子从来不觉得自己中毒，只觉得是锅没洗干净。\n\n最后说一句，今天这行情，别抄底，底在物业费里。\n\n**今日金句：你以为你在抄CSGO的底，其实CSGO在抄你的家。**",
+  "news": [
+    {
+      "title": "【假装讲电影】笑死！黑帮集体跳槽干物业！结果发现物业更黑啊！！！",
+      "url": "https://www.bilibili.com/video/BV1vnYQ6xEMr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:284.2万 | 弹幕:5975 | UP主:假装讲电影",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2841511,
+      "original_comments": 5975
+    },
+    {
+      "title": "还原我吃完菌子做的噩梦",
+      "url": "https://www.bilibili.com/video/BV1JJYd6rEwA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:136.6万 | 弹幕:1870 | UP主:一只大哈鱼",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1366048,
+      "original_comments": 1870
+    },
+    {
+      "title": "也许，世界本该如此",
+      "url": "https://www.bilibili.com/video/BV1PKY96yEhL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:116.2万 | 弹幕:5567 | UP主:旋风凉水",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1161624,
+      "original_comments": 5567
+    },
+    {
+      "title": "Re：从零开始的异世界学园生活·序",
+      "url": "https://www.bilibili.com/video/BV1PeYe69EWk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:100.9万 | 弹幕:623 | UP主:ka殿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1008603,
+      "original_comments": 623
+    },
+    {
+      "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:99.1万 | 弹幕:1504 | UP主:SillyZ_Official",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 990727,
+      "original_comments": 1504
+    },
+    {
+      "title": "《地狱之家》改编自粉丝真实经历",
+      "url": "https://www.bilibili.com/video/BV1MUYv6AEJS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:93.1万 | 弹幕:414 | UP主:谢星白",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 931278,
+      "original_comments": 414
+    },
+    {
+      "title": "那些年为了听歌做过的事？你中了几个？也许那首歌才能带我们回到过去。。。",
+      "url": "https://www.bilibili.com/video/BV1rvYa65E1Z",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:93.1万 | 弹幕:1315 | UP主:李如儒也是李蠕蠕",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 930607,
+      "original_comments": 1315
+    },
+    {
+      "title": "老叟戏顽童，但是无伤反杀",
+      "url": "https://www.bilibili.com/video/BV1pLY26sE8M",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:74.4万 | 弹幕:663 | UP主:特效小哥studio",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 744081,
+      "original_comments": 663
+    },
+    {
+      "title": "一想到这几个b刚认识半个月我就想笑",
+      "url": "https://www.bilibili.com/video/BV1qDYo63E3k",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.7万 | 弹幕:534 | UP主:只是在摸鱼的姜某",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 727473,
+      "original_comments": 534
+    },
+    {
+      "title": "【萌黄一槽】夺走你的心！角都[晓·北]全技能爆料",
+      "url": "https://www.bilibili.com/video/BV1seY16pEh9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:63.1万 | 弹幕:4156 | UP主:火影忍者手游情报君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 630746,
+      "original_comments": 4156
+    },
+    {
+      "title": "逆天小游戏2392",
+      "url": "https://www.bilibili.com/video/BV13kYv6TEmi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:57.5万 | 弹幕:573 | UP主:小白云玩游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 575222,
+      "original_comments": 573
+    },
+    {
+      "title": "和五月天阿信见了他",
+      "url": "https://www.bilibili.com/video/BV17PYC6KEXu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.1万 | 弹幕:3082 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 461080,
+      "original_comments": 3082
+    },
+    {
+      "title": "你说你要一锅端？",
+      "url": "https://www.bilibili.com/video/BV1F9Y66NEVP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.8万 | 弹幕:2174 | UP主:新华社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 418155,
+      "original_comments": 2174
+    },
+    {
+      "title": "驯化西瓜：一颗苦涩有毒的野瓜，如何成为世界顶流",
+      "url": "https://www.bilibili.com/video/BV11CYk6UEB4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.0万 | 弹幕:1351 | UP主:大圆镜科普",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 370219,
+      "original_comments": 1351
+    },
+    {
+      "title": "锵锵锵",
+      "url": "https://www.bilibili.com/video/BV1tsY16bEwp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.5万 | 弹幕:1342 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 365144,
+      "original_comments": 1342
+    },
+    {
+      "title": "夏以昼主线分线「你与我的偏航线」PV公开——起落安妥，欢迎返航",
+      "url": "https://www.bilibili.com/video/BV1m7Yr6mEzx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:35.3万 | 弹幕:1252 | UP主:恋与深空",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 352701,
+      "original_comments": 1252
+    },
+    {
+      "title": "亲证",
+      "url": "https://www.bilibili.com/video/BV1zoY66wE6J",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.4万 | 弹幕:182 | UP主:安吉-AnJ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 274084,
+      "original_comments": 182
+    },
+    {
+      "title": "我来接受中国朋友们的挑战啦！",
+      "url": "https://www.bilibili.com/video/BV1qdY76eE46",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:23.3万 | 弹幕:874 | UP主:野兽先生MrBeast",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 233042,
+      "original_comments": 874
+    },
+    {
+      "title": "地球上最被过誉的galgame",
+      "url": "https://www.bilibili.com/video/BV1U8Yi6PEhd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:20.6万 | 弹幕:352 | UP主:gal男大梦到奶龙学姐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 206282,
+      "original_comments": 352
+    },
+    {
+      "title": "全网首发！感谢大家参与！二周年彩蛋我们解出来啦！大战场篇完事！三角洲真的太阴了！",
+      "url": "https://www.bilibili.com/video/BV1NuYy6DEtZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:13.3万 | 弹幕:587 | UP主:Key725",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 133353,
+      "original_comments": 587
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $62",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "DEATH STRANDING DIRECTOR'S CUT",
+      "url": "https://store.steampowered.com/app/1850570",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $74",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Ready or Not",
+      "url": "https://store.steampowered.com/app/1144200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $80",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gamble With Your Friends",
+      "url": "https://store.steampowered.com/app/3892270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "R.E.P.O.",
+      "url": "https://store.steampowered.com/app/3241660",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $23",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Diablo® IV: Lord of Hatred™ - Standard Edition",
+      "url": "https://store.steampowered.com/app/1390270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $208",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Machine Party",
+      "url": "https://store.steampowered.com/app/4108000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $26",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish X Gamble With Your Friends",
+      "url": "https://store.steampowered.com/app/83697",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-19% | $48",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2000,
+      "original_comments": 0
+    },
+    {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1123,
+      "original_comments": 518
+    },
+    {
+      "title": "Spaceships (Reverse Asteroid)",
+      "url": "https://spaceships.treybastian.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 315,
+      "original_comments": 64
+    },
+    {
+      "title": "Apple's Dimensional Drawings",
+      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 310,
+      "original_comments": 104
+    },
+    {
+      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "url": "https://xcancel.com/twitter",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 231,
+      "original_comments": 182
+    },
+    {
+      "title": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 228,
+      "original_comments": 295
+    },
+    {
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 181,
+      "original_comments": 52
+    },
+    {
+      "title": "An atlas of periodic solutions to the three-body problem",
+      "url": "https://www.threebodyorbits.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 175,
+      "original_comments": 37
+    },
+    {
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 149,
+      "original_comments": 72
+    },
+    {
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 147,
+      "original_comments": 41
+    },
+    {
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "url": "https://github.com/anuj0456/OpenArch",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 101,
+      "original_comments": 23
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$149",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$78",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Wallpaper Engine",
+      "url": "https://store.steampowered.com/app/431960",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$23",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Onimusha: Way of the Sword",
+      "url": "https://store.steampowered.com/app/2638890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$298",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Write an Effective Software Design Document",
+      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 88,
+      "original_comments": 4
+    },
+    {
+      "title": "Texas judge rules TikTok misled users on child safety feature",
+      "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 83,
+      "original_comments": 25
+    },
+    {
+      "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+      "url": "https://github.com/callbacked/kinesis",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 80,
+      "original_comments": 26
+    },
+    {
+      "title": "Temporal raises $550M at a $12.55B valuation",
+      "url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 47,
+      "original_comments": 25
+    },
+    {
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 40,
+      "original_comments": 21
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 812.05 📉-5.1(-0.62%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1072530,
+      "summary": "今日 812.05 | 📉 -5.1(-0.62%) | 最高 817.25 最低 811.38 | 连涨 -3天 | 成交额 ¥5364万 | 成交量 1072530件 | 📈1516 ➡2117 📉3861"
+    }
+  ]
+}
