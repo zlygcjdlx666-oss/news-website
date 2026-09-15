@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-15",
+  "commentary": "好家伙，CSGO大盘连着跌四天，指数跌破810，成交额还有四千多万——兄弟们这是边骂边抄底，边抄边被套啊。饰品市场现在跟中年男人的体检报告一样，看着还行，细看全是箭头往下。我劝各位一句：别把“连涨四天”当信仰，那玩意儿跟“下周就回暖”一样，属于电竞圈最大幻觉。\n\nB站这边倒是热闹。MrBeast跑来接受中国网友挑战，93万播放，弹幕全是“金钱的味道”。人家是真懂流量，咱们是真懂捧场。更离谱的是《上吊比赛》能上热门，109万播放，我点进去看了一眼，只能说B站网友的精神状态领先版本至少三个大版本。还有那个驯化西瓜的视频，131万播放，说明大家骨子里还是爱学习的，只是不爱学课本。\n\n最值得说的是《崩坏：星穹铁道》阿哈时刻，200多万播放、9000多弹幕。米哈游现在不是在发游戏，是在发社交货币。你不看，群里聊天你都插不上嘴。\n\n今日金句：CSGO跌了还能抄底，B站热门刷了只能说明——你今天又没干正事。",
+  "news": [
+    {
+      "title": "童年的捕虫网，依然在我们的手里——《伊莫》PC端预下载现已开启！",
+      "url": "https://www.bilibili.com/video/BV1Dve565ENK",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:314.2万 | 弹幕:2251 | UP主:伊莫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3141594,
+      "original_comments": 2251
+    },
+    {
+      "title": "手把手教你复刻《百万英镑》牛排套餐，一口锅就能煎完！",
+      "url": "https://www.bilibili.com/video/BV1SbYL65ECo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:223.9万 | 弹幕:865 | UP主:阿彭彭阿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2238920,
+      "original_comments": 865
+    },
+    {
+      "title": "《崩坏：星穹铁道》阿哈时刻：「星神★阿哈」",
+      "url": "https://www.bilibili.com/video/BV1cVej6MEiC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:208.5万 | 弹幕:9081 | UP主:崩坏星穹铁道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2084777,
+      "original_comments": 9081
+    },
+    {
+      "title": "5名假军人怒闯警察局，让局长释放囚犯！演技堪比好莱坞！",
+      "url": "https://www.bilibili.com/video/BV1k1Y763EfQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:142.0万 | 弹幕:1324 | UP主:一目十影",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1419898,
+      "original_comments": 1324
+    },
+    {
+      "title": "“死亡不是终点，遗忘才是。” | 《老秦》原创AI短片【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1PYYo6XEW9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:140.8万 | 弹幕:2412 | UP主:SillyZ_Official",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1407570,
+      "original_comments": 2412
+    },
+    {
+      "title": "驯化西瓜：一颗苦涩有毒的野瓜，如何成为世界顶流",
+      "url": "https://www.bilibili.com/video/BV11CYk6UEB4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:131.9万 | 弹幕:2420 | UP主:大圆镜科普",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1318527,
+      "original_comments": 2420
+    },
+    {
+      "title": "全网首发！二周年彩蛋解密完成！每个鸟窝都是入口！难度大大降低！这些东西速买！要爆！",
+      "url": "https://www.bilibili.com/video/BV1wge56aEhC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:126.6万 | 弹幕:915 | UP主:Key725",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1265635,
+      "original_comments": 915
+    },
+    {
+      "title": "《上吊比赛》",
+      "url": "https://www.bilibili.com/video/BV1Sae56jE15",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:109.7万 | 弹幕:866 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1096599,
+      "original_comments": 866
+    },
+    {
+      "title": "【独家/完结】《百日成王》第25集 现在我要夺回失去的一切！【7月国创】",
+      "url": "https://www.bilibili.com/video/BV1iFth6QEyV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.6万 | 弹幕:569 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1035612,
+      "original_comments": 569
+    },
+    {
+      "title": "全网首发！感谢大家参与！二周年彩蛋我们解出来啦！大战场篇完事！三角洲真的太阴了！",
+      "url": "https://www.bilibili.com/video/BV1NuYy6DEtZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:101.8万 | 弹幕:1631 | UP主:Key725",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1018217,
+      "original_comments": 1631
+    },
+    {
+      "title": "我来接受中国朋友们的挑战啦！",
+      "url": "https://www.bilibili.com/video/BV1qdY76eE46",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:93.7万 | 弹幕:1819 | UP主:野兽先生MrBeast",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 936696,
+      "original_comments": 1819
+    },
+    {
+      "title": "全新【求生者】“神童”故事视频爆料：——“我们是奇迹的共谋……抑或共犯？”",
+      "url": "https://www.bilibili.com/video/BV1woeE62E4h",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:87.2万 | 弹幕:2458 | UP主:网易第五人格手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 871687,
+      "original_comments": 2458
+    },
+    {
+      "title": "你在恐怖片里看到吐的四大烂梗，每一个在当年都是神来之笔！",
+      "url": "https://www.bilibili.com/video/BV1BfYk6BEhm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:79.4万 | 弹幕:489 | UP主:电影冷知识",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 793674,
+      "original_comments": 489
+    },
+    {
+      "title": "【萌黄一槽】冰镜之间灵活穿梭，白[中秋限定]全技能爆料！",
+      "url": "https://www.bilibili.com/video/BV1wHen6EE2D",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:43.6万 | 弹幕:1652 | UP主:火影忍者手游情报君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 436275,
+      "original_comments": 1652
+    },
+    {
+      "title": "与印度人聊聊种姓制、恒河水、挂火车、仿制药、补习班、IT外包、彩礼嫁妆、干净又卫生……网络刻板印象是真是假？| 地球观察局EP01 【视频播客】",
+      "url": "https://www.bilibili.com/video/BV1XMYE6xEkM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:23.3万 | 弹幕:1707 | UP主:必沙记",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 232903,
+      "original_comments": 1707
+    },
+    {
+      "title": "同事一起旅游，但是互相都在算计",
+      "url": "https://www.bilibili.com/video/BV1Umen68ELj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:18.8万 | 弹幕:4034 | UP主:STN工作室",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 187683,
+      "original_comments": 4034
+    },
+    {
+      "title": "《复联5》剧情全泄露！太真了！谨慎观看！",
+      "url": "https://www.bilibili.com/video/BV1uAeE6XEgH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:17.4万 | 弹幕:1780 | UP主:BuriedAlien",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 173731,
+      "original_comments": 1780
+    },
+    {
+      "title": "「小白」天玑9600 Pro性能首测：能效亮眼 稳中有进！",
+      "url": "https://www.bilibili.com/video/BV1YLY16vEUT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:14.6万 | 弹幕:1336 | UP主:小白测评",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 146163,
+      "original_comments": 1336
+    },
+    {
+      "title": "【散人】奇幻童话 暗藏惊天结局（已更新至P1）",
+      "url": "https://www.bilibili.com/video/BV1e3e76tEyc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:12.3万 | 弹幕:1163 | UP主:逍遥散人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 123049,
+      "original_comments": 1163
+    },
+    {
+      "title": "第一次坐公交坐崩溃了，忍不住哭了",
+      "url": "https://www.bilibili.com/video/BV1wpen6mELG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:11.6万 | 弹幕:1382 | UP主:拉宏桑",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 116033,
+      "original_comments": 1382
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dying Light: The Beast",
+      "url": "https://store.steampowered.com/app/3008130",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Lies of P",
+      "url": "https://store.steampowered.com/app/1627720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Trails in the Sky 1st Chapter",
+      "url": "https://store.steampowered.com/app/3375780",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Batomon Showdown",
+      "url": "https://store.steampowered.com/app/4557380",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Split Fiction",
+      "url": "https://store.steampowered.com/app/2001120",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $32",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Mewgenics",
+      "url": "https://store.steampowered.com/app/686060",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $22",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "007 First Light",
+      "url": "https://store.steampowered.com/app/3768760",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $56",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Drag'n Wash",
+      "url": "https://store.steampowered.com/app/4739660",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 704,
+      "original_comments": 971
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 660,
+      "original_comments": 761
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 488,
+      "original_comments": 392
+    },
+    {
+      "title": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 484,
+      "original_comments": 190
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 439,
+      "original_comments": 539
+    },
+    {
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 323,
+      "original_comments": 68
+    },
+    {
+      "title": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 267,
+      "original_comments": 79
+    },
+    {
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 263,
+      "original_comments": 79
+    },
+    {
+      "title": "A beginning for mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253,
+      "original_comments": 132
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 240,
+      "original_comments": 233
+    },
+    {
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 237,
+      "original_comments": 258
+    },
+    {
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 177,
+      "original_comments": 54
+    },
+    {
+      "title": "Compressing a flag to 11 bits",
+      "url": "https://read.vantezzen.io/miniflags",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 173,
+      "original_comments": 65
+    },
+    {
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "url": "https://github.com/enactic/OpenArm",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 142,
+      "original_comments": 26
+    },
+    {
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 137,
+      "original_comments": 29
+    },
+    {
+      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+      "url": "https://poltora.dev/redis",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 129,
+      "original_comments": 22
+    },
+    {
+      "title": "US confirms for first time it has deployed space weapons",
+      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 127,
+      "original_comments": 77
+    },
+    {
+      "title": "25 Years of Mass Surveillance Is Enough",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 114,
+      "original_comments": 13
+    },
+    {
+      "title": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 112,
+      "original_comments": 37
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 809.93 📉-1.51(-0.19%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 983965,
+      "summary": "今日 809.93 | 📉 -1.51(-0.19%) | 最高 811.71 最低 808.85 | 连涨 -4天 | 成交额 ¥4353万 | 成交量 983965件 | 📈1554 ➡2259 📉3681"
+    }
+  ]
+}
