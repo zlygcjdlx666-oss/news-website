@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-16",
+  "commentary": "好家伙，今天这新闻单子看完，我血压跟CSGO大盘一样稳中带升。先说大盘，810点，涨了0.77，成交额四千五百万，看着挺热闹是吧？但你看那涨跌家数——1782涨、2145跌，指数红得跟涂了口红似的，底下个股绿成一片呼伦贝尔。这就叫“指数牛，散户熊”，经典面子工程，我愿称之为《CSGO之皇帝的新涨》。\n\n再看B站，两条最扎眼。一条“时速最少160以上飞过去了”，273万播放，讲啥的？飙车呗。另一条“当你和一百万人一起吃火锅”，264万。我直接好家伙，一边是物理意义上往死里飙，一边是赛博空间里假装团圆。这届网友的精神状态就是：现实里怕超速，虚拟里爱凑数。还有那个“烂烂烂烂烂烂活”，88万播放，标题都摆烂了，观众还嗷嗷点进去，这叫什么？这叫“烂活盛世”，你骂它烂，它笑你还没流量。\n\n今日金句：**指数红得发烫，生活绿得发慌，唯有烂活永存。**",
+  "news": [
+    {
+      "title": "时速最少160以上飞过去了",
+      "url": "https://www.bilibili.com/video/BV1DzYy6FEqy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:273.6万 | 弹幕:4045 | UP主:每天说交通",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2736199,
+      "original_comments": 4045
+    },
+    {
+      "title": "当你和一百万人一起吃火锅【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1CSej6kETr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:264.3万 | 弹幕:1701 | UP主:阿丸焖居",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2643452,
+      "original_comments": 1701
+    },
+    {
+      "title": "《鸣潮》动画短片 | 寻心",
+      "url": "https://www.bilibili.com/video/BV1WAec6fE5N",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:208.9万 | 弹幕:1.6万 | UP主:鸣潮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2088574,
+      "original_comments": 15897
+    },
+    {
+      "title": "S1赛季「逐风启程」——《伊莫》PC端今日上线",
+      "url": "https://www.bilibili.com/video/BV1mxY16ZE2K",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:181.4万 | 弹幕:3954 | UP主:伊莫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1814481,
+      "original_comments": 3954
+    },
+    {
+      "title": "《原神》薇斯纳角色PV——「『风』行迷踪」",
+      "url": "https://www.bilibili.com/video/BV1sjen6QEQ7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:139.6万 | 弹幕:7863 | UP主:原神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1396135,
+      "original_comments": 7863
+    },
+    {
+      "title": "麦当劳四十重奏",
+      "url": "https://www.bilibili.com/video/BV1sWeL6rEEk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:113.4万 | 弹幕:985 | UP主:崽崽阿阿_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1133509,
+      "original_comments": 985
+    },
+    {
+      "title": "烂烂烂烂烂烂活",
+      "url": "https://www.bilibili.com/video/BV1t6ex66EKs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:88.7万 | 弹幕:5160 | UP主:小潮院长",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 886514,
+      "original_comments": 5160
+    },
+    {
+      "title": "俺叫蔓小迪，一坨立誓成为”救世主“的泡沫💪！",
+      "url": "https://www.bilibili.com/video/BV1xCej6mER6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.2万 | 弹幕:268 | UP主:蔓迪官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 811659,
+      "original_comments": 268
+    },
+    {
+      "title": "大禹看了沉默，愚公看了流泪",
+      "url": "https://www.bilibili.com/video/BV1fYes6xEmq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:63.2万 | 弹幕:3655 | UP主:星球研究所",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 632210,
+      "original_comments": 3655
+    },
+    {
+      "title": "《锻刀大赛》锻造中国菜刀🔪！怎么锻着锻着变异了？",
+      "url": "https://www.bilibili.com/video/BV1nmeH6JEDq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.3万 | 弹幕:2820 | UP主:沫子瞪片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 492903,
+      "original_comments": 2820
+    },
+    {
+      "title": "深夜瓜地竟然闹出此事......",
+      "url": "https://www.bilibili.com/video/BV1NDYy6XEYj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.5万 | 弹幕:234 | UP主:阿黄和这个村",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 484661,
+      "original_comments": 234
+    },
+    {
+      "title": "11 年了，终于上王者了",
+      "url": "https://www.bilibili.com/video/BV1GxYL67ET2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.7万 | 弹幕:368 | UP主:白客",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 447420,
+      "original_comments": 368
+    },
+    {
+      "title": "“00后童年神曲！”",
+      "url": "https://www.bilibili.com/video/BV136Yy68Ec7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.5万 | 弹幕:871 | UP主:音乐品鉴室",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 404788,
+      "original_comments": 871
+    },
+    {
+      "title": "挑战在涂满胶水的房子里睡一晚！浑身粘得动弹不得？裤子也废了！",
+      "url": "https://www.bilibili.com/video/BV1MGew6kE6Q",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.8万 | 弹幕:425 | UP主:我是E噔",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 267627,
+      "original_comments": 425
+    },
+    {
+      "title": "立志成为恶兽第四集【up动画】【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1wAeH6nEtB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.5万 | 弹幕:528 | UP主:立志成为恶兽",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 254569,
+      "original_comments": 528
+    },
+    {
+      "title": "这夜坝真讷啊",
+      "url": "https://www.bilibili.com/video/BV1XKew61E2a",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:19.8万 | 弹幕:2227 | UP主:杨齐家_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 198183,
+      "original_comments": 2227
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第9集】",
+      "url": "https://www.bilibili.com/video/BV1h4ec6VEs3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:19.4万 | 弹幕:4423 | UP主:九夜听风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 193619,
+      "original_comments": 4423
+    },
+    {
+      "title": "985本硕小伙重读大学，开学报道学院书记竟然单独送我礼物",
+      "url": "https://www.bilibili.com/video/BV1UZes6uEPn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:15.5万 | 弹幕:981 | UP主:亮子李",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 154849,
+      "original_comments": 981
+    },
+    {
+      "title": "挑战0元城市生存（9-10）",
+      "url": "https://www.bilibili.com/video/BV1bYec6uEZT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:9.2万 | 弹幕:550 | UP主:杀心成焚酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 91919,
+      "original_comments": 550
+    },
+    {
+      "title": "去年爆火的概念机居然量产了？？！",
+      "url": "https://www.bilibili.com/video/BV1NVen69ERv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:9.1万 | 弹幕:460 | UP主:六分超超",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 91263,
+      "original_comments": 460
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dying Light: The Beast",
+      "url": "https://store.steampowered.com/app/3008130",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Lies of P",
+      "url": "https://store.steampowered.com/app/1627720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Trails in the Sky 1st Chapter",
+      "url": "https://store.steampowered.com/app/3375780",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Batomon Showdown",
+      "url": "https://store.steampowered.com/app/4557380",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Diablo® IV: Lord of Hatred™ - Standard Edition",
+      "url": "https://store.steampowered.com/app/1390270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1758,
+      "original_comments": 214
+    },
+    {
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1552,
+      "original_comments": 434
+    },
+    {
+      "title": "Dimraeth",
+      "url": "https://store.steampowered.com/app/2402680",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "An update on Wayback Machine access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 590,
+      "original_comments": 319
+    },
+    {
+      "title": "EU chief opens door for Canada to become 'associate member'",
+      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 511,
+      "original_comments": 556
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 441,
+      "original_comments": 299
+    },
+    {
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 424,
+      "original_comments": 439
+    },
+    {
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 372,
+      "original_comments": 216
+    },
+    {
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 349,
+      "original_comments": 146
+    },
+    {
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 338,
+      "original_comments": 229
+    },
+    {
+      "title": "We got admin access to Baseten's production GitHub",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 299,
+      "original_comments": 171
+    },
+    {
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 284,
+      "original_comments": 376
+    },
+    {
+      "title": "Show HN: I made a flight simulator, except you're just a passenger",
+      "url": "https://inflightsimulator.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 266,
+      "original_comments": 141
+    },
+    {
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 244,
+      "original_comments": 92
+    },
+    {
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 189,
+      "original_comments": 59
+    },
+    {
+      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 151,
+      "original_comments": 41
+    },
+    {
+      "title": "Doing Everyone Else's Job",
+      "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 126,
+      "original_comments": 56
+    },
+    {
+      "title": "Saving Jet Fuel",
+      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 116,
+      "original_comments": 59
+    },
+    {
+      "title": "Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 106,
+      "original_comments": 72
+    },
+    {
+      "title": "Salesforce Global Outage",
+      "url": "https://status.salesforce.com/products/all",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 102,
+      "original_comments": 51
+    },
+    {
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "url": "https://gultsch.social/@daniel/117280438824908947",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 101,
+      "original_comments": 67
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "RuneScape: Dragonwilds",
+      "url": "https://store.steampowered.com/app/1374490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 810.49 📈+0.77(+0.1%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1035455,
+      "summary": "今日 810.49 | 📈 +0.77(+0.1%) | 最高 811.05 最低 809.22 | 连涨 1天 | 成交额 ¥4540万 | 成交量 1035455件 | 📈1782 ➡2145 📉3567"
+    }
+  ]
+}
