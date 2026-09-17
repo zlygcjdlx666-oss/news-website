@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-17",
+  "commentary": "好家伙，今天这新闻列表一看，我差点以为B站被“家长里短”和“赛博韭菜”联手承包了。\n\n先说那条“紫甘蓝炒烙饼丝”，303万播放，炸出一堆逼疯孩子的逆天父母。我点进去之前以为是美食翻车，点进去之后发现是家庭教育大型事故现场。一盘菜能让孩子崩溃，背后是那种“我为你付出这么多你怎么不领情”的道德绑架。各位爹妈，忆苦思甜可以，但别把饭桌变成PUA现场，孩子不是你的情绪垃圾桶。\n\n再说CSGO大盘，802.77，跌了0.88%，成交额5160万。我就想问一句：兄弟们，你们是在炒饰品还是在给G胖交养老金？连涨一天就回调，这曲线比我家猫的心情还难捉摸。听磊哥一句劝，别把Steam当A股玩，你盯着K线，庄家盯着你库存。\n\n最后B站那个“各省刻板印象”435万播放，说明什么？说明地域黑已经进化成地域梗了。大家一边笑一边对号入座，本质上是种自嘲式团结。但玩归玩，别真拿刻板印象当身份证。\n\n今日金句：**这届网友一边嘲笑刻板印象，一边用刻板印象下饭；一边骂资本割韭菜，一边给大盘贡献成交额——嘴上都是主义，心里全是生意。**",
+  "news": [
+    {
+      "title": "各省的刻板印象这一块",
+      "url": "https://www.bilibili.com/video/BV1PneF6bELe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:435.5万 | 弹幕:1242 | UP主:不凉少年派",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4355289,
+      "original_comments": 1242
+    },
+    {
+      "title": "选哪个？iPhone 18 Pro&Duo深度上手",
+      "url": "https://www.bilibili.com/video/BV1cSec6tEux",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:399.9万 | 弹幕:17.0万 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3999272,
+      "original_comments": 170021
+    },
+    {
+      "title": "大禹看了沉默，愚公看了流泪",
+      "url": "https://www.bilibili.com/video/BV1fYes6xEmq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:360.3万 | 弹幕:9835 | UP主:星球研究所",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3602607,
+      "original_comments": 9835
+    },
+    {
+      "title": "全网群嘲的“紫甘蓝炒烙饼丝”事件，炸出了多少逼疯孩子的逆天父母",
+      "url": "https://www.bilibili.com/video/BV1z3ec6WE6L",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:303.9万 | 弹幕:3756 | UP主:小椰子专栏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3039455,
+      "original_comments": 3756
+    },
+    {
+      "title": "天津漫展手机事件",
+      "url": "https://www.bilibili.com/video/BV1YaeN6xEWR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:218.8万 | 弹幕:4049 | UP主:一颗小兔娘",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2188148,
+      "original_comments": 4049
+    },
+    {
+      "title": "炽日将烬 // 2026无畏契约全球冠军赛主题曲",
+      "url": "https://www.bilibili.com/video/BV1rtew6hEnF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:127.6万 | 弹幕:2304 | UP主:无畏契约",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1275872,
+      "original_comments": 2304
+    },
+    {
+      "title": "《你爸带你忆苦思甜》",
+      "url": "https://www.bilibili.com/video/BV1Y4ec6VEFc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:126.4万 | 弹幕:355 | UP主:嘞是唐孃孃",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1263856,
+      "original_comments": 355
+    },
+    {
+      "title": "《原神》沃雅妮莎角色PV——「心之声」",
+      "url": "https://www.bilibili.com/video/BV13Xew6LE7T",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:93.1万 | 弹幕:6458 | UP主:原神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 930697,
+      "original_comments": 6458
+    },
+    {
+      "title": "英国可能解体又不太可能",
+      "url": "https://www.bilibili.com/video/BV1iQeM6uEEH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:90.8万 | 弹幕:7272 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 907985,
+      "original_comments": 7272
+    },
+    {
+      "title": "史上最没用比赛",
+      "url": "https://www.bilibili.com/video/BV14veH6tEcd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:88.4万 | 弹幕:2005 | UP主:老番茄",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 884381,
+      "original_comments": 2005
+    },
+    {
+      "title": "不是不够努力：拆解后发国家工业化的结构性枷锁",
+      "url": "https://www.bilibili.com/video/BV1rWeF6xEHW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.7万 | 弹幕:673 | UP主:宣传委员凌凌",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 806622,
+      "original_comments": 673
+    },
+    {
+      "title": "《蓝色星原：旅谣》枫糖PV | 【枫糖的一天】",
+      "url": "https://www.bilibili.com/video/BV1L7ec6JE5v",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.1万 | 弹幕:983 | UP主:蓝色星原旅谣",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 801298,
+      "original_comments": 983
+    },
+    {
+      "title": "友：时长越长观看越少。  我：但这里是B站诶！",
+      "url": "https://www.bilibili.com/video/BV1doec6QEqF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.6万 | 弹幕:339 | UP主:星野夏KELO",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 616373,
+      "original_comments": 339
+    },
+    {
+      "title": "《异环》1.4版本PV「祷歌为谁而诵」",
+      "url": "https://www.bilibili.com/video/BV1jWej6hET5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.9万 | 弹幕:653 | UP主:异环",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 499456,
+      "original_comments": 653
+    },
+    {
+      "title": "阿祖从军记（二）",
+      "url": "https://www.bilibili.com/video/BV1aweu6aE3v",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:38.9万 | 弹幕:622 | UP主:张小千那厮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 389146,
+      "original_comments": 622
+    },
+    {
+      "title": "特厨做饭|零差评零失误！专业厨师的压箱底",
+      "url": "https://www.bilibili.com/video/BV1mheg6hE6j",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:30.2万 | 弹幕:806 | UP主:特厨隋坡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 302474,
+      "original_comments": 806
+    },
+    {
+      "title": "小不列颠联合不起来王国现在是真快亡国了",
+      "url": "https://www.bilibili.com/video/BV1Gwe363EB8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.0万 | 弹幕:1071 | UP主:麻薯波比呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 270101,
+      "original_comments": 1071
+    },
+    {
+      "title": "我只是想煮一个鸡蛋，互联网却想教我做人❤️",
+      "url": "https://www.bilibili.com/video/BV1vdeJ6KEkR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.6万 | 弹幕:2131 | UP主:papi酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 256146,
+      "original_comments": 2131
+    },
+    {
+      "title": "人机大战",
+      "url": "https://www.bilibili.com/video/BV1rmeG6tEgu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:13.8万 | 弹幕:1497 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 137599,
+      "original_comments": 1497
+    },
+    {
+      "title": "【绯红回响EP19】寒霜之刃【费那奇动画周×updream-AI动画征集】【up动画】",
+      "url": "https://www.bilibili.com/video/BV1tue36vEZy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:13.2万 | 弹幕:275 | UP主:赤鸢与白狐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 131595,
+      "original_comments": 275
+    },
+    {
+      "title": "Call of Duty®: Black Ops III",
+      "url": "https://store.steampowered.com/app/311210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Trails in the Sky 1st Chapter",
+      "url": "https://store.steampowered.com/app/3375780",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dying Light: The Beast",
+      "url": "https://store.steampowered.com/app/3008130",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Diablo® IV: Lord of Hatred™ - Standard Edition",
+      "url": "https://store.steampowered.com/app/1390270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2201,
+      "original_comments": 246
+    },
+    {
+      "title": "Trails in the Sky 2nd Chapter",
+      "url": "https://store.steampowered.com/app/4225980",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $54",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Trails in the Sky 2nd Chapter Digital Deluxe Edition",
+      "url": "https://store.steampowered.com/app/1737084",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $72",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dimraeth",
+      "url": "https://store.steampowered.com/app/2402680",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Lifeguard Holic",
+      "url": "https://store.steampowered.com/app/4090260",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 777,
+      "original_comments": 319
+    },
+    {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 596,
+      "original_comments": 122
+    },
+    {
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 577,
+      "original_comments": 253
+    },
+    {
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 478,
+      "original_comments": 135
+    },
+    {
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 456,
+      "original_comments": 381
+    },
+    {
+      "title": "Performance Improvements in .NET 11",
+      "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 318,
+      "original_comments": 86
+    },
+    {
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 275,
+      "original_comments": 172
+    },
+    {
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 229,
+      "original_comments": 94
+    },
+    {
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 218,
+      "original_comments": 34
+    },
+    {
+      "title": "Japan's book scene is moving from bookstores to libraries",
+      "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 217,
+      "original_comments": 92
+    },
+    {
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 214,
+      "original_comments": 82
+    },
+    {
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "url": "https://news.ycombinator.com/item?id=49738879",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 195,
+      "original_comments": 98
+    },
+    {
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "url": "https://jakeasmith.com/blog/http-build-url/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 186,
+      "original_comments": 46
+    },
+    {
+      "title": "One Year of Sponsored Servo Development",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 180,
+      "original_comments": 82
+    },
+    {
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 164,
+      "original_comments": 75
+    },
+    {
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "url": "https://harnesstax.github.io/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 162,
+      "original_comments": 63
+    },
+    {
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 156,
+      "original_comments": 121
+    },
+    {
+      "title": "PCB is brought to you by Fable 5",
+      "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 141,
+      "original_comments": 71
+    },
+    {
+      "title": "Developing provably correct Rust code with Verus",
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 131,
+      "original_comments": 26
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 802.77 📉-7.11(-0.88%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1146417,
+      "summary": "今日 802.77 | 📉 -7.11(-0.88%) | 最高 809.88 最低 802.77 | 连涨 -1天 | 成交额 ¥5160万 | 成交量 1146417件 | 📈1429 ➡2160 📉3905"
+    }
+  ]
+}
