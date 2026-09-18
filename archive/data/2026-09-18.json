@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-18",
+  "commentary": "好家伙，今天这CSGO大盘绿得我眼睛疼。797.49，跌了0.68%，连着两天往下出溜。成交额五千多万，成交量一百多万件——兄弟们，这不是在打游戏，这是在给G胖上供啊。饰品市场现在比A股还刺激，你以为是抄底，结果人家抄的是你的家。听磊哥一句劝，别拿生活费囤龙狙，你囤的是信仰，人家囤的是你的信仰税。\n\n再说B站这边，新华社那条九一八的弹幕给我看愣了——2.6万条弹幕，满屏的“勿忘”。在一堆搞笑区和AI整活里，这条视频安安静静躺在那儿，像极了班里那个不吭声但每次考试第一的学霸。有些事不需要玩梗，刷就完了。\n\n还有个乐子，“磊哥游戏”那期王者荣耀账号耐久度，73万播放。我一个做新闻评论的，跟游戏区抢饭碗是吧？不过话说回来，账号有耐久，那我的发际线是不是也有？建议天美出个“磊哥防脱皮肤”，我第一个买。\n\n今日金句：饰品会跌，弹幕会散，但九一八的警报，永远不该停。",
+  "news": [
+    {
+      "title": "大禹看了沉默，愚公看了流泪",
+      "url": "https://www.bilibili.com/video/BV1fYes6xEmq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:520.4万 | 弹幕:1.6万 | UP主:星球研究所",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5203720,
+      "original_comments": 15916
+    },
+    {
+      "title": "【纪录片】生命奇观2 01 内蒙古高原",
+      "url": "https://www.bilibili.com/video/BV1PUej65E41",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:302.0万 | 弹幕:3389 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3020442,
+      "original_comments": 3389
+    },
+    {
+      "title": "这里只有一个是真的张起灵",
+      "url": "https://www.bilibili.com/video/BV1uheG6gERq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:286.4万 | 弹幕:3780 | UP主:BLG_whzy",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2864023,
+      "original_comments": 3780
+    },
+    {
+      "title": "“当确实型人格遇上反驳型人格”",
+      "url": "https://www.bilibili.com/video/BV1rYYa61E3T",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:195.3万 | 弹幕:690 | UP主:抽象橘子dy",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1953020,
+      "original_comments": 690
+    },
+    {
+      "title": "听说你最近一段时间一直在找我？【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1Yieu6uEUU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:155.3万 | 弹幕:996 | UP主:韩小魔-筑基期",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1552665,
+      "original_comments": 996
+    },
+    {
+      "title": "中式魅魔挑战（你能闯到第几关？）",
+      "url": "https://www.bilibili.com/video/BV1gveN6WEpC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:112.0万 | 弹幕:4723 | UP主:兰斯的画室LanceStudio",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1119928,
+      "original_comments": 4723
+    },
+    {
+      "title": "Tropical fruit slicing animation",
+      "url": "https://www.bilibili.com/video/BV1ZueH6LEa6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:110.3万 | 弹幕:567 | UP主:kevinbparry",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1103339,
+      "original_comments": 567
+    },
+    {
+      "title": "你这人怎么又邋遢又懒！",
+      "url": "https://www.bilibili.com/video/BV1HFeg6XEDZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:100.7万 | 弹幕:393 | UP主:ENX叉叉酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1007017,
+      "original_comments": 393
+    },
+    {
+      "title": "《虱子大开口》",
+      "url": "https://www.bilibili.com/video/BV12Yeg6FE9q",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:89.3万 | 弹幕:485 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 892717,
+      "original_comments": 485
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第7集 唐人街探案【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1f2eJ6GE79",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.3万 | 弹幕:7515 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 812979,
+      "original_comments": 7515
+    },
+    {
+      "title": "其实王者账号是有耐久的，没耐久就玩不了了",
+      "url": "https://www.bilibili.com/video/BV1XteG63EMP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:73.7万 | 弹幕:538 | UP主:磊哥游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 737315,
+      "original_comments": 538
+    },
+    {
+      "title": "【1931.9.18-2026.9.18】九一八事变爆发95周年，请留一分钟",
+      "url": "https://www.bilibili.com/video/BV1gCeu6eEpx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:66.9万 | 弹幕:2.6万 | UP主:新华社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 669476,
+      "original_comments": 25686
+    },
+    {
+      "title": "反骨娘娘团：胖橘宜修出门，娘娘团放肆嗨",
+      "url": "https://www.bilibili.com/video/BV124eK6mE5U",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.4万 | 弹幕:644 | UP主:AI视觉研究社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 654293,
+      "original_comments": 644
+    },
+    {
+      "title": "第二赛季更新前瞻PV「奥托皮亚·地下之王」",
+      "url": "https://www.bilibili.com/video/BV1A2ec68ENE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.3万 | 弹幕:572 | UP主:遗忘之海",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 643189,
+      "original_comments": 572
+    },
+    {
+      "title": "【年会不能停！2】刘马组合升职无限流",
+      "url": "https://www.bilibili.com/video/BV1fxen6yEf3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:56.6万 | 弹幕:4017 | UP主:哔哩哔哩电影",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 565783,
+      "original_comments": 4017
+    },
+    {
+      "title": "互相求婚？美国女孩和我为什么要这样做",
+      "url": "https://www.bilibili.com/video/BV1Nqeg6tEBo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:55.4万 | 弹幕:1706 | UP主:Luca和Kim",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 553812,
+      "original_comments": 1706
+    },
+    {
+      "title": "《篡改正史 | 正史改竄》MV：本案，审查不合格【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV15Be361EbR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:43.5万 | 弹幕:220 | UP主:即兴演奏家",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 435122,
+      "original_comments": 220
+    },
+    {
+      "title": "中央日报：日本可能确实是亚运会最烂东道主",
+      "url": "https://www.bilibili.com/video/BV1Npem6YEZf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.0万 | 弹幕:1175 | UP主:波士顿圆脸",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 220167,
+      "original_comments": 1175
+    },
+    {
+      "title": "二人世界VS带娃游玩？！结婚纪念日这天你更想怎么过？！",
+      "url": "https://www.bilibili.com/video/BV1GHeg6BETJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:20.4万 | 弹幕:216 | UP主:阿银哦哦",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 203873,
+      "original_comments": 216
+    },
+    {
+      "title": "听李田原聊小米澎程背后的故事",
+      "url": "https://www.bilibili.com/video/BV12BeG6eEQM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:19.5万 | 弹幕:437 | UP主:王洪浩的lu",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 195493,
+      "original_comments": 437
+    },
+    {
+      "title": "Far Cry® 6",
+      "url": "https://store.steampowered.com/app/2369390",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "It Takes Two",
+      "url": "https://store.steampowered.com/app/1426210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Assassin’s Creed Shadows",
+      "url": "https://store.steampowered.com/app/3159330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $119",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $74",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "ENDLESS Legend™ 2",
+      "url": "https://store.steampowered.com/app/3407390",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $100",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Split Fiction",
+      "url": "https://store.steampowered.com/app/2001120",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $129",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $209",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Machine Party",
+      "url": "https://store.steampowered.com/app/4108000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $26",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Trails in the Sky 2nd Chapter",
+      "url": "https://store.steampowered.com/app/4225980",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $268",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Trails in the Sky 2nd Chapter Digital Deluxe Edition",
+      "url": "https://store.steampowered.com/app/1737084",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $358",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 646,
+      "original_comments": 173
+    },
+    {
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 611,
+      "original_comments": 238
+    },
+    {
+      "title": "Astra for Law",
+      "url": "https://openai.com/index/astra-for-law/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 521,
+      "original_comments": 611
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 511,
+      "original_comments": 244
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 484,
+      "original_comments": 149
+    },
+    {
+      "title": "Wax motor",
+      "url": "https://en.wikipedia.org/wiki/Wax_motor",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 446,
+      "original_comments": 77
+    },
+    {
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 377,
+      "original_comments": 163
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 347,
+      "original_comments": 279
+    },
+    {
+      "title": "Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 261,
+      "original_comments": 94
+    },
+    {
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 219,
+      "original_comments": 122
+    },
+    {
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 211,
+      "original_comments": 139
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 208,
+      "original_comments": 56
+    },
+    {
+      "title": "The scourge of x86 emulation",
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 187,
+      "original_comments": 41
+    },
+    {
+      "title": "Flet 1.0 – Build cross-platform apps in Python",
+      "url": "https://flet.dev/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 136,
+      "original_comments": 69
+    },
+    {
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 112,
+      "original_comments": 25
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$149",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$248",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Call of Duty®: Black Ops 7 - BlackCell (Season 06)",
+      "url": "https://store.steampowered.com/app/4200780",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$195",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$78",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 797.49 📉-5.46(-0.68%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1105235,
+      "summary": "今日 797.49 | 📉 -5.46(-0.68%) | 最高 802.98 最低 797.47 | 连涨 -2天 | 成交额 ¥5163万 | 成交量 1105235件 | 📈1472 ➡2133 📉3889"
+    }
+  ]
+}
