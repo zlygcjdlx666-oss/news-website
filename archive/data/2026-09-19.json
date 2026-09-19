@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-19",
+  "commentary": "好家伙，今天这CSGO大盘看得我血压跟过山车似的——796.4，跌了0.8，连涨三天后终于绷不住了。成交额4690万，量倒是没少放，但涨跌家数1683比3527，跌的比涨的多一倍，这叫什么？这叫“指数装死，个股埋人”。兄弟们，饰品市场现在就是典型的“你以为在抄底，其实底在抄你”，别问，问就是长期持有，问就是传家宝。\n\n再说B站这边，抽象橘子那条“确实型人格遇上反驳型人格”358万播放，我点进去看了三秒就退出来了——因为我怕我忍不住顺着网线过去把两个人一起打一顿。这视频能火恰恰说明一件事：当代网友的精神状态，就是一边当“确实哥”敷衍全世界，一边当“反驳怪”跟全世界抬杠，最后在弹幕里达成和解：“你说得对，但是……”\n\n最让我绷不住的是《你爸带你忆苦思甜》341万播放。唐孃孃这视频标题就赢了，现在年轻人哪是忆苦思甜啊，是“忆苦思奶茶”——听爹妈讲当年吃树皮，自己反手点一杯30块的杨枝甘露，边喝边点头：“嗯嗯，你们真不容易。”孝心全在表情包里了。\n\n今日金句：这年头，大盘跌了叫“技术性回调”，人格分裂叫“抽象艺术”，忆苦思甜叫“电子榨菜”——咱们都有光明的未来。",
+  "news": [
+    {
+      "title": "“当确实型人格遇上反驳型人格”",
+      "url": "https://www.bilibili.com/video/BV1rYYa61E3T",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:358.3万 | 弹幕:1058 | UP主:抽象橘子dy",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3583116,
+      "original_comments": 1058
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第16集【总第192集】",
+      "url": "https://www.bilibili.com/video/BV1RxeU6EEah",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:347.4万 | 弹幕:8.9万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3473813,
+      "original_comments": 88829
+    },
+    {
+      "title": "《你爸带你忆苦思甜》",
+      "url": "https://www.bilibili.com/video/BV1Y4ec6VEFc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:341.6万 | 弹幕:766 | UP主:嘞是唐孃孃",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3415668,
+      "original_comments": 766
+    },
+    {
+      "title": "【纪录片】中国救护2 01 在抵达之前",
+      "url": "https://www.bilibili.com/video/BV1REey6qEGG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:254.8万 | 弹幕:1371 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2547885,
+      "original_comments": 1371
+    },
+    {
+      "title": "【奥术之贼01】法师vs重甲，原创西幻cg影片",
+      "url": "https://www.bilibili.com/video/BV1jve36mECs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:161.5万 | 弹幕:921 | UP主:HandsMini1",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1614958,
+      "original_comments": 921
+    },
+    {
+      "title": "《镜头之后#7》——老八",
+      "url": "https://www.bilibili.com/video/BV1xKeU6AETz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:90.4万 | 弹幕:1718 | UP主:尼罗将军",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 903938,
+      "original_comments": 1718
+    },
+    {
+      "title": "中秋国庆是一家",
+      "url": "https://www.bilibili.com/video/BV1SJe66nEZ7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:84.3万 | 弹幕:729 | UP主:李大夯-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 842803,
+      "original_comments": 729
+    },
+    {
+      "title": "《异环》角色实机战斗丨黑羽",
+      "url": "https://www.bilibili.com/video/BV1jWej6hEnK",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:67.7万 | 弹幕:679 | UP主:异环",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 677485,
+      "original_comments": 679
+    },
+    {
+      "title": "天下无双！",
+      "url": "https://www.bilibili.com/video/BV1tJeS6GEdi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.0万 | 弹幕:1561 | UP主:无我漂佩MY",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 639863,
+      "original_comments": 1561
+    },
+    {
+      "title": "【100抽联动共鸣道具免费领】《无限暖暖》小王子联动PV",
+      "url": "https://www.bilibili.com/video/BV1bNeX6JEwS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.2万 | 弹幕:878 | UP主:无限暖暖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 502205,
+      "original_comments": 878
+    },
+    {
+      "title": "出大问题！房车抛锚！差点渴死在沙漠里！",
+      "url": "https://www.bilibili.com/video/BV1Sve26eENf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.5万 | 弹幕:5953 | UP主:徐大虾咯",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 495256,
+      "original_comments": 5953
+    },
+    {
+      "title": "特厨探店｜广州到底把做饭研究的多明白？",
+      "url": "https://www.bilibili.com/video/BV1JBeS6FEEH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.9万 | 弹幕:1311 | UP主:特厨隋坡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 489015,
+      "original_comments": 1311
+    },
+    {
+      "title": "【变奏群像篇】第一期 原来你是这样的小熊头！",
+      "url": "https://www.bilibili.com/video/BV1W8eS6vET5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.1万 | 弹幕:257 | UP主:刺妮酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 480734,
+      "original_comments": 257
+    },
+    {
+      "title": "新番时光机！十年前的观众都在看什么？「2016年7月篇」泛式",
+      "url": "https://www.bilibili.com/video/BV1FEet6eETy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:47.8万 | 弹幕:4315 | UP主:泛式",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 478485,
+      "original_comments": 4315
+    },
+    {
+      "title": "载具⚡机场⚡新故事⚡****！新S0的体验服爆料",
+      "url": "https://www.bilibili.com/video/BV1xPeU6eESW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.5万 | 弹幕:3149 | UP主:游戏策划117",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 445068,
+      "original_comments": 3149
+    },
+    {
+      "title": "听李田原聊小米澎程背后的故事",
+      "url": "https://www.bilibili.com/video/BV12BeG6eEQM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:33.5万 | 弹幕:598 | UP主:王洪浩的lu",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 335368,
+      "original_comments": 598
+    },
+    {
+      "title": "我们不同，但我们相连。二次元能写好女性关系吗？",
+      "url": "https://www.bilibili.com/video/BV1Aoeu6REd3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:28.8万 | 弹幕:1032 | UP主:StellaaQ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 287794,
+      "original_comments": 1032
+    },
+    {
+      "title": "舍友把宿舍改造成飞机",
+      "url": "https://www.bilibili.com/video/BV1L1eS6sEqC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:28.1万 | 弹幕:302 | UP主:小叮当的伙伴们",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 280873,
+      "original_comments": 302
+    },
+    {
+      "title": "【微电影】星河外卖员：平台战争",
+      "url": "https://www.bilibili.com/video/BV1SveU6GExV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.2万 | 弹幕:2019 | UP主:最后讲述者",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 272422,
+      "original_comments": 2019
+    },
+    {
+      "title": "我们拍到了大翅鲸！",
+      "url": "https://www.bilibili.com/video/BV1BWet6FEWk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:19.6万 | 弹幕:1956 | UP主:亿点点不一样",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 195830,
+      "original_comments": 1956
+    },
+    {
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "https://store.steampowered.com/app/1462040",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dune: Awakening",
+      "url": "https://store.steampowered.com/app/1172710",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "ENDLESS Legend™ 2",
+      "url": "https://store.steampowered.com/app/3407390",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dying Light: The Beast",
+      "url": "https://store.steampowered.com/app/3008130",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dimraeth",
+      "url": "https://store.steampowered.com/app/2402680",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 880,
+      "original_comments": 462
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 734,
+      "original_comments": 290
+    },
+    {
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 639,
+      "original_comments": 271
+    },
+    {
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 509,
+      "original_comments": 343
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 380,
+      "original_comments": 83
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 313,
+      "original_comments": 118
+    },
+    {
+      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 310,
+      "original_comments": 103
+    },
+    {
+      "title": "The first new cat species discovered in 100 years",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 288,
+      "original_comments": 108
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 284,
+      "original_comments": 184
+    },
+    {
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222,
+      "original_comments": 77
+    },
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 202,
+      "original_comments": 89
+    },
+    {
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 197,
+      "original_comments": 73
+    },
+    {
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 174,
+      "original_comments": 84
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 157,
+      "original_comments": 84
+    },
+    {
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 151,
+      "original_comments": 110
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 137,
+      "original_comments": 96
+    },
+    {
+      "title": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 106,
+      "original_comments": 40
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1059",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Frame Ergonomic Accessories Kit",
+      "url": "https://store.steampowered.com/app/4978440",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS - Supporter Edition",
+      "url": "https://store.steampowered.com/app/1746527",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 796.4 📉-0.8(-0.1%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1191334,
+      "summary": "今日 796.4 | 📉 -0.8(-0.1%) | 最高 797.39 最低 795.9 | 连涨 -3天 | 成交额 ¥4690万 | 成交量 1191334件 | 📈1683 ➡2284 📉3527"
+    }
+  ]
+}
