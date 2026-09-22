@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-22",
+  "commentary": "今天这CSGO大盘跌得跟我的减肥计划一样，刚有点起色就崩了。786.43，跌了0.52%，成交额倒挺猛，4814万。最骚的是涨跌家数——1467涨、2053跌、3974平，这哪是市场，这是大型摸鱼现场，一半人在装死，另一半在假装努力。饰品市场现在就是击鼓传花，鼓声越来越慢，花越来越烫手。\n\nB站那边，原神一个新角色预告，弹幕直接破万，播放111万。什么叫顶流？这就叫顶流。你辛辛苦苦做科普、剪片子、搞美食，人家一个纸片人PV，弹幕比你播放量都多。大圆镜科普讲咖啡驯化人类六百年，讲得挺好，但原神驯化玩家只需要六秒钟。毕导那条“这个X你肯定见过但根本不存在”倒是有点意思——我看完想了想，这不就是我的存款吗？看着有，其实不存在。\n\n最让我感慨的是“磊哥游戏”那条廉颇推塔，72万播放。等等，这磊哥不是我，但说明什么？说明叫磊哥的都在认真做内容，而我在这评新闻。行吧，今日金句：**市场跌了可以等反弹，原神发了你只能等保底，但有些东西你等一辈子——比如那个根本不存在的X，和你的年终奖。**",
+  "news": [
+    {
+      "title": "三条人类",
+      "url": "https://www.bilibili.com/video/BV1Pnhi6WErP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:223.2万 | 弹幕:1382 | UP主:青浦模子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2232198,
+      "original_comments": 1382
+    },
+    {
+      "title": "员工餐自助打饭，超美味四点金，牛肋排，红烧肉！",
+      "url": "https://www.bilibili.com/video/BV1n1hv6jEJG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:119.8万 | 弹幕:691 | UP主:干饭三健客",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1198229,
+      "original_comments": 691
+    },
+    {
+      "title": "驯化咖啡：一种植物武器，为什么被人类喝了六百年",
+      "url": "https://www.bilibili.com/video/BV1nshi6DEh4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:112.4万 | 弹幕:1465 | UP主:大圆镜科普",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1123824,
+      "original_comments": 1465
+    },
+    {
+      "title": "《原神》角色预告-「沃雅妮莎：此夜共沦」",
+      "url": "https://www.bilibili.com/video/BV1BqhB6nEdN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:111.0万 | 弹幕:1.0万 | UP主:原神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1109831,
+      "original_comments": 10092
+    },
+    {
+      "title": "《穷亲戚》",
+      "url": "https://www.bilibili.com/video/BV14yhr6GEbH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:94.3万 | 弹幕:594 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 942584,
+      "original_comments": 594
+    },
+    {
+      "title": "又放假了",
+      "url": "https://www.bilibili.com/video/BV1g3hB6MEMP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.1万 | 弹幕:1889 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 810753,
+      "original_comments": 1889
+    },
+    {
+      "title": "狼王传奇系列1-11集合集【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1BreB6tEWT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:73.4万 | 弹幕:1400 | UP主:制霸美食街",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 734199,
+      "original_comments": 1400
+    },
+    {
+      "title": "廉颇推塔竟然这么快，这还玩啥六耳啊",
+      "url": "https://www.bilibili.com/video/BV1cahB69END",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.5万 | 弹幕:403 | UP主:磊哥游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 724637,
+      "original_comments": 403
+    },
+    {
+      "title": "“真正的医者仁心的最高境界…”",
+      "url": "https://www.bilibili.com/video/BV122et65Eqz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:69.9万 | 弹幕:484 | UP主:行者燃剪",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 699247,
+      "original_comments": 484
+    },
+    {
+      "title": "低山臭水遇知音！",
+      "url": "https://www.bilibili.com/video/BV1R6hi6zEhF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:69.6万 | 弹幕:549 | UP主:永琪吗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 695765,
+      "original_comments": 549
+    },
+    {
+      "title": "【毕导】这个X你肯定见过，但它其实根本不存在",
+      "url": "https://www.bilibili.com/video/BV1VVhk6pEiR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.5万 | 弹幕:4026 | UP主:毕导",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 655008,
+      "original_comments": 4026
+    },
+    {
+      "title": "来一场蛋宰派对吧！",
+      "url": "https://www.bilibili.com/video/BV1kceH6DEzQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:62.9万 | 弹幕:494 | UP主:林大也晚年食光",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 628785,
+      "original_comments": 494
+    },
+    {
+      "title": "琵琶曲2/1（真人无AI手搓）",
+      "url": "https://www.bilibili.com/video/BV1uzez6UEoP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:59.5万 | 弹幕:121 | UP主:癫癫零点五",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 595494,
+      "original_comments": 121
+    },
+    {
+      "title": "比电影更夸张？专业保镖到底在做什么？",
+      "url": "https://www.bilibili.com/video/BV1J7hE6aEDQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.4万 | 弹幕:2887 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 494460,
+      "original_comments": 2887
+    },
+    {
+      "title": "《柯洁围棋入门课》",
+      "url": "https://www.bilibili.com/video/BV1YDhJ6ZEL6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.4万 | 弹幕:4381 | UP主:柯洁",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 413936,
+      "original_comments": 4381
+    },
+    {
+      "title": "【硬核】俄乌打了四年多，到底谁在买单？",
+      "url": "https://www.bilibili.com/video/BV1SUhe6xEM2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:28.9万 | 弹幕:2342 | UP主:小Lin说",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 289151,
+      "original_comments": 2342
+    },
+    {
+      "title": "医生坐诊2——pa大夫，你看我到底能不能红啊！",
+      "url": "https://www.bilibili.com/video/BV13Thi6AE3S",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.4万 | 弹幕:868 | UP主:papi酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253643,
+      "original_comments": 868
+    },
+    {
+      "title": "财神窦占龙 第8集 同舟【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1HHeC62EBs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.5万 | 弹幕:459 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 245430,
+      "original_comments": 459
+    },
+    {
+      "title": "和同父异母的妹妹去旅游会发生什么？",
+      "url": "https://www.bilibili.com/video/BV1T7hB6PEBm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.3万 | 弹幕:1595 | UP主:nya酱的一生",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 242698,
+      "original_comments": 1595
+    },
+    {
+      "title": "噢Ω就这啊α - 向上｜上海全球冠军赛 特别节目",
+      "url": "https://www.bilibili.com/video/BV1RXhk6REwc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:20.9万 | 弹幕:3481 | UP主:无畏契约电竞",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 209064,
+      "original_comments": 3481
+    },
+    {
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "https://store.steampowered.com/app/1462040",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "url": "https://store.steampowered.com/app/2552430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dune: Awakening",
+      "url": "https://store.steampowered.com/app/1172710",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Graveyard Keeper 2",
+      "url": "https://store.steampowered.com/app/4358690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Ved: Recure",
+      "url": "https://store.steampowered.com/app/3255500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "IGTAP: an Incremental Game That's Also a Platformer",
+      "url": "https://store.steampowered.com/app/4364730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dimraeth",
+      "url": "https://store.steampowered.com/app/2402680",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 963,
+      "original_comments": 434
+    },
+    {
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 895,
+      "original_comments": 269
+    },
+    {
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 792,
+      "original_comments": 330
+    },
+    {
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 619,
+      "original_comments": 355
+    },
+    {
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 530,
+      "original_comments": 129
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 484,
+      "original_comments": 75
+    },
+    {
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 419,
+      "original_comments": 339
+    },
+    {
+      "title": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 378,
+      "original_comments": 298
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 272,
+      "original_comments": 319
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 244,
+      "original_comments": 39
+    },
+    {
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 232,
+      "original_comments": 81
+    },
+    {
+      "title": "Divide by depth for instant 3D",
+      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 180,
+      "original_comments": 32
+    },
+    {
+      "title": "Looking forward to Git 2.56 – and 3.0",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 160,
+      "original_comments": 81
+    },
+    {
+      "title": "HERMES radio enables voice and data communication over vast distances",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 155,
+      "original_comments": 64
+    },
+    {
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 147,
+      "original_comments": 75
+    },
+    {
+      "title": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 140,
+      "original_comments": 90
+    },
+    {
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 126,
+      "original_comments": 98
+    },
+    {
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 121,
+      "original_comments": 136
+    },
+    {
+      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 112,
+      "original_comments": 128
+    },
+    {
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 107,
+      "original_comments": 41
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1059",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 786.43 📉-4.09(-0.52%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1004816,
+      "summary": "今日 786.43 | 📉 -4.09(-0.52%) | 最高 790.5 最低 785.64 | 连涨 -2天 | 成交额 ¥4814万 | 成交量 1004816件 | 📈1467 ➡2053 📉3974"
+    }
+  ]
+}
