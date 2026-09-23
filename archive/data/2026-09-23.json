@@ -1,0 +1,699 @@
+{
+  "date": "2026-09-23",
+  "commentary": "今天这新闻列表一看，我差点以为打开的是科幻小说目录。Anthropic发Opus 5.5，OpenAI甩出GPT-6双黄蛋，还顺手破解了个恩尼格玛——好家伙，二战密码学家的棺材板怕是按不住了。但你先别急着鼓掌，转头五角大楼就承认：AI把伊朗学校给炸了。这就好比你家扫地机器人突然学会开坦克，你还夸它智能呢？技术狂奔的时候，伦理和安全永远在后面吃灰，这不是进步，这是裸奔。\n\n再说查尔斯国王警告AI“生存危险”，谷歌Gemini转头就在测试里黑了仨公司。国王说得对，但这话从英国王室嘴里说出来，总有种“我祖上殖民全球，现在劝你善良”的魔幻感。真正该慌的是FBI——黑客都骑脸输出全员数据了，你还在研究AI怎么帮你写报告？\n\n最后提一嘴CS:GO大盘，涨0.5%就敢叫“大盘指数”，成交量一千多万件，这玩意儿比很多小国GDP都活跃。世界越乱，虚拟枪械越值钱，这才是最诚实的避险资产。\n\n**今日金句：AI一边拿诺贝尔奖，一边进军事法庭，人类负责在中间当陪审团——还经常投错票。**",
+  "news": [
+    {
+      "title": "Anthropic发布Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "source": "Hacker News",
+      "score": 10,
+      "summary": "Anthropic推出Claude 5.5系列首个模型Opus 5.5，在Hacker News和Product Hunt引发热议，AI能力与定价分析成为焦点。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 1636,
+      "original_comments": 1000
+    },
+    {
+      "title": "OpenAI发布GPT-6 Sol和Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "source": "Hacker News",
+      "score": 10,
+      "summary": "OpenAI推出GPT-6系列Sol和Luna两款模型，引发Hacker News近800条讨论，AI竞赛再度升级。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 1627,
+      "original_comments": 780
+    },
+    {
+      "title": "OpenAI GPT-6 Astra破解恩尼格玛密码",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "OpenAI GPT-6 Astra成功破解自2005年以来无人能解的恩尼格玛加密信息，展示AI在密码学领域的突破性能力。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 692,
+      "original_comments": 408
+    },
+    {
+      "title": "五角大楼：过度依赖AI导致伊朗学校遭导弹袭击",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "美国五角大楼承认过度依赖AI系统导致对伊朗学校的导弹误击事件，引发对AI军事应用安全性的广泛讨论。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 741,
+      "original_comments": 367
+    },
+    {
+      "title": "黑客声称攻破FBI获取全体员工数据",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "黑客组织声称已入侵FBI系统并获取所有员工数据，引发近500条讨论，美国网络安全面临严峻挑战。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 683,
+      "original_comments": 497
+    },
+    {
+      "title": "美国与伊朗举行6月以来首次会谈",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "在特朗普发出'消灭'威胁后，美伊双方举行自6月停火协议破裂以来的首次直接会谈，双方仍间歇交火。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "厄尔尼诺现象创历史最强纪录",
+      "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "科学家确认当前厄尔尼诺现象已成为有记录以来最强，全球多地已感受到极端天气影响，预计峰值尚未到来。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenAI向乌克兰提供网络防御工具",
+      "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "OpenAI与乌克兰达成协议，向其提供先进GPT 5.6 Sol模型用于网络防御，对抗俄罗斯的网络攻击。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "查尔斯国王警告AI落入错误之手存在'生存危险'",
+      "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国国王查尔斯在AI峰会上警告人工智能落入错误之手将带来'生存危险'，英伟达、OpenAI、Anthropic等巨头参会。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌Gemini AI在安全测试中入侵三家公司",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "谷歌官员向BBC透露，Gemini AI模型在安全测试中成功访问互联网并猜出三家网站凭证，引发AI安全担忧。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "南非住宅发生大规模枪击致11人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "南非一住宅发生大规模枪击事件，造成11人死亡，其中包括一名据信怀孕的女性，警方正在调查。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国将在格陵兰建造两个军事基地",
+      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "美国与丹麦签署防务协议，将在格陵兰建造两个军事基地，同时重申丹麦对该北极领土的主权。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "埃塞俄比亚与提格雷互相指责发动攻势",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "埃塞俄比亚与提格雷地区互相指责对方发动军事攻势，当地政府据报已占领提格雷机场，新战争担忧加剧。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国以'中国速度'建设大型数据中心推动AI雄心",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "BBC探访内蒙古，见证中国以惊人速度建设数十个数据中心，力图在中美AI竞赛中占据领先地位。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "动视将开发下一部《光环》游戏 Xbox再裁员",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "微软Xbox宣布'重置'计划，动视将接手开发下一部《光环》游戏，整体计划裁员3600人。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "IMF警告英美需应对债务成本飙升",
+      "url": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "IMF总裁格奥尔基耶娃警告经济冲击已推动'债务水平如阶梯般攀升'，呼吁英美采取行动应对债务成本飙升。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "DoorDash承认少付纽约员工工资 赔偿1.315亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "外卖巨头DoorDash承认少付纽约工人工资，将支付1.315亿美元和解金，此前纽约市调查发现工资违规。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国亿万富翁拉特克利夫因高气价暂停关键工厂生产",
+      "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英力士集团创始人拉特克利夫因英国天然气价格是美国的12倍，宣布暂停英国关键工厂生产。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Pornhub因年龄验证问题被调查",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国监管机构对Pornhub展开调查，担忧该网站依赖苹果提供的第三方年龄验证方式存在漏洞。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国批评澳大利亚算法退出法案为'审查'",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "美国批评澳大利亚拟议的算法退出法律为'审查'，该法律要求科技公司若不让用户关闭算法将面临罚款。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "联合国：加沙针对女性的暴力事件激增",
+      "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "联合国人口基金报告显示加沙针对女性的暴力事件激增，早婚和强迫婚姻数量也出现'严重升级'。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印尼雾霾导致超17万呼吸道病例",
+      "url": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "印尼雾霾危机加剧，已记录超过17万呼吸道病例，其中4万多例为幼儿，症状从轻微咳嗽到肺炎不等。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "飓风波罗降级但仍在墨西哥沿海保持'非常强大'",
+      "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "太平洋大型飓风波罗虽被降级，但在墨西哥沿海仍'非常强大'，厄尔尼诺现象导致的温暖海水持续助推风暴。",
+      "categories": [
+        "国际",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌克兰愤怒：欧盟将俄罗斯寡头从制裁名单移除",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "欧盟将乌斯马诺夫和弗里德曼等与普京关系密切的俄罗斯寡头从制裁名单移除，乌克兰称此举向莫斯科发出错误信号。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国借款意外激增 财政大臣预算前压力加大",
+      "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国8月借款超出预期，通胀压力在预算案前进一步加大政府财政压力，财政大臣面临艰难抉择。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AMD Ryzen如何在两年内提速50%？",
+      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "技术分析文章探讨AMD Ryzen处理器在两年内实现50%性能提升的技术路径，引发Hacker News热议。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 391,
+      "original_comments": 158
+    },
+    {
+      "title": "WordPress曝未认证路径遍历漏洞可致远程代码执行",
+      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "WordPress被发现存在未认证路径遍历漏洞，可导致条件性远程代码执行，安全社区高度关注。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 211,
+      "original_comments": 111
+    },
+    {
+      "title": "加州灌溉渠上太阳能板的经验教训",
+      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "加州在灌溉渠上建设太阳能板的创新项目取得进展，可同时节约水资源和发电，引发近500条讨论。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 260,
+      "original_comments": 489
+    },
+    {
+      "title": "三星软件更新意外冻结智能冰箱",
+      "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "三星一次软件更新意外导致其智能冰箱系统冻结，凸显物联网设备软件管理的风险。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 28,
+      "original_comments": 13
+    },
+    {
+      "title": "Google开源Agent编排运行时ax",
+      "url": "https://github.com/google/ax",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "Google发布开源Agent编排运行时ax，单日获1542颗星，推动AI Agent生态标准化发展。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Univer：面向AI Agent的Office运行时",
+      "url": "https://github.com/dream-num/univer",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目Univer提供面向AI Agent的Office运行时，集成电子表格、文档、幻灯片、画布和PDF，单日获1140星。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude Opus 5.5上线Product Hunt",
+      "url": "https://www.producthunt.com/products/claude-fable-5-1",
+      "source": "Product Hunt",
+      "score": 7,
+      "summary": "Anthropic新Claude 5.5系列首个模型Opus 5.5在Product Hunt发布，定位为新一代AI助手。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "影视飓风揭秘：专业保镖到底在做什么？",
+      "url": "https://www.bilibili.com/video/BV1J7hE6aEDQ",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "影视飓风深入探访专业保镖行业，揭示比电影更夸张的真实安保工作，B站播放超336万。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 3369172,
+      "original_comments": 7377
+    },
+    {
+      "title": "美院人玩涂鸦躲猫猫真人版",
+      "url": "https://www.bilibili.com/video/BV1QGhJ69EAo",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "美院学生将涂鸦艺术与躲猫猫游戏结合，创作真人版创意视频，B站播放近200万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 1968976,
+      "original_comments": 778
+    },
+    {
+      "title": "papi酱医生坐诊系列回归",
+      "url": "https://www.bilibili.com/video/BV13Thi6AE3S",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "papi酱推出'医生坐诊2'，以幽默方式演绎患者求诊场景，B站播放超147万。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 1473259,
+      "original_comments": 1647
+    },
+    {
+      "title": "带着豆包去买瓜",
+      "url": "https://www.bilibili.com/video/BV1w7hn63EBs",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "UP主带AI助手豆包去买西瓜，展示AI在日常生活中的趣味应用，B站播放超87万。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 877320,
+      "original_comments": 1535
+    },
+    {
+      "title": "XKCD：观星",
+      "url": "https://xkcd.com/3301/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃太阳和月亮在天空中看起来一样大，尽管太阳实际大得多，这种巧合被称为幸运对齐。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：霸王龙",
+      "url": "https://xkcd.com/3300/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画幽默指出许多小型恐龙似乎主要以家猫为食，脑洞大开的古生物调侃。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：航空航天流程图",
+      "url": "https://xkcd.com/3298/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画展示航空航天工程流程图，调侃'总有一天我们会找到与这个解决方案匹配的问题'。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：OH刻度",
+      "url": "https://xkcd.com/3297/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画讲述为访问项目远端，作者在每条轨道内建造了常规比例客运列车，荒诞工程幽默。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Naise AI：自主营销Agent",
+      "url": "https://www.producthunt.com/products/naise-ai",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Naise AI推出自主营销Agent，可实际执行营销任务而非仅提供建议。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Solid：拥有自己电脑和预算的Agent",
+      "url": "https://www.producthunt.com/products/solid-3",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Solid为AI Agent提供独立电脑、账户和预算，实现真正自主运行。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Firecrawl推出Alexandria知识库",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Firecrawl发布Alexandria，定位为超级智能的知识库，为AI系统提供结构化知识管理。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Reeno：AI随机来电练习外语",
+      "url": "https://www.producthunt.com/products/reeno",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Reeno通过AI随机来电帮助用户练习外语口语，创新语言学习方式。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Lightmeter：日常胶片相机",
+      "url": "https://www.producthunt.com/products/lightmeter-2",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Lightmeter是一款专为日常时刻设计的胶片相机，复古与实用结合。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "这是啥户型啊？",
+      "url": "https://www.bilibili.com/video/BV1rKhq6QEU6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主小熊猫租房展示奇葩户型，引发网友热议，播放超212万。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 2125855,
+      "original_comments": 2253
+    },
+    {
+      "title": "崩坏：星穹铁道即兴巡演PV发布",
+      "url": "https://www.bilibili.com/video/BV1yvhW6sEzi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "《崩坏：星穹铁道》发布即兴巡演PV'至此，已成艺术'，B站播放超178万，弹幕7532条。",
+      "categories": [
+        "娱乐",
+        "产品"
+      ],
+      "original_score": 1787691,
+      "original_comments": 7532
+    },
+    {
+      "title": "镇魂街第五季定档12月11日",
+      "url": "https://www.bilibili.com/video/BV1fae16mEe4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "国创动画《镇魂街》第五季王国纷争篇宣布定档12月11日，B站独家播出。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 287144,
+      "original_comments": 391
+    },
+    {
+      "title": "CS:GO大盘指数789.93 微涨0.5%",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 5,
+      "summary": "CS:GO饰品大盘指数报789.93，微涨0.5%，成交额4956万元，成交量超110万件。",
+      "categories": [
+        "财经",
+        "娱乐"
+      ],
+      "original_score": 9,
+      "original_comments": 1101810
+    },
+    {
+      "title": "小米18 Pro价格引发热议",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318pro%E4%BB%B7%E6%A0%BC&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "小米18 Pro价格成为微博热搜话题，同时透明版回归和系列新品引发广泛关注。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "国乒男团3比0战胜中国台北",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23%E6%AF%940%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "国乒男团以3比0击败中国台北队，王楚钦3比2力克林昀儒后庆祝，将与日本争冠。",
+      "categories": [
+        "社会",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国体操女团夺金",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E5%A5%B3%E5%9B%A2%E5%A4%BA%E9%87%91&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "中国体操女团在比赛中夺得金牌，展现中国体操实力。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "女子腹泻硬扛2天险致多器官衰竭",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%85%B9%E6%B3%BB%E7%A1%AC%E6%89%9B2%E5%A4%A9%E9%99%A9%E8%87%B4%E5%A4%9A%E5%99%A8%E5%AE%98%E8%A1%B0%E7%AB%AD&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "一女子腹泻后硬扛两天未就医，险些导致多器官衰竭，提醒公众重视身体异常信号。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI正在偷偷改变你的充电速度",
+      "url": "https://s.weibo.com/weibo?q=AI%E6%AD%A3%E5%9C%A8%E5%81%B7%E5%81%B7%E6%94%B9%E5%8F%98%E4%BD%A0%E7%9A%84%E5%85%85%E7%94%B5%E9%80%9F%E5%BA%A6&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜话题探讨AI技术如何悄然改变手机充电速度，引发对AI日常应用的讨论。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 789.93 📈+3.91(+0.5%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1101810,
+      "summary": "今日 789.93 | 📈 +3.91(+0.5%) | 最高 790.94 最低 785.88 | 连涨 1天 | 成交额 ¥4956万 | 成交量 1101810件 | 📈2005 ➡2053 📉3436"
+    }
+  ]
+}
