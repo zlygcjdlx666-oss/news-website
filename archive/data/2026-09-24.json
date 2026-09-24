@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-24",
+  "commentary": "好家伙，今天这B站热门榜单一拉，我差点以为我手机中了病毒——满屏都是“爆款”，但点进去一看，一半是游戏广告，一半是电子榨菜。\n\n先说说最让我绷不住的：CSGO大盘指数789.54，跌了0.05%，成交额还不到五千万。就这点波动，连个水花都算不上，愣是有人盯着K线图当华尔街之狼。兄弟们，饰品是拿来玩的，不是拿来炒的，你搁这儿研究“连涨-1天”的玄学，不如去练两把枪法，至少枪法不会一夜之间跌成负数。\n\n再看B站，游本昌爷爷那条人民日报的视频，65万播放、2万弹幕，满屏的“一路走好”。这才是今天唯一值得所有人停下滑动手指的新闻。一个90后、00后扎堆的平台，给一位九旬老艺术家刷屏送别，说明什么？说明年轻人不是只懂抽象和烂梗，心里那杆秤清楚得很。真正的顶流，从来不需要买热搜。\n\n至于《未眠野》18分钟实机演示228万播放，我只能说：国产游戏现在学聪明了，先放个PV画饼，再放个实机演示喂饭，最后上线一看——饼还是那个饼，饭里掺了沙子。当然，我盼着它打我脸。\n\n**今日金句：B站的热搜一半是游戏在画饼，一半是人生在谢幕，而你刷完手机，明天还得早起搬砖。**",
+  "news": [
+    {
+      "title": "《未眠野》18分钟实机演示",
+      "url": "https://www.bilibili.com/video/BV1Mohb61Em9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:228.4万 | 弹幕:2060 | UP主:未眠野",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2284179,
+      "original_comments": 2060
+    },
+    {
+      "title": "篮球佐助技能初爆料！杨瀚森携佐助球风来袭",
+      "url": "https://www.bilibili.com/video/BV1ame16qE9Z",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:182.2万 | 弹幕:2.9万 | UP主:火影忍者手游情报君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1821734,
+      "original_comments": 29392
+    },
+    {
+      "title": "【逆水寒×盗墓笔记】新角色「张起灵」登场！实机试玩与联动关卡演示",
+      "url": "https://www.bilibili.com/video/BV1Wnh46aEZB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:150.8万 | 弹幕:802 | UP主:网易逆水寒",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1507867,
+      "original_comments": 802
+    },
+    {
+      "title": "#新剧推荐 想追剧的加关注留言序号2592",
+      "url": "https://www.bilibili.com/video/BV1wfhn6GErB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:136.6万 | 弹幕:448 | UP主:笑笑剧场啊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1366007,
+      "original_comments": 448
+    },
+    {
+      "title": "还在肝破译点数？究极焚决！直接送1w破译点！挟持哈夫克网站！拿满奖励！",
+      "url": "https://www.bilibili.com/video/BV16XaF6UETJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:124.8万 | 弹幕:517 | UP主:Key725",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1248312,
+      "original_comments": 517
+    },
+    {
+      "title": "《奇遇动物城》游戏首曝PV丨搬进动物城，遇见无限可能",
+      "url": "https://www.bilibili.com/video/BV1yph76uEdF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:93.6万 | 弹幕:345 | UP主:奇遇动物城",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 936189,
+      "original_comments": 345
+    },
+    {
+      "title": "【剧情】长生契（2026）01【方逸伦 / 谢可寅】",
+      "url": "https://www.bilibili.com/video/BV13Dem6VE1M",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:89.3万 | 弹幕:3952 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 893018,
+      "original_comments": 3952
+    },
+    {
+      "title": "没想到把两个鼠标插电脑上，还有续集...",
+      "url": "https://www.bilibili.com/video/BV1wkhW6DE1y",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:82.0万 | 弹幕:62 | UP主:江鸽北主任",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 820475,
+      "original_comments": 62
+    },
+    {
+      "title": "游本昌爷爷，一路走好！我们会继续向前",
+      "url": "https://www.bilibili.com/video/BV17Eaw6DEMi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.6万 | 弹幕:2.0万 | UP主:人民日报",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 655521,
+      "original_comments": 20017
+    },
+    {
+      "title": "在机场当志愿者用六门语言帮助老外是什么体验？！",
+      "url": "https://www.bilibili.com/video/BV1F5h86PEUH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:53.3万 | 弹幕:402 | UP主:小宋同学机场志愿者",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 533175,
+      "original_comments": 402
+    },
+    {
+      "title": "从白宫国宴到庄园会晤：美国如何接待中国领导人？",
+      "url": "https://www.bilibili.com/video/BV1n5aw6WEnD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:53.2万 | 弹幕:85 | UP主:小Q不是导盲犬",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 531892,
+      "original_comments": 85
+    },
+    {
+      "title": "看到了很昂贵的op | 飙马野郎动画第二部分9.25开播！",
+      "url": "https://www.bilibili.com/video/BV1Fbhf67EVY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:51.5万 | 弹幕:317 | UP主:竖笛小魔王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 515431,
+      "original_comments": 317
+    },
+    {
+      "title": "热烈欢迎易立竞！看看高智感的易老师在工作中和工作外的好东西！（期待我的笔上易老师的节目🙏",
+      "url": "https://www.bilibili.com/video/BV1qdhx6UESM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:47.3万 | 弹幕:6621 | UP主:papi酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 473179,
+      "original_comments": 6621
+    },
+    {
+      "title": "赴一场星河之约，守一段洲年荣光。三角洲二洲年快乐！",
+      "url": "https://www.bilibili.com/video/BV1Pwhx6dETi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.7万 | 弹幕:5463 | UP主:老飞宇66",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 466723,
+      "original_comments": 5463
+    },
+    {
+      "title": "在家破解¥300一块的上海最贵炸鸡，成本只要...",
+      "url": "https://www.bilibili.com/video/BV1emaA6SE3q",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:42.9万 | 弹幕:1174 | UP主:绵羊料理",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 429443,
+      "original_comments": 1174
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第8集 血色风浪【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1cDhj6wEMV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.9万 | 弹幕:2912 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 318764,
+      "original_comments": 2912
+    },
+    {
+      "title": "超市里已经……没有人类了……",
+      "url": "https://www.bilibili.com/video/BV18fhb65EGs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.7万 | 弹幕:2652 | UP主:老番茄",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 317429,
+      "original_comments": 2652
+    },
+    {
+      "title": "我买下了15万的船票，踏上了前往世界尽头的旅行…..",
+      "url": "https://www.bilibili.com/video/BV19naF66Ezb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.2万 | 弹幕:3694 | UP主:Linksphotograph",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 312289,
+      "original_comments": 3694
+    },
+    {
+      "title": "叮咚，您的好友发来语音——真珠的「金嗓子生成器」",
+      "url": "https://www.bilibili.com/video/BV1RHaw6mEDR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.5万 | 弹幕:1854 | UP主:帕姆的收藏夹",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 245416,
+      "original_comments": 1854
+    },
+    {
+      "title": "我记录下了妹妹的最后7天...",
+      "url": "https://www.bilibili.com/video/BV1Deht6rEpZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.2万 | 弹幕:220 | UP主:沢人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222325,
+      "original_comments": 220
+    },
+    {
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "https://store.steampowered.com/app/1462040",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "It Takes Two",
+      "url": "https://store.steampowered.com/app/1426210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Grave Deal",
+      "url": "https://store.steampowered.com/app/88711",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $80",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "PEAK",
+      "url": "https://store.steampowered.com/app/3527290",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Split Fiction",
+      "url": "https://store.steampowered.com/app/2001120",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $129",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "World Apart",
+      "url": "https://store.steampowered.com/app/4209920",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Machine Party",
+      "url": "https://store.steampowered.com/app/4108000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $26",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Kingdom Rush 6: Genesis TD",
+      "url": "https://store.steampowered.com/app/4259190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $69",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $53",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 703,
+      "original_comments": 716
+    },
+    {
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 497,
+      "original_comments": 204
+    },
+    {
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 471,
+      "original_comments": 106
+    },
+    {
+      "title": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 448,
+      "original_comments": 394
+    },
+    {
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 347,
+      "original_comments": 183
+    },
+    {
+      "title": "Tokens too cheap to meter",
+      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 321,
+      "original_comments": 214
+    },
+    {
+      "title": "Ultimate Conquest Bundle",
+      "url": "https://store.steampowered.com/app/26881",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-2% | $302",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 300,
+      "original_comments": 0
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 260,
+      "original_comments": 161
+    },
+    {
+      "title": "Ideas on modernizing the open-source desktop",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 226,
+      "original_comments": 267
+    },
+    {
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 221,
+      "original_comments": 30
+    },
+    {
+      "title": "Making Tailscale Faster",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 193,
+      "original_comments": 73
+    },
+    {
+      "title": "The \"Windows XP Box\" (2003)",
+      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 182,
+      "original_comments": 35
+    },
+    {
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 171,
+      "original_comments": 151
+    },
+    {
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 155,
+      "original_comments": 101
+    },
+    {
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 140,
+      "original_comments": 92
+    },
+    {
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 131,
+      "original_comments": 77
+    },
+    {
+      "title": "The mystery animal on an ancient god's head",
+      "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 129,
+      "original_comments": 36
+    },
+    {
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://nokiadesignarchive.aalto.fi/index.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 123,
+      "original_comments": 59
+    },
+    {
+      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+      "url": "https://github.com/nestrilabs/virtio-nvgpu",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 123,
+      "original_comments": 51
+    },
+    {
+      "title": "Contrastive Language Models",
+      "url": "https://contrastive-lm.notion.site/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 103,
+      "original_comments": 27
+    },
+    {
+      "title": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$248",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 789.54 📉-0.4(-0.05%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1187283,
+      "summary": "今日 789.54 | 📉 -0.4(-0.05%) | 最高 792.29 最低 789.45 | 连涨 -1天 | 成交额 ¥4928万 | 成交量 1187283件 | 📈2002 ➡2215 📉3277"
+    }
+  ]
+}
