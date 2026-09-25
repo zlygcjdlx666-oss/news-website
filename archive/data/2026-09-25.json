@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-25",
+  "commentary": "今天这盘面，CSGO大盘787.96，跌了0.12%，成交额4500多万，成交量115万件——兄弟们，这不叫行情，这叫心电图。连涨两天就喘上了，涨的时候像蜗牛爬坡，跌的时候像电梯失控，饰品市场现在主打一个“薛定谔的牛市”，你永远不知道明天是抄底还是抄家。\n\n但真正让我破防的是B站那部《妹妹的最后7天》。356万播放，743条弹幕——弹幕少得可怜，说明什么？说明大家不是在看，是在被看。伪纪录片拍成情感核弹，UP主“沢人”这波操作属于是把私人记忆做成了公共泪腺，你不哭都显得不合群。这年头，真实比AI还稀缺。\n\n再看小约翰可汗的《粮食被勋宗抢走了》，107万播放，1.4万弹幕，神奇组织系列永远稳如老狗。人家讲的是苏联笑话，弹幕刷的是当代共鸣，历史这玩意儿，换个包装就是流量密码。\n\n今日金句：**CSGO大盘在教你什么叫“钝刀子割肉”，B站UP主在教你什么叫“真刀子剜心”——一个让你钱包缩水，一个让你眼眶进水，这届网友，属实是双线挨打。**",
+  "news": [
+    {
+      "title": "我记录下了妹妹的最后7天...【自制伪纪录片电影】",
+      "url": "https://www.bilibili.com/video/BV1Deht6rEpZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:356.6万 | 弹幕:743 | UP主:沢人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3566189,
+      "original_comments": 743
+    },
+    {
+      "title": "【黄强强】《开学匹配到宝藏舍友》",
+      "url": "https://www.bilibili.com/video/BV16Qhx6HEsL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:228.3万 | 弹幕:920 | UP主:黄强强_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2283151,
+      "original_comments": 920
+    },
+    {
+      "title": "EP01 「琦逢对手」全新环节上线！8大国货品牌齐相聚！",
+      "url": "https://www.bilibili.com/video/BV1wSht6aEw4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:200.1万 | 弹幕:1.1万 | UP主:李佳琦Austin",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2000613,
+      "original_comments": 10779
+    },
+    {
+      "title": "每百年一次深渊血战，恶魔世界会如何发展？",
+      "url": "https://www.bilibili.com/video/BV1JBaA6oEmA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:179.4万 | 弹幕:7426 | UP主:末影大黑",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1794223,
+      "original_comments": 7426
+    },
+    {
+      "title": "【纪录片】生命奇观2 02 黄渤海湿地",
+      "url": "https://www.bilibili.com/video/BV1SxhW6hEK3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:165.0万 | 弹幕:2408 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1650404,
+      "original_comments": 2408
+    },
+    {
+      "title": "【非AI】这可能是全网最全实拍冷兵器合集！",
+      "url": "https://www.bilibili.com/video/BV1a2h46yE8m",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:159.9万 | 弹幕:2089 | UP主:含亮老师",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1599376,
+      "original_comments": 2089
+    },
+    {
+      "title": "画不画小游戏~",
+      "url": "https://www.bilibili.com/video/BV1NPht6AEVd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:120.1万 | 弹幕:602 | UP主:文武双全的瓜哥",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1201193,
+      "original_comments": 602
+    },
+    {
+      "title": "糟糕！我的粮食被勋宗抢走了！【神奇组织54】",
+      "url": "https://www.bilibili.com/video/BV1WhaA6hE7s",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:107.1万 | 弹幕:1.4万 | UP主:小约翰可汗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1070820,
+      "original_comments": 13671
+    },
+    {
+      "title": "弹 性 势 能 豌 豆",
+      "url": "https://www.bilibili.com/video/BV1tsaN6VEuM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:99.0万 | 弹幕:781 | UP主:童话小责",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 990038,
+      "original_comments": 781
+    },
+    {
+      "title": "嚯！全自动高速运转流麻！！？",
+      "url": "https://www.bilibili.com/video/BV1F8ac6pEaA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:87.8万 | 弹幕:1111 | UP主:强风吹狗头",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 877671,
+      "original_comments": 1111
+    },
+    {
+      "title": "太“好玩”啦！小情侣一天不碰电子设备怎么过。。。",
+      "url": "https://www.bilibili.com/video/BV1DqaP6LEAF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:83.5万 | 弹幕:812 | UP主:kaokaoniao",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 834846,
+      "original_comments": 812
+    },
+    {
+      "title": "今天抄家 人民的兔娘",
+      "url": "https://www.bilibili.com/video/BV1y6au6UEJp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:79.1万 | 弹幕:1744 | UP主:野生鱼白",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 791397,
+      "original_comments": 1744
+    },
+    {
+      "title": "【剧情】长生契（2026）02【方逸伦 / 谢可寅】",
+      "url": "https://www.bilibili.com/video/BV13Dem6VEhn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:73.0万 | 弹幕:3650 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 730362,
+      "original_comments": 3650
+    },
+    {
+      "title": "《小杨有约30#》：杨迪",
+      "url": "https://www.bilibili.com/video/BV1JFaN6hEL9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.0万 | 弹幕:4960 | UP主:小杨Johnson",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 610429,
+      "original_comments": 4960
+    },
+    {
+      "title": "【官方中字】尼古喵喵 第12集",
+      "url": "https://www.bilibili.com/video/BV1ucaK6UEHR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:54.6万 | 弹幕:9298 | UP主:尼古喵喵官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 546296,
+      "original_comments": 9298
+    },
+    {
+      "title": "只练合欢宗，实力能有多强？？【不问凡尘】",
+      "url": "https://www.bilibili.com/video/BV1Svh86UEBf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.0万 | 弹幕:92 | UP主:藏心鱼圆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 480417,
+      "original_comments": 92
+    },
+    {
+      "title": "《振乾坤》 | 张杰 x《永劫无间》夺金战歌",
+      "url": "https://www.bilibili.com/video/BV1jUaN6oEfv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.1万 | 弹幕:236 | UP主:永劫无间官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 410705,
+      "original_comments": 236
+    },
+    {
+      "title": "弹丸论破，但是真人版",
+      "url": "https://www.bilibili.com/video/BV1mXaM6DErh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:39.0万 | 弹幕:599 | UP主:哦呼w",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 390197,
+      "original_comments": 599
+    },
+    {
+      "title": "【独家】《罗小黑战记 学前篇》定档10月30日",
+      "url": "https://www.bilibili.com/video/BV1eNaA6EEmi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.8万 | 弹幕:2361 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 368136,
+      "original_comments": 2361
+    },
+    {
+      "title": "Chuseok Cooking",
+      "url": "https://www.bilibili.com/video/BV1Tohs6FELa",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:8.6万 | 弹幕:1.3万 | UP主:CORTIS_BIGHIT",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 86399,
+      "original_comments": 12579
+    },
+    {
+      "title": "Ori and the Will of the Wisps",
+      "url": "https://store.steampowered.com/app/1057090",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $3",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Persona 3 Reload",
+      "url": "https://store.steampowered.com/app/2161700",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS™: REMASTERED",
+      "url": "https://store.steampowered.com/app/570940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS™ III",
+      "url": "https://store.steampowered.com/app/374320",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Last of Us™ Part II Remastered",
+      "url": "https://store.steampowered.com/app/2531310",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1320,
+      "original_comments": 377
+    },
+    {
+      "title": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $14",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 759,
+      "original_comments": 101
+    },
+    {
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "url": "https://www.dawo.community/en/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 521,
+      "original_comments": 265
+    },
+    {
+      "title": "Two-tier encryption in the UK",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 477,
+      "original_comments": 428
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 456,
+      "original_comments": 237
+    },
+    {
+      "title": "Toyota is taking the Corolla electric",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 366,
+      "original_comments": 649
+    },
+    {
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 365,
+      "original_comments": 394
+    },
+    {
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 360,
+      "original_comments": 163
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 341,
+      "original_comments": 123
+    },
+    {
+      "title": "Opus 5.5 is good at explainer videos",
+      "url": "https://launchvideo.io",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 313,
+      "original_comments": 171
+    },
+    {
+      "title": "Fearless SIMD v1.0",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 276,
+      "original_comments": 42
+    },
+    {
+      "title": "2DWillNeverDie",
+      "url": "https://2dwillneverdie.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 271,
+      "original_comments": 64
+    },
+    {
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 145,
+      "original_comments": 31
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 128,
+      "original_comments": 51
+    },
+    {
+      "title": "The Mafia may be keeping fentanyl out of Italy",
+      "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 128,
+      "original_comments": 148
+    },
+    {
+      "title": "What About Rails?",
+      "url": "https://jardo.dev/what-about-rails",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 125,
+      "original_comments": 74
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Total War: WARHAMMER III – Lords of the End Times",
+      "url": "https://store.steampowered.com/app/80339",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$31",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "CONTROL Resonant",
+      "url": "https://store.steampowered.com/app/3669870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Total War: WARHAMMER III - Nagash – Lords of the End Times",
+      "url": "https://store.steampowered.com/app/3589650",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Total War: WARHAMMER III - Boris Todbringer – Lords of the End Times",
+      "url": "https://store.steampowered.com/app/3589670",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Total War: WARHAMMER III - Thanquol – Lords of the End Times",
+      "url": "https://store.steampowered.com/app/3589660",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 787.96 📉-0.93(-0.12%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1159317,
+      "summary": "今日 787.96 | 📉 -0.93(-0.12%) | 最高 789.47 最低 787.7 | 连涨 -2天 | 成交额 ¥4539万 | 成交量 1159317件 | 📈1998 ➡2404 📉3092"
+    }
+  ]
+}
