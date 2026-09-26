@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-26",
+  "commentary": "今天这盘面，CSGO大盘790.18，连涨两天，成交额4600多万，乍一看挺热闹是吧？但你细品，2233涨、2572跌，涨的还没跌的多，指数全靠几个大件硬撑着。这不就跟B站热门一个德行嘛——表面繁花似锦，点进去全是那几张老面孔。\n\n先说《凡人修仙传》，376万播放，7.5万弹幕，慕兰之战打得热火朝天。韩立这老小子从2008年跑到现在，还在跑，真正做到了一件事：只要我不完结，你们就得一直追。这才是真正的“长期主义”，比什么理财课都管用。\n\n再看李佳琦那期，148万播放，标题叫“极限拉扯！首现历时最长OFFER”。你一个带货综艺，把职场PUA包装成真人秀，观众看得津津有味，打工人看得血压飙升。这哪是OFFER，这是当代职场恐怖片预告。\n\n还有那个《月饼守恒定律》，184万播放，弹幕才126条。说明什么？说明大家看完都沉默了。月饼这东西，送出去又转回来，跟A股一样，你以为你在投资，其实你只是接盘的最后一环。\n\n**今日金句：大盘靠大件，热门靠老脸，月饼靠转手——这世界哪有什么新鲜事，全是存量博弈。**",
+  "news": [
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第17集【总第193集】",
+      "url": "https://www.bilibili.com/video/BV17BaA6dERY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:376.6万 | 弹幕:7.5万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3766087,
+      "original_comments": 75063
+    },
+    {
+      "title": "《月饼守恒定律》",
+      "url": "https://www.bilibili.com/video/BV1GWh26wEx6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:184.6万 | 弹幕:126 | UP主:嘞是唐孃孃",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1846405,
+      "original_comments": 126
+    },
+    {
+      "title": "EP02 极限拉扯！首现历时最长OFFER！",
+      "url": "https://www.bilibili.com/video/BV1dFhb69Eed",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:148.0万 | 弹幕:1.4万 | UP主:李佳琦Austin",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1479896,
+      "original_comments": 13565
+    },
+    {
+      "title": "原来各大博主都是这么拍视频的啊？哈哈哈",
+      "url": "https://www.bilibili.com/video/BV1XTag6cEAz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:141.0万 | 弹幕:363 | UP主:李如儒也是李蠕蠕",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1409958,
+      "original_comments": 363
+    },
+    {
+      "title": "【纪录片】中国救护2 02 向未明处去",
+      "url": "https://www.bilibili.com/video/BV1MahU6eESN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:109.6万 | 弹幕:649 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1095840,
+      "original_comments": 649
+    },
+    {
+      "title": "跳反欧盟，指脸对骂，一口气看懂美国加拿大贸易战",
+      "url": "https://www.bilibili.com/video/BV1kXaw64Eb6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:107.6万 | 弹幕:2728 | UP主:星辰趣味屋",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1076482,
+      "original_comments": 2728
+    },
+    {
+      "title": "当狂犬疫苗进入体内，一场追杀狂犬病毒的反击开始了…..",
+      "url": "https://www.bilibili.com/video/BV1yfh16EEC8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.6万 | 弹幕:760 | UP主:牛马细胞",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1035525,
+      "original_comments": 760
+    },
+    {
+      "title": "查理斯《绝命糖猪-chalice》",
+      "url": "https://www.bilibili.com/video/BV1rYh76aEaV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:101.2万 | 弹幕:282 | UP主:无奈の老王君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1012277,
+      "original_comments": 282
+    },
+    {
+      "title": "斑铜",
+      "url": "https://www.bilibili.com/video/BV119h16QEGD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:85.3万 | 弹幕:1901 | UP主:归乡人山白",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 852560,
+      "original_comments": 1901
+    },
+    {
+      "title": "【萌黄一槽】宇智波佐助[篮球之星]全技能爆料！教练，他开写轮眼打球！",
+      "url": "https://www.bilibili.com/video/BV1c7hX6hEgh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:84.4万 | 弹幕:7967 | UP主:火影忍者手游情报君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 843549,
+      "original_comments": 7967
+    },
+    {
+      "title": "后 期 无 敌",
+      "url": "https://www.bilibili.com/video/BV15Eh26vEmv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:74.5万 | 弹幕:240 | UP主:敲萌豹风党",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 744565,
+      "original_comments": 240
+    },
+    {
+      "title": "《三角洲行动》上线二洲年回顾",
+      "url": "https://www.bilibili.com/video/BV1TqhU6FEV2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.5万 | 弹幕:5384 | UP主:三角洲行动",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 524620,
+      "original_comments": 5384
+    },
+    {
+      "title": "【侯绿萝】更新啦，赶紧来围观吧！",
+      "url": "https://www.bilibili.com/video/BV1weh96BEte",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.1万 | 弹幕:534 | UP主:侯绿萝",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 461443,
+      "original_comments": 534
+    },
+    {
+      "title": "网络热传生物鉴定 第64期",
+      "url": "https://www.bilibili.com/video/BV1R5hH6cEje",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.0万 | 弹幕:3812 | UP主:无穷小亮的科普日常",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 460148,
+      "original_comments": 3812
+    },
+    {
+      "title": "0元的酒店真能住？随机预算过一天！！",
+      "url": "https://www.bilibili.com/video/BV14zhU6fEpJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.3万 | 弹幕:505 | UP主:贤宝宝Baby",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 402672,
+      "original_comments": 505
+    },
+    {
+      "title": "《三角洲行动》群星计划—代号：深蓝",
+      "url": "https://www.bilibili.com/video/BV1sghX6KEkX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:33.2万 | 弹幕:1134 | UP主:三角洲行动",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 332095,
+      "original_comments": 1134
+    },
+    {
+      "title": "🎤1.5周年纪念曲《絶景（四时风华）》 2DMV公开✨",
+      "url": "https://www.bilibili.com/video/BV1fwh96bEvb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.7万 | 弹幕:141 | UP主:初音未来缤纷舞台",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 276631,
+      "original_comments": 141
+    },
+    {
+      "title": "戒赌吧覆灭！1400万赌徒抱团救赎，吧主将他们卖给赌场！【神奇组织17】",
+      "url": "https://www.bilibili.com/video/BV17WhX6xEWn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.3万 | 弹幕:617 | UP主:喵喵即正义",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 163051,
+      "original_comments": 617
+    },
+    {
+      "title": "血月升空！丧尸与寄生虫合围缆车！我们能否守住高空避难所！「缆车惊变100天 #4」",
+      "url": "https://www.bilibili.com/video/BV1P3hX6vE2A",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.0万 | 弹幕:4459 | UP主:夏天y",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 159855,
+      "original_comments": 4459
+    },
+    {
+      "title": "时间不多喽",
+      "url": "https://www.bilibili.com/video/BV1xuhR6yEM3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:14.2万 | 弹幕:1130 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 142085,
+      "original_comments": 1130
+    },
+    {
+      "title": "Persona 3 Reload",
+      "url": "https://store.steampowered.com/app/2161700",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Persona 5 Royal",
+      "url": "https://store.steampowered.com/app/1687950",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "url": "https://store.steampowered.com/app/292030",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS™: REMASTERED",
+      "url": "https://store.steampowered.com/app/570940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS III Deluxe Edition",
+      "url": "https://store.steampowered.com/app/94174",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS™ II: Scholar of the First Sin",
+      "url": "https://store.steampowered.com/app/335300",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Last of Us™ Part II Remastered",
+      "url": "https://store.steampowered.com/app/2531310",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Hades II",
+      "url": "https://store.steampowered.com/app/1145350",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 534,
+      "original_comments": 338
+    },
+    {
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 489,
+      "original_comments": 122
+    },
+    {
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 376,
+      "original_comments": 339
+    },
+    {
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 274,
+      "original_comments": 65
+    },
+    {
+      "title": "First Principles Thinking",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 267,
+      "original_comments": 117
+    },
+    {
+      "title": "Gravity seems holographic. What does that mean for reality?",
+      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222,
+      "original_comments": 181
+    },
+    {
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 216,
+      "original_comments": 88
+    },
+    {
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 215,
+      "original_comments": 304
+    },
+    {
+      "title": "Excel now supports multiple values in a single cell",
+      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 205,
+      "original_comments": 149
+    },
+    {
+      "title": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 182,
+      "original_comments": 251
+    },
+    {
+      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "url": "https://news.ycombinator.com/item?id=49848955",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 150,
+      "original_comments": 143
+    },
+    {
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 149,
+      "original_comments": 31
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1059",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "CONTROL Resonant",
+      "url": "https://store.steampowered.com/app/3669870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "ACE COMBAT 8: WINGS OF THEVE",
+      "url": "https://store.steampowered.com/app/2288340",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Total War: WARHAMMER III – Lords of the End Times",
+      "url": "https://store.steampowered.com/app/80339",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$31",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 27
+    },
+    {
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 99,
+      "original_comments": 9
+    },
+    {
+      "title": "One Month Without AI",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 85,
+      "original_comments": 68
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 790.18 📈+1.15(+0.15%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1228484,
+      "summary": "今日 790.18 | 📈 +1.15(+0.15%) | 最高 790.52 最低 788.79 | 连涨 2天 | 成交额 ¥4605万 | 成交量 1228484件 | 📈2233 ➡2572 📉2689"
+    }
+  ]
+}
