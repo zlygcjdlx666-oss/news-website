@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-27",
+  "commentary": "今天这盘面，CS:GO大盘789.03，跌了0.95，跌幅0.12%。兄弟们，这不叫跌，这叫“高位横盘装死”。成交额4738万，量能还在，说明什么？说明饰品市场里那帮倒爷还在互相掏兜，你挂2997我挂2480，跟菜市场收摊前甩卖白菜似的。真正的大商早就躺平了，只有韭菜还在算“连涨-1天”这种废话指标——连涨负一天，那不叫连跌吗？数学是体育老师教的？\n\n再看B站热门，三角洲行动两个“群星计划”视频加起来快370万播放，一个代号深蓝一个代号威龙，我寻思这游戏改名叫“代号：起名困难症”算了。腾讯这波宣发属于是拿钱硬砸，但砸得挺准，FPS老哥们就吃这套军事中二风。另一边崩铁真珠PV 193万，米哈游还是稳，一个角色PV弹幕5081，比某些游戏公测热度都高。但最骚的是李佳琦，一个带货视频178万播放、弹幕近万，兄弟们，你们到底是去看砍价的还是去听“所有女生”的？我不好说。\n\n今日金句：CS:GO大盘跌0.12%叫“技术性调整”，你钱包跌0.12%叫“这个月白干”。",
+  "news": [
+    {
+      "title": "《三角洲行动》群星计划—代号：深蓝",
+      "url": "https://www.bilibili.com/video/BV1sghX6KEkX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:230.1万 | 弹幕:3304 | UP主:三角洲行动",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2300821,
+      "original_comments": 3304
+    },
+    {
+      "title": "没人会记得神作之下的第二名，除非那一年都是逆天神梗！",
+      "url": "https://www.bilibili.com/video/BV114h96GEyq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:206.3万 | 弹幕:587 | UP主:燃茶哥哥在此",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2062649,
+      "original_comments": 587
+    },
+    {
+      "title": "《崩坏：星穹铁道》真珠角色PV——「如何描绘一种希望」",
+      "url": "https://www.bilibili.com/video/BV1Rmh96ZEXh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:193.4万 | 弹幕:5081 | UP主:崩坏星穹铁道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1934140,
+      "original_comments": 5081
+    },
+    {
+      "title": "【独家】牧神记 第102集 大尊",
+      "url": "https://www.bilibili.com/video/BV152aA6nEz4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:179.3万 | 弹幕:4747 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1793136,
+      "original_comments": 4747
+    },
+    {
+      "title": "EP03 护肤+彩妆OFFER砍出新高度，集体花式整活！",
+      "url": "https://www.bilibili.com/video/BV1GvhR6dExi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:178.8万 | 弹幕:9966 | UP主:李佳琦Austin",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1788154,
+      "original_comments": 9966
+    },
+    {
+      "title": "《纯粹の体育精神》",
+      "url": "https://www.bilibili.com/video/BV1Kyas6wEuz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:170.0万 | 弹幕:604 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1699759,
+      "original_comments": 604
+    },
+    {
+      "title": "《三角洲行动》群星计划—代号：威龙",
+      "url": "https://www.bilibili.com/video/BV1fAh96ZELn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:135.5万 | 弹幕:1.0万 | UP主:三角洲行动",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1355311,
+      "original_comments": 10305
+    },
+    {
+      "title": "【立志成为恶兽】05 我有一个拯救村庄的计划【UP动画】【HiShorts! × updream AI短片大赛-剧情单元】",
+      "url": "https://www.bilibili.com/video/BV1j3hd6wE1w",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:127.3万 | 弹幕:1764 | UP主:立志成为恶兽",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1273031,
+      "original_comments": 1764
+    },
+    {
+      "title": "动态视频｜按出1秒获得1万元？",
+      "url": "https://www.bilibili.com/video/BV1VRaN6XEbx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:122.5万 | 弹幕:696 | UP主:飓多多StormCrew",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1225350,
+      "original_comments": 696
+    },
+    {
+      "title": "第五人格亚运版本项目助威曲《追光逐梦》MV现已上线！",
+      "url": "https://www.bilibili.com/video/BV1X6ho6cEkQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:109.7万 | 弹幕:689 | UP主:网易第五人格手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1097181,
+      "original_comments": 689
+    },
+    {
+      "title": "谁更吃力，谁更省力",
+      "url": "https://www.bilibili.com/video/BV1UNhR6jEiW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:86.7万 | 弹幕:225 | UP主:街健呆木头",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 866609,
+      "original_comments": 225
+    },
+    {
+      "title": "延续外观，影像升级？vivo X500 Pro Max 上手",
+      "url": "https://www.bilibili.com/video/BV1Ebho6BE2J",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.8万 | 弹幕:1303 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 588411,
+      "original_comments": 1303
+    },
+    {
+      "title": "我们尝试用AI造了一个时空",
+      "url": "https://www.bilibili.com/video/BV1TPa46MEwU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.5万 | 弹幕:938 | UP主:星球研究所",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 505153,
+      "original_comments": 938
+    },
+    {
+      "title": "世界 昆山市 老板50人公司大聚餐 烤上两只正宗的新疆馕坑烤全羊#苏州馕坑烤全羊#无锡烤全羊#无锡馕坑烤全羊#上海馕坑烤全羊",
+      "url": "https://www.bilibili.com/video/BV1dMhy6eE1B",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.1万 | 弹幕:374 | UP主:苏州刚子馕坑烤全羊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 501084,
+      "original_comments": 374
+    },
+    {
+      "title": "【剧情】长生契（2026）07【方逸伦 / 谢可寅】",
+      "url": "https://www.bilibili.com/video/BV1aUem6yEur",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.1万 | 弹幕:4083 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 461417,
+      "original_comments": 4083
+    },
+    {
+      "title": "普通人能在末世里生存下去吗？挑战在废墟生存三天！！",
+      "url": "https://www.bilibili.com/video/BV1dahR6ZEzP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:42.4万 | 弹幕:1714 | UP主:东尼ookii",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 423959,
+      "original_comments": 1714
+    },
+    {
+      "title": "快问快答：历史性时间窗口！中国在华盛顿主动出牌",
+      "url": "https://www.bilibili.com/video/BV1Hsah6uEs3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.7万 | 弹幕:477 | UP主:小王Albert",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 406759,
+      "original_comments": 477
+    },
+    {
+      "title": "钓鱼被鱼揍了",
+      "url": "https://www.bilibili.com/video/BV1Usat6rEm1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:35.2万 | 弹幕:4688 | UP主:徐大虾咯",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 351606,
+      "original_comments": 4688
+    },
+    {
+      "title": "挑战自助餐最亏本的十类食物！通通吃一遍！",
+      "url": "https://www.bilibili.com/video/BV1tNab65ECw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.4万 | 弹幕:279 | UP主:橙飞一下",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 254313,
+      "original_comments": 279
+    },
+    {
+      "title": "【STN快报第8.5季22】史上最刀发布会，玩家看完纷纷感叹太刀了",
+      "url": "https://www.bilibili.com/video/BV16ya86iEWL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:23.1万 | 弹幕:5949 | UP主:STN工作室",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 231383,
+      "original_comments": 5949
+    },
+    {
+      "title": "Ori and the Will of the Wisps",
+      "url": "https://store.steampowered.com/app/1057090",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $37",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "It Takes Two",
+      "url": "https://store.steampowered.com/app/1426210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $299",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Sea of Thieves: 2026 Edition",
+      "url": "https://store.steampowered.com/app/1172620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-65% | $360",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6600,
+      "original_comments": 0
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "url": "https://store.steampowered.com/app/292030",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $674",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS™: REMASTERED",
+      "url": "https://store.steampowered.com/app/570940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS III Deluxe Edition",
+      "url": "https://store.steampowered.com/app/94174",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $699",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Split Fiction",
+      "url": "https://store.steampowered.com/app/2001120",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $844",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "The Last of Us™ Part II Remastered",
+      "url": "https://store.steampowered.com/app/2531310",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $1004",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $301",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 453,
+      "original_comments": 240
+    },
+    {
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 414,
+      "original_comments": 105
+    },
+    {
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 406,
+      "original_comments": 296
+    },
+    {
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 398,
+      "original_comments": 326
+    },
+    {
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 341,
+      "original_comments": 724
+    },
+    {
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 340,
+      "original_comments": 90
+    },
+    {
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 291,
+      "original_comments": 204
+    },
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 280,
+      "original_comments": 92
+    },
+    {
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 279,
+      "original_comments": 113
+    },
+    {
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 268,
+      "original_comments": 296
+    },
+    {
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 240,
+      "original_comments": 213
+    },
+    {
+      "title": "What is the size of Yemen? (2024)",
+      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 206,
+      "original_comments": 71
+    },
+    {
+      "title": "Flip Fluid on Flip Dots",
+      "url": "https://mitxela.com/projects/flipflip",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 188,
+      "original_comments": 12
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 187,
+      "original_comments": 26
+    },
+    {
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 164,
+      "original_comments": 43
+    },
+    {
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 119,
+      "original_comments": 75
+    },
+    {
+      "title": "An agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 119,
+      "original_comments": 119
+    },
+    {
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 110,
+      "original_comments": 45
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$829",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "Steam 热销游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$2199",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 789.03 📉-0.95(-0.12%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1202291,
+      "summary": "今日 789.03 | 📉 -0.95(-0.12%) | 最高 790.48 最低 788.89 | 连涨 -1天 | 成交额 ¥4738万 | 成交量 1202291件 | 📈2017 ➡2480 📉2997"
+    }
+  ]
+}
