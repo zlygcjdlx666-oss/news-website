@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-28",
+  "commentary": "好家伙，今天这新闻列表一看，我差点以为手机中病毒了。CSGO大盘786.7，涨了0.04，连涨一天，成交额26万——这点波动还不如我楼下煎饼果子涨价来得刺激。兄弟们，饰品市场现在是真搁这儿“养生”呢，庄家都去跳广场舞了吧？\n\n再说B站，今天最让我绷不住的是“钻玉米地不划脸教程”，197万播放。不是，现在城里人是真没活整了？农民老杨教你怎么钻玉米地不破相，这需求到底是谁在搜啊？建议下次出个“如何在早高峰地铁里不被挤成相片”，我必三连。\n\n还有那个“全世界发量下降一万倍，而俺不变”——蔓迪官方投的。好家伙，防脱品牌都开始搞科幻爽文了。说白了就是：全世界都秃了，就你一头秀发，那你就是行走的植发广告牌。这脑洞，我愿称之为“秃然袭击”。\n\n最后那个“蛙跳爬泰山”，143万播放。我寻思现在旅游博主已经卷到这种程度了吗？别人爬山，他蛙跳。泰山十八盘，他跳上去，膝盖是借的急着还？\n\n今日金句：这届网友一边看人钻玉米地，一边担心自己发量，最后发现最稳的理财产品是CSGO里那26万的成交量——至少它真没跌。",
+  "news": [
+    {
+      "title": "“钻玉米地”不划脸教程",
+      "url": "https://www.bilibili.com/video/BV1ntah6TEe9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:197.3万 | 弹幕:1109 | UP主:农民老杨_Shandong",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1972976,
+      "original_comments": 1109
+    },
+    {
+      "title": "《原神》六周年主题曲《风的来信》",
+      "url": "https://www.bilibili.com/video/BV14Baa6JENd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:178.0万 | 弹幕:3.5万 | UP主:原神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1779838,
+      "original_comments": 34835
+    },
+    {
+      "title": "延续外观，影像升级？vivo X500 Pro Max 上手",
+      "url": "https://www.bilibili.com/video/BV1Ebho6BE2J",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:169.8万 | 弹幕:2676 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1697928,
+      "original_comments": 2676
+    },
+    {
+      "title": "一猫哈气万狗哭！我把哈基米做成了肉鸽游戏！",
+      "url": "https://www.bilibili.com/video/BV1o3hd6cEx8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:155.6万 | 弹幕:216 | UP主:火山哥哥",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1556264,
+      "original_comments": 216
+    },
+    {
+      "title": "假如🤔...全世界发量下降一万倍，而俺不变！",
+      "url": "https://www.bilibili.com/video/BV13Ja869EeZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:152.7万 | 弹幕:637 | UP主:蔓迪官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1527311,
+      "original_comments": 637
+    },
+    {
+      "title": "蛙跳爬泰山",
+      "url": "https://www.bilibili.com/video/BV1Hxah6BEGy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:143.2万 | 弹幕:8505 | UP主:爱健身小庞",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1432044,
+      "original_comments": 8505
+    },
+    {
+      "title": "《鸣潮》共鸣者「心」PV | 梦阑珊",
+      "url": "https://www.bilibili.com/video/BV1s8aq6FEfJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:131.5万 | 弹幕:6024 | UP主:鸣潮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1314516,
+      "original_comments": 6024
+    },
+    {
+      "title": "【剧情】终极恶女（2014）01【那维勋 / 蔡函岑】",
+      "url": "https://www.bilibili.com/video/BV15ieC6TEq3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:111.8万 | 弹幕:670 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1118166,
+      "original_comments": 670
+    },
+    {
+      "title": "迈克尔.韩立 《不凡》天南巡回演唱会【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1Dbaa6sEez",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:107.9万 | 弹幕:900 | UP主:韩历飞羽666",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1079116,
+      "original_comments": 900
+    },
+    {
+      "title": "三幻魔集结！超越神的力量！【水无月菌】",
+      "url": "https://www.bilibili.com/video/BV14Qah6DEBL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:67.1万 | 弹幕:9506 | UP主:水无月菌",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 671330,
+      "original_comments": 9506
+    },
+    {
+      "title": "【特效向】蔡徐坤vs全明星 第二季",
+      "url": "https://www.bilibili.com/video/BV161aa6CERA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:63.1万 | 弹幕:802 | UP主:豪言の经理",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 630553,
+      "original_comments": 802
+    },
+    {
+      "title": "你 傻 不 过 我 你 信 吗",
+      "url": "https://www.bilibili.com/video/BV1yBaa6EEky",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:53.4万 | 弹幕:1567 | UP主:萝太永不破防",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 533874,
+      "original_comments": 1567
+    },
+    {
+      "title": "把ARRI装进口袋之后：荣耀 Magic 9系列首发体验",
+      "url": "https://www.bilibili.com/video/BV1TQah6DEAv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:45.0万 | 弹幕:968 | UP主:搞机所",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 449632,
+      "original_comments": 968
+    },
+    {
+      "title": "三个两亿像素？OPPO Find X10 Pro Max上手",
+      "url": "https://www.bilibili.com/video/BV1hGaG6vEX2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:43.8万 | 弹幕:531 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 438250,
+      "original_comments": 531
+    },
+    {
+      "title": "⚡️她连唐笑都在调上⚡️",
+      "url": "https://www.bilibili.com/video/BV1X4a36KEuH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.4万 | 弹幕:150 | UP主:哦呼w",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 414364,
+      "original_comments": 150
+    },
+    {
+      "title": "【补档】CN零杠八单曲《大家一起十六强》完整版",
+      "url": "https://www.bilibili.com/video/BV1CDai6dEv9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.1万 | 弹幕:868 | UP主:羽倾青流",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 411210,
+      "original_comments": 868
+    },
+    {
+      "title": "自制【飞行滑板】体感控制，科幻进入现实",
+      "url": "https://www.bilibili.com/video/BV1euaq6CEKR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.9万 | 弹幕:732 | UP主:魔界造物",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 408707,
+      "original_comments": 732
+    },
+    {
+      "title": "六十无拘 六十而已",
+      "url": "https://www.bilibili.com/video/BV1N1ai6cExV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.2万 | 弹幕:5827 | UP主:铁豆钢蛋",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 291851,
+      "original_comments": 5827
+    },
+    {
+      "title": "2026年10-12月国创秋季导视-哔哩哔哩版权国创",
+      "url": "https://www.bilibili.com/video/BV1d9h266ECy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.5万 | 弹幕:767 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 254702,
+      "original_comments": 767
+    },
+    {
+      "title": "“为什么她会在我家浴室啊！？”",
+      "url": "https://www.bilibili.com/video/BV1iHaV67EPC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:8.6万 | 弹幕:237 | UP主:娜娜莉今晚吃什么",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 85994,
+      "original_comments": 237
+    },
+    {
+      "title": "Ori and the Will of the Wisps",
+      "url": "https://store.steampowered.com/app/1057090",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "url": "https://store.steampowered.com/app/1462040",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "It Takes Two",
+      "url": "https://store.steampowered.com/app/1426210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Persona 3 Reload",
+      "url": "https://store.steampowered.com/app/2161700",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $80",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Persona 5 Royal",
+      "url": "https://store.steampowered.com/app/1687950",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $80",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Split Fiction",
+      "url": "https://store.steampowered.com/app/2001120",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $129",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "The Last of Us™ Part II Remastered",
+      "url": "https://store.steampowered.com/app/2531310",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $231",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "World Apart",
+      "url": "https://store.steampowered.com/app/4209920",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Deskrawl: Idle ARPG",
+      "url": "https://store.steampowered.com/app/4623570",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1625,
+      "original_comments": 881
+    },
+    {
+      "title": "Kingdom Rush 6: Genesis TD",
+      "url": "https://store.steampowered.com/app/4259190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $69",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $53",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 961,
+      "original_comments": 411
+    },
+    {
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 554,
+      "original_comments": 238
+    },
+    {
+      "title": "Self-Hosting on the Dark Web",
+      "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 311,
+      "original_comments": 104
+    },
+    {
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 284,
+      "original_comments": 108
+    },
+    {
+      "title": "Coding Is Not Solved",
+      "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 256,
+      "original_comments": 256
+    },
+    {
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "url": "https://git.mills.io/prologic/parley",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 221,
+      "original_comments": 107
+    },
+    {
+      "title": "The state of SIMD in Rust in 2026",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 194,
+      "original_comments": 48
+    },
+    {
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 172,
+      "original_comments": 58
+    },
+    {
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 155,
+      "original_comments": 60
+    },
+    {
+      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "url": "https://www.inkandswitch.com/essay/malleable-software/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 139,
+      "original_comments": 68
+    },
+    {
+      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+      "url": "https://github.com/dashersw/coyopedal",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 139,
+      "original_comments": 70
+    },
+    {
+      "title": "Nissan's third generation e-POWER powertrain",
+      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 132,
+      "original_comments": 294
+    },
+    {
+      "title": "37,500 border drawings: a map of the world as people remember it",
+      "url": "https://www.habibicode.org/thedrawnworld",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 126,
+      "original_comments": 28
+    },
+    {
+      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+      "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 121,
+      "original_comments": 65
+    },
+    {
+      "title": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$248",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "ACE COMBAT 8: WINGS OF THEVE",
+      "url": "https://store.steampowered.com/app/2288340",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$298",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Minecraft Dungeons II",
+      "url": "https://store.steampowered.com/app/1912410",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$148",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 786.7 📈+0.04(+0.01%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 17243,
+      "summary": "今日 786.7 | 📈 +0.04(+0.01%) | 最高 786.84 最低 786.65 | 连涨 1天 | 成交额 ¥26万 | 成交量 17243件 | 📈1780 ➡2169 📉3545"
+    }
+  ]
+}
