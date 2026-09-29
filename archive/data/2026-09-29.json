@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-29",
+  "commentary": "今天这盘面，CSGO大盘连着跌三天，783点了，成交额还有4800多万，兄弟们这是边骂边加仓啊。1525个涨、3742个跌，这数据摆明了就是韭菜开会——嘴上说“饰品是信仰”，手上比谁跑得都快。我劝各位一句，别拿“长期持有”骗自己，你那是被套牢之后给自己发的安慰奖。\n\n再说B站，今天最该聊的是那个自学动画爆肝俩月手搓《猫和老鼠》的。200万播放，说明什么？说明观众不是不爱看硬货，是平台天天喂的工业糖精太多，突然来一口手工现炒的，大家眼睛都亮了。这跟炸串老店一个道理——林大厨跑去救30年老店，不是因为酱料多神秘，是因为现在连炸串都搞预制菜了，人吃一口真东西能感动到发朋友圈。还有那个量筒几毫升水的视频，100万播放，我点进去之前以为我小学毕业了，点进去之后发现我连小学都没毕业。\n\n总之今天的关键词就一个：真东西稀缺。不管是手工动画、老店酱料，还是一杯能让你怀疑智商的水，都比那些数据好看但没灵魂的玩意儿强。\n\n今日金句：市场跌三天你慌，人生跌三十年你才叫活着。",
+  "news": [
+    {
+      "title": "自学动画 爆肝俩月 自创一集《猫和老鼠》【手搓动画大赛】",
+      "url": "https://www.bilibili.com/video/BV1E6aq6pEKR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:202.7万 | 弹幕:1493 | UP主:小蒙古包卓拉",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2026595,
+      "original_comments": 1493
+    },
+    {
+      "title": "⚡️她连唐笑都在调上⚡️",
+      "url": "https://www.bilibili.com/video/BV1X4a36KEuH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:113.1万 | 弹幕:394 | UP主:哦呼w",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1130643,
+      "original_comments": 394
+    },
+    {
+      "title": "这个量筒里到底有几毫升水？别笑，你也答不上来！",
+      "url": "https://www.bilibili.com/video/BV1R2aG63EBP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.7万 | 弹幕:1724 | UP主:毕的二阶导",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1046790,
+      "original_comments": 1724
+    },
+    {
+      "title": "青岛一代人的童年炸串，30年老店面临亏损！林大厨重调四款酱料，破解味道退化难题。老店是否还能焕发新生？",
+      "url": "https://www.bilibili.com/video/BV1bxaN6CE5K",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.3万 | 弹幕:566 | UP主:林述巍JACKLIN",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 803099,
+      "original_comments": 566
+    },
+    {
+      "title": "龙泉印泥",
+      "url": "https://www.bilibili.com/video/BV1zLa36yE86",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.9万 | 弹幕:699 | UP主:谢大炮8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 729398,
+      "original_comments": 699
+    },
+    {
+      "title": "手绘465张！One Last Kiss【EVA30周年回忆重逢计划】",
+      "url": "https://www.bilibili.com/video/BV1i4aL6QEYX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:66.0万 | 弹幕:335 | UP主:棕与灰9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 660367,
+      "original_comments": 335
+    },
+    {
+      "title": "六耳单曲《金钵之下》：真假皆由方寸起，阴阳只在一念间",
+      "url": "https://www.bilibili.com/video/BV1JGhU67Ezy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:47.0万 | 弹幕:464 | UP主:漫游会议室",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 469621,
+      "original_comments": 464
+    },
+    {
+      "title": "宇智波家打球最忧郁之人",
+      "url": "https://www.bilibili.com/video/BV1X9a565Eoh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:45.6万 | 弹幕:220 | UP主:俊鸿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 455914,
+      "original_comments": 220
+    },
+    {
+      "title": "欧洲扒手猖獗横行，这才是文明的底蕴？",
+      "url": "https://www.bilibili.com/video/BV15pap6BEMq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.4万 | 弹幕:2220 | UP主:麻薯波比呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 374261,
+      "original_comments": 2220
+    },
+    {
+      "title": "【剧情】长生契（2026）11【方逸伦 / 谢可寅】",
+      "url": "https://www.bilibili.com/video/BV13Uem6yEzo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.7万 | 弹幕:2295 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 367404,
+      "original_comments": 2295
+    },
+    {
+      "title": "动态视频｜泳池里究竟有多少尿？",
+      "url": "https://www.bilibili.com/video/BV1aza76HERk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:35.6万 | 弹幕:728 | UP主:亿点点不一样",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 355639,
+      "original_comments": 728
+    },
+    {
+      "title": "怎么夸人？",
+      "url": "https://www.bilibili.com/video/BV167aL6ZEQ7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:32.6万 | 弹幕:344 | UP主:萤色渐染",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 326378,
+      "original_comments": 344
+    },
+    {
+      "title": "面具比命还重要？墨西哥摔跤手的生活，有多疯狂？",
+      "url": "https://www.bilibili.com/video/BV1yEaJ6CEUk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:30.9万 | 弹幕:1062 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 308792,
+      "original_comments": 1062
+    },
+    {
+      "title": "揭秘真实亚运会！我居然混进了选手后台..",
+      "url": "https://www.bilibili.com/video/BV1bhan6sEDJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:30.7万 | 弹幕:1029 | UP主:杰克小兔",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 307056,
+      "original_comments": 1029
+    },
+    {
+      "title": "【剧情】消失的裂痕（2026）01【杨谨华 / 张孝全】",
+      "url": "https://www.bilibili.com/video/BV1Treq6zEce",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.0万 | 弹幕:76 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 270303,
+      "original_comments": 76
+    },
+    {
+      "title": "风声1",
+      "url": "https://www.bilibili.com/video/BV1iJap66E7D",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.8万 | 弹幕:1275 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 267879,
+      "original_comments": 1275
+    },
+    {
+      "title": "深不可测的恐惧：斯克拉奇溪，溯源之惧 第六章",
+      "url": "https://www.bilibili.com/video/BV1Gtap6NEPB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.4万 | 弹幕:1.2万 | UP主:鲤鱼Ace",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 264246,
+      "original_comments": 11882
+    },
+    {
+      "title": "带“独显”的随身游戏小平板，8.8英寸移动电竞新物种！iQOO Pad Ultra上手体验。",
+      "url": "https://www.bilibili.com/video/BV1kjaL6bEKA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.4万 | 弹幕:556 | UP主:天才赵德柱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 224422,
+      "original_comments": 556
+    },
+    {
+      "title": "不用出国，在义乌吃遍全球",
+      "url": "https://www.bilibili.com/video/BV1Mhan6sErs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.7万 | 弹幕:495 | UP主:日食记",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 167266,
+      "original_comments": 495
+    },
+    {
+      "title": "当三角洲开局没有声音！每击败一个敌人，就解锁一种声音，该如何百万撤离！",
+      "url": "https://www.bilibili.com/video/BV1wkaE6uEhP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.1万 | 弹幕:417 | UP主:晨露ZLQ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 161330,
+      "original_comments": 417
+    },
+    {
+      "title": "Ori and the Will of the Wisps",
+      "url": "https://store.steampowered.com/app/1057090",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "SOS OPS!",
+      "url": "https://store.steampowered.com/app/2475460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $2",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Persona 3 Reload",
+      "url": "https://store.steampowered.com/app/2161700",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $75",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "REMATCH",
+      "url": "https://store.steampowered.com/app/2138720",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $36",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt — Remastered",
+      "url": "https://store.steampowered.com/app/292030",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $80",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS™: REMASTERED",
+      "url": "https://store.steampowered.com/app/570940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $77",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS™ III",
+      "url": "https://store.steampowered.com/app/374320",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $115",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Last of Us™ Part II Remastered",
+      "url": "https://store.steampowered.com/app/2531310",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $134",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 645,
+      "original_comments": 330
+    },
+    {
+      "title": "You Are No Longer Invited to Dinner",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 380,
+      "original_comments": 325
+    },
+    {
+      "title": "AI companies leak data to advertisers [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 301,
+      "original_comments": 99
+    },
+    {
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 298,
+      "original_comments": 743
+    },
+    {
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 264,
+      "original_comments": 97
+    },
+    {
+      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 246,
+      "original_comments": 160
+    },
+    {
+      "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+      "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 245,
+      "original_comments": 166
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 195,
+      "original_comments": 29
+    },
+    {
+      "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 171,
+      "original_comments": 89
+    },
+    {
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 158,
+      "original_comments": 44
+    },
+    {
+      "title": "Tank Body Problem",
+      "url": "http://www.jimsitu.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 155,
+      "original_comments": 33
+    },
+    {
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 132,
+      "original_comments": 29
+    },
+    {
+      "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
+      "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 129,
+      "original_comments": 69
+    },
+    {
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 123,
+      "original_comments": 51
+    },
+    {
+      "title": "Using any C++ library in Godot",
+      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 109,
+      "original_comments": 28
+    },
+    {
+      "title": "The systems that no one will test",
+      "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 109,
+      "original_comments": 43
+    },
+    {
+      "title": "AION 2 Standard Founder's Pack",
+      "url": "https://store.steampowered.com/app/1675062",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$135",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "AION 2 Ultimate Founder's Pack",
+      "url": "https://store.steampowered.com/app/1675065",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$550",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "AION 2 Deluxe Founder's Pack",
+      "url": "https://store.steampowered.com/app/1675064",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$275",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$299",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$120",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Minecraft Dungeons II",
+      "url": "https://store.steampowered.com/app/1912410",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$139",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 783.59 📉-3.07(-0.39%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1077005,
+      "summary": "今日 783.59 | 📉 -3.07(-0.39%) | 最高 786.87 最低 783.41 | 连涨 -3天 | 成交额 ¥4828万 | 成交量 1077005件 | 📈1525 ➡2227 📉3742"
+    }
+  ]
+}
