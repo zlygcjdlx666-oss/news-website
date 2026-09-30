@@ -1,0 +1,614 @@
+{
+  "date": "2026-09-30",
+  "commentary": "先说说这个CSGO大盘，778点，连跌四天，成交额五千多万，看着挺热闹，其实就俩字——阴跌。最骚的是涨的1655个，跌的3772个，这哪是市场啊，这是大型比惨现场。饰品这玩意儿现在就跟前任的朋友圈似的，你越看越难受，不看又忍不住。我的建议？别抄底，底下面还有地下室，地下室下面还有十八层。\n\n再说B站这热门榜，我是真服气。修家电290万播放，美妆新品155万，这都正常。但\"泳池里究竟有多少尿\"能冲上133万，我是真绷不住了。兄弟们，你们是真闲啊，还是真饿了？这玩意儿需要研究吗？你游一圈呛口水不就知道了？还有那个\"门捷列夫怒唱元素周期表\"，182万播放，建议直接保送化学系，别耽误了。\n\n最让我感慨的是那个\"最绝望の小兵\"，123万播放。你看，现在大家连绝望都要做成鬼畜视频，说明什么？说明绝望本身不可怕，可怕的是你绝望的时候还没人给你投币。\n\n今日金句：这年头，连化学元素周期表都能出道，你还有什么理由不努力？",
+  "news": [
+    {
+      "title": "第一视角带你沉浸式体验修家电师傅的一天",
+      "url": "https://www.bilibili.com/video/BV18ChR6nE8h",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:290.2万 | 弹幕:924 | UP主:超越家电",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2902347,
+      "original_comments": 924
+    },
+    {
+      "title": "艺术斗法",
+      "url": "https://www.bilibili.com/video/BV1deaJ6YEWH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:281.2万 | 弹幕:779 | UP主:想想工作室",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2812413,
+      "original_comments": 779
+    },
+    {
+      "title": "手绘465张！One Last Kiss【EVA30周年回忆重逢计划】",
+      "url": "https://www.bilibili.com/video/BV1i4aL6QEYX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:275.1万 | 弹幕:2833 | UP主:棕与灰9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2750662,
+      "original_comments": 2833
+    },
+    {
+      "title": "面具比命还重要？墨西哥摔跤手的生活，有多疯狂？",
+      "url": "https://www.bilibili.com/video/BV1yEaJ6CEUk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:211.2万 | 弹幕:2559 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2112309,
+      "original_comments": 2559
+    },
+    {
+      "title": "【给阿嬷的情书】做人得有情义",
+      "url": "https://www.bilibili.com/video/BV1BGa361E2B",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:198.1万 | 弹幕:5728 | UP主:哔哩哔哩电影",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1980930,
+      "original_comments": 5728
+    },
+    {
+      "title": "⚡️门捷列夫 科学界巡演 怒唱元素周期表⚡️",
+      "url": "https://www.bilibili.com/video/BV1bban6dEJo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:182.6万 | 弹幕:988 | UP主:酸奶煎个蛋",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1826185,
+      "original_comments": 988
+    },
+    {
+      "title": "EP06 首场新品秀来袭，美妆护肤新品是“翻车”or惊艳全场？",
+      "url": "https://www.bilibili.com/video/BV17da36jExz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:155.8万 | 弹幕:1.1万 | UP主:李佳琦Austin",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1558483,
+      "original_comments": 11412
+    },
+    {
+      "title": "7天穿越哀牢山!千万不要随便采菌子!",
+      "url": "https://www.bilibili.com/video/BV1Rsap6TE4i",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:146.4万 | 弹幕:873 | UP主:十三要和拳头",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1464394,
+      "original_comments": 873
+    },
+    {
+      "title": "深不可测的恐惧：斯克拉奇溪，溯源之惧 第六章",
+      "url": "https://www.bilibili.com/video/BV1Gtap6NEPB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:144.8万 | 弹幕:2.2万 | UP主:鲤鱼Ace",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1447840,
+      "original_comments": 22486
+    },
+    {
+      "title": "动态视频｜泳池里究竟有多少尿？",
+      "url": "https://www.bilibili.com/video/BV1aza76HERk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:133.7万 | 弹幕:1613 | UP主:亿点点不一样",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1336762,
+      "original_comments": 1613
+    },
+    {
+      "title": "这个海胆金枪鱼泥寿司得卖3000元一份，厨师长用下班剩的边角料研发的",
+      "url": "https://www.bilibili.com/video/BV1zEaV6JEFD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:125.3万 | 弹幕:2624 | UP主:张森的下班料理",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1252703,
+      "original_comments": 2624
+    },
+    {
+      "title": "《最绝望の小兵》",
+      "url": "https://www.bilibili.com/video/BV1odan6TEgR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:123.2万 | 弹幕:688 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1231986,
+      "original_comments": 688
+    },
+    {
+      "title": "跟我一起在农场度过一天",
+      "url": "https://www.bilibili.com/video/BV1x9ab6rE2C",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:122.0万 | 弹幕:451 | UP主:大鬍子牛仔",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1219816,
+      "original_comments": 451
+    },
+    {
+      "title": "《善》善良是什么",
+      "url": "https://www.bilibili.com/video/BV1ygaL6YEbx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:117.2万 | 弹幕:1622 | UP主:阿廖沙别害怕_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1172283,
+      "original_comments": 1622
+    },
+    {
+      "title": "90后，00的童年的含金量还在一步步提升",
+      "url": "https://www.bilibili.com/video/BV1wjaL68EY5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:78.0万 | 弹幕:1170 | UP主:小卡拉米AIGC",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 779889,
+      "original_comments": 1170
+    },
+    {
+      "title": "内蒙古野生卤虫，真红啊！",
+      "url": "https://www.bilibili.com/video/BV1Bhho6TEkX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.0万 | 弹幕:1948 | UP主:无穷小亮的科普日常",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 459995,
+      "original_comments": 1948
+    },
+    {
+      "title": "兄弟如手足",
+      "url": "https://www.bilibili.com/video/BV1A1ao6DEQ9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.2万 | 弹幕:952 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 292469,
+      "original_comments": 952
+    },
+    {
+      "title": "【剧情】长生契（2026）08【方逸伦 / 谢可寅】",
+      "url": "https://www.bilibili.com/video/BV1aUem6yEbe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.4万 | 弹幕:2560 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 263615,
+      "original_comments": 2560
+    },
+    {
+      "title": "《艾希》十周年续作《艾希：续》众筹开启",
+      "url": "https://www.bilibili.com/video/BV1FvaZ67Emr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.6万 | 弹幕:595 | UP主:老马克肖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 255706,
+      "original_comments": 595
+    },
+    {
+      "title": "【起名TV】给我孩子起叫“爆笑小朋友”是几个意思？？？",
+      "url": "https://www.bilibili.com/video/BV1DVaZ6hEEb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.4万 | 弹幕:376 | UP主:大乾乾是顾乾宇",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 254098,
+      "original_comments": 376
+    },
+    {
+      "title": "Persona 3 Reload",
+      "url": "https://store.steampowered.com/app/2161700",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Persona 5 Royal",
+      "url": "https://store.steampowered.com/app/1687950",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt — Remastered",
+      "url": "https://store.steampowered.com/app/292030",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS III Deluxe Edition",
+      "url": "https://store.steampowered.com/app/94174",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS™: REMASTERED",
+      "url": "https://store.steampowered.com/app/570940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dune: Awakening",
+      "url": "https://store.steampowered.com/app/1172710",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS™ II: Scholar of the First Sin",
+      "url": "https://store.steampowered.com/app/335300",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Last of Us™ Part II Remastered",
+      "url": "https://store.steampowered.com/app/2531310",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Nivalis Nights",
+      "url": "https://store.steampowered.com/app/1488490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $22",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1005,
+      "original_comments": 882
+    },
+    {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 758,
+      "original_comments": 320
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 693,
+      "original_comments": 558
+    },
+    {
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 684,
+      "original_comments": 570
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 549,
+      "original_comments": 298
+    },
+    {
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 415,
+      "original_comments": 292
+    },
+    {
+      "title": "Ask HN: What are you reading?",
+      "url": "https://news.ycombinator.com/item?id=49893157",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 365,
+      "original_comments": 700
+    },
+    {
+      "title": "Pi.dev: You Said No MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 329,
+      "original_comments": 171
+    },
+    {
+      "title": "A Staff Engineer's Guide to Inventing Work",
+      "url": "https://sujithjay.com/inventing-work",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 324,
+      "original_comments": 66
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 316,
+      "original_comments": 48
+    },
+    {
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 314,
+      "original_comments": 82
+    },
+    {
+      "title": "Vermont replacing power plants with home batteries",
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 290,
+      "original_comments": 221
+    },
+    {
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 250,
+      "original_comments": 148
+    },
+    {
+      "title": "Backblaze drive stats for Q2 2026",
+      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 246,
+      "original_comments": 78
+    },
+    {
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 240,
+      "original_comments": 254
+    },
+    {
+      "title": "Solving Factorio Quality",
+      "url": "https://exyr.org/2026/solving-factorio-quality/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 177,
+      "original_comments": 59
+    },
+    {
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 166,
+      "original_comments": 7
+    },
+    {
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 142,
+      "original_comments": 147
+    },
+    {
+      "title": "Needed 1+1, built a functional programming language",
+      "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 129,
+      "original_comments": 54
+    },
+    {
+      "title": "When oil prices spike, where does the money go?",
+      "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 122,
+      "original_comments": 116
+    },
+    {
+      "title": "RSS Feeds for Last.fm",
+      "url": "https://lfm.xiffy.nl/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 104,
+      "original_comments": 29
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 778.64 📉-4.63(-0.59%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1165933,
+      "summary": "今日 778.64 | 📉 -4.63(-0.59%) | 最高 783.27 最低 778.13 | 连涨 -4天 | 成交额 ¥5309万 | 成交量 1165933件 | 📈1655 ➡2067 📉3772"
+    }
+  ]
+}
