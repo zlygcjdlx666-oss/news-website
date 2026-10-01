@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-01",
+  "commentary": "今天这盘面，CSGO大盘连跌四天，774点岌岌可危，成交额五千多万，看着热闹，实则一地鸡毛。涨的没跌的多，1930个涨、3300个跌，这哪是市场，这是绞肉机。我就一句话：饰品不是股票，别拿身家赌皮肤，你以为抄底，其实抄家。\n\nB站这边更有意思。央视新闻国庆升旗141万播放，3.6万弹幕，排面拉满，正能量这块没得说。但真正让我笑出声的是那个“修家电师傅的一天”，406万播放。兄弟们，全网最爽职业被找到了，不是当UP主，是修空调。你看，这才是真实的中国：一边是升旗的宏大叙事，一边是师傅拧螺丝的沉浸式解压。宏大和烟火气，互不耽误。\n\n还有那个“忙活20小时炸47盘”的老哥，52万播放，标题写着“妻离子散兄弟反目”。我信了，这哪是打游戏，这是人性实验。游戏本来图一乐，结果玩成了家庭伦理剧。值不值？你自己品。\n\n今日金句：大盘连跌别抄底，人生连败别上头，修家电的都比炒皮肤的睡得香。",
+  "news": [
+    {
+      "title": "机米售货机第二季大合集！",
+      "url": "https://www.bilibili.com/video/BV1x7aY6QE7q",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:494.1万 | 弹幕:344 | UP主:股神巴雷特",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4940872,
+      "original_comments": 344
+    },
+    {
+      "title": "第一视角带你沉浸式体验修家电师傅的一天",
+      "url": "https://www.bilibili.com/video/BV18ChR6nE8h",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:406.6万 | 弹幕:1192 | UP主:超越家电",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4066338,
+      "original_comments": 1192
+    },
+    {
+      "title": "《大回忆时代》",
+      "url": "https://www.bilibili.com/video/BV1ujaZ68Ea5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:328.2万 | 弹幕:953 | UP主:韩波格_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3282351,
+      "original_comments": 953
+    },
+    {
+      "title": "全网最爽职业被我找到了！真有这么爽吗？！？！",
+      "url": "https://www.bilibili.com/video/BV1zead6uEnQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:240.8万 | 弹幕:1410 | UP主:Super也好君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2407793,
+      "original_comments": 1410
+    },
+    {
+      "title": "树的世界",
+      "url": "https://www.bilibili.com/video/BV1Faad6rEe7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:171.3万 | 弹幕:2136 | UP主:-陨风-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1713462,
+      "original_comments": 2136
+    },
+    {
+      "title": "祝福祖国！天安门广场举行国庆升旗仪式",
+      "url": "https://www.bilibili.com/video/BV1LvYA6QEGP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:141.3万 | 弹幕:3.6万 | UP主:央视新闻",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1413377,
+      "original_comments": 35803
+    },
+    {
+      "title": "我———问你为什么要折断奥特钥匙!！！（大结局下）",
+      "url": "https://www.bilibili.com/video/BV1zmYP6aEdH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:126.1万 | 弹幕:9.2万 | UP主:百火哥斯拉",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1260991,
+      "original_comments": 91838
+    },
+    {
+      "title": "高市早苗真没啥面",
+      "url": "https://www.bilibili.com/video/BV1oFaZ6gEtm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:101.5万 | 弹幕:1.2万 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1015038,
+      "original_comments": 12217
+    },
+    {
+      "title": "《下一个是谁》第七季（5）",
+      "url": "https://www.bilibili.com/video/BV1cAYP6YEvj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:101.5万 | 弹幕:7.4万 | UP主:在下哲别",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1014928,
+      "original_comments": 73548
+    },
+    {
+      "title": "章鱼哥，快乐都去哪了呢？",
+      "url": "https://www.bilibili.com/video/BV1mjad6DEK1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.3万 | 弹幕:744 | UP主:就叫阿路8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 723195,
+      "original_comments": 744
+    },
+    {
+      "title": "𝒫υׁׅꪀׁׅᝯׁh·𝒞ɑׁׅ֮tׁׅ",
+      "url": "https://www.bilibili.com/video/BV1xqa36bE1s",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:67.5万 | 弹幕:307 | UP主:TØm",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 675306,
+      "original_comments": 307
+    },
+    {
+      "title": "探秘日本最贵关东煮，价格差50倍！到底有多好吃？",
+      "url": "https://www.bilibili.com/video/BV11aaz6iEgN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:62.3万 | 弹幕:1176 | UP主:Meetfood觅食",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 622663,
+      "original_comments": 1176
+    },
+    {
+      "title": "忙活了20个小时炸了47盘的护：打完这单妻离子散，兄弟反目成仇了",
+      "url": "https://www.bilibili.com/video/BV1qAa56JEkn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.2万 | 弹幕:1305 | UP主:高城-三角洲",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 522033,
+      "original_comments": 1305
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第9集 坦白【8月国创】",
+      "url": "https://www.bilibili.com/video/BV11UaL6qEnA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:51.3万 | 弹幕:6495 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 512538,
+      "original_comments": 6495
+    },
+    {
+      "title": "【亿万级特效！】猫核老鼠：量子网球对决！（全程高能！）",
+      "url": "https://www.bilibili.com/video/BV1s3Yc68EJK",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.1万 | 弹幕:1231 | UP主:6老铁2333",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 490964,
+      "original_comments": 1231
+    },
+    {
+      "title": "再说一遍？这是手机？？？ 为何国产旗舰热衷于“夺舍”相机！Find X10 Pro Max影像深度评测",
+      "url": "https://www.bilibili.com/video/BV1hLaZ6cEqg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.7万 | 弹幕:429 | UP主:阿狸才不是受",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 466838,
+      "original_comments": 429
+    },
+    {
+      "title": "宙bin国庆国庆杭州游vlog",
+      "url": "https://www.bilibili.com/video/BV11Maf69Epk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:45.0万 | 弹幕:473 | UP主:0人在此",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 449692,
+      "original_comments": 473
+    },
+    {
+      "title": "根本没有这样的冰岛人... | 黄金周假期快乐！【KARDS】",
+      "url": "https://www.bilibili.com/video/BV1hEaz6LE4X",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:28.2万 | 弹幕:1115 | UP主:KARDS官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 282402,
+      "original_comments": 1115
+    },
+    {
+      "title": "【不是榨菜】击沉一艘航母有多难？",
+      "url": "https://www.bilibili.com/video/BV1eVaz6UENn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.7万 | 弹幕:517 | UP主:花岗岩工作室",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 256997,
+      "original_comments": 517
+    },
+    {
+      "title": "假期少不了脱缰凯",
+      "url": "https://www.bilibili.com/video/BV16Aar6PE6u",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.2万 | 弹幕:1631 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 161652,
+      "original_comments": 1631
+    },
+    {
+      "title": "Ori and the Will of the Wisps",
+      "url": "https://store.steampowered.com/app/1057090",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $37",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Persona 3 Reload",
+      "url": "https://store.steampowered.com/app/2161700",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $539",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $509",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt — Remastered",
+      "url": "https://store.steampowered.com/app/292030",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $674",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS III Deluxe Edition",
+      "url": "https://store.steampowered.com/app/94174",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $699",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "DARK SOULS™: REMASTERED",
+      "url": "https://store.steampowered.com/app/570940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Last of Us™ Part II Remastered",
+      "url": "https://store.steampowered.com/app/2531310",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $1004",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1542,
+      "original_comments": 1021
+    },
+    {
+      "title": "Nivalis Nights",
+      "url": "https://store.steampowered.com/app/1488490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $531",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "A brief history of the Bloomberg terminal",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 341,
+      "original_comments": 144
+    },
+    {
+      "title": "Why the Bronze Age Collapsed",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 331,
+      "original_comments": 218
+    },
+    {
+      "title": "The last time my family was replaced by technology",
+      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 296,
+      "original_comments": 577
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 289,
+      "original_comments": 61
+    },
+    {
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 269,
+      "original_comments": 132
+    },
+    {
+      "title": "Before pixels: Modular industrial dashboards",
+      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 242,
+      "original_comments": 43
+    },
+    {
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 226,
+      "original_comments": 89
+    },
+    {
+      "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+      "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222,
+      "original_comments": 101
+    },
+    {
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 217,
+      "original_comments": 215
+    },
+    {
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 204,
+      "original_comments": 88
+    },
+    {
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 187,
+      "original_comments": 94
+    },
+    {
+      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "url": "https://ledge.sh",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 182,
+      "original_comments": 83
+    },
+    {
+      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "url": "https://bookofshapes.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 181,
+      "original_comments": 13
+    },
+    {
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 179,
+      "original_comments": 88
+    },
+    {
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 167,
+      "original_comments": 10
+    },
+    {
+      "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 138,
+      "original_comments": 84
+    },
+    {
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 137,
+      "original_comments": 157
+    },
+    {
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 106,
+      "original_comments": 55
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 102,
+      "original_comments": 33
+    },
+    {
+      "title": "ACE COMBAT 8: WINGS OF THEVE",
+      "url": "https://store.steampowered.com/app/2288340",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1999",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gears of War: E-Day",
+      "url": "https://store.steampowered.com/app/3010850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$2299",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 774.32 📉-4.14(-0.53%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1310887,
+      "summary": "今日 774.32 | 📉 -4.14(-0.53%) | 最高 778.79 最低 774.05 | 连涨 -4天 | 成交额 ¥5407万 | 成交量 1310887件 | 📈1930 ➡2264 📉3300"
+    }
+  ]
+}
