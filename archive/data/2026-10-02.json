@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-02",
+  "commentary": "今天这B站热门榜，我一看就笑了。特朗普卖黄金手机，结果是中国制造，这剧情比《甄嬛传》还反转。你说他天天喊“美国优先”，结果手机壳上印着“Made in China”，这不叫生意，这叫行为艺术。建议下次直接贴牌“川建国”，粉丝一人一台，MAGA变MADE，闭环了。\n\n再说CSGO大盘，连涨六天终于绿了，跌了0.4%，成交额还五千多万。兄弟们，这不是大盘，这是心电图。你以为在抄底，其实在抄家。玩饰品的别哭，你不是在理财，你是在给G胖交信仰税。\n\n还有那个《你带你儿子忆苦思甜》，270万播放。我点进去一看，好家伙，儿子吃个野菜跟受刑似的，爹在旁边笑得像中了彩票。这不叫忆苦思甜，这叫“爹的快乐建立在儿子的痛苦上”。建议下次拍《你带你爹蹦迪》，让老头也体验一下什么叫时代暴击。\n\n今日金句：你以为你在冲浪，其实你只是浪花里的一粒沙，还是被算法冲上岸的那种。",
+  "news": [
+    {
+      "title": "《你带你儿子忆苦思甜》",
+      "url": "https://www.bilibili.com/video/BV1cKar6AEHH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:270.2万 | 弹幕:811 | UP主:嘞是唐孃孃",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2701567,
+      "original_comments": 811
+    },
+    {
+      "title": "如何在家自制脆皮炸牛奶？",
+      "url": "https://www.bilibili.com/video/BV19TaZ6vEMe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:189.0万 | 弹幕:819 | UP主:华南有志弹涂鱼",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1889951,
+      "original_comments": 819
+    },
+    {
+      "title": "你离开的事实原创高至豪偶遇粉丝，于是为她演奏一曲",
+      "url": "https://www.bilibili.com/video/BV1wAYP6YEif",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:185.7万 | 弹幕:1386 | UP主:Pianoboy高至豪",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1857101,
+      "original_comments": 1386
+    },
+    {
+      "title": "“没有人可以回到过去 但可以现在开始”",
+      "url": "https://www.bilibili.com/video/BV1oLYP6WEKx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:177.8万 | 弹幕:576 | UP主:北古橘右京",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1777698,
+      "original_comments": 576
+    },
+    {
+      "title": "【纪录片】生命奇观2 03 川西山地",
+      "url": "https://www.bilibili.com/video/BV1g9aW6TEB4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:161.2万 | 弹幕:2338 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1611958,
+      "original_comments": 2338
+    },
+    {
+      "title": "半个包子的真相",
+      "url": "https://www.bilibili.com/video/BV1kyYP6eEex",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:149.3万 | 弹幕:82 | UP主:贾大萌本人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1492691,
+      "original_comments": 82
+    },
+    {
+      "title": "假如地球online有幕后玩家",
+      "url": "https://www.bilibili.com/video/BV1Q6aB63Egh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:120.8万 | 弹幕:354 | UP主:本妙智勇双全",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1208353,
+      "original_comments": 354
+    },
+    {
+      "title": "24位博主为粉丝争夺30万元！",
+      "url": "https://www.bilibili.com/video/BV15far6dEjT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:102.7万 | 弹幕:1.2万 | UP主:飓多多StormCrew",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1027144,
+      "original_comments": 11738
+    },
+    {
+      "title": "美国总统特朗普！卖的黄金手机！到底什么样？竟然中国制造？",
+      "url": "https://www.bilibili.com/video/BV1kYaZ6UE4k",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:96.0万 | 弹幕:6496 | UP主:HOLA小测佬",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 959996,
+      "original_comments": 6496
+    },
+    {
+      "title": "逻辑折叠深度解析！华为Mate 90系列韬定律芯片有多强？",
+      "url": "https://www.bilibili.com/video/BV1heam6TExz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:83.9万 | 弹幕:9359 | UP主:极客湾Geekerwan",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 839363,
+      "original_comments": 9359
+    },
+    {
+      "title": "2026KPL年度总决赛主题曲《我们在场》",
+      "url": "https://www.bilibili.com/video/BV1zaaH6CEpc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.4万 | 弹幕:265 | UP主:哔哩哔哩王者荣耀赛事",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 724242,
+      "original_comments": 265
+    },
+    {
+      "title": "“战争不会因为我们离得远一点就忘记这里” - 第1章—失超丨写实真人机甲原创IP《合金战役》",
+      "url": "https://www.bilibili.com/video/BV19aaB62EPu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.1万 | 弹幕:1404 | UP主:给我一个镜头V",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 581200,
+      "original_comments": 1404
+    },
+    {
+      "title": "《原神》剧情PV-「燕归来」",
+      "url": "https://www.bilibili.com/video/BV1cQap6UEr2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:53.7万 | 弹幕:1652 | UP主:原神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 537324,
+      "original_comments": 1652
+    },
+    {
+      "title": "“遗憾不一定总是贯穿人生始终.”【Shadow of the sun】【不遗憾の小曲】",
+      "url": "https://www.bilibili.com/video/BV1rtaH6LExD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:51.9万 | 弹幕:379 | UP主:早睡起大王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 519159,
+      "original_comments": 379
+    },
+    {
+      "title": "【宋雨琦】 ‘I Like You’ Official Music Video",
+      "url": "https://www.bilibili.com/video/BV1veaJ6YE1x",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.8万 | 弹幕:3820 | UP主:i-dle_official",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 408256,
+      "original_comments": 3820
+    },
+    {
+      "title": "ピノキオピー - えねみぃ feat. 初音ミク・重音テト",
+      "url": "https://www.bilibili.com/video/BV1UGa961Ejt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:39.0万 | 弹幕:1.9万 | UP主:ピノキオピー_official",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 389658,
+      "original_comments": 19255
+    },
+    {
+      "title": "世上无灵丹妙药，谨防老年人诈骗",
+      "url": "https://www.bilibili.com/video/BV1Eqa26jEhm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.1万 | 弹幕:1702 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 311227,
+      "original_comments": 1702
+    },
+    {
+      "title": "我加入iG战队了？？？",
+      "url": "https://www.bilibili.com/video/BV1YvaS65EVD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.7万 | 弹幕:1545 | UP主:雨哥到处跑",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 227263,
+      "original_comments": 1545
+    },
+    {
+      "title": "危险！胃险？薇险！【手搓动画大赛】",
+      "url": "https://www.bilibili.com/video/BV1uTak6nEsV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:18.8万 | 弹幕:139 | UP主:Far远东",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 188238,
+      "original_comments": 139
+    },
+    {
+      "title": "挑战负债500元城市生存（7-8）",
+      "url": "https://www.bilibili.com/video/BV171aU6UEXx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:7.7万 | 弹幕:408 | UP主:杀心成焚酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 76850,
+      "original_comments": 408
+    },
+    {
+      "title": "The Outlast Trials",
+      "url": "https://store.steampowered.com/app/1304930",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $14",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-71% | $31",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7200,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $89",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "It Takes Two",
+      "url": "https://store.steampowered.com/app/1426210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $164",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $74",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Stardew Valley",
+      "url": "https://store.steampowered.com/app/413150",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $34",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $209",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $62",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1526,
+      "original_comments": 503
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 593,
+      "original_comments": 165
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 563,
+      "original_comments": 203
+    },
+    {
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 470,
+      "original_comments": 437
+    },
+    {
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 443,
+      "original_comments": 59
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 436,
+      "original_comments": 304
+    },
+    {
+      "title": "RIP, vector database",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 358,
+      "original_comments": 100
+    },
+    {
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 351,
+      "original_comments": 142
+    },
+    {
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 340,
+      "original_comments": 77
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "url": "https://www.deepseek.com/en/harness/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 328,
+      "original_comments": 166
+    },
+    {
+      "title": "Cloudflare K2: serverless event streams",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 265,
+      "original_comments": 103
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 263,
+      "original_comments": 154
+    },
+    {
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 257,
+      "original_comments": 50
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 231,
+      "original_comments": 228
+    },
+    {
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 225,
+      "original_comments": 189
+    },
+    {
+      "title": "How Singapore's government-run dating service works",
+      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222,
+      "original_comments": 229
+    },
+    {
+      "title": "Shimano Bicycle Museum Review",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 214,
+      "original_comments": 38
+    },
+    {
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 186,
+      "original_comments": 59
+    },
+    {
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 186,
+      "original_comments": 110
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 771.08 📉-3.07(-0.4%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1308462,
+      "summary": "今日 771.08 | 📉 -3.07(-0.4%) | 最高 774.13 最低 770.58 | 连涨 -6天 | 成交额 ¥5354万 | 成交量 1308462件 | 📈1686 ➡2367 📉3441"
+    }
+  ]
+}
