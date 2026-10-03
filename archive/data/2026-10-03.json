@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-03",
+  "commentary": "今天这新闻列表一看，我差点以为我手机中病毒了。CSGO大盘涨了0.28%，成交额4800万，评论区估计又是一片“加仓！加仓！”——兄弟们，你们这是在炒饰品还是在炒A股啊？连涨一天就敢喊牛市，这心态比我在菜市场抢特价鸡蛋还激进。\n\n但真正让我绷不住的是B站那两条。一边是“中国男子4秒13枪反击枪匪”，一边是“太平洋赶海发现百斤巨型砗磲”。好家伙，一个在豪宅里玩真人CS，一个在海底搞生物奇迹，你们这届网友的日常比好莱坞编剧还敢写。我就想问，那砗磲吃起来什么味道？是不是跟“牢底坐穿”一个味儿？毕竟这玩意儿可是保护动物，OK哥这波要么是科普，要么是自首。\n\n还有那个“老师竟然是二次元”，播放量153万。我替老师们说句话：上课戴假发、下课追番，工资没涨，人设先崩了。这年头当老师不光要会教书，还得会演《间谍过家家》。\n\n今日金句：**别人的生活是枪战、赶海、修仙，我的生活是看别人枪战、赶海、修仙，然后给CSGO大盘贡献那4800万里的三块五。**",
+  "news": [
+    {
+      "title": "你敢信？我在太平洋赶海竟然发现上百斤重的巨型砗磲！这么大的家伙，吃起来什么味道？",
+      "url": "https://www.bilibili.com/video/BV1zTar6hEZo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:519.4万 | 弹幕:6729 | UP主:OK哥环球探海记",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5194331,
+      "original_comments": 6729
+    },
+    {
+      "title": "4名枪匪闯入豪宅，中国男子4秒13枪疯狂反击！",
+      "url": "https://www.bilibili.com/video/BV18Bam6eEBd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:475.2万 | 弹幕:1.4万 | UP主:红蓝守护者",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4752224,
+      "original_comments": 13685
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第18集【总第194集】",
+      "url": "https://www.bilibili.com/video/BV1DxYP62EF3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:399.9万 | 弹幕:5.9万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3998717,
+      "original_comments": 58620
+    },
+    {
+      "title": "中国同桌会飞（同桌请假就这么耍起",
+      "url": "https://www.bilibili.com/video/BV1vjar6sEBc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:309.3万 | 弹幕:743 | UP主:乐天乔宇派",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3092897,
+      "original_comments": 743
+    },
+    {
+      "title": "【纪录片】威尔史密斯的极地纵横 01 南极探险",
+      "url": "https://www.bilibili.com/video/BV1wUao6UEyD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:175.1万 | 弹幕:135 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1751394,
+      "original_comments": 135
+    },
+    {
+      "title": "我的老师竟然是二次元！！",
+      "url": "https://www.bilibili.com/video/BV1qraZ6GEMg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:153.8万 | 弹幕:1242 | UP主:非自然苏打",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1537723,
+      "original_comments": 1242
+    },
+    {
+      "title": "如何用5分钟让听日语歌的和唱中文歌的都沉默☝️",
+      "url": "https://www.bilibili.com/video/BV1Wqaz6PEkZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:144.6万 | 弹幕:2685 | UP主:吹拉弹唱慕星银",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1446014,
+      "original_comments": 2685
+    },
+    {
+      "title": "ピノキオピー - えねみぃ feat. 初音ミク・重音テト",
+      "url": "https://www.bilibili.com/video/BV1UGa961Ejt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:134.8万 | 弹幕:3.3万 | UP主:ピノキオピー_official",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1348041,
+      "original_comments": 33251
+    },
+    {
+      "title": "可恶的蚊子你也有今天",
+      "url": "https://www.bilibili.com/video/BV1GBa66HEC7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:119.2万 | 弹幕:215 | UP主:胡凯的日记本",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1192408,
+      "original_comments": 215
+    },
+    {
+      "title": "我记录下来了我的十年，祝自己19岁生日快乐",
+      "url": "https://www.bilibili.com/video/BV1faak6AECm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:95.1万 | 弹幕:1866 | UP主:影月喔",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 951105,
+      "original_comments": 1866
+    },
+    {
+      "title": "《霸凌の意志》",
+      "url": "https://www.bilibili.com/video/BV1KmHb6JEFS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:94.9万 | 弹幕:578 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 949494,
+      "original_comments": 578
+    },
+    {
+      "title": "【功夫女足】至尊无敌杯开赛！",
+      "url": "https://www.bilibili.com/video/BV1c8aW6XEzz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.0万 | 弹幕:9812 | UP主:哔哩哔哩电影",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 649622,
+      "original_comments": 9812
+    },
+    {
+      "title": "从今往后，我只吃小孩菜",
+      "url": "https://www.bilibili.com/video/BV1Rna36gEj9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:42.0万 | 弹幕:3457 | UP主:小傲想睡觉",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 419735,
+      "original_comments": 3457
+    },
+    {
+      "title": "我记得课本里的新疆，不是这样的啊？？",
+      "url": "https://www.bilibili.com/video/BV1VCHY6BEcn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.0万 | 弹幕:825 | UP主:盗月社食遇记",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 360417,
+      "original_comments": 825
+    },
+    {
+      "title": "人狐情未了！谁不想要一个狐仙女友啊！",
+      "url": "https://www.bilibili.com/video/BV1hFHh6FE41",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.6万 | 弹幕:400 | UP主:NZ75鸽",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 315605,
+      "original_comments": 400
+    },
+    {
+      "title": "旅游第二天就车祸了？？【出发吧少年 02】",
+      "url": "https://www.bilibili.com/video/BV1bWaD6rE1u",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.2万 | 弹幕:7088 | UP主:记录生活的蛋黄派",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 311799,
+      "original_comments": 7088
+    },
+    {
+      "title": "勇夺季军！王钰栋宇宙级世界波+伤退，胡荷韬破门，李昊神扑，U23国足4比3乌兹勇夺亚运铜牌！",
+      "url": "https://www.bilibili.com/video/BV1qQHa6VEAs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.9万 | 弹幕:895 | UP主:巅峰球迷汇",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 299275,
+      "original_comments": 895
+    },
+    {
+      "title": "当你穿进老钱班36",
+      "url": "https://www.bilibili.com/video/BV1wkHa6nEpn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.4万 | 弹幕:398 | UP主:侯绿萝",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 254338,
+      "original_comments": 398
+    },
+    {
+      "title": "【2026·10月电脑配置推荐】爆肝一个月！教你装机不花冤枉钱！学生党直接抄作业，从2千-5万预算，共计28套台式电脑配置，小白必看攻略！电脑装机！建议收藏！",
+      "url": "https://www.bilibili.com/video/BV18PHh64Er2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:12.9万 | 弹幕:132 | UP主:古一搞机研究所",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 129317,
+      "original_comments": 132
+    },
+    {
+      "title": "元婴终极之战！藏了多少细节？《凡人修仙传》194逐帧解析",
+      "url": "https://www.bilibili.com/video/BV1t5Hv6KENo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:11.9万 | 弹幕:718 | UP主:利维坦mY",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 118608,
+      "original_comments": 718
+    },
+    {
+      "title": "The Outlast Trials",
+      "url": "https://store.steampowered.com/app/1304930",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $74",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "url": "https://store.steampowered.com/app/489830",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $64",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $649",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $389",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $419",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $770",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $674",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $98",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $629",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $560",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 685,
+      "original_comments": 326
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 524,
+      "original_comments": 120
+    },
+    {
+      "title": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 464,
+      "original_comments": 285
+    },
+    {
+      "title": "FLUX 3 Image",
+      "url": "https://bfl.ai/models/flux-3-image",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 369,
+      "original_comments": 80
+    },
+    {
+      "title": "Extra Big Ass Intelligence",
+      "url": "https://www.extrabigassintelligence.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 341,
+      "original_comments": 72
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 315,
+      "original_comments": 60
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 307,
+      "original_comments": 97
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 301,
+      "original_comments": 279
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 300,
+      "original_comments": 84
+    },
+    {
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 291,
+      "original_comments": 162
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 282,
+      "original_comments": 111
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 278,
+      "original_comments": 71
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 262,
+      "original_comments": 92
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 240,
+      "original_comments": 161
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 237,
+      "original_comments": 114
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 226,
+      "original_comments": 154
+    },
+    {
+      "title": "Muse Gadgets",
+      "url": "https://gadgets.muse.ai",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 210,
+      "original_comments": 92
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 179,
+      "original_comments": 139
+    },
+    {
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 140,
+      "original_comments": 40
+    },
+    {
+      "title": "Cloudflare OHTTP gateway",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 109,
+      "original_comments": 36
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 773.31 📈+2.14(+0.28%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1293200,
+      "summary": "今日 773.31 | 📈 +2.14(+0.28%) | 最高 773.56 最低 771.11 | 连涨 1天 | 成交额 ¥4802万 | 成交量 1293200件 | 📈2011 ➡2512 📉2971"
+    }
+  ]
+}
