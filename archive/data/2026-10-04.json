@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-04",
+  "commentary": "今天这B站热榜，我愿称之为“当代网友精神状态大赏”。先看那条《舌尖上的国庆高速堵车》，209万播放，弹幕里全是“前面那哥们儿下车打羽毛球了”“我在后备箱煮泡面”。这哪是堵车啊，这是人类早期迁徙行为艺术展，免费观看，堵够8小时还送膀胱局体验卡。然后《调休连续上学12天》，127万播放，标题就是一部恐怖片。调休这玩意儿，发明出来就是为了让你在连续搬砖12天后，突然忘记自己姓什么。最绝的是《你管这叫留守老人？》，139万播放，点进去一看，好家伙，大爷大妈跳广场舞比我都利索，留守的是我这种没抢到票的社畜吧？\n\n至于CSGO大盘跌了0.57%，成交额4600万，我就一句：饰品市场比A股还刺激，你永远不知道明天和崩盘哪个先来。但话说回来，能一边看《牧神记》一边盯盘的人，心理素质早就在缅北炼狱里练出来了。\n\n今日金句：调休是把你的假期切成碎片，再让你用命拼回去——这波啊，这波是“假”期。",
+  "news": [
+    {
+      "title": "可恶的蚊子你也有今天",
+      "url": "https://www.bilibili.com/video/BV1GBa66HEC7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:307.4万 | 弹幕:644 | UP主:胡凯的日记本",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3074078,
+      "original_comments": 644
+    },
+    {
+      "title": "华为Mate 90 RS 非凡大师 | 寻常处，见非凡",
+      "url": "https://www.bilibili.com/video/BV1y6YP6TEwP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:277.7万 | 弹幕:124 | UP主:华为终端",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2776675,
+      "original_comments": 124
+    },
+    {
+      "title": "“这将是一场漫长的别离，在你再次见到我之前.”【Never see me again】【遗忘の小曲】",
+      "url": "https://www.bilibili.com/video/BV1ztHY6UEDv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:247.3万 | 弹幕:863 | UP主:早睡起大王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2472829,
+      "original_comments": 863
+    },
+    {
+      "title": "《舌尖上的国庆高速堵车》",
+      "url": "https://www.bilibili.com/video/BV1Nkao6XEjd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:209.2万 | 弹幕:1401 | UP主:人类早期纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2092114,
+      "original_comments": 1401
+    },
+    {
+      "title": "【独家】牧神记 第103集 温酒",
+      "url": "https://www.bilibili.com/video/BV1AbaZ6HEfF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:170.5万 | 弹幕:5920 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1704833,
+      "original_comments": 5920
+    },
+    {
+      "title": "自学动画 爆肝俩月 自创一集《海绵宝宝》【手搓动画大赛】",
+      "url": "https://www.bilibili.com/video/BV1TXHY6aETi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:148.7万 | 弹幕:1240 | UP主:小蒙古包卓拉",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1487244,
+      "original_comments": 1240
+    },
+    {
+      "title": "你管这叫留守老人？",
+      "url": "https://www.bilibili.com/video/BV1MSHY6eEq9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:139.0万 | 弹幕:1258 | UP主:咪克菌",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1390320,
+      "original_comments": 1258
+    },
+    {
+      "title": "调休连续上学12天，这是他身体发生的变化",
+      "url": "https://www.bilibili.com/video/BV1wha26nEtn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:127.9万 | 弹幕:1107 | UP主:想设个名字就这么难吗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1279305,
+      "original_comments": 1107
+    },
+    {
+      "title": "看完不笑的可以确诊为抑郁了",
+      "url": "https://www.bilibili.com/video/BV1YNHv6GE2y",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:93.8万 | 弹幕:2443 | UP主:乔梦妍u",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 937987,
+      "original_comments": 2443
+    },
+    {
+      "title": "现在再看，这些话全都是作者对妹妹的思念",
+      "url": "https://www.bilibili.com/video/BV1iWa16KEwh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:87.8万 | 弹幕:305 | UP主:前前前世的陌生人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 877720,
+      "original_comments": 305
+    },
+    {
+      "title": "【剧情】终极一班4（2016）01【曾沛慈 / 罗宏正】",
+      "url": "https://www.bilibili.com/video/BV1neaA6bEtb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:87.5万 | 弹幕:421 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 874546,
+      "original_comments": 421
+    },
+    {
+      "title": "【抢先版】刑满释放遇女友，我被哄骗踏入缅北炼狱！！！",
+      "url": "https://www.bilibili.com/video/BV1VVaU66EwN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:69.7万 | 弹幕:379 | UP主:云间贩暖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 696557,
+      "original_comments": 379
+    },
+    {
+      "title": "特厨探店｜小李：他这个位置，还能有生意，说明味道真不错！",
+      "url": "https://www.bilibili.com/video/BV16QHi6fESx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:60.9万 | 弹幕:782 | UP主:特厨隋坡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 609274,
+      "original_comments": 782
+    },
+    {
+      "title": "Re:佩恩从零开始的异世界生活！！！【水门篇 下 】",
+      "url": "https://www.bilibili.com/video/BV126Hi6TEAg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.0万 | 弹幕:1988 | UP主:-夏秋冬-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 579761,
+      "original_comments": 1988
+    },
+    {
+      "title": "亚连有点强度都在斩杀上了",
+      "url": "https://www.bilibili.com/video/BV1e3Hz69E5v",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.1万 | 弹幕:5331 | UP主:流夜一动不动",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 501472,
+      "original_comments": 5331
+    },
+    {
+      "title": "《鸣潮》剧情动画 | 朝月喜事",
+      "url": "https://www.bilibili.com/video/BV1bEHq63EB6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:45.1万 | 弹幕:815 | UP主:鸣潮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 451283,
+      "original_comments": 815
+    },
+    {
+      "title": "好歌",
+      "url": "https://www.bilibili.com/video/BV1gLHj6XEyy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.5万 | 弹幕:2081 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 274998,
+      "original_comments": 2081
+    },
+    {
+      "title": "评分4.7！神人多！神人神！神人又多又神！MewType梦限大完结吐槽！",
+      "url": "https://www.bilibili.com/video/BV1mMHk6WEyS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:20.7万 | 弹幕:929 | UP主:瓶子君152",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 206770,
+      "original_comments": 929
+    },
+    {
+      "title": "Mili - Rendezvous（密会）【边狱巴士】",
+      "url": "https://www.bilibili.com/video/BV1yRH66VEHm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:17.5万 | 弹幕:2805 | UP主:ProjectMili",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 174932,
+      "original_comments": 2805
+    },
+    {
+      "title": "用鳃呼吸吧沃雅妮莎！",
+      "url": "https://www.bilibili.com/video/BV1c6Hr6CEmk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:15.4万 | 弹幕:309 | UP主:鼎芸",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 153600,
+      "original_comments": 309
+    },
+    {
+      "title": "The Outlast Trials",
+      "url": "https://store.steampowered.com/app/1304930",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $14",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Ori and the Will of the Wisps",
+      "url": "https://store.steampowered.com/app/1057090",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $89",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "It Takes Two",
+      "url": "https://store.steampowered.com/app/1426210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $164",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $74",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Stardew Valley",
+      "url": "https://store.steampowered.com/app/413150",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $34",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $209",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $62",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Tell HN: Bob Cringely has died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 583,
+      "original_comments": 113
+    },
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 500,
+      "original_comments": 257
+    },
+    {
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 347,
+      "original_comments": 60
+    },
+    {
+      "title": "So you think you could be an electrician?",
+      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 336,
+      "original_comments": 261
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 315,
+      "original_comments": 74
+    },
+    {
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 310,
+      "original_comments": 548
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 243,
+      "original_comments": 114
+    },
+    {
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 239,
+      "original_comments": 132
+    },
+    {
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 213,
+      "original_comments": 57
+    },
+    {
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 209,
+      "original_comments": 314
+    },
+    {
+      "title": "Why don't more developers “use the platform”?",
+      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 188,
+      "original_comments": 169
+    },
+    {
+      "title": "FTL: A new operating system for clouds",
+      "url": "https://ftl-os.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 185,
+      "original_comments": 74
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 181,
+      "original_comments": 81
+    },
+    {
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 160,
+      "original_comments": 137
+    },
+    {
+      "title": "City building games have a Soul Problem pt.2",
+      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 149,
+      "original_comments": 143
+    },
+    {
+      "title": "Religious scholars met with Anthropic",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 117,
+      "original_comments": 250
+    },
+    {
+      "title": "We're working on a new RuneScape MMO",
+      "url": "https://play.runescape.com/4",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 109,
+      "original_comments": 53
+    },
+    {
+      "title": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$248",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Corporate Slave：Quiet Quitting",
+      "url": "https://store.steampowered.com/app/5076420",
+      "source": "Steam",
+      "score": 5,
+      "summary": "Steam 热销游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 769.21 📉-4.39(-0.57%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1237883,
+      "summary": "今日 769.21 | 📉 -4.39(-0.57%) | 最高 773.97 最低 769.11 | 连涨 -1天 | 成交额 ¥4601万 | 成交量 1237883件 | 📈1640 ➡2428 📉3426"
+    }
+  ]
+}
