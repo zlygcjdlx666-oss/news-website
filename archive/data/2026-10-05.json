@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-05",
+  "commentary": "今天这盘面，CSGO大盘760.51，跌了0.42，连涨三天之后终于歇了口气。成交额67万，成交量32907件——兄弟们，这量能搁这儿磨洋工呢？涨不动也跌不狠，像极了周五下午摸鱼的你，老板一走就想躺平。饰品市场现在就是个围城，里面的人想解套，外面的人怕接盘，我劝各位别把游戏玩成理财，你盯的是K线，人家盯的是你本金。\n\n再说B站这热搜榜，我直接笑出声。一个“看这个视频我不烧心”304万播放，紧接着“全站最烧心版本”218万——好家伙，你们搁这儿玩量子纠缠呢？烧心不烧心全靠标题党说了算。还有那《诡异的她》273万播放，弹幕5340，说明什么？说明现在观众就爱一边捂眼睛一边从指缝里偷看，又怂又爱玩，跟股民抄底的心态一模一样。\n\n最让我绷不住的是“黄仁勋世界巡演AI MV大赛”。老黄现在真是科技圈顶流，皮衣一穿，股价一涨，连B站鬼畜区都得给他让道。这说明什么？算力霸权已经渗透到二次元了，你躲得过显卡涨价，躲不过AI给你整活。\n\n今日金句：**这年头，连“烧心”都能做成两个爆款，只有你的钱包在默默心梗。**",
+  "news": [
+    {
+      "title": "看这个视频我不烧心！",
+      "url": "https://www.bilibili.com/video/BV1WSHL66EdZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:304.8万 | 弹幕:2316 | UP主:呱唧菌",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3047618,
+      "original_comments": 2316
+    },
+    {
+      "title": "《诡异的她》第一季全集·纯享",
+      "url": "https://www.bilibili.com/video/BV1c3HL6qEyq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:273.8万 | 弹幕:5340 | UP主:编剧六一",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2737747,
+      "original_comments": 5340
+    },
+    {
+      "title": "全 站 最 烧 心 版 本！！！",
+      "url": "https://www.bilibili.com/video/BV1wiHj6uEsr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:218.4万 | 弹幕:389 | UP主:茶咩cc",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2184224,
+      "original_comments": 389
+    },
+    {
+      "title": "【春物语】我的婚后生活果然有问题 第1话：于是，结婚半年的两人还没叫过对方的名字。",
+      "url": "https://www.bilibili.com/video/BV14sHj62EzS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:161.7万 | 弹幕:892 | UP主:冰尖の霜语",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1616967,
+      "original_comments": 892
+    },
+    {
+      "title": "广州街唱《万疆》唱到一半，李玉刚本人来了？！",
+      "url": "https://www.bilibili.com/video/BV1TWHj67ESg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:141.1万 | 弹幕:1529 | UP主:Vaniah维",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1411380,
+      "original_comments": 1529
+    },
+    {
+      "title": "《我上哪给你整假的》",
+      "url": "https://www.bilibili.com/video/BV1LNHj68EMg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:137.4万 | 弹幕:1120 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1374045,
+      "original_comments": 1120
+    },
+    {
+      "title": "惊惊惊惊惊惊惊惊了",
+      "url": "https://www.bilibili.com/video/BV1BJao6BE71",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:134.7万 | 弹幕:1.5万 | UP主:小潮院长",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1347354,
+      "original_comments": 15293
+    },
+    {
+      "title": "印度军事这次支棱起来了",
+      "url": "https://www.bilibili.com/video/BV11bHE6QEx2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:110.9万 | 弹幕:5234 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1109047,
+      "original_comments": 5234
+    },
+    {
+      "title": "⚡️黄仁勋 世界巡演⚡️【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1VRHr6AEZ6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:106.3万 | 弹幕:1006 | UP主:王与也行",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1062791,
+      "original_comments": 1006
+    },
+    {
+      "title": "Windows XP最经典的开机音乐，是谁写出来的？【梗曲背后】",
+      "url": "https://www.bilibili.com/video/BV162a86NE2U",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:106.0万 | 弹幕:713 | UP主:薩尔瓦多",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1060355,
+      "original_comments": 713
+    },
+    {
+      "title": "【抢先看】重回2002，永不空军的鱼竿被军方收编？军方进仓库一看：激光炮手电、隐身涂层、全球降雨弹……你管这叫鱼竿？",
+      "url": "https://www.bilibili.com/video/BV1cwHa6mEPH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.6万 | 弹幕:1203 | UP主:夫仔漫馆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1045929,
+      "original_comments": 1203
+    },
+    {
+      "title": "你吃饭老跟我闺蜜互动什么呀？",
+      "url": "https://www.bilibili.com/video/BV1hYHL6HEku",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:90.7万 | 弹幕:638 | UP主:小余皮得一",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 906867,
+      "original_comments": 638
+    },
+    {
+      "title": "小孩菜实力排行",
+      "url": "https://www.bilibili.com/video/BV1sZHH6bE3o",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:90.0万 | 弹幕:1356 | UP主:东方日出哇",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 899770,
+      "original_comments": 1356
+    },
+    {
+      "title": "《AIZO》司凤版😍乙骨听完整个人都通透了，轻松新宿一串二【AI音乐】",
+      "url": "https://www.bilibili.com/video/BV1bzHL67E6u",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:75.8万 | 弹幕:709 | UP主:69岁牢二次元",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 758016,
+      "original_comments": 709
+    },
+    {
+      "title": "大学生挑战国庆7天一个人爆改包浆宿舍",
+      "url": "https://www.bilibili.com/video/BV1eKHq6JEcg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:70.4万 | 弹幕:1274 | UP主:田螺王子的生活",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 703569,
+      "original_comments": 1274
+    },
+    {
+      "title": "敢为人先，向前走，心就属于自己",
+      "url": "https://www.bilibili.com/video/BV1ZMHE6KEwn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:68.4万 | 弹幕:340 | UP主:三角洲-安澜",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 683664,
+      "original_comments": 340
+    },
+    {
+      "title": "【哥布林故事总集篇】愿你也能像哥布林一样，开启逆袭翻盘的旅途",
+      "url": "https://www.bilibili.com/video/BV1fnHL68EPT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.0万 | 弹幕:3380 | UP主:沙口村熊老师",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 649878,
+      "original_comments": 3380
+    },
+    {
+      "title": "为什么别人的裤子穿的就是比你好看？",
+      "url": "https://www.bilibili.com/video/BV1H1aC6VEbA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.5万 | 弹幕:123 | UP主:痴五安chammy",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 364693,
+      "original_comments": 123
+    },
+    {
+      "title": "【完整版】纪录片《缅北电诈覆灭纪实》第一集《利剑出鞘》",
+      "url": "https://www.bilibili.com/video/BV1hQHW63EMc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:35.7万 | 弹幕:3118 | UP主:央视新闻",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 356696,
+      "original_comments": 3118
+    },
+    {
+      "title": "夏果新片《山鸟》",
+      "url": "https://www.bilibili.com/video/BV16LH76rEfS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.8万 | 弹幕:646 | UP主:夏天妹妹",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 257652,
+      "original_comments": 646
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "url": "https://store.steampowered.com/app/489830",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Outlast Trials",
+      "url": "https://store.steampowered.com/app/1304930",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Project Zomboid",
+      "url": "https://store.steampowered.com/app/108600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Marvel's Spider-Man 2",
+      "url": "https://store.steampowered.com/app/2651280",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $27",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 891,
+      "original_comments": 401
+    },
+    {
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 714,
+      "original_comments": 476
+    },
+    {
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 357,
+      "original_comments": 261
+    },
+    {
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "url": "https://wieslawsoltes.github.io/VB6/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 351,
+      "original_comments": 117
+    },
+    {
+      "title": "Germany’s RobCo hits $1B valuation",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 294,
+      "original_comments": 274
+    },
+    {
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 277,
+      "original_comments": 153
+    },
+    {
+      "title": "Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 258,
+      "original_comments": 126
+    },
+    {
+      "title": "We ported the original Doom to SQL",
+      "url": "https://cedardb.com/blog/sqldoom/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 257,
+      "original_comments": 39
+    },
+    {
+      "title": "The Tao of Backup",
+      "url": "http://www.taobackup.com/index.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 227,
+      "original_comments": 89
+    },
+    {
+      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 212,
+      "original_comments": 26
+    },
+    {
+      "title": "Infidel goes wild",
+      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 169,
+      "original_comments": 36
+    },
+    {
+      "title": "Apple and a Hacker's Future",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 148,
+      "original_comments": 143
+    },
+    {
+      "title": "The technology to eradicate mosquito-borne disease exists",
+      "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 130,
+      "original_comments": 104
+    },
+    {
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 130,
+      "original_comments": 79
+    },
+    {
+      "title": "Automating my 35mm film scanning pipeline",
+      "url": "https://shannadige.com/blog/darkroom/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 111,
+      "original_comments": 77
+    },
+    {
+      "title": "Type Safe Generic Data Structures in C",
+      "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 102,
+      "original_comments": 57
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1059",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "STAR WARS: Galactic Racer™",
+      "url": "https://store.steampowered.com/app/4078430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gears of War: E-Day",
+      "url": "https://store.steampowered.com/app/3010850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 760.51 📉-0.42(-0.06%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 32907,
+      "summary": "今日 760.51 | 📉 -0.42(-0.06%) | 最高 760.95 最低 760.51 | 连涨 -3天 | 成交额 ¥67万 | 成交量 32907件 | 📈568 ➡6178 📉748"
+    }
+  ]
+}
