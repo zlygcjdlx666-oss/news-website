@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-06",
+  "commentary": "CSGO大盘连涨三天终于绷不住了，跌了0.76%就有人喊崩盘？兄弟们，755点这个位置，成交量108万件，成交额小五千万——这叫回调，不叫跳水。真正扎心的是涨跌家数：1621涨、2100平、3773跌。翻译成人话就是：指数没怎么跌，但你的库存绿得跟韭菜地似的，大商在出货，散人在接盘，经典剧本了。\n\n再说Steam这波，V社是打算把硬件全家桶直接卖成理财产品？Steam Machine 1049刀、Steam Frame 1059刀，我寻思你这价格是含了G胖的微笑税吧。转头看看游戏折扣——赛博朋克18块、老滚5只要4块、Outlast Trials 4块，一顿早餐钱能买俩3A。V社这算盘打得我在家都听见了：硬件割富哥，软件喂穷哥们，主打一个阶级分明。\n\n最后说一句，Project Zomboid打折到17块，这游戏买之前先问问自己：你到底是去玩生存，还是去体验“活了三天被一个僵尸咬死然后重开”的人生隐喻？反正我买了，我又死了，我又买了。\n\n今日金句：大盘跌了叫洗盘，硬件贵了叫信仰，只有你的钱包，是真的在裸奔。",
+  "news": [
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "STAR WARS: Galactic Racer™",
+      "url": "https://store.steampowered.com/app/4078430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gears of War: E-Day",
+      "url": "https://store.steampowered.com/app/3010850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1059",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "url": "https://store.steampowered.com/app/489830",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "The Outlast Trials",
+      "url": "https://store.steampowered.com/app/1304930",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $27",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Project Zomboid",
+      "url": "https://store.steampowered.com/app/108600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 mcpgawk",
+      "url": "https://www.producthunt.com/products/mcpgawk",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Catch MCP servers that change after you approved them\n          \n          \n            Discussion\n            |\n            Link\n    ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Brnch",
+      "url": "https://www.producthunt.com/products/brnch",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Modern code hosting for the agent era\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Cosmic AI Support Agent",
+      "url": "https://www.producthunt.com/products/cosmic",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            An AI support agent that stays in sync with your site\n          \n          \n            Discussion\n            |\n            Link\n    ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 EasyCut",
+      "url": "https://www.producthunt.com/products/easycut-2",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Edit your Claude motion videos\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 NoteWorthy",
+      "url": "https://www.producthunt.com/products/noteworthy",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Notes supercharged with AI, all on-device\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 iphone-use",
+      "url": "https://www.producthunt.com/products/iphone-use",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Let AI agents drive a real iPhone, even apps with no API\n          \n          \n            Discussion\n            |\n            Link\n ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 AUDR by Chargebee",
+      "url": "https://www.producthunt.com/products/chargebee",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Open standard for tracking agent run costs\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Aster by AsterWise",
+      "url": "https://www.producthunt.com/products/aster-by-asterwise",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Intelligent model routing for code, agents and workflows\n          \n          \n            Discussion\n            |\n            Link\n ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Extrovert",
+      "url": "https://www.producthunt.com/products/extrovert",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Run LinkedIn outreach from your agent\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 StayCharted",
+      "url": "https://www.producthunt.com/products/staycharted",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Train AI on your own categories. Text and pictures. No code\n          \n          \n            Discussion\n            |\n            Lin",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Awakado",
+      "url": "https://www.producthunt.com/products/awakado",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Keep your Mac awake while your AI agents work\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Incredible",
+      "url": "https://www.producthunt.com/products/incredible",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Vibe computing. Control your computer with your voice.\n          \n          \n            Discussion\n            |\n            Link\n   ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Willow Knowledge",
+      "url": "https://www.producthunt.com/products/willow-voice",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Your AI already knows you. Now Willow can too.\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Pheebs",
+      "url": "https://www.producthunt.com/products/pheebs",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Measure how engineers and teams actually work with AI\n          \n          \n            Discussion\n            |\n            Link\n    ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Review",
+      "url": "https://www.producthunt.com/products/review-2",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Code review on your own machine, with your own AI\n          \n          \n            Discussion\n            |\n            Link\n        ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Ranktune",
+      "url": "https://www.producthunt.com/products/ranktune",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Track AI visibility, citations, and referral traffic\n          \n          \n            Discussion\n            |\n            Link\n     ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Notch Radio",
+      "url": "https://www.producthunt.com/products/notch-radio",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Internet radio that lives in your MacBook's notch\n          \n          \n            Discussion\n            |\n            Link\n        ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 OpenBot",
+      "url": "https://www.producthunt.com/products/openbot-3",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Grok Bot alternative: free, local, open-source, multiplayer\n          \n          \n            Discussion\n            |\n            Lin",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Floani",
+      "url": "https://www.producthunt.com/products/floani",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Create, animate, and share AI-powered diagrams\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 OrgComputers",
+      "url": "https://www.producthunt.com/products/orgcomputers",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Workspace for your AI Agents\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《明日方舟：终末地》核心章节「丹青渡」版本PV",
+      "url": "https://www.bilibili.com/video/BV1NCHf6eE6j",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.7万 | 弹幕:3998 | UP主:明日方舟终末地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 817266,
+      "original_comments": 3998
+    },
+    {
+      "title": "啊啊7月新番你到底给我下了什么药啊！！【泛式】",
+      "url": "https://www.bilibili.com/video/BV1Uppw6yEMr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.1万 | 弹幕:4289 | UP主:泛式",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 370965,
+      "original_comments": 4289
+    },
+    {
+      "title": "去台湾地区管辖的马祖列岛旅行...",
+      "url": "https://www.bilibili.com/video/BV1XGpF6CEwq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:20.8万 | 弹幕:5259 | UP主:赖导AboutLai",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 208382,
+      "original_comments": 5259
+    },
+    {
+      "title": "【完整版】纪录片《缅北电诈覆灭纪实》第一集《利剑出鞘》",
+      "url": "https://www.bilibili.com/video/BV1hQHW63EMc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:118.0万 | 弹幕:5572 | UP主:央视新闻",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1179526,
+      "original_comments": 5572
+    },
+    {
+      "title": "你牛爷爷只是老了不是提不动刀了，胆敢绑架胡图图？一通电话十亿大军兵临城下！",
+      "url": "https://www.bilibili.com/video/BV16VHL6NEQe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:178.0万 | 弹幕:1663 | UP主:七七漫画社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1779835,
+      "original_comments": 1663
+    },
+    {
+      "title": "【算命TV】反封建迷信第一人重拳出击（字面意思）",
+      "url": "https://www.bilibili.com/video/BV1Hqpw6KEw7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:38.9万 | 弹幕:572 | UP主:大乾乾是顾乾宇",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 389309,
+      "original_comments": 572
+    },
+    {
+      "title": "被 解 救 的 杰 戈",
+      "url": "https://www.bilibili.com/video/BV1YtHs62EHZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:161.1万 | 弹幕:1485 | UP主:蔚蓝丶羽翼",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1611287,
+      "original_comments": 1485
+    },
+    {
+      "title": "第一次去美国，被吓到了……",
+      "url": "https://www.bilibili.com/video/BV1aZpw6DEKJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:18.6万 | 弹幕:2083 | UP主:老番茄",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 185762,
+      "original_comments": 2083
+    },
+    {
+      "title": "虽败犹荣",
+      "url": "https://www.bilibili.com/video/BV1ndHf6xEsz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:43.6万 | 弹幕:6787 | UP主:杨齐家_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 436060,
+      "original_comments": 6787
+    },
+    {
+      "title": "👊亿 拳 超 人👊",
+      "url": "https://www.bilibili.com/video/BV1yUHL63Ean",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:73.6万 | 弹幕:895 | UP主:揪着拖鞋的猫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 736398,
+      "original_comments": 895
+    },
+    {
+      "title": "先约电台深夜频道 | 心",
+      "url": "https://www.bilibili.com/video/BV1Y2ad6cEAW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:6.1万 | 弹幕:391 | UP主:鸣潮先行公约",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 60673,
+      "original_comments": 391
+    },
+    {
+      "title": "全站首个恰饭对决！百万UP主真会做视频吗？",
+      "url": "https://www.bilibili.com/video/BV1C4Hx6KEvf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.7万 | 弹幕:2663 | UP主:-LKs-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 817150,
+      "original_comments": 2663
+    },
+    {
+      "title": "夏果新片《山鸟》",
+      "url": "https://www.bilibili.com/video/BV16LH76rEfS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:164.4万 | 弹幕:1177 | UP主:夏天妹妹",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1644124,
+      "original_comments": 1177
+    },
+    {
+      "title": "99%中国人没来过的世界最高国门！千万不要随便奔跑！",
+      "url": "https://www.bilibili.com/video/BV162Ha62EQj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:195.0万 | 弹幕:1238 | UP主:十三要和拳头",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1950298,
+      "original_comments": 1238
+    },
+    {
+      "title": "⚡️黄仁勋 世界巡演⚡️【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1VRHr6AEZ6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:188.9万 | 弹幕:1603 | UP主:王与也行",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1889485,
+      "original_comments": 1603
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 755.12 📉-5.81(-0.76%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1084466,
+      "summary": "今日 755.12 | 📉 -5.81(-0.76%) | 最高 760.95 最低 755.04 | 连涨 -3天 | 成交额 ¥4948万 | 成交量 1084466件 | 📈1621 ➡2100 📉3773"
+    }
+  ]
+}
