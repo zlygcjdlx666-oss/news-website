@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-07",
+  "commentary": "好家伙，今天这新闻列表一看，我差点以为手机中病毒了。CSGO大盘连涨四天然后啪叽掉下来，747块，跌了0.95%。兄弟们，这哪是理财啊，这是心电图，还是ICU里的那种。你以为是抄底，结果底下面还有地下室，地下室下面还有十八层地狱。听磊哥一句劝，饰品这玩意儿，喜欢就买，别当股票玩，不然你连泡面都得掰成两半吃。\n\n再说B站这帮人，那叫一个精神分裂。一边是央视新闻的缅北电诈纪录片，1.7万弹幕刷得飞起，大家看得咬牙切齿，恨不得顺着网线过去给诈骗犯两拳。另一边呢？“当你意识到来不及写国庆作业时”，534万播放。好家伙，全国学生党在屏幕前疯狂点头，作业是一笔没动，视频是一个没落。还有那个“带三个姑娘相亲”，141万播放，磊哥我就想问，这到底是乡村爱情还是乡村科幻？三个姑娘同时瞎了眼？这剧情，晋江都不敢这么写。\n\n最后那个“磊哥游戏”的视频，77万播放，标题是“对面牢玩家一整局都在偷塔”。我谢谢你啊，这大数据是懂我的，知道我打游戏最恨的就是这种老六。但今天最让我破防的，还是那个“道士下山上大学”，160万播放。人家道士下山是去修仙，你上大学是去渡劫，学分就是你的天雷。\n\n今日金句：生活就像CSGO大盘，你以为触底反弹，其实它只是换个姿势继续跌。但作业不一样，你不写，它是真不给你面子。",
+  "news": [
+    {
+      "title": "当你意识到来不及写国庆作业时",
+      "url": "https://www.bilibili.com/video/BV1UqH46jEef",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:534.0万 | 弹幕:4666 | UP主:Cheems电玩屋",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5340131,
+      "original_comments": 4666
+    },
+    {
+      "title": "反向旅游 陕西铜川！这次我要把铜川拍透…",
+      "url": "https://www.bilibili.com/video/BV1QuHx6mE4e",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:214.6万 | 弹幕:1353 | UP主:杨一垚1",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2145579,
+      "original_comments": 1353
+    },
+    {
+      "title": "【完整版】纪录片《缅北电诈覆灭纪实》第一集《利剑出鞘》",
+      "url": "https://www.bilibili.com/video/BV1hQHW63EMc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:188.9万 | 弹幕:1.7万 | UP主:央视新闻",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1889233,
+      "original_comments": 16521
+    },
+    {
+      "title": "去台湾地区管辖的马祖列岛旅行...",
+      "url": "https://www.bilibili.com/video/BV1XGpF6CEwq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:181.9万 | 弹幕:1.7万 | UP主:赖导AboutLai",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1818556,
+      "original_comments": 16704
+    },
+    {
+      "title": "VCTCN冠军赛单曲《朝天门·改》【bilibili次元干杯】",
+      "url": "https://www.bilibili.com/video/BV1hvpc6mELd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:175.3万 | 弹幕:3702 | UP主:蔚蓝边际",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1753187,
+      "original_comments": 3702
+    },
+    {
+      "title": "啊啊7月新番你到底给我下了什么药啊！！【泛式】",
+      "url": "https://www.bilibili.com/video/BV1Uppw6yEMr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:160.5万 | 弹幕:8473 | UP主:泛式",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1604925,
+      "original_comments": 8473
+    },
+    {
+      "title": "当道士下山上大学",
+      "url": "https://www.bilibili.com/video/BV17Kpw64EMX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:160.0万 | 弹幕:340 | UP主:刘鸿哥哥",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600150,
+      "original_comments": 340
+    },
+    {
+      "title": "带三个姑娘相亲，现场真炸裂，这就是乡村爱情故事吗？",
+      "url": "https://www.bilibili.com/video/BV1ZfHs6sEHf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:141.1万 | 弹幕:4875 | UP主:小白的奇幻旅行",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1411291,
+      "original_comments": 4875
+    },
+    {
+      "title": "⚡️如来 三界巡演⚡️【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1v2Ht6cERH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:107.7万 | 弹幕:1151 | UP主:王与也行",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1076712,
+      "original_comments": 1151
+    },
+    {
+      "title": "【完整版】纪录片《缅北电诈覆灭纪实》第二集《犁庭扫穴》",
+      "url": "https://www.bilibili.com/video/BV1TWpF6TEqJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:102.6万 | 弹幕:3875 | UP主:央视新闻",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1026448,
+      "original_comments": 3875
+    },
+    {
+      "title": "“但凡少一个契机，两个人就不会相遇”【Night Crusing-降调】【世界线の小曲】",
+      "url": "https://www.bilibili.com/video/BV1Wupc6vEY2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:99.5万 | 弹幕:366 | UP主:早睡起大王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 994743,
+      "original_comments": 366
+    },
+    {
+      "title": "【我在现代当幽差】：赶着去投胎啊！！！！【UP动画】",
+      "url": "https://www.bilibili.com/video/BV1VRpw69E6V",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:82.7万 | 弹幕:1905 | UP主:红豆稀饭中",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 827275,
+      "original_comments": 1905
+    },
+    {
+      "title": "花1150元网购80斤无人认领盲盒，商家保证血赚不亏，真的吗",
+      "url": "https://www.bilibili.com/video/BV1dApF6SE7s",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:77.8万 | 弹幕:1151 | UP主:馋大鑫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 777872,
+      "original_comments": 1151
+    },
+    {
+      "title": "对面牢玩家一整局都在偷塔，怎么把我的活干了",
+      "url": "https://www.bilibili.com/video/BV1aSHZ66ErJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:77.5万 | 弹幕:520 | UP主:磊哥游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 774916,
+      "original_comments": 520
+    },
+    {
+      "title": "耗时一年，改造善良老人晚年，完整后续来了！",
+      "url": "https://www.bilibili.com/video/BV1pMH46MEmw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:56.5万 | 弹幕:2145 | UP主:扯淡人生-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 565083,
+      "original_comments": 2145
+    },
+    {
+      "title": "【科学史】那些年，科学家用光遗传做的鬼畜实验……",
+      "url": "https://www.bilibili.com/video/BV1aMpu6MEdc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:42.9万 | 弹幕:1204 | UP主:芳斯塔芙",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 429200,
+      "original_comments": 1204
+    },
+    {
+      "title": "《要是我能快点长大就好了》",
+      "url": "https://www.bilibili.com/video/BV1x1Hf6AE5V",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.1万 | 弹幕:470 | UP主:君临天人城",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 411083,
+      "original_comments": 470
+    },
+    {
+      "title": "【纪录片】门捷列夫很忙 第1集 门捷列夫不知道",
+      "url": "https://www.bilibili.com/video/BV1Shht6CEd1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:32.6万 | 弹幕:273 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 325873,
+      "original_comments": 273
+    },
+    {
+      "title": "「此剑为誓」——《少女前线2：追放》针角色PV公开",
+      "url": "https://www.bilibili.com/video/BV1U4pP6SEf3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:32.1万 | 弹幕:463 | UP主:少女前线2-追放制作组",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 320759,
+      "original_comments": 463
+    },
+    {
+      "title": "老师太显小",
+      "url": "https://www.bilibili.com/video/BV1xaHC6dE98",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.4万 | 弹幕:791 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 293707,
+      "original_comments": 791
+    },
+    {
+      "title": "The Outlast Trials",
+      "url": "https://store.steampowered.com/app/1304930",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "url": "https://store.steampowered.com/app/489830",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "Project Zomboid",
+      "url": "https://store.steampowered.com/app/108600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $27",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1944,
+      "original_comments": 1161
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1109,
+      "original_comments": 1181
+    },
+    {
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "url": "https://news.ycombinator.com/item?id=49982498",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 438,
+      "original_comments": 231
+    },
+    {
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 395,
+      "original_comments": 42
+    },
+    {
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 370,
+      "original_comments": 215
+    },
+    {
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 272,
+      "original_comments": 143
+    },
+    {
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 244,
+      "original_comments": 43
+    },
+    {
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 241,
+      "original_comments": 67
+    },
+    {
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 179,
+      "original_comments": 25
+    },
+    {
+      "title": "The cost of lies: A Mineserver story",
+      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 160,
+      "original_comments": 69
+    },
+    {
+      "title": "ESP32-C3 Adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 159,
+      "original_comments": 62
+    },
+    {
+      "title": "What is Codemode",
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 130,
+      "original_comments": 58
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1059",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gears of War: E-Day",
+      "url": "https://store.steampowered.com/app/3010850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "STAR WARS: Galactic Racer™",
+      "url": "https://store.steampowered.com/app/4078430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Overwatch® - Ultimate Battle Pass Bundle 2026: Season 5",
+      "url": "https://store.steampowered.com/app/5026420",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Dressmaker",
+      "url": "https://store.steampowered.com/app/4019220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 85,
+      "original_comments": 89
+    },
+    {
+      "title": "Google Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 74,
+      "original_comments": 62
+    },
+    {
+      "title": "Rust's derive often implies inline",
+      "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 71,
+      "original_comments": 10
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 747.77 📉-7.15(-0.95%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1313116,
+      "summary": "今日 747.77 | 📉 -7.15(-0.95%) | 最高 755.26 最低 747.45 | 连涨 -4天 | 成交额 ¥5311万 | 成交量 1313116件 | 📈1638 ➡1964 📉3892"
+    }
+  ]
+}
