@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-08",
+  "commentary": "CSGO大盘连跌五天，733点了兄弟们，这不是回调，这是跳楼不带降落伞。成交额5784万，成交量136万件，1488个涨、4240个跌——我就问一句，那些囤龙狙当理财的大哥还好吗？皮肤这东西，涨的时候叫数字资产，跌的时候就叫电子骨灰盒。别跟我扯什么“长期持有”，你去年买的那把蝴蝶刀现在够不够换一顿火锅？\n\nB站这边更有意思。一个支教老师半个月没洗澡，出山开房洗澡拿物资，126万播放。另一个《人类的沟通根本不需要语言》，194万播放。你品品，这两条放一起是不是黑色幽默？山里老师靠行动沟通，城里人靠弹幕沟通，一个没水洗澡，一个水得不行。\n\n还有那个“改造善良老人晚年”116万播放、3320条弹幕，说明什么？说明大家嘴上骂着短视频卖惨，身体还是很诚实地点进去了。善良是流量，但流量不一定是善良。\n\n今日金句：CSGO跌了还能等反弹，良心跌了只能等下一个热点。",
+  "news": [
+    {
+      "title": "《人类的沟通根本不需要语言》",
+      "url": "https://www.bilibili.com/video/BV1USHk6sEwY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:194.6万 | 弹幕:251 | UP主:嘞是唐孃孃",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1945658,
+      "original_comments": 251
+    },
+    {
+      "title": "《我到底要怎么救你》",
+      "url": "https://www.bilibili.com/video/BV1TZH26iEj3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:153.4万 | 弹幕:442 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1534493,
+      "original_comments": 442
+    },
+    {
+      "title": "在大山支教 学校宿舍水太小又冷，已经半个月没洗澡了，扛不住了抓住假期的尾巴出山进城开房洗澡 买菜 拿物资..",
+      "url": "https://www.bilibili.com/video/BV1aWHC6wEP5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:126.5万 | 弹幕:858 | UP主:媛媛老师77",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1264962,
+      "original_comments": 858
+    },
+    {
+      "title": "耗时一年，改造善良老人晚年，完整后续来了！",
+      "url": "https://www.bilibili.com/video/BV1pMH46MEmw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:116.7万 | 弹幕:3320 | UP主:扯淡人生-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1167072,
+      "original_comments": 3320
+    },
+    {
+      "title": "【断网补全计划149】太阳之子，闪身步，不烧心，农大科比，雨中霸王龙，超长蛋挞，疯狂水世界，冰冰冰，咕咕嘎嘎小孩，野人先生罗永浩风波，钟薛高复活",
+      "url": "https://www.bilibili.com/video/BV1Yapc6SEZ5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:106.9万 | 弹幕:3069 | UP主:瞎问虾猜丶",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1068931,
+      "original_comments": 3069
+    },
+    {
+      "title": "【男巫ZachKing】2026最佳魔术！",
+      "url": "https://www.bilibili.com/video/BV1BuHC6rEuX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:95.8万 | 弹幕:322 | UP主:男巫ZachKing官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 957755,
+      "original_comments": 322
+    },
+    {
+      "title": "带班主任体验黄毛的一天",
+      "url": "https://www.bilibili.com/video/BV1X6Hk6hE8v",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:92.7万 | 弹幕:1691 | UP主:乡村教师日记",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 926806,
+      "original_comments": 1691
+    },
+    {
+      "title": "矿山上的铜火锅？！特厨来一个沉浸式吃播！",
+      "url": "https://www.bilibili.com/video/BV1S9H26MEAT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:91.9万 | 弹幕:984 | UP主:特厨隋坡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 919054,
+      "original_comments": 984
+    },
+    {
+      "title": "【剧情】长生契（2026）20【方逸伦 / 谢可寅】",
+      "url": "https://www.bilibili.com/video/BV13Dem6VEp5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:69.0万 | 弹幕:2353 | UP主:迷影社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 689556,
+      "original_comments": 2353
+    },
+    {
+      "title": "妈妈是个超人",
+      "url": "https://www.bilibili.com/video/BV1tLHv6vEXV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:66.7万 | 弹幕:322 | UP主:歪歪Mixing",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 666716,
+      "original_comments": 322
+    },
+    {
+      "title": "《阴阳师》咲耶CG丨拾此一瞬（CV：小泽亚李）",
+      "url": "https://www.bilibili.com/video/BV1BsHQ6YEQy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.3万 | 弹幕:296 | UP主:网易阴阳师手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 582915,
+      "original_comments": 296
+    },
+    {
+      "title": "《原神》过场动画-「生与死的流速」",
+      "url": "https://www.bilibili.com/video/BV1rgap62Ez5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:51.0万 | 弹幕:2387 | UP主:原神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 510417,
+      "original_comments": 2387
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第10集 错位的救赎【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1mXak6UEea",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.8万 | 弹幕:3520 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 507916,
+      "original_comments": 3520
+    },
+    {
+      "title": "有事没事儿，尽喜欢做点好吃的、新鲜玩意给家里人尝一尝！好好吃饭就是好好生活！【睡个好觉】",
+      "url": "https://www.bilibili.com/video/BV14aHC6dESP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:45.3万 | 弹幕:789 | UP主:六月桃乐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 453288,
+      "original_comments": 789
+    },
+    {
+      "title": "迈克尔·高启强 世界巡演【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1m7Hx6GE6N",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.8万 | 弹幕:643 | UP主:会魔法的白气球",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 407800,
+      "original_comments": 643
+    },
+    {
+      "title": "听完通透了！上饶天选之子《升本后醒来》“好的本科他不会比专科差”",
+      "url": "https://www.bilibili.com/video/BV1mbHC6ZEkv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.3万 | 弹幕:185 | UP主:小七街头音乐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 263182,
+      "original_comments": 185
+    },
+    {
+      "title": "超市生存挑战后续！4人吃完整个超市赢100万美金！",
+      "url": "https://www.bilibili.com/video/BV1VeHQ6tEaS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.2万 | 弹幕:2302 | UP主:野兽先生MrBeast",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 261629,
+      "original_comments": 2302
+    },
+    {
+      "title": "上厕所先洗手还是后洗手",
+      "url": "https://www.bilibili.com/video/BV1P3HQ6VEav",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.0万 | 弹幕:841 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 249983,
+      "original_comments": 841
+    },
+    {
+      "title": "挑战负债城市生存，今日犯了暴食之罪",
+      "url": "https://www.bilibili.com/video/BV1MKHQ62EuZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.5万 | 弹幕:2340 | UP主:杀心成焚酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 225032,
+      "original_comments": 2340
+    },
+    {
+      "title": "《 谈 不 到 这 样 的，我就不（ ）了！！！》",
+      "url": "https://www.bilibili.com/video/BV17uHX6YE31",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:18.0万 | 弹幕:159 | UP主:流萤Zz",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 180090,
+      "original_comments": 159
+    },
+    {
+      "title": "The Outlast Trials",
+      "url": "https://store.steampowered.com/app/1304930",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "url": "https://store.steampowered.com/app/489830",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-71% | $8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7200,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "ARC Raiders",
+      "url": "https://store.steampowered.com/app/1808500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Project Zomboid",
+      "url": "https://store.steampowered.com/app/108600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $27",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1933,
+      "original_comments": 214
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1303,
+      "original_comments": 1481
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 975,
+      "original_comments": 457
+    },
+    {
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 709,
+      "original_comments": 415
+    },
+    {
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 605,
+      "original_comments": 145
+    },
+    {
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 482,
+      "original_comments": 471
+    },
+    {
+      "title": "Animated ASCII Art for Web Pages",
+      "url": "https://ascii.rest/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 426,
+      "original_comments": 73
+    },
+    {
+      "title": "The Mathocalypse",
+      "url": "https://scottaaronson.blog/?p=10169",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 326,
+      "original_comments": 333
+    },
+    {
+      "title": "Living off-grid: Hundred Rabbits",
+      "url": "https://100r.ca/site/home.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 312,
+      "original_comments": 122
+    },
+    {
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 292,
+      "original_comments": 249
+    },
+    {
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 279,
+      "original_comments": 128
+    },
+    {
+      "title": "The 15-year search for a band that charted once and vanished",
+      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 269,
+      "original_comments": 97
+    },
+    {
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253,
+      "original_comments": 85
+    },
+    {
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 216,
+      "original_comments": 123
+    },
+    {
+      "title": "Cleo (Mathematician)",
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 215,
+      "original_comments": 41
+    },
+    {
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 184,
+      "original_comments": 106
+    },
+    {
+      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 137,
+      "original_comments": 44
+    },
+    {
+      "title": "The Slow Formation of Durable Software",
+      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 130,
+      "original_comments": 43
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1039",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "ARC Raiders - Frozen Trail Collector Set",
+      "url": "https://store.steampowered.com/app/5201760",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 733.38 📉-14.14(-1.89%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1363743,
+      "summary": "今日 733.38 | 📉 -14.14(-1.89%) | 最高 747.6 最低 733.38 | 连涨 -5天 | 成交额 ¥5784万 | 成交量 1363743件 | 📈1488 ➡1766 📉4240"
+    }
+  ]
+}
