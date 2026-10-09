@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-09",
+  "commentary": "好家伙，CSGO大盘连跌六天，722点，成交额六千万，这数字看着挺唬人，但我就问一句：饰品市场这是要提前过年了？连涨的时候个个都是“理财大师”，一跌就全变“长期持有者”了。听哥一句劝，别把游戏玩成A股，你盯着K线图的样子，比你打狙时瞄空气还认真。\n\n再看B站热门，英雄联盟2026全球总决赛主题曲都出来了，播放量快三百万。不是，S赛还没打呢，主题曲先“以我之名”了？去年那首我到现在都没记住调，今年这首听完只记得弹幕在刷“不如S8”。拳头音乐公司这招牌，再这么搞下去真要变“拳头痛”了。隔壁野兽先生还在超市里狂吃狂拿赢100万美金，我看LOL主题曲的预算，够MrBeast再吃空三个超市。\n\n最后那个“我穿越成了一棵树”，78万播放。行，现在网文套路已经进化到植物界了，下次是不是该“我穿越成了一块砖，哪里需要哪里搬”？这届网友的精神状态，比CSGO大盘还让人揪心。\n\n今日金句：饰品跌了还能叫“回调”，主题曲拉了只能叫“下次一定”。",
+  "news": [
+    {
+      "title": "极极极极，极限战场👉🏻首曝极首测，所见极所玩",
+      "url": "https://www.bilibili.com/video/BV1PTHS6MEC5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:507.3万 | 弹幕:2338 | UP主:极限战场",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5072935,
+      "original_comments": 2338
+    },
+    {
+      "title": "超市生存挑战后续！4人吃完整个超市赢100万美金！",
+      "url": "https://www.bilibili.com/video/BV1VeHQ6tEaS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:314.6万 | 弹幕:8621 | UP主:野兽先生MrBeast",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3145784,
+      "original_comments": 8621
+    },
+    {
+      "title": "2026英雄联盟全球总决赛主题曲《KNOW MY NAME》（以我之名）",
+      "url": "https://www.bilibili.com/video/BV1DRHU6LELy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:292.8万 | 弹幕:1.1万 | UP主:英雄联盟",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2927838,
+      "original_comments": 11211
+    },
+    {
+      "title": "《阴阳师》咲耶CG丨拾此一瞬（CV：小泽亚李）",
+      "url": "https://www.bilibili.com/video/BV1BsHQ6YEQy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:211.0万 | 弹幕:595 | UP主:网易阴阳师手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2110099,
+      "original_comments": 595
+    },
+    {
+      "title": "【男巫ZachKing】2026最佳魔术！",
+      "url": "https://www.bilibili.com/video/BV1BuHC6rEuX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:187.6万 | 弹幕:514 | UP主:男巫ZachKing官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1876321,
+      "original_comments": 514
+    },
+    {
+      "title": "《我信任的、交心的、交流的、心与心的》",
+      "url": "https://www.bilibili.com/video/BV1rEHQ6qEDE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:138.2万 | 弹幕:299 | UP主:嘞是唐孃孃",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1381894,
+      "original_comments": 299
+    },
+    {
+      "title": "自己喂的猪，才有这个家乡味，这大油，这肥膘，这颜色",
+      "url": "https://www.bilibili.com/video/BV1XWpM6MECx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:116.9万 | 弹幕:1284 | UP主:左手刀鹏哥",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1168679,
+      "original_comments": 1284
+    },
+    {
+      "title": "法国最近太烧心了",
+      "url": "https://www.bilibili.com/video/BV1gTHd6aE5e",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:102.7万 | 弹幕:6133 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1026747,
+      "original_comments": 6133
+    },
+    {
+      "title": "【新宿决战】皮特VS鸡哥",
+      "url": "https://www.bilibili.com/video/BV1CLHQ6zEHC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.1万 | 弹幕:403 | UP主:浅澄月",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 810792,
+      "original_comments": 403
+    },
+    {
+      "title": "“我穿越成了一棵树。”",
+      "url": "https://www.bilibili.com/video/BV1qsHQ6YEs4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:78.2万 | 弹幕:572 | UP主:Mr-Ferret",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 782250,
+      "original_comments": 572
+    },
+    {
+      "title": "【昨日海】YW-1至YW-8 摆完挂机 简单好抄",
+      "url": "https://www.bilibili.com/video/BV1DHps6yELs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.7万 | 弹幕:285 | UP主:萧然Q",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 646926,
+      "original_comments": 285
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第13集】",
+      "url": "https://www.bilibili.com/video/BV12gpt6UER4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.0万 | 弹幕:5031 | UP主:九夜听风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 610395,
+      "original_comments": 5031
+    },
+    {
+      "title": "全网首发《银松镇》正式版 高质量生化危机+寂静岭风格恐怖游戏 全收集 全结局",
+      "url": "https://www.bilibili.com/video/BV1fkHD6wEXt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:53.0万 | 弹幕:1467 | UP主:友利奈绪大魔王丶",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 530409,
+      "original_comments": 1467
+    },
+    {
+      "title": "影视飓风的直升机？怪东西分享9.0",
+      "url": "https://www.bilibili.com/video/BV1gHps6yEHL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.7万 | 弹幕:4916 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 506563,
+      "original_comments": 4916
+    },
+    {
+      "title": "【速凌宇宙】第二十八集：七人小队！四方混战！全员集结到场！",
+      "url": "https://www.bilibili.com/video/BV1ztH96uE2g",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.7万 | 弹幕:1.5万 | UP主:高司令-速凌电竞",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 496917,
+      "original_comments": 15283
+    },
+    {
+      "title": "《绝区零》3.3版本「重返天空的旅程」前瞻特别节目",
+      "url": "https://www.bilibili.com/video/BV1h4pb6oEWC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:35.9万 | 弹幕:4666 | UP主:绝区零",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 359039,
+      "original_comments": 4666
+    },
+    {
+      "title": "《绝区零》3.3版本PV | 重返天空的旅程",
+      "url": "https://www.bilibili.com/video/BV1rAp46vEaB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.6万 | 弹幕:1581 | UP主:绝区零",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 315554,
+      "original_comments": 1581
+    },
+    {
+      "title": "【手术TV】先生！我知道这很荒诞，但人还得往前看......",
+      "url": "https://www.bilibili.com/video/BV1Xdps6nEhe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.6万 | 弹幕:258 | UP主:大乾乾是顾乾宇",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 275588,
+      "original_comments": 258
+    },
+    {
+      "title": "史上最大现金收购案 富二代如何正确拼爹",
+      "url": "https://www.bilibili.com/video/BV1FCps68EGf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.0万 | 弹幕:1034 | UP主:小Lin说",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 269585,
+      "original_comments": 1034
+    },
+    {
+      "title": "当你民国时期去试新娘妆",
+      "url": "https://www.bilibili.com/video/BV11HHx6zEXq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:23.0万 | 弹幕:70 | UP主:啦喃喃-剪抽",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 230218,
+      "original_comments": 70
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $99",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "Terraria",
+      "url": "https://store.steampowered.com/app/105600",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $76",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Invokyr",
+      "url": "https://store.steampowered.com/app/3883570",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $32",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $62",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Permafrost",
+      "url": "https://store.steampowered.com/app/2254990",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $95",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Two Point Museum: Rides & Relics",
+      "url": "https://store.steampowered.com/app/4511680",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 922,
+      "original_comments": 839
+    },
+    {
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 838,
+      "original_comments": 168
+    },
+    {
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 817,
+      "original_comments": 504
+    },
+    {
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 763,
+      "original_comments": 167
+    },
+    {
+      "title": "Yes, and",
+      "url": "https://htmx.org/essays/yes-and/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 588,
+      "original_comments": 219
+    },
+    {
+      "title": "Theranos.world",
+      "url": "https://www.theranos.world/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 504,
+      "original_comments": 180
+    },
+    {
+      "title": "Deno Is Joining Cloudflare",
+      "url": "https://deno.com/blog/cloudflare",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 405,
+      "original_comments": 204
+    },
+    {
+      "title": "Beauty in DVD Menus",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 325,
+      "original_comments": 170
+    },
+    {
+      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "url": "https://news.ycombinator.com/item?id=49985548",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 313,
+      "original_comments": 502
+    },
+    {
+      "title": "I'm in a Meeting",
+      "url": "https://iminafleeting.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 284,
+      "original_comments": 113
+    },
+    {
+      "title": "Keyboard differences between Windows and Macs",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 234,
+      "original_comments": 192
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 225,
+      "original_comments": 130
+    },
+    {
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 221,
+      "original_comments": 57
+    },
+    {
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 215,
+      "original_comments": 82
+    },
+    {
+      "title": "DuckDB Ducklake",
+      "url": "https://github.com/duckdb/ducklake",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 211,
+      "original_comments": 27
+    },
+    {
+      "title": "The value of not getting to the point (2015)",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 199,
+      "original_comments": 70
+    },
+    {
+      "title": "ETH-68: Ethernet Audio Interface for Linux",
+      "url": "https://naturalsystems.io/eth68",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 191,
+      "original_comments": 117
+    },
+    {
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 160,
+      "original_comments": 243
+    },
+    {
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 138,
+      "original_comments": 69
+    },
+    {
+      "title": "MXC - a sandboxed code execution system",
+      "url": "https://github.com/microsoft/mxc",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 102,
+      "original_comments": 53
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$268",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Order of the Sinking Star",
+      "url": "https://store.steampowered.com/app/499170",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$98",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 722.22 📉-11.39(-1.55%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1287490,
+      "summary": "今日 722.22 | 📉 -11.39(-1.55%) | 最高 734.16 最低 716.17 | 连涨 -6天 | 成交额 ¥6254万 | 成交量 1287490件 | 📈1139 ➡1906 📉4449"
+    }
+  ]
+}
