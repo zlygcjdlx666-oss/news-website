@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-10",
+  "commentary": "好家伙，今天这CSGO大盘是吃了兴奋剂吧？736点，成交额六千多万，涨得那叫一个欢实。但兄弟们别急着开香槟，你瞅瞅这数据——涨的1839个，跌的4416个，这他妈叫普涨？这叫“指数涨了，你库存绿了”。大商拉盘掩护出货的老把戏了，别问，问就是“长期持有”。我劝各位一句：市场里最贵的五个字，就是“这次不一样”。\n\n再说B站这俩热门，一个比一个魔幻。逆水寒那预告片380万播放，弹幕才190条，这数据比我的发际线还离谱——要么是刷的，要么是观众看完直接“轮回”去了，连敲键盘的欲望都没有。倒是那个“耗时一年改造善良老人晚年”的后续，236万播放，5837条弹幕，这才是真东西。一个UP主花一年干件人事，比某些游戏公司砸几千万买量强一万倍。什么叫内容为王？这就是。\n\n最后那个“超市里未检测到人脸”，老番茄49万播放，4341条弹幕。我点进去看了，好家伙，我在超市也没检测到人脸——因为我全程盯着打折标签，脸都不要了。\n\n**今日金句：指数红是庄家的脸，库存绿才是你的命。**",
+  "news": [
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第19集【总第195集】",
+      "url": "https://www.bilibili.com/video/BV1JLpY6DEWU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:458.6万 | 弹幕:7.2万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4585821,
+      "original_comments": 71932
+    },
+    {
+      "title": "【年度级预告片】轮回，由你打破！",
+      "url": "https://www.bilibili.com/video/BV1gTp868EzE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:380.1万 | 弹幕:190 | UP主:网易逆水寒",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3800679,
+      "original_comments": 190
+    },
+    {
+      "title": "耗时一年，改造善良老人晚年，完整后续来了！",
+      "url": "https://www.bilibili.com/video/BV1pMH46MEmw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:236.1万 | 弹幕:5837 | UP主:扯淡人生-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2361417,
+      "original_comments": 5837
+    },
+    {
+      "title": "《司机の噩梦》",
+      "url": "https://www.bilibili.com/video/BV1rxp86jEYH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:205.9万 | 弹幕:757 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2058527,
+      "original_comments": 757
+    },
+    {
+      "title": "巧克力中毒",
+      "url": "https://www.bilibili.com/video/BV19dps6nExM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:150.6万 | 弹幕:883 | UP主:二雷修猫修狗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1506418,
+      "original_comments": 883
+    },
+    {
+      "title": "讨伐型人格大合集",
+      "url": "https://www.bilibili.com/video/BV1rSpM6nEtm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.3万 | 弹幕:473 | UP主:别动我奶酪子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1042519,
+      "original_comments": 473
+    },
+    {
+      "title": "【纪录片】中国救护2 04 心是一座城",
+      "url": "https://www.bilibili.com/video/BV1zKp46YEMp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:90.4万 | 弹幕:1104 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 903523,
+      "original_comments": 1104
+    },
+    {
+      "title": "【纪录片】威尔史密斯的极地纵横 02 深入亚马逊丛林",
+      "url": "https://www.bilibili.com/video/BV1wUao6UEp9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:69.4万 | 弹幕:43 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 693635,
+      "original_comments": 43
+    },
+    {
+      "title": "动态视频｜一根头发认亲？亲子鉴定是怎么做的？",
+      "url": "https://www.bilibili.com/video/BV1ffpY6nEZR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:67.2万 | 弹幕:1323 | UP主:亿点点不一样",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 671755,
+      "original_comments": 1323
+    },
+    {
+      "title": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+      "url": "https://www.bilibili.com/video/BV1XXHD6sEe7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.0万 | 弹幕:186 | UP主:星落落_oi",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 649555,
+      "original_comments": 186
+    },
+    {
+      "title": "从什么时候开始，报喜不报忧成了本能？｜暗叫 - きくお",
+      "url": "https://www.bilibili.com/video/BV1hxHR68E24",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:55.0万 | 弹幕:595 | UP主:XIAOMING6680",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 549538,
+      "original_comments": 595
+    },
+    {
+      "title": "《甲乙丙丁》，但是昭和金曲（citypop日语版）【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1CrpM6dEdE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:51.0万 | 弹幕:236 | UP主:ByeByeBlueBerry",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 509821,
+      "original_comments": 236
+    },
+    {
+      "title": "超市里……未检测到人脸……",
+      "url": "https://www.bilibili.com/video/BV1iqpt6cEMU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.3万 | 弹幕:4341 | UP主:老番茄",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 493457,
+      "original_comments": 4341
+    },
+    {
+      "title": "寻羊记｜我在新疆天山追羊啃…",
+      "url": "https://www.bilibili.com/video/BV1k4HZ6xEJz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.3万 | 弹幕:2614 | UP主:野文不懂吃",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 482560,
+      "original_comments": 2614
+    },
+    {
+      "title": "对话孙宇晨：年轻人如何抓住AI时代的机会？",
+      "url": "https://www.bilibili.com/video/BV1fcHD6cEw3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:43.2万 | 弹幕:1804 | UP主:邵艾伦Alan",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 432457,
+      "original_comments": 1804
+    },
+    {
+      "title": "【春物语】我的婚后生活果然有问题 第4话：小町的嫂子分数，加上前社长的经验。",
+      "url": "https://www.bilibili.com/video/BV1qkpa6VENV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:34.9万 | 弹幕:597 | UP主:冰尖の霜语",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 349095,
+      "original_comments": 597
+    },
+    {
+      "title": "老歌还是得老东西来唱『深夜之门/Stay With Me』翻唱【bilibili次元干杯】",
+      "url": "https://www.bilibili.com/video/BV1FUpb6kERs",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:33.7万 | 弹幕:239 | UP主:南姨Minami",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 336886,
+      "original_comments": 239
+    },
+    {
+      "title": "【杜兰特x徐静雨】不整虚的，B友们想看的我都问了",
+      "url": "https://www.bilibili.com/video/BV1ZZpg6XEh4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:30.1万 | 弹幕:3186 | UP主:雨说体育徐静雨",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 301054,
+      "original_comments": 3186
+    },
+    {
+      "title": "如何像人类一样开车",
+      "url": "https://www.bilibili.com/video/BV1RAp86wEcH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.2万 | 弹幕:61 | UP主:你的不秃头",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 261845,
+      "original_comments": 61
+    },
+    {
+      "title": "绝境求生！韩立最爽的一集！《凡人修仙传》195逐帧解析",
+      "url": "https://www.bilibili.com/video/BV1YTp362Eff",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:23.6万 | 弹幕:1471 | UP主:利维坦mY",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 235621,
+      "original_comments": 1471
+    },
+    {
+      "title": "ARC Raiders",
+      "url": "https://store.steampowered.com/app/1808500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "BOMBANANA!",
+      "url": "https://store.steampowered.com/app/4656000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Invokyr",
+      "url": "https://store.steampowered.com/app/3883570",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Permafrost",
+      "url": "https://store.steampowered.com/app/2254990",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $16",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1280,
+      "original_comments": 662
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1136,
+      "original_comments": 221
+    },
+    {
+      "title": "Car Park Capital",
+      "url": "https://store.steampowered.com/app/3031880",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Sorry, I'm in a meeting",
+      "url": "https://iminafleeting.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 949,
+      "original_comments": 264
+    },
+    {
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 675,
+      "original_comments": 303
+    },
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 524,
+      "original_comments": 225
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 402,
+      "original_comments": 318
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 361,
+      "original_comments": 44
+    },
+    {
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253,
+      "original_comments": 133
+    },
+    {
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 251,
+      "original_comments": 39
+    },
+    {
+      "title": "`123456' password used in Danish CPR data breach",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 244,
+      "original_comments": 145
+    },
+    {
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 216,
+      "original_comments": 45
+    },
+    {
+      "title": "Lobbying Is Corruption",
+      "url": "https://carette.xyz/posts/lobbying_and_corruption/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 170,
+      "original_comments": 70
+    },
+    {
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 165,
+      "original_comments": 84
+    },
+    {
+      "title": "Scam American companies are using to manipulate ingredient lists",
+      "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 161,
+      "original_comments": 175
+    },
+    {
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 149,
+      "original_comments": 40
+    },
+    {
+      "title": "Computers Cannot Make Decisions",
+      "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 141,
+      "original_comments": 121
+    },
+    {
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 129,
+      "original_comments": 40
+    },
+    {
+      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+      "url": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 119,
+      "original_comments": 85
+    },
+    {
+      "title": "Compiling Rust to readable C with Eurydice",
+      "url": "https://lwn.net/Articles/1055211/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 105,
+      "original_comments": 32
+    },
+    {
+      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+      "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 105,
+      "original_comments": 27
+    },
+    {
+      "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
+      "url": "https://www.nature.com/articles/s41598-020-73426-0",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 104,
+      "original_comments": 51
+    },
+    {
+      "title": "Show HN: Proton Drive for Linux",
+      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 101,
+      "original_comments": 37
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1059",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 736.54 📈+11.32(+1.56%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1335338,
+      "summary": "今日 736.54 | 📈 +11.32(+1.56%) | 最高 736.57 最低 725.32 | 连涨 1天 | 成交额 ¥6299万 | 成交量 1335338件 | 📈1839 ➡1239 📉4416"
+    }
+  ]
+}
