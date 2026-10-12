@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-12",
+  "commentary": "好家伙，今天这新闻列表一看，我差点以为我手机坏了。CSGO大盘连着跌三天，722块，成交额198万——兄弟们，这数字还没我楼下卖煎饼的大妈一天流水高。饰品市场这是提前过清明了吗？连涨三天跌三天，搁这儿做仰卧起坐呢？我建议G胖赶紧出个“救市大行动”，不然倒爷们真要改行倒腾B站热门了。\n\n再说B站，那叫一个魔幻现实。“当声优被AI抢走饭碗后”——94万播放，讲真，这标题放三年前是科幻片，放今天是纪录片。AI现在连翻唱《人是猫》都能整出52万播放，下一步是不是该AI当UP主，我们人类负责在弹幕里喊“爷青结”？更离谱的是“豆包指导穿搭”42万播放，我看完只想说：AI教人穿衣服，人类教AI做人，这闭环完美。\n\n最后那个“卖菱角的小贩想弄伤我的鳞片”，191万播放。我琢磨半天，鳞片？兄弟你是条鱼吗？B站热门现在比我家楼下菜市场还热闹，卖菱角的、穿不明白的、跟大爷打牌的，全在首页开会。\n\n今日金句：CSGO跌得像个笑话，B站火得像个神话，只有我磊哥，还在认真给各位念新闻——这大概就是赛博时代的“众人皆醉我独醒”吧。",
+  "news": [
+    {
+      "title": "那个卖菱角的小贩想要弄伤我的鳞片",
+      "url": "https://www.bilibili.com/video/BV1uopn6NEMR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:191.0万 | 弹幕:472 | UP主:印度老吃家",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1909527,
+      "original_comments": 472
+    },
+    {
+      "title": "你 坐 不 过 我 你 信 吗 ？",
+      "url": "https://www.bilibili.com/video/BV1nYpn6DEzp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:139.1万 | 弹幕:537 | UP主:蓝飘飘fly",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1390557,
+      "original_comments": 537
+    },
+    {
+      "title": "当声优被AI抢走饭碗后",
+      "url": "https://www.bilibili.com/video/BV1nYp36fEae",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:94.6万 | 弹幕:222 | UP主:李肆言哟",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 946013,
+      "original_comments": 222
+    },
+    {
+      "title": "《不该存在的访客》继续用爱发电，耗费10000分钟制作，花费1000块",
+      "url": "https://www.bilibili.com/video/BV1ZSp46AEF8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:94.0万 | 弹幕:1705 | UP主:卡拉-肖克辉",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 939546,
+      "original_comments": 1705
+    },
+    {
+      "title": "史上最固执大爷-珍爱生命，远离牌桌6.0",
+      "url": "https://www.bilibili.com/video/BV1v5pL6tEYw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:85.8万 | 弹幕:1915 | UP主:爱学习的李老湿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 858007,
+      "original_comments": 1915
+    },
+    {
+      "title": "“我酒桶有自己的想法！”369、Karsa重聊纳尔往事【LPL视频播客丨把TA叫过来ep2】",
+      "url": "https://www.bilibili.com/video/BV1KJpn68E2b",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.1万 | 弹幕:4156 | UP主:英雄联盟赛事",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 800753,
+      "original_comments": 4156
+    },
+    {
+      "title": "特朗普为何“大撒币”？中期选举究竟有多重要？【纸牌屋现实版】",
+      "url": "https://www.bilibili.com/video/BV14LpE6sEx6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.9万 | 弹幕:1377 | UP主:普朗特-PRUMT",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 618518,
+      "original_comments": 1377
+    },
+    {
+      "title": "一镜到底骑行在路边发现一条未知小路，沉浸式体验在城市角落探索",
+      "url": "https://www.bilibili.com/video/BV1KApg6hEa1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:59.1万 | 弹幕:5089 | UP主:暗夜骑士XZ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 591281,
+      "original_comments": 5089
+    },
+    {
+      "title": "遗传定律：一种疾病，为什么能在家族中潜伏数代？",
+      "url": "https://www.bilibili.com/video/BV1XupR6NEeo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:57.6万 | 弹幕:1173 | UP主:大圆镜科普",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 576396,
+      "original_comments": 1173
+    },
+    {
+      "title": "精神小妹误闯天家",
+      "url": "https://www.bilibili.com/video/BV1A4pR6XEeK",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:54.8万 | 弹幕:1108 | UP主:马哥巨离谱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 547693,
+      "original_comments": 1108
+    },
+    {
+      "title": "原创动画《我到底穿了个什么东西？！》大合集",
+      "url": "https://www.bilibili.com/video/BV1jupi6pEyo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.7万 | 弹幕:2652 | UP主:夏小沛",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 526705,
+      "original_comments": 2652
+    },
+    {
+      "title": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+      "url": "https://www.bilibili.com/video/BV1fYpn6SEk9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.6万 | 弹幕:164 | UP主:星落落_oi",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 526004,
+      "original_comments": 164
+    },
+    {
+      "title": "跟着AI教学能否实现薯条自由？",
+      "url": "https://www.bilibili.com/video/BV17EpY6UEdL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:51.6万 | 弹幕:425 | UP主:蚊子-学做美食",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 515645,
+      "original_comments": 425
+    },
+    {
+      "title": "豆包指导穿搭，笑死我了",
+      "url": "https://www.bilibili.com/video/BV1Qope6rEH5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:42.1万 | 弹幕:3581 | UP主:七七酱就是我",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 420792,
+      "original_comments": 3581
+    },
+    {
+      "title": "【A2O】A2O LITE 'NEON' Official Video",
+      "url": "https://www.bilibili.com/video/BV1VVpo6gEYg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.7万 | 弹幕:4589 | UP主:A2O_WORLD",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 317080,
+      "original_comments": 4589
+    },
+    {
+      "title": "【花小烙】蚰蜒：不就是腿多了点嘛，我们真没那么恐怖！",
+      "url": "https://www.bilibili.com/video/BV1CapR6JEAM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:30.0万 | 弹幕:1854 | UP主:画渣花小烙",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 299839,
+      "original_comments": 1854
+    },
+    {
+      "title": "纽北二刷！SU7Ultra能成为第一台BTG 7分内的中国车吗？",
+      "url": "https://www.bilibili.com/video/BV1cPpb6CEZT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.3万 | 弹幕:2072 | UP主:苏黎世贝勒爷",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 293122,
+      "original_comments": 2072
+    },
+    {
+      "title": "段位争夺战",
+      "url": "https://www.bilibili.com/video/BV1WUpd64Ex6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.4万 | 弹幕:1708 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 224379,
+      "original_comments": 1708
+    },
+    {
+      "title": "今年诺奖颁给了“大脑的开关”：光遗传学到底是什么",
+      "url": "https://www.bilibili.com/video/BV1Fbpt6qEPq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:21.0万 | 弹幕:156 | UP主:比特新语",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 210460,
+      "original_comments": 156
+    },
+    {
+      "title": "“有人天生就喜欢这种感觉”",
+      "url": "https://www.bilibili.com/video/BV1F6HD6eEwG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.5万 | 弹幕:452 | UP主:Transqa风景",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 165182,
+      "original_comments": 452
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "ARC Raiders",
+      "url": "https://store.steampowered.com/app/1808500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Core Keeper",
+      "url": "https://store.steampowered.com/app/1621690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $12",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "BOMBANANA!",
+      "url": "https://store.steampowered.com/app/4656000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Risk of Rain 2: Alloyed Collective",
+      "url": "https://store.steampowered.com/app/2781620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Palworld",
+      "url": "https://store.steampowered.com/app/1623730",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Permafrost",
+      "url": "https://store.steampowered.com/app/2254990",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Hood Warfare 2",
+      "url": "https://store.steampowered.com/app/5155360",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $6",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Silver Pines",
+      "url": "https://store.steampowered.com/app/2333000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $22",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 633,
+      "original_comments": 240
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 631,
+      "original_comments": 306
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 488,
+      "original_comments": 479
+    },
+    {
+      "title": "QGIS: No A contributions permitted",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 333,
+      "original_comments": 357
+    },
+    {
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 306,
+      "original_comments": 62
+    },
+    {
+      "title": "Calculus with Julia",
+      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222,
+      "original_comments": 41
+    },
+    {
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 204,
+      "original_comments": 75
+    },
+    {
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 199,
+      "original_comments": 107
+    },
+    {
+      "title": "Doory – Open-Source Canva",
+      "url": "https://github.com/shaongitbd/doory",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 185,
+      "original_comments": 68
+    },
+    {
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 156,
+      "original_comments": 58
+    },
+    {
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 155,
+      "original_comments": 134
+    },
+    {
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 144,
+      "original_comments": 90
+    },
+    {
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 124,
+      "original_comments": 52
+    },
+    {
+      "title": "Incident with Actions, Pull Requests and Issues",
+      "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 124,
+      "original_comments": 113
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1039",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Planet Zoo 2",
+      "url": "https://store.steampowered.com/app/3219030",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$419",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "STAR WARS: Galactic Racer™",
+      "url": "https://store.steampowered.com/app/4078430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 88,
+      "original_comments": 38
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 722.99 📉-1.47(-0.2%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 81537,
+      "summary": "今日 722.99 | 📉 -1.47(-0.2%) | 最高 724.59 最低 722.94 | 连涨 -3天 | 成交额 ¥198万 | 成交量 81537件 | 📈716 ➡5756 📉1022"
+    }
+  ]
+}
