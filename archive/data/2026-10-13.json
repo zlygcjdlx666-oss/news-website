@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-13",
+  "commentary": "今天这CSGO大盘跌得，比我二舅炒股被套还干脆。713.57，听着像个吉利数，实则连跌三天，成交额五千多万，这是饰品市场还是A股分市场？玩家们一边喊着“自用不亏”，一边偷偷刷新求购价的样子，像极了爱情里嘴硬的那个人。虚拟枪皮这玩意儿，涨的时候是信仰，跌的时候是教训，建议改名《CS：GO韭菜模拟器》。\n\nB站这边倒是人间烟火气拉满。一边是“50块钱在熟食店能买啥”，174万人围观，说明大家钱包都挺诚实；另一边是苏联版“空中监狱”，小约翰可汗一出手，弹幕直接破万，历史区顶流不是白叫的。最让我绷不住的是“住手你们不要再摇花手了”，130万播放，当代网友的精神状态确实领先版本——嘴上说不要，手指很诚实。\n\n你看，一边是虚拟经济跌得六亲不认，一边是花手摇出百万流量。这世界最稳的生意，永远是给焦虑的人卖快乐，给无聊的人卖热闹。\n\n今日金句：枪皮会跌，花手会停，只有你刷B站的手，永远年轻。",
+  "news": [
+    {
+      "title": "50块钱可以在熟食店卖那些东西？",
+      "url": "https://www.bilibili.com/video/BV1oBpX6iEMA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:174.5万 | 弹幕:3880 | UP主:半斤盐焗鸡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1745012,
+      "original_comments": 3880
+    },
+    {
+      "title": "住手 你们不要再摇花手了",
+      "url": "https://www.bilibili.com/video/BV1wQp96mEs7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:130.7万 | 弹幕:1856 | UP主:神威-狗剩",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1307109,
+      "original_comments": 1856
+    },
+    {
+      "title": "超级“干净”的巴基斯坦汽水工厂，是一代人永远无法磨灭的伤痛",
+      "url": "https://www.bilibili.com/video/BV1VKpR6TEa7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:128.1万 | 弹幕:1519 | UP主:世界美食official",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1280585,
+      "original_comments": 1519
+    },
+    {
+      "title": "苏联版“空中监狱”是什么？【神奇组织55】",
+      "url": "https://www.bilibili.com/video/BV1Cgpd6pEBR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:123.4万 | 弹幕:1.1万 | UP主:小约翰可汗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1233573,
+      "original_comments": 10734
+    },
+    {
+      "title": "乌铜走银",
+      "url": "https://www.bilibili.com/video/BV1Bjp966EA8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:107.2万 | 弹幕:1941 | UP主:归乡人山白",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1072398,
+      "original_comments": 1941
+    },
+    {
+      "title": "《硬邦邦の八字》",
+      "url": "https://www.bilibili.com/video/BV15Upo6jEZ8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:95.9万 | 弹幕:468 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 958797,
+      "original_comments": 468
+    },
+    {
+      "title": "赵露思亲友自嗨神作《我不是npc》",
+      "url": "https://www.bilibili.com/video/BV1VmpR6uEfg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:89.5万 | 弹幕:5638 | UP主:玉玉__",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 895424,
+      "original_comments": 5638
+    },
+    {
+      "title": "“这一刻我才真正明白，放下狗符咒的含金量有多高”",
+      "url": "https://www.bilibili.com/video/BV1T2p56mEyn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:83.1万 | 弹幕:364 | UP主:wrizedm",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 830957,
+      "original_comments": 364
+    },
+    {
+      "title": "能玩这游戏十年的人做什么都会成功的",
+      "url": "https://www.bilibili.com/video/BV1tvp96tEZN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.8万 | 弹幕:1334 | UP主:特效小哥studio",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 818383,
+      "original_comments": 1334
+    },
+    {
+      "title": "或许在某个平行宇宙中，他们的故事是这样展开的.....",
+      "url": "https://www.bilibili.com/video/BV1qPpo6jEqk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:77.6万 | 弹幕:479 | UP主:Foyege弗曳哥",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 775633,
+      "original_comments": 479
+    },
+    {
+      "title": "今天的飞拉达不简单啊，上来就是悬崖小飞车！",
+      "url": "https://www.bilibili.com/video/BV14Kpv6vE8p",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:75.9万 | 弹幕:788 | UP主:辣椒爱吃静静",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 758890,
+      "original_comments": 788
+    },
+    {
+      "title": "今年诺奖颁给了“大脑的开关”：光遗传学到底是什么",
+      "url": "https://www.bilibili.com/video/BV1Fbpt6qEPq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:75.4万 | 弹幕:386 | UP主:比特新语",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 753990,
+      "original_comments": 386
+    },
+    {
+      "title": "63小时？疯狂就在当下！！面包车直达新疆！赛里木湖！没白活！",
+      "url": "https://www.bilibili.com/video/BV1FBpR6jEz1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.0万 | 弹幕:1388 | UP主:张舒克和黄贝塔旅行版",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 650377,
+      "original_comments": 1388
+    },
+    {
+      "title": "《银牌的眼泪》｜最痛的，不是失败，是“差一点”",
+      "url": "https://www.bilibili.com/video/BV12DHQ61EhT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:60.5万 | 弹幕:219 | UP主:比特新语",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 605033,
+      "original_comments": 219
+    },
+    {
+      "title": "老了也要保持卡点上班的优雅习惯【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1atp96AE8j",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:57.9万 | 弹幕:167 | UP主:桃子carena",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 579079,
+      "original_comments": 167
+    },
+    {
+      "title": "传奇历史人物志——普朗克",
+      "url": "https://www.bilibili.com/video/BV1EKWc6hEmQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.0万 | 弹幕:451 | UP主:抽象历史人物志",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 519612,
+      "original_comments": 451
+    },
+    {
+      "title": "德柱超市打工初体验",
+      "url": "https://www.bilibili.com/video/BV19jpB6sEWk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.7万 | 弹幕:840 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 267052,
+      "original_comments": 840
+    },
+    {
+      "title": "《复联5》前必看！《复联4》后到底发生了啥？",
+      "url": "https://www.bilibili.com/video/BV1xZWw6yEix",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.0万 | 弹幕:2687 | UP主:BuriedAlien",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 249987,
+      "original_comments": 2687
+    },
+    {
+      "title": "在冬夜，一块蛋糕，两个冻人",
+      "url": "https://www.bilibili.com/video/BV1uYWA6DEVV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:14.7万 | 弹幕:2724 | UP主:叶玲秋雨",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 146712,
+      "original_comments": 2724
+    },
+    {
+      "title": "好好好，在暗部狙击我是吧！？鬼叔食堂！",
+      "url": "https://www.bilibili.com/video/BV1g1pq62E3f",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:11.2万 | 弹幕:136 | UP主:鬼叔黍",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 111641,
+      "original_comments": 136
+    },
+    {
+      "title": "Halo: The Master Chief Collection",
+      "url": "https://store.steampowered.com/app/376282",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $349",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $649",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $879",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "ARC Raiders",
+      "url": "https://store.steampowered.com/app/1808500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $695",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "url": "https://store.steampowered.com/app/814380",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $1017",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "BOMBANANA!",
+      "url": "https://store.steampowered.com/app/4656000",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $117",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $359",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Japanese Ramen Simulator",
+      "url": "https://store.steampowered.com/app/4968640",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $284",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Hood Warfare 2",
+      "url": "https://store.steampowered.com/app/5155360",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $139",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 828,
+      "original_comments": 931
+    },
+    {
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 663,
+      "original_comments": 281
+    },
+    {
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 641,
+      "original_comments": 351
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 542,
+      "original_comments": 439
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 461,
+      "original_comments": 260
+    },
+    {
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 396,
+      "original_comments": 107
+    },
+    {
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 393,
+      "original_comments": 434
+    },
+    {
+      "title": "The baffling intelligence of a single cell (2024)",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 362,
+      "original_comments": 106
+    },
+    {
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 332,
+      "original_comments": 154
+    },
+    {
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 302,
+      "original_comments": 361
+    },
+    {
+      "title": "Mozilla Introduces Firefox Enterprise",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 290,
+      "original_comments": 137
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 285,
+      "original_comments": 158
+    },
+    {
+      "title": "Making big downloads resumable in Firefox",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 263,
+      "original_comments": 123
+    },
+    {
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 260,
+      "original_comments": 61
+    },
+    {
+      "title": "Hittite royal archive found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 249,
+      "original_comments": 65
+    },
+    {
+      "title": "Who is vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 240,
+      "original_comments": 21
+    },
+    {
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 197,
+      "original_comments": 73
+    },
+    {
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 140,
+      "original_comments": 54
+    },
+    {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 130,
+      "original_comments": 65
+    },
+    {
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 118,
+      "original_comments": 61
+    },
+    {
+      "title": "Planet Zoo 2",
+      "url": "https://store.steampowered.com/app/3219030",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1145",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 713.57 📉-10.89(-1.5%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1121296,
+      "summary": "今日 713.57 | 📉 -10.89(-1.5%) | 最高 724.78 最低 713.57 | 连涨 -3天 | 成交额 ¥5161万 | 成交量 1121296件 | 📈1452 ➡1870 📉4172"
+    }
+  ]
+}
