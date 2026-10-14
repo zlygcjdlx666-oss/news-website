@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-14",
+  "commentary": "CSGO大盘连跌四天，709.97，成交额还剩4348万。兄弟们，这不是大盘，这是ICU心电图——还是那种“滴——”一声长鸣的。1536涨、3880跌，你打开库存的手都在抖吧？别问，问就是“长期持有”，再问就是“我是玩游戏的不是炒饰品的”，然后半夜三点偷偷看Buff。磊哥就一句话：饰品市场比A股还诚实，至少它不装。\n\n再看B站，两个东西把我整笑了。一个是“我去当司机大家觉得有搞头嘛”，217万播放。兄弟，你不是去当司机，你是去当赛博许愿池里的王八——大家都在看你到底多久被生活毒打。另一个是“印度排位天残脚vs半截山”，142万播放。这名字取得，我还以为是什么失传的武林绝学，点进去一看，好家伙，物理意义上的“腿没了但操作还在”。这才是真正的“身残志坚电竞精神”，比某些LPL队伍打得有血性。\n\n最后，LPL出征片《风起今朝》来了，1.5万弹幕，全是“今年一定”。磊哥听完只想说：风是起了，别到时候又是“风停了，人散了，奖杯还是别人的”。\n\n今日金句：CSGO跌的是饰品，B站涨的是抽象，LPL出征的是希望——但希望这玩意儿，往往是最贵的韭菜种子。",
+  "news": [
+    {
+      "title": "我去当司机大家觉得有搞头嘛！",
+      "url": "https://www.bilibili.com/video/BV1kKWA6uEyr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:217.0万 | 弹幕:948 | UP主:永琪吗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2169976,
+      "original_comments": 948
+    },
+    {
+      "title": "“优秀的作品都在讲同一件事”",
+      "url": "https://www.bilibili.com/video/BV1wbpR6HE1g",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:199.8万 | 弹幕:2979 | UP主:向明燃剪",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1998174,
+      "original_comments": 2979
+    },
+    {
+      "title": "《明日方舟：终末地》干员叙事 [祀：洒扫庭除]",
+      "url": "https://www.bilibili.com/video/BV1fspq6cEty",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:179.8万 | 弹幕:5810 | UP主:明日方舟终末地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1797997,
+      "original_comments": 5810
+    },
+    {
+      "title": "“这波秒开仙人，直接把六小龄童看呆了！”",
+      "url": "https://www.bilibili.com/video/BV1Fspj66E66",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:169.1万 | 弹幕:775 | UP主:荒草音乐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1690552,
+      "original_comments": 775
+    },
+    {
+      "title": "印度排位对局👳🏽绝活天残脚vs丝滑半截山！😱从来没有见过这等招式！",
+      "url": "https://www.bilibili.com/video/BV1ezWw6oETf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:142.6万 | 弹幕:1318 | UP主:-超级小能猫-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1425813,
+      "original_comments": 1318
+    },
+    {
+      "title": "今天的飞拉达不简单啊，上来就是悬崖小飞车！",
+      "url": "https://www.bilibili.com/video/BV14Kpv6vE8p",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:133.2万 | 弹幕:1500 | UP主:辣椒爱吃静静",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1332433,
+      "original_comments": 1500
+    },
+    {
+      "title": "老了也要保持卡点上班的优雅习惯【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1atp96AE8j",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:122.2万 | 弹幕:268 | UP主:桃子carena",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1222386,
+      "original_comments": 268
+    },
+    {
+      "title": "原来502胶水是这么来的！致敬伟大的科研人员！",
+      "url": "https://www.bilibili.com/video/BV1mRWw62ErA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:90.1万 | 弹幕:359 | UP主:老爸评测",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 900664,
+      "original_comments": 359
+    },
+    {
+      "title": "【第四十五赛季·精华3】故事视频公开：——“循着成熟的芬芳，我们送递属于消亡的讯息……”",
+      "url": "https://www.bilibili.com/video/BV15Hpk6BEB3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:87.7万 | 弹幕:3820 | UP主:网易第五人格手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 877195,
+      "original_comments": 3820
+    },
+    {
+      "title": "常用医学小技能，才不是武术什么的呢",
+      "url": "https://www.bilibili.com/video/BV18Bpd6PEu3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.1万 | 弹幕:667 | UP主:次寻白",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 801100,
+      "original_comments": 667
+    },
+    {
+      "title": "当你和百万人一起挤景区【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1F2Wc6PE5X",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:74.2万 | 弹幕:820 | UP主:阿丸焖居",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 741895,
+      "original_comments": 820
+    },
+    {
+      "title": "2026全球总决赛LPL赛区出征片《风起今朝》",
+      "url": "https://www.bilibili.com/video/BV132pr6aEXS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:71.2万 | 弹幕:1.5万 | UP主:英雄联盟赛事",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 711521,
+      "original_comments": 14972
+    },
+    {
+      "title": "我对不同假期的态度",
+      "url": "https://www.bilibili.com/video/BV1CPWA66EHq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:71.0万 | 弹幕:572 | UP主:粤知一二",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 709540,
+      "original_comments": 572
+    },
+    {
+      "title": "【萌黄一槽】是谁“电眼逼人”？迪鲁达全技能爆料！",
+      "url": "https://www.bilibili.com/video/BV1phpC6nEjG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.5万 | 弹幕:4249 | UP主:火影忍者手游情报君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 585035,
+      "original_comments": 4249
+    },
+    {
+      "title": "[BDAY Project] Paris texas - Everybody's safe until...",
+      "url": "https://www.bilibili.com/video/BV1MiWA6UETU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.1万 | 弹幕:1.8万 | UP主:CORTIS_BIGHIT",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 310804,
+      "original_comments": 18062
+    },
+    {
+      "title": "大庆，一座孤独的城市",
+      "url": "https://www.bilibili.com/video/BV1Pupy6sExt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.3万 | 弹幕:1922 | UP主:杀心成焚酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 252553,
+      "original_comments": 1922
+    },
+    {
+      "title": "【Re:从零开始的AI学习】第一季总集篇｜从入门到用好 AI",
+      "url": "https://www.bilibili.com/video/BV1VZWc6dECG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.5万 | 弹幕:133 | UP主:卡普迪姆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 245465,
+      "original_comments": 133
+    },
+    {
+      "title": "77天1400公里独自横穿羌塘，杨柳松与北方的空地",
+      "url": "https://www.bilibili.com/video/BV14JpC6ZE3U",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.0万 | 弹幕:4593 | UP主:神秘园",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 239876,
+      "original_comments": 4593
+    },
+    {
+      "title": "【TF家族练习生】《成长档案NO.0915-不熄灭的歌》张奕然生日纪录片",
+      "url": "https://www.bilibili.com/video/BV1fnp269Ew9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.0万 | 弹幕:3.1万 | UP主:TF家族",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 159764,
+      "original_comments": 31308
+    },
+    {
+      "title": "在中国最年轻的县城开店！我挣到了人生第一桶金？",
+      "url": "https://www.bilibili.com/video/BV1J4pz6qE1o",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:11.3万 | 弹幕:156 | UP主:大鹏快开车",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 112737,
+      "original_comments": 156
+    },
+    {
+      "title": "Halo: The Master Chief Collection",
+      "url": "https://store.steampowered.com/app/376282",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "ARC Raiders",
+      "url": "https://store.steampowered.com/app/1808500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Valve Index® Headset",
+      "url": "https://store.steampowered.com/app/1059530",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Deep Dish Dungeon",
+      "url": "https://store.steampowered.com/app/2871520",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1358,
+      "original_comments": 959
+    },
+    {
+      "title": "Hood Warfare 2",
+      "url": "https://store.steampowered.com/app/5155360",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Trash Day",
+      "url": "https://store.steampowered.com/app/3314580",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 820,
+      "original_comments": 877
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 743,
+      "original_comments": 466
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 728,
+      "original_comments": 563
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 489,
+      "original_comments": 129
+    },
+    {
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 360,
+      "original_comments": 165
+    },
+    {
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 352,
+      "original_comments": 579
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 294,
+      "original_comments": 104
+    },
+    {
+      "title": "Recreational Programming",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 239,
+      "original_comments": 96
+    },
+    {
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 239,
+      "original_comments": 47
+    },
+    {
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 233,
+      "original_comments": 87
+    },
+    {
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 201,
+      "original_comments": 31
+    },
+    {
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 195,
+      "original_comments": 185
+    },
+    {
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 173,
+      "original_comments": 22
+    },
+    {
+      "title": "Show HN: How random are you?",
+      "url": "https://lab.specr.net/rigged-draw/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 169,
+      "original_comments": 88
+    },
+    {
+      "title": "Planet Zoo 2",
+      "url": "https://store.steampowered.com/app/3219030",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Valor Mortis",
+      "url": "https://store.steampowered.com/app/2828710",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "STAR WARS: Galactic Racer™",
+      "url": "https://store.steampowered.com/app/4078430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Season 5 Battlefield Pro - Battlefield™ 6 and REDSEC",
+      "url": "https://store.steampowered.com/app/4888270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$25",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Castlevania: Belmont's Curse",
+      "url": "https://store.steampowered.com/app/4231820",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 709.97 📉-4.41(-0.62%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1034449,
+      "summary": "今日 709.97 | 📉 -4.41(-0.62%) | 最高 715.67 最低 709.91 | 连涨 -4天 | 成交额 ¥4348万 | 成交量 1034449件 | 📈1536 ➡2078 📉3880"
+    }
+  ]
+}
