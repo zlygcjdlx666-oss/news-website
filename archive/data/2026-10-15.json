@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-15",
+  "commentary": "好家伙，今天这新闻列表一看，我差点以为打开方式不对。CSGO大盘连涨五天，今天终于绿了，跌了0.28%——这叫跌？这叫喘口气。成交额四千多万，成交量九十多万件，兄弟们，这不是玩游戏，这是玩金融啊。饰品市场比A股还刺激，至少A股不会一天给你整出个“绿油油但只绿一丢丢”的仪式感。我建议以后CSGO大盘改名“CSGO慢性子指数”，跌都跌得这么矜持。\n\n再看B站，泽连斯基有牌打了，95万播放，快7000弹幕。燕三这标题起得，跟打斗地主似的。但说实话，这牌局打了两年多，谁手里还没几张牌？关键是牌桌上的人换没换。另一边，“当上外卖大法官”193万播放，第二集了。阿萨Aza这系列，我愿称之为《底层判官の日常》，送外卖送出了审判庭的威严，建议美团直接给个“骑士长”头衔。\n\n最后说个真事儿：影视飓风去鬼屋，32万播放，弹幕才一千出头。这说明什么？说明大家宁愿看别人送外卖、打牌、抓巨物，也不想被鬼吓。当代年轻人的精神状态：鬼可以，但别耽误我刷手机。\n\n今日金句：CSGO连涨五天叫牛市，跌0.28%叫回调，我的钱包连跌五年，那叫人生。",
+  "news": [
+    {
+      "title": "也是当上外卖大法官了【第二集】",
+      "url": "https://www.bilibili.com/video/BV1d4p26SExE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:193.5万 | 弹幕:1504 | UP主:阿萨Aza",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1935203,
+      "original_comments": 1504
+    },
+    {
+      "title": "《复联5》前必看！《复联4》后到底发生了啥？",
+      "url": "https://www.bilibili.com/video/BV1xZWw6yEix",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:150.7万 | 弹幕:8012 | UP主:BuriedAlien",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1506633,
+      "original_comments": 8012
+    },
+    {
+      "title": "《绿梦：时空之声》公测PV | 时序的回响",
+      "url": "https://www.bilibili.com/video/BV1d4p26SE5n",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:135.1万 | 弹幕:399 | UP主:绿梦时空之声",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1350696,
+      "original_comments": 399
+    },
+    {
+      "title": "百斤玉米 擒巨物",
+      "url": "https://www.bilibili.com/video/BV1Nppn6tEhW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:122.5万 | 弹幕:3732 | UP主:三叶草钓鱼",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1225305,
+      "original_comments": 3732
+    },
+    {
+      "title": "《异环》剧情过场丨「God Knows…（异环Cover ver.）」特别动画",
+      "url": "https://www.bilibili.com/video/BV1gHp46pER8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:118.1万 | 弹幕:730 | UP主:异环",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1181041,
+      "original_comments": 730
+    },
+    {
+      "title": "《最有耐心の杀手》",
+      "url": "https://www.bilibili.com/video/BV1SMJC6sE6R",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:96.5万 | 弹幕:494 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 965320,
+      "original_comments": 494
+    },
+    {
+      "title": "泽连斯基有牌打了",
+      "url": "https://www.bilibili.com/video/BV1nyJ66PEPQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:95.6万 | 弹幕:6921 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 956221,
+      "original_comments": 6921
+    },
+    {
+      "title": "《啦嗒铛》1.0正式发售宣传片 | GSE",
+      "url": "https://www.bilibili.com/video/BV1gEps62E1e",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:86.7万 | 弹幕:228 | UP主:香港GSE",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 867129,
+      "original_comments": 228
+    },
+    {
+      "title": "咦？2045年的霍格沃茨，已经是一所国际魔法学校了？｜广东插班生｜第一章",
+      "url": "https://www.bilibili.com/video/BV1VpWA6tE8P",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:71.7万 | 弹幕:927 | UP主:-AKOWEI-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 716994,
+      "original_comments": 927
+    },
+    {
+      "title": "“天 凉 瑕 混”",
+      "url": "https://www.bilibili.com/video/BV1ttp46EEWU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:68.9万 | 弹幕:897 | UP主:_番茄多_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 688707,
+      "original_comments": 897
+    },
+    {
+      "title": "一觉醒来deepseek和豆包睡在我身边（一）【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1HYp16oE8v",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.1万 | 弹幕:1696 | UP主:兰斯的画室LanceStudio",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 521126,
+      "original_comments": 1696
+    },
+    {
+      "title": "热烈欢迎袁咏仪！超级爱买的靓靓姐最近又乱买了什么呢？（恭喜靓靓终于演上警察了👏",
+      "url": "https://www.bilibili.com/video/BV1Mopr6REu3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.0万 | 弹幕:5478 | UP主:papi酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 499558,
+      "original_comments": 5478
+    },
+    {
+      "title": "无视风险 继续访问女coser的家",
+      "url": "https://www.bilibili.com/video/BV1dfJk6hEjX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.9万 | 弹幕:820 | UP主:野生鱼白",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 419298,
+      "original_comments": 820
+    },
+    {
+      "title": "让百万人尖叫的鬼屋？我们发现了这里的秘密……",
+      "url": "https://www.bilibili.com/video/BV1KiJk67Ezw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:32.5万 | 弹幕:1038 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 324694,
+      "original_comments": 1038
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第11集 消失的出口【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1Nep465Eao",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:30.4万 | 弹幕:1923 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 304275,
+      "original_comments": 1923
+    },
+    {
+      "title": "给懂王添堵，让老李破防，泽圣现在是越来越行了",
+      "url": "https://www.bilibili.com/video/BV1PsJ16pEqN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.6万 | 弹幕:937 | UP主:麻薯波比呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 255973,
+      "original_comments": 937
+    },
+    {
+      "title": "猜！谁吃到了黑暗料理？",
+      "url": "https://www.bilibili.com/video/BV1RfJk6hENZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:17.1万 | 弹幕:1989 | UP主:绵羊料理",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 170583,
+      "original_comments": 1989
+    },
+    {
+      "title": "《剃刀 》每一个也许都要付钱：0.8⁵ = 33%",
+      "url": "https://www.bilibili.com/video/BV1WkJk6VEqA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:15.3万 | 弹幕:95 | UP主:比特新语",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 153344,
+      "original_comments": 95
+    },
+    {
+      "title": "大和民族“从来都是吃草的”然而洋大人笑翻了",
+      "url": "https://www.bilibili.com/video/BV1xfJC6nEHu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:15.1万 | 弹幕:1864 | UP主:波士顿圆脸",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 150534,
+      "original_comments": 1864
+    },
+    {
+      "title": "【2026·双11显示器推荐】两万字爆肝！教你选性价比好屏！大促狂降千元？小白必看攻略！500-7000元预算全覆盖，电竞游戏、办公设计",
+      "url": "https://www.bilibili.com/video/BV1VHJk6oEnw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:14.7万 | 弹幕:112 | UP主:超能搞机",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 147144,
+      "original_comments": 112
+    },
+    {
+      "title": "Halo: The Master Chief Collection",
+      "url": "https://store.steampowered.com/app/376282",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "ARC Raiders",
+      "url": "https://store.steampowered.com/app/1808500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "over the hill",
+      "url": "https://store.steampowered.com/app/2929250",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Valve Index® Base Station",
+      "url": "https://store.steampowered.com/app/1059570",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $119",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $16",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1610,
+      "original_comments": 383
+    },
+    {
+      "title": "DayZ Badlands",
+      "url": "https://store.steampowered.com/app/3816030",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $22",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Hood Warfare 2",
+      "url": "https://store.steampowered.com/app/5155360",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "How Amazon pushes up prices all across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 879,
+      "original_comments": 677
+    },
+    {
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 797,
+      "original_comments": 587
+    },
+    {
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 712,
+      "original_comments": 301
+    },
+    {
+      "title": "Hot & Cool",
+      "url": "https://store.steampowered.com/app/90770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-5% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 600,
+      "original_comments": 0
+    },
+    {
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 517,
+      "original_comments": 108
+    },
+    {
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 466,
+      "original_comments": 430
+    },
+    {
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 273,
+      "original_comments": 45
+    },
+    {
+      "title": "Catch a Bird – I made it for my own sanity",
+      "url": "https://catchabird.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 261,
+      "original_comments": 76
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 249,
+      "original_comments": 60
+    },
+    {
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 200,
+      "original_comments": 101
+    },
+    {
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "url": "https://petal.live/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 193,
+      "original_comments": 39
+    },
+    {
+      "title": "It took me nine years to hack my Xbox 360",
+      "url": "https://kennedn.com/blog/posts/glitching/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 118,
+      "original_comments": 33
+    },
+    {
+      "title": "Your C is not standard C",
+      "url": "https://sebsite.pw/w/20261012-notstdc.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 105,
+      "original_comments": 72
+    },
+    {
+      "title": "Castlevania: Belmont's Curse",
+      "url": "https://store.steampowered.com/app/4231820",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "STAR WARS: Galactic Racer™",
+      "url": "https://store.steampowered.com/app/4078430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Double Headed Stack Allocator",
+      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 77,
+      "original_comments": 25
+    },
+    {
+      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 67,
+      "original_comments": 25
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 707.29 📉-1.99(-0.28%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 938881,
+      "summary": "今日 707.29 | 📉 -1.99(-0.28%) | 最高 709.58 最低 705.96 | 连涨 -5天 | 成交额 ¥4392万 | 成交量 938881件 | 📈1737 ➡2154 📉3603"
+    }
+  ]
+}
