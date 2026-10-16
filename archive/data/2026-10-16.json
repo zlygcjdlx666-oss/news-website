@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-16",
+  "commentary": "今天这CSGO大盘，707点，跌了0.72，连着绿了六天。我说句难听的，这不是大盘，这是ICU心电图——波动小得让人心慌，成交量倒挺热闹，一千万件皮肤换来换去，4384万成交额愣是没砸出个水花。兄弟们，饰品市场现在就像相亲角，看着人来人往，真掏钱的一个没有。\n\n再看B站，好家伙，“苏联人猿杂交实验”471万播放。我寻思这题材能火，说明大家骨子里还是爱看“人类作死简史”。但更绝的是特斯拉发了个Roadster，68万播放，评论区估计又在刷“2020年量产”。马斯克欠的牛，比苏联欠的實驗報告还多。\n\n最扎心的是那条《那些没能上高中的初中校霸》。48万播放，评论区估计全是“当年校霸现在在给我送外卖”的爽文。但说真的，这选题能火，说明我们骨子里还是信“读书改变命运”那套。\n\n今日金句：**大盘连绿六天你慌，校霸送外卖你爽——人这辈子，怕的不是跌，是没跌过。**",
+  "news": [
+    {
+      "title": "你敢信苏联真的做过人猿杂交实验？走进地图上不存在的国家，探访那座被废弃的实验基地",
+      "url": "https://www.bilibili.com/video/BV1WFWA6VEoS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:471.8万 | 弹幕:2724 | UP主:小钟Johnny",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4718150,
+      "original_comments": 2724
+    },
+    {
+      "title": "“优秀的作品都在讲同一件事”",
+      "url": "https://www.bilibili.com/video/BV1wbpR6HE1g",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:441.4万 | 弹幕:5135 | UP主:向明燃剪",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4413585,
+      "original_comments": 5135
+    },
+    {
+      "title": "我造了一块会飞的滑板...",
+      "url": "https://www.bilibili.com/video/BV1KiJk67EQ9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:280.7万 | 弹幕:4903 | UP主:神奇阿宇Ayu",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2807371,
+      "original_comments": 4903
+    },
+    {
+      "title": "挑战拍出刃牙原作没有的剧情！！宫本武藏vs郭海皇！！",
+      "url": "https://www.bilibili.com/video/BV1KYJk6JEDk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:150.7万 | 弹幕:367 | UP主:大晶本人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1506506,
+      "original_comments": 367
+    },
+    {
+      "title": "AI消失前的最后一天……",
+      "url": "https://www.bilibili.com/video/BV1AyJy6SESw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:137.9万 | 弹幕:428 | UP主:鹤吱菌",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1378867,
+      "original_comments": 428
+    },
+    {
+      "title": "《绝区零》菲欧妮角色展示 | 不要死挑战",
+      "url": "https://www.bilibili.com/video/BV1d5JQ6pEFS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:137.1万 | 弹幕:3706 | UP主:绝区零",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1370575,
+      "original_comments": 3706
+    },
+    {
+      "title": "“闪身哆嗦毛”",
+      "url": "https://www.bilibili.com/video/BV1ocJm61ERF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.9万 | 弹幕:228 | UP主:我是真的张與息",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1049279,
+      "original_comments": 228
+    },
+    {
+      "title": "⚡️鬼畜者联盟，集合！【宗主豪华版】⚡️",
+      "url": "https://www.bilibili.com/video/BV1ctJC6kEGb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:95.6万 | 弹幕:2204 | UP主:Crazy-face",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 956453,
+      "original_comments": 2204
+    },
+    {
+      "title": "思路打开，面包丝信手拈来！今天吃千丝万缕虾和红米肠，一顿漂亮饭给娃小嘴吃的倍儿甜！",
+      "url": "https://www.bilibili.com/video/BV1SGJ168EKP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.8万 | 弹幕:331 | UP主:留意炫饭吖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 807943,
+      "original_comments": 331
+    },
+    {
+      "title": "全新Roadster登场⚡️",
+      "url": "https://www.bilibili.com/video/BV12eJQ6zEN1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:68.3万 | 弹幕:1039 | UP主:Tesla特斯拉中国",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 683334,
+      "original_comments": 1039
+    },
+    {
+      "title": "操 控 买 瓜 2.0",
+      "url": "https://www.bilibili.com/video/BV1eaJU65Ed4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:54.2万 | 弹幕:799 | UP主:岩罗Crv",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 542359,
+      "original_comments": 799
+    },
+    {
+      "title": "【昨日海】YW-EX-1至YW-EX-8突袭 摆完挂机 简单好抄",
+      "url": "https://www.bilibili.com/video/BV1dvJX6ZEde",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.5万 | 弹幕:242 | UP主:萧然Q",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 495388,
+      "original_comments": 242
+    },
+    {
+      "title": "那些没能上高中的“初中校霸”现在怎么样了？【农村青年录】",
+      "url": "https://www.bilibili.com/video/BV1j7Jy6MEfu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.4万 | 弹幕:769 | UP主:这是个令人疑惑的星球",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 483584,
+      "original_comments": 769
+    },
+    {
+      "title": "AL最发愁的居然是不会吵架？拷打Tarzan&Shanks的职业秘辛【视频播客 | 元来如此EP.08】",
+      "url": "https://www.bilibili.com/video/BV1bqJ26AEhD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.2万 | 弹幕:4961 | UP主:管泽元",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 441948,
+      "original_comments": 4961
+    },
+    {
+      "title": "《 官 宣 》",
+      "url": "https://www.bilibili.com/video/BV1BkJm6mEMf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.9万 | 弹幕:2004 | UP主:伢伢gagako",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 419097,
+      "original_comments": 2004
+    },
+    {
+      "title": "我尝试了新工作……",
+      "url": "https://www.bilibili.com/video/BV1asJk6RExW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.9万 | 弹幕:1040 | UP主:中国BOY超级大猩猩",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 418711,
+      "original_comments": 1040
+    },
+    {
+      "title": "红魔12 Pro+性能测试：40℃高温拷打，驯龙高手又来了",
+      "url": "https://www.bilibili.com/video/BV1RfJk6hEwZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.9万 | 弹幕:899 | UP主:WHYLAB",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 319249,
+      "original_comments": 899
+    },
+    {
+      "title": "【绝密大坝】猛攻哥来了！！！",
+      "url": "https://www.bilibili.com/video/BV1SDJC6dEKH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:28.9万 | 弹幕:1591 | UP主:超级蓝狼狼",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 289046,
+      "original_comments": 1591
+    },
+    {
+      "title": "《评论区！桌搭作品锐评-15》“打灰人”电竞房？",
+      "url": "https://www.bilibili.com/video/BV1sfJX6GEAh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:12.4万 | 弹幕:152 | UP主:ACG外观研究社",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 124421,
+      "original_comments": 152
+    },
+    {
+      "title": "传祺越7满油满电不补能，上海温州往返1000公里能行吗？",
+      "url": "https://www.bilibili.com/video/BV1xYJQ63E3G",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:11.6万 | 弹幕:89 | UP主:NMNP陈璟",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 115670,
+      "original_comments": 89
+    },
+    {
+      "title": "Halo: The Master Chief Collection",
+      "url": "https://store.steampowered.com/app/376282",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "007 First Light",
+      "url": "https://store.steampowered.com/app/3768760",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Chained Beasts",
+      "url": "https://store.steampowered.com/app/3569420",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "RuneScape: Dragonwilds",
+      "url": "https://store.steampowered.com/app/1374490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "over the hill",
+      "url": "https://store.steampowered.com/app/2929250",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $36",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "DayZ Badlands",
+      "url": "https://store.steampowered.com/app/3816030",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $22",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Scam With Your Friends",
+      "url": "https://store.steampowered.com/app/4954910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 855,
+      "original_comments": 427
+    },
+    {
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 743,
+      "original_comments": 278
+    },
+    {
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 641,
+      "original_comments": 260
+    },
+    {
+      "title": "What I self-host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 551,
+      "original_comments": 345
+    },
+    {
+      "title": "Jev meets the Trolley Problem",
+      "url": "https://zachlandes.com/trolley-problem/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 527,
+      "original_comments": 215
+    },
+    {
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 503,
+      "original_comments": 155
+    },
+    {
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 378,
+      "original_comments": 172
+    },
+    {
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 374,
+      "original_comments": 128
+    },
+    {
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 353,
+      "original_comments": 233
+    },
+    {
+      "title": "Krea 3 – An image model built for editing at scale",
+      "url": "https://www.krea.ai/krea-3",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 322,
+      "original_comments": 105
+    },
+    {
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 294,
+      "original_comments": 182
+    },
+    {
+      "title": "Celebrating 70 Years of Fortran",
+      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 290,
+      "original_comments": 127
+    },
+    {
+      "title": "Delta’s Biscoff cookies were supposed to be temporary",
+      "url": "https://www.seriouseats.com/biscoff-history-12168161",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 235,
+      "original_comments": 183
+    },
+    {
+      "title": "BIPM decides to stop adding leap seconds to UTC",
+      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 219,
+      "original_comments": 108
+    },
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 218,
+      "original_comments": 193
+    },
+    {
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "url": "https://github.com/Saffsanity/sill",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 190,
+      "original_comments": 48
+    },
+    {
+      "title": "RPKI now protects 70% of internet routes",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 183,
+      "original_comments": 72
+    },
+    {
+      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
+      "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 171,
+      "original_comments": 120
+    },
+    {
+      "title": "Why I Wrote PGP (1991, revised 1999)",
+      "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 170,
+      "original_comments": 63
+    },
+    {
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 157,
+      "original_comments": 116
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 707.21 📉-0.72(-0.1%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1001518,
+      "summary": "今日 707.21 | 📉 -0.72(-0.1%) | 最高 709.46 最低 706.96 | 连涨 -6天 | 成交额 ¥4384万 | 成交量 1001518件 | 📈2161 ➡2239 📉3094"
+    }
+  ]
+}
