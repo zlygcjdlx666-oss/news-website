@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-17",
+  "commentary": "好家伙，CSGO大盘连涨七天，涨了0.3%就敢叫“大盘”？成交额三千万，搁A股连个水花都算不上。但最骚的是评论区那帮“饰品理财大师”，天天盯着K线图分析磨损度，硬是把射击游戏玩成了纳斯达克。我劝各位一句：你囤的那把“表面淬火”，可能还没楼下煎饼果子保值。\n\nB站今天两条片子值得说道。向明燃剪那条“优秀作品都在讲同一件事”689万播放，标题像极了大学选修课论文——什么都说了，又什么都没说。但人家剪辑确实顶，属于“道理我都懂，可我还是想看完”。另一边《凡人修仙传》196集弹幕8.8万，这才是真·电子榨菜，韩立跑了快两百集还没飞升，观众倒是先修成了“追番仙人”。建议B站给凡人粉发个“筑基期熬鹰证书”。\n\n最逗的是朱棣那条132万播放，“侄子走丢了帮帮忙”——这文案放今天就是寻人启事界的天花板，永乐大帝亲自发朋友圈，谁敢不转？今日金句：**连涨七天的大盘没让你发财，追了七年的番倒是让你熬成了大罗金仙——投资有风险，入坑需谨慎。**",
+  "news": [
+    {
+      "title": "“优秀的作品都在讲同一件事”",
+      "url": "https://www.bilibili.com/video/BV1wbpR6HE1g",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:689.2万 | 弹幕:7900 | UP主:向明燃剪",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6891779,
+      "original_comments": 7900
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第20集【总第196集】",
+      "url": "https://www.bilibili.com/video/BV1YXJ46nEY9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:392.8万 | 弹幕:8.8万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3927994,
+      "original_comments": 88420
+    },
+    {
+      "title": "“以善为饵，比恶更恶”",
+      "url": "https://www.bilibili.com/video/BV1q3pS6tE4J",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:251.6万 | 弹幕:866 | UP主:我爱吃派大星",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2516046,
+      "original_comments": 866
+    },
+    {
+      "title": "科学家们用物理智斗爱因斯坦？",
+      "url": "https://www.bilibili.com/video/BV1fZJ26mEiY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:182.1万 | 弹幕:1744 | UP主:言吾言_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1821290,
+      "original_comments": 1744
+    },
+    {
+      "title": "朱棣：“我的侄子走丢了，有好心人能帮帮我吗？”",
+      "url": "https://www.bilibili.com/video/BV1HCpS6iEXh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:132.7万 | 弹幕:1450 | UP主:推背兔の",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1326692,
+      "original_comments": 1450
+    },
+    {
+      "title": "【纪录片】威尔史密斯的极地纵横 03 厄瓜多尔搜寻水蚺",
+      "url": "https://www.bilibili.com/video/BV1J9ao6LE9U",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:122.1万 | 弹幕:67 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1221340,
+      "original_comments": 67
+    },
+    {
+      "title": "让人生理性厌恶的两口子黄子韬徐艺洋",
+      "url": "https://www.bilibili.com/video/BV1ukJD6LE2P",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:112.1万 | 弹幕:1845 | UP主:把大象藏进冰箱里",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1120837,
+      "original_comments": 1845
+    },
+    {
+      "title": "【纪录片】中国救护2 05 家和万事兴",
+      "url": "https://www.bilibili.com/video/BV1PoJX6CEyy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:111.1万 | 弹幕:1077 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1111259,
+      "original_comments": 1077
+    },
+    {
+      "title": "德小蓝灰鲸鲨战车！这自带音响的小车谁不爱呢？可把玩可合体可扔出！4套检视也是没谁了吧？",
+      "url": "https://www.bilibili.com/video/BV1omJ469ECC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.4万 | 弹幕:309 | UP主:Key725",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1044037,
+      "original_comments": 309
+    },
+    {
+      "title": "美国最肥披萨店！全球第一大50斤70000千卡有多离谱？",
+      "url": "https://www.bilibili.com/video/BV19LJQ6QEa2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:97.2万 | 弹幕:2385 | UP主:子文又饿了",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 971728,
+      "original_comments": 2385
+    },
+    {
+      "title": "一口气看完故宫角楼建造全过程",
+      "url": "https://www.bilibili.com/video/BV1t9pr6oE2i",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:84.0万 | 弹幕:1296 | UP主:大家都叫我原子弹",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 840290,
+      "original_comments": 1296
+    },
+    {
+      "title": "【毕导】不做诺奖科普的第一年，科普博主我还会做多久？",
+      "url": "https://www.bilibili.com/video/BV1cpJ86BEys",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:79.2万 | 弹幕:3316 | UP主:毕导",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 792263,
+      "original_comments": 3316
+    },
+    {
+      "title": "英国菜究竟是一种什么刑罚？英国人还有味觉吗？",
+      "url": "https://www.bilibili.com/video/BV18NJX6EE7w",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:73.0万 | 弹幕:1167 | UP主:塑料叉FOKU",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 730003,
+      "original_comments": 1167
+    },
+    {
+      "title": "我是人类",
+      "url": "https://www.bilibili.com/video/BV1gKJ86JEuP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.4万 | 弹幕:3581 | UP主:老番茄",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 614103,
+      "original_comments": 3581
+    },
+    {
+      "title": "震撼世界！当《黑神话·钟馗》走进现实，中式美学天花板在此！",
+      "url": "https://www.bilibili.com/video/BV18XJC6sE7i",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.0万 | 弹幕:2177 | UP主:东尼ookii",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 580474,
+      "original_comments": 2177
+    },
+    {
+      "title": "浪漫惊悚文字冒险《Rain98》第二支PV公开！Demo现已上线Steam！",
+      "url": "https://www.bilibili.com/video/BV1RjJ96fE1C",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:47.7万 | 弹幕:208 | UP主:Rain98_官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 476574,
+      "original_comments": 208
+    },
+    {
+      "title": "啊？61.0",
+      "url": "https://www.bilibili.com/video/BV1sVJ86yEqF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.9万 | 弹幕:2164 | UP主:KL_qiqi_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 448502,
+      "original_comments": 2164
+    },
+    {
+      "title": "《回合之间》｜致每一位登上闪耀大赛的你！",
+      "url": "https://www.bilibili.com/video/BV1a8Jv6ME77",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:30.0万 | 弹幕:557 | UP主:洛克王国世界",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 299933,
+      "original_comments": 557
+    },
+    {
+      "title": "《遗忘之海》“歌丝莉”剧作者角色PV ——采风记",
+      "url": "https://www.bilibili.com/video/BV1TdJX65ENW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:28.1万 | 弹幕:144 | UP主:遗忘之海",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 281005,
+      "original_comments": 144
+    },
+    {
+      "title": "历经一个月！我们做到了！！",
+      "url": "https://www.bilibili.com/video/BV1dWJv6GEoH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:21.0万 | 弹幕:1.2万 | UP主:王师傅の日记",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 209999,
+      "original_comments": 12266
+    },
+    {
+      "title": "Batman: Arkham Collection",
+      "url": "https://store.steampowered.com/app/320795",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-85% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8600,
+      "original_comments": 0
+    },
+    {
+      "title": "Halo: The Master Chief Collection",
+      "url": "https://store.steampowered.com/app/376282",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "007 First Light",
+      "url": "https://store.steampowered.com/app/3768760",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "LEGO® Batman™: Legacy of the Dark Knight",
+      "url": "https://store.steampowered.com/app/2215200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $49",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "RuneScape: Dragonwilds",
+      "url": "https://store.steampowered.com/app/1374490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "over the hill",
+      "url": "https://store.steampowered.com/app/2929250",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Beyond These Stars",
+      "url": "https://store.steampowered.com/app/2295060",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1464,
+      "original_comments": 2603
+    },
+    {
+      "title": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $36",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Scam With Your Friends",
+      "url": "https://store.steampowered.com/app/4954910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 900,
+      "original_comments": 335
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 521,
+      "original_comments": 442
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 370,
+      "original_comments": 341
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 327,
+      "original_comments": 164
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 324,
+      "original_comments": 76
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 302,
+      "original_comments": 75
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 272,
+      "original_comments": 186
+    },
+    {
+      "title": "Ultramarine 1 Flash",
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 269,
+      "original_comments": 89
+    },
+    {
+      "title": "Butlerian Jihad",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 257,
+      "original_comments": 144
+    },
+    {
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 242,
+      "original_comments": 74
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 232,
+      "original_comments": 202
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 226,
+      "original_comments": 102
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 221,
+      "original_comments": 86
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 176,
+      "original_comments": 48
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 149,
+      "original_comments": 32
+    },
+    {
+      "title": "Monte-Carlo Simulations",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 130,
+      "original_comments": 25
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 106,
+      "original_comments": 41
+    },
+    {
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 103,
+      "original_comments": 18
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 704.82 📉-2.1(-0.3%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1031609,
+      "summary": "今日 704.82 | 📉 -2.1(-0.3%) | 最高 707.33 最低 704.5 | 连涨 -7天 | 成交额 ¥3992万 | 成交量 1031609件 | 📈2022 ➡2521 📉2951"
+    }
+  ]
+}
