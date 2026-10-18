@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-18",
+  "commentary": "今天这B站热门榜，我一看就乐了——一边是“许愿池里的硬币藏着人间善意”，一边是“枪手携2500发弹药血洗商场”，中间还夹着个《使命召唤23》4K全流程通关。好家伙，B站这是把人间温情、现实暴力和虚拟枪战给你打包成一个套餐了，情绪过山车都不带系安全带的。\n\n最值得聊的是那条“许愿池”视频，295万播放，弹幕才855条。什么意思？大家都在默默看、默默投币，没人吵架。这年头能让网友安静下来的内容不多了，说明善意这东西，平时藏得深，一被戳中，谁都扛不住。反观那条枪手视频，5660条弹幕，评论区估计已经打成热窑了——现实里的悲剧永远比游戏里的通关更让人上头，但上头完了呢？该反思的反思，该吵的接着吵。\n\n还有那条“假装电影院检票员看路人的票”，205万播放。我寻思这年头大家是真闲，也是真缺乐子——花几十块钱买张票，被一个假检票员逗得哈哈笑，值了。生活嘛，有时候就需要这种没营养但管饱的快乐。\n\n**今日金句：许愿池里投的是硬币，弹幕里飞的是情绪，而B站热门榜，就是当代网友的精神心电图——忽高忽低，但一直没停。**",
+  "news": [
+    {
+      "title": "“这才是许愿池真正的意义，每一枚硬币都藏着人间善意”",
+      "url": "https://www.bilibili.com/video/BV16GJv6SEeE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:295.7万 | 弹幕:855 | UP主:醉心日推音乐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2957390,
+      "original_comments": 855
+    },
+    {
+      "title": "枪手携2500发弹药血洗商场！警员孤身迎战，80米外击毙！",
+      "url": "https://www.bilibili.com/video/BV1dCJe6zEgv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:269.4万 | 弹幕:5660 | UP主:红蓝守护者",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2694066,
+      "original_comments": 5660
+    },
+    {
+      "title": "【使命召唤23：现代战争4】4K 最高画质 全战役 全剧情流程通关攻略 战役模式 COD23-Call of Duty：Modern Warfare 4【完结】",
+      "url": "https://www.bilibili.com/video/BV1seJb63ENu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:266.0万 | 弹幕:2.9万 | UP主:11的游戏世界",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2660187,
+      "original_comments": 29100
+    },
+    {
+      "title": "长乐夜未央丨全新主题区域「未央城」即将上线",
+      "url": "https://www.bilibili.com/video/BV186Jq6uEFu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:253.6万 | 弹幕:2326 | UP主:燕云十六声官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2535802,
+      "original_comments": 2326
+    },
+    {
+      "title": "假装电影院检票员看路人的票",
+      "url": "https://www.bilibili.com/video/BV1bMJX6jEvP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:205.5万 | 弹幕:471 | UP主:dy远山的远",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2055070,
+      "original_comments": 471
+    },
+    {
+      "title": "花费上万！真人版弹丸论破开庭！",
+      "url": "https://www.bilibili.com/video/BV1Y2Je6BEDr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:201.2万 | 弹幕:1528 | UP主:哦呼w",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2011579,
+      "original_comments": 1528
+    },
+    {
+      "title": "手搓版迪迦奥特曼",
+      "url": "https://www.bilibili.com/video/BV1XJJ96oEXg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:178.6万 | 弹幕:1564 | UP主:3锅er",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1785972,
+      "original_comments": 1564
+    },
+    {
+      "title": "【独家】牧神记 第105集 屈山神殿",
+      "url": "https://www.bilibili.com/video/BV1WwJY6SEug",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:161.1万 | 弹幕:5549 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1610751,
+      "original_comments": 5549
+    },
+    {
+      "title": "红魔12 Pro+上手体验：终极游戏利器",
+      "url": "https://www.bilibili.com/video/BV1KMJt6gEhx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:101.6万 | 弹幕:1791 | UP主:极客湾Geekerwan",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1015552,
+      "original_comments": 1791
+    },
+    {
+      "title": "动态视频｜下大棋！英伟达的RTX Spark笔记本电脑，靠谱吗？",
+      "url": "https://www.bilibili.com/video/BV1HhnM62ER1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:75.5万 | 弹幕:1659 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 755071,
+      "original_comments": 1659
+    },
+    {
+      "title": "【盲人无障碍电影】冰雪奇缘第一部",
+      "url": "https://www.bilibili.com/video/BV1G5po6zECY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:67.4万 | 弹幕:85 | UP主:卡茨要加油",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 674438,
+      "original_comments": 85
+    },
+    {
+      "title": "🛳️杀死伪人🛳️",
+      "url": "https://www.bilibili.com/video/BV1czJB6fErF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.0万 | 弹幕:1224 | UP主:海市千帆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 580134,
+      "original_comments": 1224
+    },
+    {
+      "title": "《弟子不必不如师》",
+      "url": "https://www.bilibili.com/video/BV163Jv6nESE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:55.5万 | 弹幕:397 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 554598,
+      "original_comments": 397
+    },
+    {
+      "title": "这款游戏出现在21世纪还是太超前了",
+      "url": "https://www.bilibili.com/video/BV1nFJ66PE1K",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.6万 | 弹幕:5414 | UP主:某幻君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 446096,
+      "original_comments": 5414
+    },
+    {
+      "title": "不是 AI 特效！这才是《中国功夫》的魅力！",
+      "url": "https://www.bilibili.com/video/BV1MHJB63Emv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.2万 | 弹幕:841 | UP主:含亮老师",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 442016,
+      "original_comments": 841
+    },
+    {
+      "title": "全宇宙最team的一把救世主模式！！！",
+      "url": "https://www.bilibili.com/video/BV11YJQ6gEtY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.0万 | 弹幕:1381 | UP主:是橘长呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 439969,
+      "original_comments": 1381
+    },
+    {
+      "title": "我的天。。。。他真修出了罗汉相！",
+      "url": "https://www.bilibili.com/video/BV1GMnM6aEzJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.7万 | 弹幕:112 | UP主:荒草音乐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 256669,
+      "original_comments": 112
+    },
+    {
+      "title": "“真不一样了！”“我还有冠军AD我也没排”2026世界赛TOP20大评级",
+      "url": "https://www.bilibili.com/video/BV1Y8nu6KENd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:20.6万 | 弹幕:4477 | UP主:解说米勒",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 205516,
+      "original_comments": 4477
+    },
+    {
+      "title": "料酒去腥是骗局！五种肉类，各有专属去腥香料！",
+      "url": "https://www.bilibili.com/video/BV15VJ66sEsx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:15.0万 | 弹幕:136 | UP主:科普造物主",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 149951,
+      "original_comments": 136
+    },
+    {
+      "title": "我采访了五月天阿信",
+      "url": "https://www.bilibili.com/video/BV1henu6YE7y",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:13.1万 | 弹幕:1325 | UP主:雨哥到处跑",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 131299,
+      "original_comments": 1325
+    },
+    {
+      "title": "Batman: Arkham Collection",
+      "url": "https://store.steampowered.com/app/320795",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-85% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8600,
+      "original_comments": 0
+    },
+    {
+      "title": "Halo: The Master Chief Collection",
+      "url": "https://store.steampowered.com/app/376282",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "007 First Light",
+      "url": "https://store.steampowered.com/app/3768760",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "RuneScape: Dragonwilds",
+      "url": "https://store.steampowered.com/app/1374490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $21",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "LEGO® Batman™: Legacy of the Dark Knight",
+      "url": "https://store.steampowered.com/app/2215200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $49",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "over the hill",
+      "url": "https://store.steampowered.com/app/2929250",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $36",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Scam With Your Friends",
+      "url": "https://store.steampowered.com/app/4954910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 888,
+      "original_comments": 667
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 578,
+      "original_comments": 129
+    },
+    {
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 480,
+      "original_comments": 104
+    },
+    {
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 471,
+      "original_comments": 41
+    },
+    {
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 361,
+      "original_comments": 75
+    },
+    {
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 349,
+      "original_comments": 193
+    },
+    {
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 336,
+      "original_comments": 123
+    },
+    {
+      "title": "Making chicken transparent using Dorito dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 315,
+      "original_comments": 82
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 306,
+      "original_comments": 84
+    },
+    {
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 295,
+      "original_comments": 75
+    },
+    {
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 278,
+      "original_comments": 125
+    },
+    {
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 201,
+      "original_comments": 32
+    },
+    {
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 175,
+      "original_comments": 212
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 162,
+      "original_comments": 48
+    },
+    {
+      "title": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 156,
+      "original_comments": 52
+    },
+    {
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "url": "https://celphase.github.io/duck-pond/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 146,
+      "original_comments": 31
+    },
+    {
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 141,
+      "original_comments": 66
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "STAR WARS: Galactic Racer™",
+      "url": "https://store.steampowered.com/app/4078430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "WARDOGS",
+      "url": "https://store.steampowered.com/app/1867240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Castlevania: Belmont's Curse",
+      "url": "https://store.steampowered.com/app/4231820",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 706.41 📈+1.83(+0.26%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1027835,
+      "summary": "今日 706.41 | 📈 +1.83(+0.26%) | 最高 706.41 最低 704.15 | 连涨 1天 | 成交额 ¥4042万 | 成交量 1027835件 | 📈2080 ➡2523 📉2891"
+    }
+  ]
+}
