@@ -1,0 +1,637 @@
+{
+  "date": "2026-10-20",
+  "commentary": "今天这几条新闻放在一起看，简直是一出荒诞剧。先说美国禁DeepSeek这事——国土安全部下令把DeepSeek从联邦机构移除，理由是\"AI竞争\"。结果同一天DeepSeek宣布开源推理引擎，直接把门槛踩到地板上。你封你的，我开我的，这操作像极了小区门口贴告示\"禁止此门通行\"，结果人家转头把围墙拆了，你封了个寂寞。说白了，靠行政命令筑墙挡技术，挡得住采购单，挡不住开发者用脚投票。\n\n再看法国，马赛骚乱\"近乎末日\"，利摩日市政厅被烧到钟楼尖顶坍塌，超市冷柜还被黑客远程切到50度烤货架。一边是AI巨头争相承诺\"赠送股份\"塑造公众形象，一边是欧洲城市在火光里过万圣节。这对比太魔幻了——科技大佬忙着给自己贴金，现实世界的系统却在冒烟。\n\n最后说陶哲轩\"战时状态\"那条，一个顶级数学家被AI逼到这份上，比什么融资新闻都真实。技术狂奔的时候，没人问过跑道尽头是奖杯还是墙。\n\n**今日金句：封得住机构采购单，封不住开源代码；烧得塌市政厅钟楼，烧不掉人心里的火。**",
+  "news": [
+    {
+      "title": "美国以AI竞争为由禁止政府机构使用DeepSeek",
+      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "美国国土安全部下令将中国AI公司DeepSeek从大多数联邦政府机构中移除，中美AI主导权之争进一步升级。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "DeepSeek开源其推理引擎",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "DeepSeek宣布开源其推理引擎，进一步降低大模型部署门槛，引发开发者社区高度关注。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 960,
+      "original_comments": 329
+    },
+    {
+      "title": "日本成功发射火星卫星探测器MMX",
+      "url": "https://www.solidot.org/story?sid=85661",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "日本JAXA于20日凌晨从种子岛发射H3火箭，成功将MMX探测器送入轨道，计划带回火卫一土壤样本。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "陶哲轩谈AI冲击下数学的生存危机",
+      "url": "https://www.solidot.org/story?sid=85648",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "陶哲轩在UCLA研讨会上称自己处于'战时状态'，OpenAI发布350多项数学研究成果令数学家震惊。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国经济增长加速，AI热潮助推出口",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "出口增长帮助抵消国内消费疲软，但贸易紧张局势和AI前景不确定性仍给中国经济带来隐忧。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌云故障导致英国多家银行服务中断",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "谷歌云发生'电力事件'引发大规模宕机，英国数字银行Revolut等多家银行及网站受影响。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 130,
+      "original_comments": 54
+    },
+    {
+      "title": "法国马赛骚乱升级，局势近乎'末日'",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "法国第二大城市马赛在抗议演变为暴力骚乱后，正为更多动荡做准备，全国性混乱持续蔓延。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国利摩日市政厅遭纵火，钟楼尖顶坍塌",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "法国历史名城利摩日市政厅被纵火焚烧，钟楼尖顶在火焰中戏剧性坍塌，一名嫌疑人已被逮捕。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泽连斯基准备在奥斯陆与美方特使会谈",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "美国国务卿鲁比奥否认扣留情报导致乌方伤亡的指控，泽连斯基赴奥斯陆与美方特使展开会谈。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国数百家超市制冷系统遭网络攻击",
+      "url": "https://www.solidot.org/story?sid=85664",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "攻击者将法国数百家超市冷柜强制切换至除霜模式，部分设备温度高达50°C甚至起火，家乐福80家门店受影响。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "宁德时代三季报净利645亿元",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E4%B8%89%E5%AD%A3%E6%8A%A5%E5%87%80%E5%88%A9645%E4%BA%BF&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "宁德时代发布三季度财报，净利润达645亿元，业绩表现引发市场广泛关注。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克与Anthropic承诺向公众赠送股份",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "马斯克宣布将公开赠送股份，此前Anthropic承诺在上市前设立公益基金，AI巨头争相塑造公众形象。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "前OpenAI员工被控安装窃听设备，检方称有沙特支持",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "前OpenAI员工Alfozan被控在办公室安装录音设备，检方称其手机存有'Saudi Gov Docs'文件夹，保释被拒。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "挪威公司提议铺设绕过美国的海底光缆",
+      "url": "https://www.solidot.org/story?sid=85660",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Bulk Infrastructure提议建设全长逾6500公里的Leif Erikson光缆，从挪威直连加拿大以避开美国路由。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本探测器启程赴火星取回卫星土壤",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "一项雄心勃勃的太空任务发射升空，计划从火星卫星火卫一带回10克土壤样本至地球。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "工信部称部分车企产品验证不充分",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E7%A7%B0%E7%A1%AE%E6%9C%89%E9%83%A8%E5%88%86%E8%BD%A6%E4%BC%81%E4%BA%A7%E5%93%81%E9%AA%8C%E8%AF%81%E4%B8%8D%E5%85%85%E5%88%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "工信部指出确有部分车企存在产品验证不充分的问题，引发对新能源汽车质量与安全的关注。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "国家数据集团成立",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E5%9B%A2%E6%88%90%E7%AB%8B&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "国家数据集团正式成立，标志着中国在数据要素市场化配置和数字经济建设方面迈出重要一步。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国要求苹果开放支付技术",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国监管机构提议要求苹果扩大支付技术访问权限，可能催生新的数字钱包、钥匙和票务应用。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄籍男子涉嫌攻击伦敦医院系统在德国被捕",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "一名28岁俄罗斯男子被德国警方逮捕，涉嫌参与2024年攻击血液检测公司Synnovis的网络犯罪团伙。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚拟立法要求算法'关闭开关'",
+      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "澳大利亚政府计划保护社交媒体用户免受有毒算法推送困扰，赋予用户关闭个性化推荐的权力。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "WhatsApp帮助页面曾隐藏针对AI的秘密指令",
+      "url": "https://www.solidot.org/story?sid=85658",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "WhatsApp帮助页面被发现嵌入人眼不可见但LLM可读的隐藏指令，公司称系bug所致并已移除。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "全球四分之一数据中心位于水资源紧张地区",
+      "url": "https://www.solidot.org/story?sid=85663",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究显示全球四分之一数据中心位于每年至少一个月缺水地区，冷却用水与周边社区和农业形成竞争。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "网站开始对AI智能体关上大门",
+      "url": "https://www.solidot.org/story?sid=85649",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "随着AI智能体代用户浏览互联网，越来越多平台开始封锁智能体访问，引发关于开放网络未来的争论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "LinkedIn清理平台上的AI生成低质内容",
+      "url": "https://www.solidot.org/story?sid=85650",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "报告称LinkedIn四成长文由AI生成，平台正着手清理AI slop，维护内容质量。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Paddy Power裁员1400人，归咎博彩税上涨",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国博彩公司Paddy Power宣布裁员1400人，称政府上调线上博彩税是主因。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国每天约3000套房产降价出售",
+      "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "数据显示英国房产降价数量创15年新高，每天约3000套房产下调要价，楼市承压明显。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "朝鲜发布金正恩照片辟谣死亡传闻",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "朝鲜官方媒体发布金正恩与女儿的照片，此前有关其死亡的未经证实传闻再度流传。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿尔巴尼亚抗议者与警方冲突进入第七天",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "反政府示威持续升级，近300人受伤其中过半为警察，暴力冲突尚无缓和迹象。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "卢旺达总统的流亡批评者被发现斩首身亡",
+      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "流亡乌干达的前陆军军士长、知名YouTuber和歌手Robert Kabera被发现遭斩首身亡。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "南非比勒陀利亚附近数百人饮水中毒",
+      "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "超过400人（多为儿童）饮用受污染自来水后患病，居民被警告不要饮用自来水。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "两代菲尔兹奖得主对谈数学与AI",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BB%A3%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%AF%B9%E8%B0%88%E6%95%B0%E5%AD%A6%E4%B8%8EAI&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "两代菲尔兹奖得主围绕数学与人工智能展开对谈，探讨AI对数学研究范式的深刻影响。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "27岁宠物爱心博主感染罕见真菌离世",
+      "url": "https://s.weibo.com/weibo?q=27%E5%B2%81%E5%AE%A0%E7%89%A9%E7%88%B1%E5%BF%83%E5%8D%9A%E4%B8%BB%E6%84%9F%E6%9F%93%E7%BD%95%E8%A7%81%E7%9C%9F%E8%8F%8C%E7%A6%BB%E4%B8%96&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "一位27岁的宠物爱心博主因感染罕见真菌不幸离世，引发公众对罕见病原体感染的关注。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "王腾称希望雷军放我们一条生路",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%85%BE%E8%AF%B4%E5%B8%8C%E6%9C%9B%E9%9B%B7%E6%80%BB%E6%94%BE%E6%88%91%E4%BB%AC%E4%B8%80%E6%9D%A1%E7%94%9F%E8%B7%AF&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "王腾相关言论登上热搜，称希望雷总放我们一条生路，引发科技圈对小米内部竞争的讨论。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "艺人唐禹哲获刑1年7个月缓刑3年",
+      "url": "https://s.weibo.com/weibo?q=%E5%94%90%E7%A6%B9%E5%93%B2%E8%8E%B7%E5%88%911%E5%B9%B47%E4%B8%AA%E6%9C%88%E7%BC%93%E5%88%913%E5%B9%B4&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "艺人唐禹哲被判处有期徒刑1年7个月、缓刑3年，案件细节引发网友广泛关注。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "汇源果汁品牌与汇源集团分离",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E5%90%8E%E5%96%9D%E7%9A%84%E6%B1%87%E6%BA%90%E6%9E%9C%E6%B1%81%E4%B8%8D%E6%98%AF%E6%B1%87%E6%BA%90%E9%9B%86%E5%9B%A2%E7%9A%84&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "消息称以后喝的汇源果汁将不再属于汇源集团，品牌归属变动引发消费者关注。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究发现流行歌词情感表达日益减少",
+      "url": "https://www.solidot.org/story?sid=85647",
+      "source": "Solidot",
+      "score": 5,
+      "summary": "密歇根州立大学研究发现，无论跨世代还是同一音乐人生涯，流行乐歌词的情感色彩和社交导向均持续减弱。",
+      "categories": [
+        "科学",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "兔子曾是英国中世纪王室珍品",
+      "url": "https://www.solidot.org/story?sid=85657",
+      "source": "Solidot",
+      "score": 5,
+      "summary": "研究揭示兔子在英国中世纪是极其稀罕的珍稀物种，国王和诺曼贵族曾以活兔赏赐臣民。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "'维也纳投掷器'：发射两万根热狗的肉炮",
+      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+      "source": "Hacker News",
+      "score": 4,
+      "summary": "一台名为Der Viener Schlinger的肉炮装置曾发射超过两万根热狗，堪称工程学与荒诞的奇妙结合。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 32,
+      "original_comments": 12
+    },
+    {
+      "title": "我用仅一个电机造了一架无人机",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "source": "Hacker News",
+      "score": 4,
+      "summary": "一位创客仅用一个电机就成功造出可飞行的无人机，视频展示其巧妙设计与飞行效果。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 601,
+      "original_comments": 136
+    },
+    {
+      "title": "Weball：在网页上玩块魂",
+      "url": "https://www.funwithcomputervision.com/weball/",
+      "source": "Hacker News",
+      "score": 4,
+      "summary": "开发者打造Weball项目，让你可以在任意网站上体验经典游戏《块魂》的滚动粘附玩法。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 265,
+      "original_comments": 22
+    },
+    {
+      "title": "花10个月打造最像人类的国际象棋机器人",
+      "url": "https://mbuffett.com/posts/most-human-chess-bot",
+      "source": "Hacker News",
+      "score": 4,
+      "summary": "开发者耗时10个月构建出行为最接近人类的国际象棋AI，挑战传统引擎的完美主义路线。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 9,
+      "original_comments": 2
+    },
+    {
+      "title": "Asimov 1：可买到的最可定制人形机器人",
+      "url": "https://www.producthunt.com/products/asimov-1",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上架Asimov 1人形机器人，号称是市面上可购买的最可定制人形机器人产品。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Glance for Mac：把刘海变成动态岛",
+      "url": "https://www.producthunt.com/products/glance-for-mac",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "一款Mac应用将MacBook的刘海区域变成实时动态的'电影感岛屿'，为桌面增添趣味交互。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "bonds：给每个好友群聊配一个超能力AI朋友",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品bonds为每个好友聊天群加入拥有超能力的AI朋友，重新定义群聊社交体验。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Tiny Little Office：链接即文档的迷你办公套件",
+      "url": "https://www.producthunt.com/products/tiny-little-office",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "一款极简办公套件，核心理念是'链接就是文档'，为轻量协作提供全新思路。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中文已死：为什么我们越来越不敢好好说话？",
+      "url": "https://www.bilibili.com/video/BV1Xdnc6jEbL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "科普视频探讨当代中文表达日益贫乏与回避的现象，引发对语言退化和沟通焦虑的广泛共鸣。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 293607,
+      "original_comments": 1176
+    },
+    {
+      "title": "法国影响力最大的八卦是什么？",
+      "url": "https://www.bilibili.com/video/BV1Vbnn6iEfG",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主小约翰可汗讲述法国历史上影响最大的八卦事件，以幽默方式科普'神奇组织'往事。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 1019999,
+      "original_comments": 10372
+    },
+    {
+      "title": "广东富二代辞职卖烧猪？",
+      "url": "https://www.bilibili.com/video/BV1kyJd6EERP",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "极速拍档探访一位辞职卖烧猪的广东富二代，记录其创业故事与美食日常。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 375429,
+      "original_comments": 2033
+    },
+    {
+      "title": "游客偷走拉斯维加斯火烈鸟被判有罪",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 4,
+      "summary": "一名游客在喝了三四十瓶啤酒后从火烈鸟酒店围栏中偷走火烈鸟Peachy，被判有罪但称无意伤害。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 711.5 📈+4.19(+0.59%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 892561,
+      "summary": "今日 711.5 | 📈 +4.19(+0.59%) | 最高 711.76 最低 704.81 | 连涨 1天 | 成交额 ¥4435万 | 成交量 892561件 | 📈2577 ➡2137 📉2780"
+    }
+  ]
+}
