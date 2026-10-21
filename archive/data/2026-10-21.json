@@ -1,0 +1,649 @@
+{
+  "date": "2026-10-21",
+  "commentary": "今天这几条新闻摆一块儿，我差点以为在看科幻小说合集。先说马斯克那个“超级合并”，特斯拉和SpaceX要合体？这大哥是真把商业当乐高玩了，两块积木咔一拼，火星上市、地球充电，市值直接冲出大气层。问题是股东们的心脏受得了吗？这哪是并购，这是给华尔街做压力测试。\n\n再看印度那家CA机构，私钥居然设成“4”。我没打错，就是个位数4。这安全级别跟我家WiFi密码“12345678”属于卧龙凤雏，区别是人家管着证书信任链。Chrome和苹果连夜拉黑，属于是给全世界上了一课：密码学再高深，也架不住有人拿“4”当护城河。建议这哥们儿下次直接用“password”，至少显得努力过。\n\n最后扫一眼苏丹那300多条人命和法国超市冰柜被黑到50度起火——一边是人命如草芥，一边是黑客把冷冻柜当烤箱玩。这世界魔幻得让人喘不上气。哦对，还有咱们大厂豪掷350亿美元抢显卡，英伟达产能都跟不上。你看，有人在抢算力，有人在抢命，有人在抢修冰柜。\n\n**今日金句：当私钥是“4”，合并是“玩”，显卡是“囤”，这世界最缺的不是算力，是常识。**",
+  "news": [
+    {
+      "title": "马斯克确认考虑合并特斯拉与SpaceX",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "马斯克确认正考虑特斯拉与SpaceX的超级合并，两家公司已成立特别委员会评估，若成行将是史上最大规模并购。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国禁止政府机构使用中国DeepSeek",
+      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "美国以AI主导权竞争为由，将中国大模型DeepSeek从大多数联邦政府机构中移除禁用，中美AI博弈进一步升级。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "字节阿里腾讯订购逾350亿美元英伟达RTX PRO 5500",
+      "url": "https://www.solidot.org/story?sid=85668",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "字节跳动、阿里巴巴和腾讯合计订购超300万块、总值逾350亿美元的英伟达RTX PRO 5500显卡，英伟达称产能无法满足全部订单。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苏丹军方无人机袭击葬礼与燃料市场致300余人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "苏丹军方无人机袭击一辆载人前往葬礼的卡车及一处被指为快速支援部队供油的市場，造成300多人死亡，人道局势急剧恶化。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "网络安全机构警告PHP高危漏洞：网站须紧急更新或下线",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "PHP被曝两个评分9.2/10的高危漏洞，多国网络安全机构要求网站运营者立即打补丁，否则应暂停服务，荷兰国家网络安全中心已因此下线。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "联合国报告警告2050年全球升温或突破2°C",
+      "url": "https://www.solidot.org/story?sid=85673",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "联合国环境规划署《2026排放差距报告》警告，若不加快减排，本世纪中叶升温极可能突破2°C，需本十年末减排18%方能控制峰值。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度CA机构eMudhra私钥泄漏，密钥竟为数字4",
+      "url": "https://www.solidot.org/story?sid=85670",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "印度CA机构eMudhra八个中间证书私钥泄漏，私钥简单到仅为数字4等个位数，可秒级还原，Chrome与苹果已停止信任其证书。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚女议员遭驾车袭击失去双腿",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "澳大利亚一名女议员在一起涉嫌驾车蓄意袭击中失去双腿，43岁嫌犯被控多项罪名并首次出庭，事件引发广泛关注。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯释放美国公民Stephen Hubbard",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "74岁美国前教师Stephen Hubbard被俄方释放，特朗普称此次无需交换条件，正值美方特使在莫斯科会见普京。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国骚乱后社会分歧严重：该怪谁、该学什么",
+      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "法国多地爆发近代最严重骚乱后，社会各界对骚乱成因与教训争论不休，BBC记者分析法国正陷入深刻的分裂与反思。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本成功发射火星卫星探测器MMX",
+      "url": "https://www.solidot.org/story?sid=85661",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "日本JAXA从种子岛发射H3火箭10号机，成功将火星卫星探测计划MMX探测器送入预定轨道，计划从火卫一采样返回。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "十分之一Tor出口节点被用于中间人攻击",
+      "url": "https://www.solidot.org/story?sid=85666",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "攻击者利用其控制的333个Tor出口节点协同拦截SSH连接发动中间人攻击，约占全部出口节点的十分之一，Tor网络安全性受质疑。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国数百家超市制冷系统遭黑客攻击升温起火",
+      "url": "https://www.solidot.org/story?sid=85664",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "黑客将法国数百家超市的冷藏冷冻柜强制切换至除霜模式，部分设备温度高达50°C并起火，家乐福等80家门店受影响，漏洞已存在数月。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta被勒令公布授权BT下载盗版电子书的员工名单",
+      "url": "https://www.solidot.org/story?sid=85672",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "因训练AI从影子图书馆下载大量盗版电子书，Meta被法院勒令公布相关员工名单，其辩称决策为团队共识、无法确定具体责任人。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国通胀升至3.5%，创一年新高",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国9月CPI同比升至3.5%（前值3.1%），主因汽柴油价格上涨，叠加政府借贷高企，财政大臣预算案面临严峻约束。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普因加拿大关税政策被起诉",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "最新法律挑战指控白宫对加拿大加征关税超越法定权限，并对美国企业造成直接损害，关税政策合法性再受司法审视。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国经济增长提速，AI热潮助推出口",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "出口强劲帮助抵消国内消费疲软，中国经济增速加快，AI产业热潮成为重要推力，但贸易摩擦与AI泡沫疑虑仍构成隐忧。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌云故障致英国多家银行与网站瘫痪",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "谷歌云服务中断波及英国多家银行和网站，数字银行Revolut受影响最重，大量用户无法使用银行服务，故障现已修复。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国要求苹果开放支付技术",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国监管机构提议要求苹果扩大支付技术开放程度，可能催生新的数字钱包、数字钥匙和票务应用，打破苹果NFC垄断。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "挪威公司提议铺设绕过美国的海底光缆",
+      "url": "https://www.solidot.org/story?sid=85660",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "挪威Bulk Infrastructure提议建设全长逾6500公里的Leif Erikson海底光缆，从挪威直连加拿大以绕开美国路由，项目尚处提议阶段。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：全球四分之一数据中心位于水资源紧张地区",
+      "url": "https://www.solidot.org/story?sid=85663",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "《环境科学与技术》期刊研究显示，全球四分之一数据中心位于每年至少一个月用水需求超过供应的地区，冷却耗水与社区农业争水。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌开源TorchTPU：面向TPU的原生PyTorch后端",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "谷歌开源TorchTPU，为TPU提供原生PyTorch后端支持，有望降低开发者在谷歌AI芯片上训练模型的迁移门槛。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 365,
+      "original_comments": 77
+    },
+    {
+      "title": "PHP将发布紧急安全版本修复两个高危CVE",
+      "url": "https://news-web.php.net/php.announce/509",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "PHP安全团队宣布将发布紧急更新修复CVE-2026-109618与-109619两个高危漏洞，建议所有PHP站点运营者提前准备即时升级。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 1293,
+      "original_comments": 536
+    },
+    {
+      "title": "印度CA机构eMudhra中间证书遭攻破",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "eMudhra中间CA私钥泄漏事件持续发酵，攻击者可伪造任意域名证书，主流浏览器已撤销信任，暴露证书体系薄弱环节。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 1083,
+      "original_comments": 422
+    },
+    {
+      "title": "OpenAI CEO奥特曼赢得妹妹诉讼驳回",
+      "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "美国地区法官因Ann Altman拒绝接受独立医学检查而驳回其对兄长Sam Altman的诉讼，奥特曼家族纠纷暂告段落。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "检方称涉监听OpenAI高管的前员工获沙特支持",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "被控在OpenAI高管处安装录音设备的前员工Alfozan被拒保释，检方称其手机存有“沙特政府文件”文件夹并与沙特王室成员联络。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克与Anthropic承诺向公众赠送股份",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "马斯克宣布股份赠送计划，此前Anthropic承诺在重磅上市前设立公益基金，AI巨头竞相以公众持股争取舆论支持。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿尔伯塔公投决定留在加拿大，卡尼获对特朗普筹码",
+      "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "阿尔伯塔以压倒性票数决定留在加拿大，为总理卡尼提供政治资本，得以专注重塑经济并应对特朗普的贸易压力。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普与泽连斯基分歧依旧，尽管出现新乐观情绪",
+      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "泽连斯基在挪威与美方特使威特科夫拥抱，但分析认为这难以消除乌方对美国政策的疑虑，美乌在和平方案上仍存分歧。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "openEuler在欧洲开源峰会推广国产Linux发行版",
+      "url": "https://www.solidot.org/story?sid=85674",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "在开源欧盟峰会上，华为EulerOS社区版openEuler成为展位最大的Linux发行版项目，由开放原子开源基金会托管，加速出海。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI生成劣质游戏充斥Steam新品节",
+      "url": "https://www.solidot.org/story?sid=85667",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "Steam新品节被大量廉价AI生成游戏淹没，玩家呼吁Valve引入AI过滤器一键屏蔽，昔日发掘独立佳作的盛会正被“AI垃圾”侵蚀。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "OpenBSD 8.0正式发布",
+      "url": "https://www.solidot.org/story?sid=85665",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "OpenBSD发布8.0版本，amd64内核虚拟地址空间扩至512GB，arm64支持休眠，riscv64支持向量扩展，创始人称默认安装仅两次远程漏洞。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "涉监听OpenAI高管工程师手机存“沙特政府文件”",
+      "url": "https://www.solidot.org/story?sid=85662",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "沙特籍工程师Alfozan涉监听OpenAI高管案细节曝光，其手机存有“Saudi Gov Docs”文件夹，检方称动机或涉个人商业与沙特国家利益。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "影视飓风深度评测iPhone Duo：折叠1万次会坏吗",
+      "url": "https://www.bilibili.com/video/BV1xrnz6gEVD",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "影视飓风对苹果首款双屏折叠机iPhone Duo进行深度评测，实测折叠1万次后的耐用性表现，引发大量关注与讨论。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 322488,
+      "original_comments": 5391
+    },
+    {
+      "title": "荣耀Robot Phone上手体验：形态特别",
+      "url": "https://www.bilibili.com/video/BV1kLnw6YE6e",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "极客湾上手体验荣耀Robot Phone，这款形态独特的机器人手机实际使用体验如何，成为国产手机创新形态的新尝试。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 558672,
+      "original_comments": 364
+    },
+    {
+      "title": "何同学首发体验iPhone Duo：能折，但代价呢",
+      "url": "https://www.bilibili.com/video/BV1XynB6EEiM",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "何同学发布iPhone Duo首发体验视频，探讨苹果双屏折叠设计的实用性与妥协代价，与多家科技博主评测形成话题热潮。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 106330,
+      "original_comments": 1175
+    },
+    {
+      "title": "英国通胀与借贷数据凸显财政大臣预算难题",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "BBC记者分析称，最新通胀与政府借贷数据揭示财政大臣在预算案收尾阶段面临的多重约束，增税与减支空间均受限。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Paddy Power裁员1400人，归咎博彩税上调",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "博彩公司Paddy Power宣布裁员1400人，将原因归于政府上年度预算中对在线赌场和体育博彩加税，行业就业受冲击。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "游客偷走拉斯维加斯火烈鸟被判有罪",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 5,
+      "summary": "一名游客在喝了三四十瓶啤酒后从火烈鸟酒店围栏中偷走火烈鸟Peachy，庭审称并无恶意，最终被判有罪，成为一则荒诞社会新闻。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "朝鲜发布金正恩照片，死亡传闻为何反复出现",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 5,
+      "summary": "朝鲜官媒发布金正恩与女儿的照片，回应外界未经证实的死亡传闻，BBC分析此类谣言为何屡屡出现又反复被辟谣。",
+      "categories": [
+        "国际",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Show HN：带审批流程的《模拟城市》",
+      "url": "https://permit.petercai.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "开发者推出恶搞版《模拟城市》，玩家建任何东西都需走繁琐审批流程，以幽默方式讽刺现实中的城市规划官僚主义。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 850,
+      "original_comments": 391
+    },
+    {
+      "title": "Agent Pets：把编程智能体养成Chrome里的宠物",
+      "url": "https://www.producthunt.com/products/agent-pets",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Agent Pets将AI编程智能体变成住在Chrome每个页面上的宠物，让写代码的过程多了一份养成乐趣。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "ZX Spectrum Next笔记本电脑",
+      "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "复古计算爱好者推出ZX Spectrum Next笔记本形态，将经典8位家用电脑改造成便携设备，唤起一代人的怀旧记忆。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 105,
+      "original_comments": 19
+    },
+    {
+      "title": "在Apple Vision Pro上玩《超级马里奥64》",
+      "url": "https://www.pagetable.com/303",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "有开发者展示了在Apple Vision Pro上运行经典游戏《超级马里奥64》的方法，将怀旧游戏与空间计算设备结合，颇具趣味。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 79,
+      "original_comments": 23
+    },
+    {
+      "title": "女子在冰箱养蛙现吃现捞",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%86%B0%E7%AE%B1%E5%85%BB%E8%9B%99%E7%8E%B0%E5%90%83%E7%8E%B0%E6%8D%9E&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "一则“女子在冰箱里养青蛙、现吃现捞”的微博热搜引发网友围观，成为当日最具话题性的生活类趣闻。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "赵本山版《绅士Gentle Man》鬼畜视频走红",
+      "url": "https://www.bilibili.com/video/BV1NwJZ6dEiF",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主将赵本山与《绅士》混剪的鬼畜视频播放近百万，成为当日热门二创内容，展现网友的脑洞创意。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 970279,
+      "original_comments": 609
+    },
+    {
+      "title": "《三过车门而不入》B站热门",
+      "url": "https://www.bilibili.com/video/BV1n7nF6WEco",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主“伤心欲茄222”的搞笑视频《三过车门而不入》播放超144万，以生活化幽默桥段引发大量弹幕互动。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 1449411,
+      "original_comments": 683
+    },
+    {
+      "title": "鼻塞疏通教程走红B站",
+      "url": "https://www.bilibili.com/video/BV1rFnc69EFU",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主“农民老杨”发布的鼻塞疏通教程播放近96万，实用生活小技巧在换季时节引发大量网友收藏转发。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 959922,
+      "original_comments": 187
+    },
+    {
+      "title": "意大利梭子蟹泛滥，芬兰家人跨国抓蟹做全蟹宴",
+      "url": "https://www.bilibili.com/video/BV13Cni6GEm7",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主记录芬兰家人赴意大利抓泛滥梭子蟹、制作辣炒葱姜白灼全蟹宴的过程，播放超23万，兼具美食与生态趣闻。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 236263,
+      "original_comments": 3567
+    },
+    {
+      "title": "TwinMind for Desktop：Mac与Windows会议转录与听写",
+      "url": "https://www.producthunt.com/products/twinmind",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品TwinMind桌面版支持在Mac和Windows上转录会议并随处听写，主打跨平台AI语音助手体验。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 712.67 📈+0.97(+0.14%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 921419,
+      "summary": "今日 712.67 | 📈 +0.97(+0.14%) | 最高 712.81 最低 711.7 | 连涨 2天 | 成交额 ¥4069万 | 成交量 921419件 | 📈2398 ➡2340 📉2756"
+    }
+  ]
+}
