@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-22",
+  "commentary": "今天这盘面，CSGO大盘712.44，跌了0.46，跌幅0.06%——兄弟们，这叫跌吗？这叫心电图抖了一下。成交额4124万，成交量一百多万件，涨跌家数2195比2862，空头略占上风但也没打出什么气势。说白了就是横盘磨人，饰品市场现在跟周一早上的打工人一样，人在工位，魂还没到。想抄底的别急，想跑路的也别慌，这种缩量微跌的行情，最擅长的就是把急性子熬成佛系。\n\n再看Product Hunt，今天一水儿的AI工具，我挑两个说。一个是Playad，“雇你的AI营销团队”——好家伙，现在连营销团队都能AI化了，就是不知道AI会不会也半夜改需求、周五下班前提方案。另一个是Kalender Sync，把日历接进ChatGPT和Claude，这个我觉得是真刚需，AI再聪明，不知道你周三下午有会也是白搭。剩下的什么AI视频、AI客服、AI提醒，密度高到我怀疑今天是不是AI界的集体团建。\n\n我的态度很明确：工具越来越聪明，人别越来越懒。AI替你干活可以，替你思考不行。\n\n今日金句：大盘磨的是耐心，AI卷的是效率，唯独你的脑子，得自己留着用。",
+  "news": [
+    {
+      "title": "🆕 Archivist",
+      "url": "https://www.producthunt.com/products/archivist",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            From messy filenames to shareable collections\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Dadan",
+      "url": "https://www.producthunt.com/products/dadan",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            One AI video workspace for recordings, meetings and guides\n          \n          \n            Discussion\n            |\n            Link",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Playad",
+      "url": "https://www.producthunt.com/products/playad",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Hire your AI Marketing Team\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Loom Record for agents",
+      "url": "https://www.producthunt.com/products/loom",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Hit record and hand off to AI, now in the new Loom app\n          \n          \n            Discussion\n            |\n            Link\n   ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 DeepCell",
+      "url": "https://www.producthunt.com/products/deepcell",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Your deadline survival kit for office work\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Concierge by Juniors AI",
+      "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Omni-channel AI-first customer support (6 months free)\n          \n          \n            Discussion\n            |\n            Link\n   ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Kalender Sync",
+      "url": "https://www.producthunt.com/products/kalender-sync",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Sync your calendars & connect them to ChatGPT, Claude & Co.\n          \n          \n            Discussion\n            |\n            Lin",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Sponkly",
+      "url": "https://www.producthunt.com/products/sponkly",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Live voice translation for chats, calls, meetings & YouTube\n          \n          \n            Discussion\n            |\n            Lin",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Kugel Ear",
+      "url": "https://www.producthunt.com/products/kugelaudio",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Speech-to-text that only asks when it's unsure\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Radaric",
+      "url": "https://www.producthunt.com/products/radaric",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            AI feed reader that learns your editorial taste\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 CutBay",
+      "url": "https://www.producthunt.com/products/cutbay",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            AI Video Agent: Turn Anything into Videos via Chat\n          \n          \n            Discussion\n            |\n            Link\n       ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Notif",
+      "url": "https://www.producthunt.com/products/notif-2",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            AI for your Apple Reminders\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Voxelo 3.0",
+      "url": "https://www.producthunt.com/products/voxelo-ai",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Phone video to photoreal 3D & JSON-LD in an hour\n          \n          \n            Discussion\n            |\n            Link\n         ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Bits",
+      "url": "https://www.producthunt.com/products/bits-4",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            An open-source personal agent that gets you things done\n          \n          \n            Discussion\n            |\n            Link\n  ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 ElevenLabs Realtime Translation",
+      "url": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Turn live speech into translated audio as people talk\n          \n          \n            Discussion\n            |\n            Link\n    ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Claude Duet",
+      "url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Proactive agent that understands what needs your attention\n          \n          \n            Discussion\n            |\n            Link",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Mistral Voxtral 3",
+      "url": "https://www.producthunt.com/products/mistral-7b",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Mistral’s speech models for transcription, TTS and agents\n          \n          \n            Discussion\n            |\n            Link\n",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Claire Mail",
+      "url": "https://www.producthunt.com/products/claire-mail",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Email, calendar and reminders, in one fast app\n          \n          \n            Discussion\n            |\n            Link\n          ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 Causo",
+      "url": "https://www.producthunt.com/products/causo",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Find leads beyond database filters with AI research & MCP\n          \n          \n            Discussion\n            |\n            Link\n",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🆕 heal.dev",
+      "url": "https://www.producthunt.com/products/heal-dev",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": " | \n            Find bugs and vulnerabilities code review misses\n          \n          \n            Discussion\n            |\n            Link\n         ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "FINAL FANTASY RESONANCE",
+      "url": "https://store.steampowered.com/app/3259780",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $36",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Resident Evil Requiem",
+      "url": "https://store.steampowered.com/app/3764200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $49",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "007 First Light",
+      "url": "https://store.steampowered.com/app/3768760",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Scam With Your Friends",
+      "url": "https://store.steampowered.com/app/4954910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "over the hill",
+      "url": "https://store.steampowered.com/app/2929250",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Granblue Fantasy: Relink",
+      "url": "https://store.steampowered.com/app/881020",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "Otherside Tapes: Favela",
+      "url": "https://store.steampowered.com/app/4977840",
+      "source": "Steam",
+      "score": 5,
+      "summary": "Steam 热销游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "《影之刃零》最终预告",
+      "url": "https://www.bilibili.com/video/BV1AHnB6NEhM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:287.1万 | 弹幕:6881 | UP主:影之刃零",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2871087,
+      "original_comments": 6881
+    },
+    {
+      "title": "再鉴定几个洛克王国的精灵",
+      "url": "https://www.bilibili.com/video/BV1mfn662EHb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:62.3万 | 弹幕:1602 | UP主:无穷小亮的科普日常",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 623300,
+      "original_comments": 1602
+    },
+    {
+      "title": "别点！点了就会变成白毛控！",
+      "url": "https://www.bilibili.com/video/BV18Unm6qEPo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.6万 | 弹幕:255 | UP主:真栗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 266438,
+      "original_comments": 255
+    },
+    {
+      "title": "燕云×1818黄金眼 | 长乐未央，天下无诈",
+      "url": "https://www.bilibili.com/video/BV1nHn16EEkL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:73.4万 | 弹幕:1629 | UP主:燕云十六声官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 733539,
+      "original_comments": 1629
+    },
+    {
+      "title": "折1万次，会坏吗？iPhone Duo深度评测",
+      "url": "https://www.bilibili.com/video/BV1xrnz6gEVD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:424.5万 | 弹幕:5.5万 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4244527,
+      "original_comments": 54928
+    },
+    {
+      "title": "用寂静岭的画风打开《周处除三害》【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1Cdni6AEQB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.6万 | 弹幕:392 | UP主:ByeByeBlueBerry",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 465710,
+      "original_comments": 392
+    },
+    {
+      "title": "韩国要收回美国权力指挥美军",
+      "url": "https://www.bilibili.com/video/BV1kTnr63EBF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:91.3万 | 弹幕:6926 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 913294,
+      "original_comments": 6926
+    },
+    {
+      "title": "小伙靠3D打印，硬刚义乌工厂？",
+      "url": "https://www.bilibili.com/video/BV1kTnz6YEJx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:210.1万 | 弹幕:251 | UP主:徐大叔知产观",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100948,
+      "original_comments": 251
+    },
+    {
+      "title": "小狗如奶油般融化…",
+      "url": "https://www.bilibili.com/video/BV1Agnr6gEPk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:176.3万 | 弹幕:382 | UP主:小花花的每一天_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1763379,
+      "original_comments": 382
+    },
+    {
+      "title": "《代号：神不言》UFSH2026参会实机技术演示&实机特别影像",
+      "url": "https://www.bilibili.com/video/BV1fNnv6EEon",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:76.7万 | 弹幕:425 | UP主:代号神不言",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 766921,
+      "original_comments": 425
+    },
+    {
+      "title": "《最绝望の守门员》",
+      "url": "https://www.bilibili.com/video/BV1g5nk6xEWk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:82.3万 | 弹幕:691 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 822892,
+      "original_comments": 691
+    },
+    {
+      "title": "《见面》",
+      "url": "https://www.bilibili.com/video/BV1CFnz6MEmW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:132.1万 | 弹幕:378 | UP主:韩波格_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1321164,
+      "original_comments": 378
+    },
+    {
+      "title": "全球总决赛回忆挑战，谁是LPL全能王？【开麦了LPL】",
+      "url": "https://www.bilibili.com/video/BV1QQnk6FEzG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:62.7万 | 弹幕:2151 | UP主:英雄联盟赛事",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 626809,
+      "original_comments": 2151
+    },
+    {
+      "title": "因为智商不够，从EXO到生子，被打脸的嘴硬的一生。【黄子韬徐艺洋官宣生子】",
+      "url": "https://www.bilibili.com/video/BV1WSnC6nEnF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:59.2万 | 弹幕:2546 | UP主:一只吐槽圆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 591792,
+      "original_comments": 2546
+    },
+    {
+      "title": "这个视频到底加了什么看得我哈特软软",
+      "url": "https://www.bilibili.com/video/BV14nJo69E6w",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:42.5万 | 弹幕:475 | UP主:又松卷",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 425400,
+      "original_comments": 475
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 712.44 📉-0.46(-0.06%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1054304,
+      "summary": "今日 712.44 | 📉 -0.46(-0.06%) | 最高 713.94 最低 712.41 | 连涨 -1天 | 成交额 ¥4124万 | 成交量 1054304件 | 📈2195 ➡2437 📉2862"
+    }
+  ]
+}
