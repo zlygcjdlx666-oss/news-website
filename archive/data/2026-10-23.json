@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-23",
+  "commentary": "今天这盘CSGO，710.65，跌了0.22%，成交额3941万——兄弟们，这数字看着像心电图，可惜是往下走的那种。连涨两天就喘上了，成交量94万件，涨的2008家、跌的3132家，这哪是大盘，这是韭菜田里开收割机。饰品市场现在是“稳中带凉”，别急着抄底，底下面还有地下室。\n\n再说B站，《人间异想计划》22分钟实机首曝，583万播放，弹幕才5922条——这比例不对劲啊。播放量这么高弹幕这么少，要么是观众看傻了忘了打字，要么是“实机”俩字把人骗进去然后集体沉默。国产游戏画饼我见多了，22分钟实机要是真能打，我磊哥直播倒立喝奶茶。\n\n还有《时光代理人》第三季第12集，120万播放、2.3万弹幕，这才是真·国创排面。弹幕比某些游戏实机多四倍，说明观众是真在追、真在聊，不是点进去就划走。国创现在缺的不是流量，是这种“看完还想说两句”的黏性。\n\n今日金句：CSGO大盘教你做人——连涨两天不算牛，跌起来才知道谁在裸泳；B站热门教你识货——弹幕比播放诚实，沉默的数据都是水分。",
+  "news": [
+    {
+      "title": "《人间异想计划》22分钟实机首曝｜间章：如果之事与未践之约",
+      "url": "https://www.bilibili.com/video/BV1Ranw6DEYW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:583.4万 | 弹幕:5922 | UP主:人间异想计划",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5834407,
+      "original_comments": 5922
+    },
+    {
+      "title": "这个更新有亿点水——《伊莫》S1赛季「逐风启程・下」10月29日开启！",
+      "url": "https://www.bilibili.com/video/BV15ins67ERt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:217.8万 | 弹幕:869 | UP主:伊莫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2178223,
+      "original_comments": 869
+    },
+    {
+      "title": "为了妈妈，全校老师同学最团结的一集",
+      "url": "https://www.bilibili.com/video/BV1yjnm68Eud",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:159.8万 | 弹幕:363 | UP主:良田田田",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1597561,
+      "original_comments": 363
+    },
+    {
+      "title": "【独家】时光代理人 第三季 PartOne 第12集 欢迎回家【8月国创】",
+      "url": "https://www.bilibili.com/video/BV14Snw6gEjL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:120.8万 | 弹幕:2.3万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1207817,
+      "original_comments": 23207
+    },
+    {
+      "title": "不减136斤不结婚，减掉还赢25万美金",
+      "url": "https://www.bilibili.com/video/BV1XZn26rE8x",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:120.3万 | 弹幕:2521 | UP主:野兽先生MrBeast",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1202504,
+      "original_comments": 2521
+    },
+    {
+      "title": "传统口技表演《大闹天宫》",
+      "url": "https://www.bilibili.com/video/BV1xwnE6jEUZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.7万 | 弹幕:1398 | UP主:BBoxer酋长",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1037128,
+      "original_comments": 1398
+    },
+    {
+      "title": "《战术小队：破晓攻势》丨启明测试，招募开启",
+      "url": "https://www.bilibili.com/video/BV1iUnH6rEJw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:100.9万 | 弹幕:242 | UP主:战术小队破晓攻势",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1009232,
+      "original_comments": 242
+    },
+    {
+      "title": "再听已是曲中人",
+      "url": "https://www.bilibili.com/video/BV1TGnm6AEib",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:97.6万 | 弹幕:923 | UP主:房飞逢-从头开始",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 975825,
+      "original_comments": 923
+    },
+    {
+      "title": "【空枪】命由我赌，福自己抢",
+      "url": "https://www.bilibili.com/video/BV1dQn261EGH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:91.6万 | 弹幕:5572 | UP主:哔哩哔哩电影",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 916390,
+      "original_comments": 5572
+    },
+    {
+      "title": "别点！点了就会变成白毛控！",
+      "url": "https://www.bilibili.com/video/BV18Unm6qEPo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:88.9万 | 弹幕:448 | UP主:真栗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 889318,
+      "original_comments": 448
+    },
+    {
+      "title": "救命，东北农村婚礼大席吃这么豪吗？",
+      "url": "https://www.bilibili.com/video/BV1Mwn16wECL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:62.8万 | 弹幕:1791 | UP主:日食记",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 627764,
+      "original_comments": 1791
+    },
+    {
+      "title": "第五人格女团 PerVade 正式出道！首支单曲《Undefined》MV公开！",
+      "url": "https://www.bilibili.com/video/BV1htnt6nENM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:56.9万 | 弹幕:804 | UP主:网易第五人格手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 568807,
+      "original_comments": 804
+    },
+    {
+      "title": "《星溯》首曝PV丨重启停滞的轮回",
+      "url": "https://www.bilibili.com/video/BV1tjJ16dEJt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.6万 | 弹幕:664 | UP主:星溯制作委员会",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 526381,
+      "original_comments": 664
+    },
+    {
+      "title": "影视飓风员工，开什么车？",
+      "url": "https://www.bilibili.com/video/BV16inH6SEvM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:51.7万 | 弹幕:7940 | UP主:极速拍档",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 516510,
+      "original_comments": 7940
+    },
+    {
+      "title": "三年之期已到，恭迎世一上归位！【第14集】",
+      "url": "https://www.bilibili.com/video/BV1pnn46KEdy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.9万 | 弹幕:9926 | UP主:九夜听风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 469439,
+      "original_comments": 9926
+    },
+    {
+      "title": "人工耳蜗里的声音，到底是什么样的？",
+      "url": "https://www.bilibili.com/video/BV14Enb6LEDe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:33.1万 | 弹幕:655 | UP主:亿点点不一样",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 330815,
+      "original_comments": 655
+    },
+    {
+      "title": "《明日方舟：终末地》「丹青渡」 幕后创作分享",
+      "url": "https://www.bilibili.com/video/BV1psnb63Epe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.1万 | 弹幕:5296 | UP主:明日方舟终末地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 291419,
+      "original_comments": 5296
+    },
+    {
+      "title": "舒服了",
+      "url": "https://www.bilibili.com/video/BV1uant6mERH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:20.7万 | 弹幕:3922 | UP主:杨齐家_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 207198,
+      "original_comments": 3922
+    },
+    {
+      "title": "四人行，必有一怂蛋",
+      "url": "https://www.bilibili.com/video/BV1M1np6YE8c",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:19.8万 | 弹幕:2412 | UP主:徐大虾咯",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 197792,
+      "original_comments": 2412
+    },
+    {
+      "title": "😨\"后室里的乌鲁鲁3\"😰",
+      "url": "https://www.bilibili.com/video/BV1Honn67ENm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:16.9万 | 弹幕:1328 | UP主:沙雕Sanscul",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 169360,
+      "original_comments": 1328
+    },
+    {
+      "title": "The Walking Dead: The Telltale Definitive Series",
+      "url": "https://store.steampowered.com/app/1449690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Resident Evil Requiem",
+      "url": "https://store.steampowered.com/app/3764200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $49",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "over the hill",
+      "url": "https://store.steampowered.com/app/2929250",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Quad9 to exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1272,
+      "original_comments": 428
+    },
+    {
+      "title": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $36",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Scam With Your Friends",
+      "url": "https://store.steampowered.com/app/4954910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 639,
+      "original_comments": 134
+    },
+    {
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "url": "https://news.ycombinator.com/item?id=50193416",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 619,
+      "original_comments": 232
+    },
+    {
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 602,
+      "original_comments": 257
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 566,
+      "original_comments": 175
+    },
+    {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 500,
+      "original_comments": 501
+    },
+    {
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 470,
+      "original_comments": 173
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 433,
+      "original_comments": 199
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 381,
+      "original_comments": 229
+    },
+    {
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 332,
+      "original_comments": 304
+    },
+    {
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 330,
+      "original_comments": 148
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 258,
+      "original_comments": 270
+    },
+    {
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 243,
+      "original_comments": 153
+    },
+    {
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 150,
+      "original_comments": 89
+    },
+    {
+      "title": "How does Fable 5.1 hide messages in images?",
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 136,
+      "original_comments": 45
+    },
+    {
+      "title": "Jank – The native Clojure dialect with seamless C++ interop",
+      "url": "https://jank-lang.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 127,
+      "original_comments": 18
+    },
+    {
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 122,
+      "original_comments": 51
+    },
+    {
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "url": "https://arxiv.org/abs/2603.01092",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 116,
+      "original_comments": 46
+    },
+    {
+      "title": "This I Believe (1952)",
+      "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 109,
+      "original_comments": 47
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 710.65 📉-1.56(-0.22%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 947769,
+      "summary": "今日 710.65 | 📉 -1.56(-0.22%) | 最高 713.22 最低 710.44 | 连涨 -2天 | 成交额 ¥3941万 | 成交量 947769件 | 📈2008 ➡2354 📉3132"
+    }
+  ]
+}
