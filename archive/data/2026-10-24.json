@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-24",
+  "commentary": "今天这盘面，CSGO大盘跌了0.32%，连着涨三天终于喘口气，成交额还有4085万——兄弟们，饰品市场比A股还坚挺，至少人家跌得明明白白，不像某些板块跌了还跟你讲“长期向好”。不过1953涨2383跌，说明韭菜们开始互道傻逼了，接盘的永远觉得自己不是最后一棒。\n\nB站这边，野兽先生那“不减136斤不结婚”的视频394万播放，我点进去看了一眼——好家伙，减肥还带对赌协议的，赢25万美金。这哪是励志，这是把人生当期货炒啊！减不下来婚都结不了，减下来直接财务自由，建议A股上市公司学学，业绩不达标高管不许减持，你看他们还敢不敢摆烂。\n\n最戳我的是那个“借大圣威名，护我痴儿周全”，128万播放98条弹幕——弹幕少得可怜，说明大家都看沉默了。这年头，家长得靠齐天大圣给娃撑腰，比什么学区房都心酸。国创《凡人修仙传》388万播放稳如老狗，说明什么？说明大家宁愿看韩立苟着修仙，也不想看现实里那些“元婴期”领导画饼。\n\n今日金句：**减肥能赢25万美金，修仙能躲现实一劫，唯独CSGO饰品跌了，你才知道什么叫真正的“凡人”**。",
+  "news": [
+    {
+      "title": "不减136斤不结婚，减掉还赢25万美金",
+      "url": "https://www.bilibili.com/video/BV1XZn26rE8x",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:394.7万 | 弹幕:4516 | UP主:野兽先生MrBeast",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3946556,
+      "original_comments": 4516
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第21集【总第197集】",
+      "url": "https://www.bilibili.com/video/BV1ojn86vEeU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:388.9万 | 弹幕:5.6万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3888714,
+      "original_comments": 55831
+    },
+    {
+      "title": "人工耳蜗里的声音，到底是什么样的？",
+      "url": "https://www.bilibili.com/video/BV14Enb6LEDe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:304.4万 | 弹幕:2506 | UP主:亿点点不一样",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3044353,
+      "original_comments": 2506
+    },
+    {
+      "title": "《绝区零》先导演示丨挽昼",
+      "url": "https://www.bilibili.com/video/BV1U3n46GEzY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:304.0万 | 弹幕:1.7万 | UP主:绝区零",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3039916,
+      "original_comments": 16786
+    },
+    {
+      "title": "人性、欲望与奇观，自驾拉斯维加斯，现实夜之城什么样？",
+      "url": "https://www.bilibili.com/video/BV12qnt6VEM1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:204.4万 | 弹幕:3604 | UP主:超Carry的柴西",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2044262,
+      "original_comments": 3604
+    },
+    {
+      "title": "《纯阳真气》",
+      "url": "https://www.bilibili.com/video/BV111na6WExX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:160.1万 | 弹幕:767 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600995,
+      "original_comments": 767
+    },
+    {
+      "title": "《星溯》首曝PV丨重启停滞的轮回",
+      "url": "https://www.bilibili.com/video/BV1tjJ16dEJt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:152.3万 | 弹幕:1491 | UP主:星溯制作委员会",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1522857,
+      "original_comments": 1491
+    },
+    {
+      "title": "11天，我们干掉祸害20多年的传销头目！",
+      "url": "https://www.bilibili.com/video/BV1oTnW67E4n",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:137.8万 | 弹幕:2352 | UP主:温柔JUNZ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1378387,
+      "original_comments": 2352
+    },
+    {
+      "title": "【纪录片】中国救护2 06 此去仍有光",
+      "url": "https://www.bilibili.com/video/BV1oXnx6sEnc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:132.8万 | 弹幕:939 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1327839,
+      "original_comments": 939
+    },
+    {
+      "title": "“借大圣威名，护我痴儿周全”",
+      "url": "https://www.bilibili.com/video/BV1KMnw6ME1Z",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:128.8万 | 弹幕:98 | UP主:弦音逸尘",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1287545,
+      "original_comments": 98
+    },
+    {
+      "title": "派大星跳伞是什么梗【梗指南】",
+      "url": "https://www.bilibili.com/video/BV11kn86mEjg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:128.4万 | 弹幕:1855 | UP主:梗指南",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1284364,
+      "original_comments": 1855
+    },
+    {
+      "title": "半夜偷吃的生死体验 3.0",
+      "url": "https://www.bilibili.com/video/BV1SAn168E4B",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:116.8万 | 弹幕:1141 | UP主:蚊小九er",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1168335,
+      "original_comments": 1141
+    },
+    {
+      "title": "中国贝爷刘教去海岛感受南国美食",
+      "url": "https://www.bilibili.com/video/BV12ent6LE2V",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:113.5万 | 弹幕:3745 | UP主:刘教户外",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1134739,
+      "original_comments": 3745
+    },
+    {
+      "title": "招豆包当客服也是没救了",
+      "url": "https://www.bilibili.com/video/BV1UznF6MEop",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:101.3万 | 弹幕:3213 | UP主:王高兴A",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1012776,
+      "original_comments": 3213
+    },
+    {
+      "title": "【抢先版】保姆一家躲进通风管道，偷吃偷窃想占我别墅，我假意封死通风口，用法律狠狠惩治这群坏人！",
+      "url": "https://www.bilibili.com/video/BV1fxnm6pE3B",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:89.2万 | 弹幕:540 | UP主:小樱樱漫馆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 891819,
+      "original_comments": 540
+    },
+    {
+      "title": "😨\"后室里的乌鲁鲁3\"😰",
+      "url": "https://www.bilibili.com/video/BV1Honn67ENm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:87.9万 | 弹幕:2735 | UP主:沙雕Sanscul",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 878804,
+      "original_comments": 2735
+    },
+    {
+      "title": "为什么我说英语?                                                                【手搓动画大赛】",
+      "url": "https://www.bilibili.com/video/BV1a3nh6ZE7n",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:66.4万 | 弹幕:609 | UP主:厄尔尼诺-ARCdraws",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 664346,
+      "original_comments": 609
+    },
+    {
+      "title": "「缘缘庄爱情故事」 - 终末地",
+      "url": "https://www.bilibili.com/video/BV15Fnb6bERd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.3万 | 弹幕:823 | UP主:拔总w",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 652834,
+      "original_comments": 823
+    },
+    {
+      "title": "“非洲优等生”成功密码是什么？天降猛男的得与失【中非04丨卢旺达】",
+      "url": "https://www.bilibili.com/video/BV1Wsnb63Eo5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:53.6万 | 弹幕:1644 | UP主:小王Albert",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 536216,
+      "original_comments": 1644
+    },
+    {
+      "title": "《话术博弈》如何优雅的套出对方的真心话？",
+      "url": "https://www.bilibili.com/video/BV1yVn16XEz7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.0万 | 弹幕:74 | UP主:站在外面的Q",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 240361,
+      "original_comments": 74
+    },
+    {
+      "title": "The Walking Dead: The Telltale Definitive Series",
+      "url": "https://store.steampowered.com/app/1449690",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "url": "https://store.steampowered.com/app/2183900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "url": "https://store.steampowered.com/app/1091500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition",
+      "url": "https://store.steampowered.com/app/32470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://store.steampowered.com/app/2138330",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gray Zone Warfare",
+      "url": "https://store.steampowered.com/app/2479810",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $26",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "over the hill",
+      "url": "https://store.steampowered.com/app/2929250",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1411,
+      "original_comments": 237
+    },
+    {
+      "title": "Tape to Tape",
+      "url": "https://store.steampowered.com/app/1566200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $36",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Scam With Your Friends",
+      "url": "https://store.steampowered.com/app/4954910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 949,
+      "original_comments": 568
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 930,
+      "original_comments": 601
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 805,
+      "original_comments": 241
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 432,
+      "original_comments": 228
+    },
+    {
+      "title": "Dessa: Conversation Model trained only on speech",
+      "url": "https://block.xyz/dessa",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 411,
+      "original_comments": 151
+    },
+    {
+      "title": "The Real Kevin Bacon",
+      "url": "https://pudding.cool/2026/10/kevin-bacon/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 327,
+      "original_comments": 79
+    },
+    {
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 249,
+      "original_comments": 71
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 237,
+      "original_comments": 37
+    },
+    {
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 210,
+      "original_comments": 68
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 208,
+      "original_comments": 51
+    },
+    {
+      "title": "Bringing uv and ty together",
+      "url": "https://astral.sh/blog/uv-ty-integration",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 188,
+      "original_comments": 53
+    },
+    {
+      "title": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 181,
+      "original_comments": 69
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 146,
+      "original_comments": 26
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 145,
+      "original_comments": 132
+    },
+    {
+      "title": "The Quake Fan who built the map editor everybody uses",
+      "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 139,
+      "original_comments": 17
+    },
+    {
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 122,
+      "original_comments": 35
+    },
+    {
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 104,
+      "original_comments": 69
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 708.01 📉-2.3(-0.32%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1002396,
+      "summary": "今日 708.01 | 📉 -2.3(-0.32%) | 最高 710.71 最低 707.56 | 连涨 -3天 | 成交额 ¥4085万 | 成交量 1002396件 | 📈1953 ➡2383 📉3158"
+    }
+  ]
+}
