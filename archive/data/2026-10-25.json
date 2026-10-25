@@ -1,0 +1,651 @@
+{
+  "date": "2026-10-25",
+  "commentary": "今天最该上热搜的，不是马斯克又画合并大饼，而是PHP这个“史上最严重漏洞”。全球网站连夜下线更新，活像互联网集体拉肚子——平时吹得天花乱坠的AI，第一件大功劳居然是给全世界程序员送加班套餐。你说讽刺不讽刺？AI还没替人类写明白代码，先替人类发现了代码有多烂。\n\n再看法国，1300多人被捕，抗议烧到欧洲多国。马克龙现在估计连照镜子的心情都没了——退休金改革改出一锅粥，街头比议会还热闹。西方那套“示威即民主”的叙事，一到自家后院就变成催泪瓦斯和手铐，双标得连滤镜都碎了。\n\n最魔幻的是加州富豪税：扎克伯格前脚威胁“征税我就跑路”，后脚就跟Meta达成协议帮忙兜底。翻译一下就是——税可以交，但得让公司替我交。富豪的爱国，永远建立在股东买单的基础上。\n\n今日金句：AI查漏洞，人类补窟窿；富豪谈纳税，公司当钱包。",
+  "news": [
+    {
+      "title": "PHP 曝出史上最严重漏洞，全球网站紧急下线更新",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "AI 发现 PHP 编程语言存在关键安全漏洞，被称为有史以来最严重的 AI 发现漏洞，全球大量网站被迫下线紧急修复。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克称 SpaceX 曾限制乌克兰星链连接，服务已恢复",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "马斯克表示 SpaceX 曾限制乌克兰的星链连接，指责乌方违反服务条款将网络用于军事活动，目前服务已恢复。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国大规模抗议冲突升级，逾1300人被捕",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "法国多地爆发大规模示威，数十万人参与，抗议活动蔓延至其他欧洲国家，冲突导致超过1300人被捕。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "巴西大选投票开启，卢拉对决博索纳罗之子",
+      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "巴西选民前往投票站，现任总统卢拉寻求第四个任期，对手是入狱前总统博索纳罗之子弗拉维奥·博索纳罗。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克谋划 SpaceX 与特斯拉世纪大合并",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "马斯克表示两家公司合并将带来巨大收益，若成真将是史上最大规模合并案，引发市场高度关注。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "物理学家成功将单个反物质粒子囚禁一个月",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "研究人员首次将单个反物质粒子稳定囚禁长达一个月，为反物质研究和基础物理学开辟新可能。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 317,
+      "original_comments": 91
+    },
+    {
+      "title": "奥巴马中期选举为民主党站台，猛烈抨击特朗普",
+      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "奥巴马在中期选举竞选活动中称此次选举是遏制本届政府荒谬行为的最后最佳机会，公开抨击特朗普。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国投资1亿英镑建全球首个AI生物安全实验室",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国财政大臣将在预算案中公布AI支出计划，投资1亿英镑建立全球首个AI生物安全实验室以加强防御。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国媒体影视艺术行业流失20万岗位，AI影响几何？",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "美国媒体、电影和艺术领域已流失约20万个工作岗位，业界激烈讨论人工智能在其中扮演的角色。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 400,
+      "original_comments": 409
+    },
+    {
+      "title": "中期选举临近，白宫放宽部分加拿大商品关税",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "美国宣布自10月30日起对部分加拿大商品降低关税，同时对地毯等商品加征关税，被视为选举前的政策调整。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加州选民或将公投征收全球首个亿万富翁税",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "加州选民即将决定是否对超级富豪征税数十亿美元用于改善医疗，若通过将成为全球首个亿万富翁税。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "扎克伯格与 Meta 达成协议，助其支付加州富豪税",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Meta 与扎克伯格达成协议帮助其承担可能的加州富豪税，此前他曾威胁因财富税退出该州。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Cerebras 部署万亿参数级 AI 模型",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "Cerebras 宣布成功部署万亿参数规模的人工智能模型，展示其在超大规模 AI 计算领域的突破能力。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 220,
+      "original_comments": 69
+    },
+    {
+      "title": "以色列大选日将关闭西岸过境点，镇压行动升级",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "以色列国防军宣布在周二选举前限制巴勒斯坦工人流动，将于选举日关闭西岸过境点，局势持续紧张。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "西藏巴青县发生5.7级地震",
+      "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E5%8E%BF5.7%E7%BA%A7%E5%9C%B0%E9%9C%87&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "西藏巴青县发生5.7级地震，目前震区情况正在进一步核实中，引发社会广泛关注。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "尼日利亚东北部枪手袭击村庄，至少10人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "尼日利亚东北部武装分子杀害至少10名村民并洗劫商铺，警方正在搜寻其他伤亡者，死亡人数可能上升。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "金饰克价最多跌近500元",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E6%9C%80%E5%A4%9A%E8%B7%8C%E8%BF%91500%E5%85%83&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "国内金饰价格大幅回调，每克最多下跌近500元，引发消费者和投资者对黄金市场走势的高度关注。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "央视曝光AI虚拟人哭着卖惨带货乱象",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9DAI%E4%BA%BA%E5%93%AD%E7%9D%80%E5%8D%96%E6%83%A8%E5%B8%A6%E8%B4%A7&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "央视揭露利用AI生成虚拟人物以哭诉卖惨方式进行直播带货的乱象，引发对AI内容监管的讨论。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "恒大清盘人要求哈佛退回未使用捐款",
+      "url": "https://s.weibo.com/weibo?q=%E6%81%92%E5%A4%A7%E6%B8%85%E7%9B%98%E4%BA%BA%E8%A6%81%E6%B1%82%E5%93%88%E4%BD%9B%E9%80%80%E5%9B%9E%E6%9C%AA%E4%BD%BF%E7%94%A8%E6%8D%90%E6%AC%BE&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "恒大清盘人向哈佛大学提出要求，追回未使用的捐款资金，反映恒大债务清算工作的持续推进。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "尼康摄影大赛获奖者因AI痕迹被取消资格",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "尼康摄影比赛获奖作品被科学家发现存在AI生成迹象，主办方随后取消该获奖者资格，引发摄影界热议。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 34,
+      "original_comments": 4
+    },
+    {
+      "title": "印度工人拍摄自己的工作视频用于训练AI",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "印度工人被付费拍摄自己的工作过程，这些视频素材被用于训练人工智能模型，折射AI数据采集新趋势。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Google 资助全美最大虚拟电厂，为数据中心腾电力",
+      "url": "https://www.solidot.org/story?sid=85701",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Google 资助美国最大虚拟电厂项目，通过激励家庭和企业高峰少用电，为数据中心释放约1070兆瓦电力容量。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "远古病毒可能阻碍黑猩猩演化出类人大脑",
+      "url": "https://www.solidot.org/story?sid=85702",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究发现约400万年前的逆转录病毒PTERV1可能阻碍了黑猩猩演化出与人类相似的大脑，揭示演化新机制。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：撸狗有助于抵抗下一次压力",
+      "url": "https://www.solidot.org/story?sid=85703",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究邀请64名狗主人及宠物进行实验，发现抚摸狗能帮助人更好地应对压力，身体接触是关键机制。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Cloudflare 开源多阶段安全审计 AI 技能工具",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "Cloudflare 发布 security-audit-skill，为编码智能体提供多阶段安全审计能力，单日获近2900星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源项目 VoiceStudio：完全本地的 ElevenLabs 替代品",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "VoiceStudio 开源本地语音工具，支持声音克隆、视频配音、听写转录及有声书制作，覆盖646种语言。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源 AI Agent 项目 cindy 开箱即用",
+      "url": "https://github.com/makecindy/cindy",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "TypeScript 开源项目 cindy 提供开箱即用的 AI Agent，主打“想到就能做到”，单日获677星。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "TradingAgents：多智能体 LLM 金融交易框架",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目 TradingAgents 构建多智能体大模型金融交易框架，探索AI在量化交易中的协作应用。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Local Wikipedia：只收录你步行半小时内事物的维基百科",
+      "url": "https://edjefferson.com/localwiki/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "一个创意项目打造“本地维基百科”，仅收录距离你半小时步行范围内的地点与事物，重新定义附近探索。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 1611,
+      "original_comments": 250
+    },
+    {
+      "title": "我们构建软件时应更有野心",
+      "url": "https://danluu.com/ambitious/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Hacker News 热文呼吁开发者对软件构建抱有更大野心，引发关于技术边界与工程文化的热烈讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 507,
+      "original_comments": 442
+    },
+    {
+      "title": "二十国混战：速通复盘中土网友对线大战",
+      "url": "https://www.bilibili.com/video/BV1tcHK6pEZo",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主复盘中国与土耳其网友在网络上爆发的多国混战对线事件，播放量超百万，弹幕1.7万。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 1056280,
+      "original_comments": 16974
+    },
+    {
+      "title": "自驾拉斯维加斯：现实中的夜之城是什么样？",
+      "url": "https://www.bilibili.com/video/BV12qnt6VEM1",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "UP主自驾探访拉斯维加斯，以人性、欲望与奇观为线索，展现现实版“夜之城”的真实面貌，播放超400万。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 4053819,
+      "original_comments": 6021
+    },
+    {
+      "title": "UP主为全国所有省份创作《love me》",
+      "url": "https://www.bilibili.com/video/BV1w2Hw6KE1j",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主为全国每个省份分别创作《love me》版本，创意十足引发共鸣，播放量突破400万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 4008810,
+      "original_comments": 17294
+    },
+    {
+      "title": "消防车与校车谁的路权更大？",
+      "url": "https://www.bilibili.com/video/BV14cHP6yEYj",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "UP主科普消防车与校车路权优先级问题，解答日常交通疑惑，播放近400万，引发网友讨论。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 3952550,
+      "original_comments": 2446
+    },
+    {
+      "title": "AI MV大赛：赵本山版《Dangerous》脑洞大开",
+      "url": "https://www.bilibili.com/video/BV17pHK6ME2u",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "UP主用AI制作赵本山演绎迈克尔·杰克逊《Dangerous》的MV，虚构“不存在的联欢晚会”，创意爆笑。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 729460,
+      "original_comments": 1092
+    },
+    {
+      "title": "开源项目 microduck：一只微型双足鸭子机器人",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "Rust 开源项目 microduck 打造一只微型双足鸭子机器人，造型可爱，单日获657星，兼具趣味与技术。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Penta：把90年代五碟CD换碟机搬上iPhone",
+      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt 新品 Penta 在 iPhone 上复刻90年代五碟CD换碟机的复古体验，唤起怀旧情怀。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "pawl：拉一下爪子启动的极简 Mac 专注计时器",
+      "url": "https://www.producthunt.com/products/pawl",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt 新品 pawl 是一款极简 Mac 专注计时器，通过“拉爪子”的趣味交互启动，设计小巧可爱。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Badgey：把 iPhone 变成面向全场的电子名牌",
+      "url": "https://www.producthunt.com/products/badgey",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt 新品 Badgey 可将 iPhone 变成面向房间的电子名牌，适合会议与社交场合，创意实用。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "圣赫勒拿5便士硬币上的190岁巨龟乔纳森",
+      "url": "https://de.numista.com/9866",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "圣赫勒拿岛5便士硬币上印有约190岁的巨龟乔纳森，它是世界上最长寿的陆地动物，成为当地象征。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 126,
+      "original_comments": 39
+    },
+    {
+      "title": "日本木鱼花（鲣节）是如何制作的",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一段介绍日本传统食材木鱼花（鲣节）制作工艺的视频，展示从鲣鱼到发酵熏干刨片的完整过程。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 81,
+      "original_comments": 21
+    },
+    {
+      "title": "96岁奶奶拥有1500万粉丝：TikTok上的银发网红",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "多位高龄奶奶在TikTok走红，其中96岁的Grandma Droniak拥有1500万粉丝，展现银发族社交媒体新势力。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧莱雅：减肥药正影响美妆护肤销售",
+      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "欧莱雅CEO表示GLP-1类减肥药的广泛使用对美妆护肤行业产生重要影响，成为不可忽视的市场现象。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国预算案：不提高所得税的四种筹款方式",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国财政大臣或需筹集资金扩大财政空间，BBC核查梳理了在不提高所得税前提下的四种可能筹款方案。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国预算案将拨款10亿英镑建社会保障住房",
+      "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国预算案将包含10亿英镑用于社会性和可负担住房，使十年住房计划总资金超过400亿英镑。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "肯尼亚出现第二例埃博拉死亡病例",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "肯尼亚一名65岁女性成为该国第二例埃博拉死亡患者，她是首例从刚果（金）入境患者的密切家庭成员。",
+      "categories": [
+        "国际",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "希特勒山顶别墅“鹰巢”发生火灾，一男子被捕",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "德国纳粹独裁者希特勒的阿尔卑斯山别墅“鹰巢”发生火灾，约200名应急人员参与灭火，一名男子被捕。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源项目 hallmark：为 AI 编码工具提供反“AI味”设计技能",
+      "url": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源项目 hallmark 为 Claude Code、Cursor 等 AI 编码工具提供反“AI味”设计技能，单日获1359星。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "开源紫微斗数排盘引擎上线",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "TypeScript 开源项目 ziwei-doushu 基于倪海厦《天纪》体系，提供完整紫微斗数排盘算法、四化系统与古籍数据。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "三星被指用 TensorFlow Lite 模型追踪用户",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "有研究指出三星在960x540图像上运行 TensorFlow Lite 模型用于用户追踪，引发隐私担忧与讨论。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 99,
+      "original_comments": 45
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 705.82 📉-1.74(-0.25%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 978218,
+      "summary": "今日 705.82 | 📉 -1.74(-0.25%) | 最高 708.2 最低 705.22 | 连涨 -4天 | 成交额 ¥3889万 | 成交量 978218件 | 📈1806 ➡2618 📉3070"
+    }
+  ]
+}
