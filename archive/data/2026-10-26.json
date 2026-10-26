@@ -1,0 +1,674 @@
+{
+  "date": "2026-10-26",
+  "commentary": "今天最魔幻的新闻，是Anthropic一边敲钟上市，一边喊“AI可能要毁灭人类”。兄弟，你这是卖刀之前先提醒买家“这刀可能砍到你”，然后转头把刀卖了个好价钱？科技巨头们加码投资的动作可一点没手软——嘴上全是风险，账上全是估值。这套路我熟，跟烟盒上印“吸烟有害健康”一个逻辑，印得越醒目，卖得越起劲。\n\n另一边，AI还真干了件正经事：从PHP里刨出个潜伏多年的严重漏洞，全球紧急打补丁。你看，AI还没毁灭人类，先帮人类堵了个窟窿——这算不算“灾难性风险”的预演？我看更像灾难性打工。英国那边更绝，AI部长说政府系统里扫出500个新漏洞。好家伙，AI既是安检员又是纵火犯，查出来的漏洞够不够它自己再写500个？\n\n最后说个没人爱听但必须说的：中国老年抚养比首次超过少儿抚养比。这不是统计数字，是每个年轻人肩上实打实的重量。AI再能上市，也替不了你给爸妈挂号。\n\n今日金句：AI忙着上市和找漏洞，人类忙着变老——这场竞赛，目前人类输得很稳定。",
+  "news": [
+    {
+      "title": "Anthropic警告AI对人类存在'灾难性风险'，即将上市",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "Anthropic在重磅上市前警告AI可能对人类构成'灾难性风险'，将成为首家真正意义上的AI上市公司，科技巨头持续加码AI投资。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "PHP爆出严重安全漏洞，引发全球网络安全紧急响应",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "AI发现PHP编程语言中长期隐藏的严重漏洞，触发罕见的全球网络安全紧急响应，多国政府和企业紧急修复系统。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "卢拉在巴西大选中逆转获胜，赢得第四个任期",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "巴西左翼现任总统卢拉在首轮落后右翼对手弗拉维奥·博索纳罗的情况下逆转胜选，成功赢得第四个总统任期。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "塞尔维亚资深领导人武契奇败选，学生抗议运动获胜",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "执政12年的塞尔维亚民粹主义领导人武契奇承认败选，学生领导的抗议运动赢得大选，民众上街庆祝。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "深度分裂的以色列迎来关键大选",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "经历三年地区战争后，深度分裂的以色列迎来关键选举，这场选战被视为关乎国家未来走向的重要对决。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国投资1亿英镑建设'全球首个'AI生物安全实验室",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国财政大臣将在预算案中宣布投入1亿英镑建设全球首个AI生物安全实验室，以加强英国在AI领域的防御能力。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI部长称政府系统发现500个新漏洞",
+      "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国AI部长透露，在政府系统中发现了500个新的安全漏洞，凸显AI在网络安全审查中的双刃剑效应。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿尔及利亚向尼日尔派兵，为1973年以来首次海外部署",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "阿尔及利亚将向尼日尔派遣军队，保护靠近利比亚边境的北部能源设施，这是该国自1973年以来首次海外军事部署。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "委内瑞拉反对派领袖马查多结束流亡回国",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "委内瑞拉反对派领袖玛丽亚·马查多在流亡数月后返回国内，此前一个月美国政府扣押了委内瑞拉总统马杜罗。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic提交S-1上市文件",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "AI公司Anthropic正式提交S-1文件启动上市进程，成为首家真正意义上的AI上市公司，引发科技界广泛关注。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 580,
+      "original_comments": 528
+    },
+    {
+      "title": "数据中心反对声浪日益高涨",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "数据中心是数字世界的命脉，但其噪音和环境影响引发越来越多社区反对，BBC深入探讨数据中心扩张带来的争议。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Google在芬兰砍伐千余英亩森林后狼群进村",
+      "url": "https://www.solidot.org/story?sid=85706",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "Google为建数据中心在芬兰砍伐25万棵树、清理1300英亩森林，导致猎物减少，狼群被迫进入附近村庄觅食。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲夏季热浪导致逾5万城市居民死亡",
+      "url": "https://www.solidot.org/story?sid=85708",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "今年夏天欧洲热浪肆虐，多地气温超40°C，德国1.6万人、西班牙5100人等死亡，城市居民死亡总数逾5万。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "2025年中国老年抚养比首次超过少儿抚养比",
+      "url": "https://www.solidot.org/story?sid=85707",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "2025年中国65岁以上人口占比15.9%，首次超过0-14岁人口的15.1%，老年抚养比达23.1%，人口老龄化加速。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Google修改隐私条款，将Gmail和照片数据用于个性化广告",
+      "url": "https://www.solidot.org/story?sid=85698",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "Google新隐私政策于10月16日生效，允许将Gmail和相册数据用于个性化广告，引发用户隐私担忧。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "IGN给出10分满分，《影之刃零》评测：武侠朋克传奇",
+      "url": "https://www.bilibili.com/video/BV19bHK6AEBD",
+      "source": "B站热门",
+      "score": 8,
+      "summary": "IGN中国给予《影之刃零》10分满分评价，称其为'武侠朋克传奇'，国产游戏再获国际权威媒体高度认可。",
+      "categories": [
+        "娱乐",
+        "产品"
+      ],
+      "original_score": 1557552,
+      "original_comments": 9726
+    },
+    {
+      "title": "巴西股市触发熔断",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E8%82%A1%E5%B8%82%E8%A7%A6%E5%8F%91%E7%86%94%E6%96%AD&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "受大选结果影响，巴西股市剧烈波动触发熔断机制，市场对卢拉连任反应强烈。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "内存条出现有价无市，价格倒挂",
+      "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%AD%98%E6%9D%A1%E6%9C%89%E4%BB%B7%E6%97%A0%E5%B8%82&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "内存条市场出现有价无市和价格倒挂现象，反映存储芯片供需失衡，引发行业和消费者广泛关注。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "多所高校将通过数字人民币发放工资",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%B0%86%E9%80%9A%E8%BF%87%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8F%91%E5%B7%A5%E8%B5%84&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "多所高校宣布将通过数字人民币发放教职工工资，标志着数字人民币在公共服务场景的应用进一步扩大。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国风光装机量突破20亿千瓦",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E9%A3%8E%E5%85%89%E8%A3%85%E6%9C%BA%E9%87%8F%E7%AA%81%E7%A0%B420%E4%BA%BF%E5%8D%83%E7%93%A6&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "中国风电和光伏发电装机总量突破20亿千瓦，清洁能源转型取得重大里程碑，继续领跑全球可再生能源发展。",
+      "categories": [
+        "财经",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家重现古罗马分色玻璃的光学奇迹",
+      "url": "https://www.solidot.org/story?sid=85713",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "英国谢菲尔德大学科学家成功复现公元四世纪罗马Lycurgus杯的分色玻璃特性，将金银纳米颗粒嵌入玻璃实现变色效果。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究首次揭示丹尼索瓦人的长相",
+      "url": "https://www.solidot.org/story?sid=85700",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "中科院研究人员首次揭示神秘古人类丹尼索瓦人的形态共性，为理解这一已灭绝人类支系提供了重要线索。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "远古病毒可能阻碍黑猩猩演化出类人大脑",
+      "url": "https://www.solidot.org/story?sid=85702",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究发现约400万年前的逆转录病毒PTERV1可能阻碍了黑猩猩演化出与人类相似的大脑，揭示人类与黑猩猩差异的关键因素。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "梵高《星月夜》可能描绘的是真实夜空",
+      "url": "https://www.solidot.org/story?sid=85697",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究认为梵高1889年名画《星月夜》可能描绘的是1889年7月22日法国普罗旺斯的真实夜空，而非纯粹的想象。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "深水地平线漏油事件16年后海洋仍未恢复",
+      "url": "https://www.solidot.org/story?sid=85705",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "2010年BP深水地平线漏油事故泄漏约1.34亿加仑原油，16年后墨西哥湾深海生态系统仍未恢复。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Google资助虚拟电厂为数据中心腾电力",
+      "url": "https://www.solidot.org/story?sid=85701",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Google资助美国最大虚拟电厂项目，通过激励家庭和企业高峰少用电，在PJM电网释放1070MW容量供数据中心使用。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Systemd正式支持Rust程序开发",
+      "url": "https://www.solidot.org/story?sid=85710",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Systemd宣布支持用Rust语言开发程序，末端组件已可用Rust编写，但核心C代码暂无移植计划。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Netflix用户观看量和应用打开量双双下降",
+      "url": "https://www.solidot.org/story?sid=85711",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "内部数据显示Netflix订户观看量和每月应用打开天数均下降，公司通过涨价和扩展播客、体育直播应对增长停滞。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美光桃园厂工会否决奖金方案",
+      "url": "https://www.solidot.org/story?sid=85699",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "美光桃园厂工会投票否决公司新利润分享方案，警告可能采取进一步集体行动，两厂工会代表1.2万名员工。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "老干妈日销售额从万元跌至千元",
+      "url": "https://s.weibo.com/weibo?q=%E8%80%81%E5%B9%B2%E5%A6%88%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E4%BB%8E%E4%B8%87%E5%85%83%E8%B7%8C%E8%87%B3%E5%8D%83%E5%85%83&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "老干妈日销售额从万元大幅下滑至千元，引发市场对这家国民辣酱品牌经营状况和品牌老化的广泛讨论。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "富士康曝苹果为保供放宽质检标准",
+      "url": "https://s.weibo.com/weibo?q=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E6%9B%9D%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BF%9D%E4%BE%9B%E6%94%BE%E5%AE%BD%E8%B4%A8%E6%A3%80%E6%A0%87%E5%87%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "富士康内部爆料称苹果为保证供货量放宽了产品质检标准，引发消费者对产品质量的担忧。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果发布新款iPad mini，搭载OLED屏幕",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E6%AC%BEiPadmini%E5%8F%91%E5%B8%83&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "苹果发布新款iPad mini，首次搭载OLED屏幕，引发科技圈和消费者广泛关注。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普绿卡收紧政策考验印度科技工作者的美国梦",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "移民限制收紧和科技公司削减外籍招聘，使美国居留权对许多印度科技工作者而言渐行渐远。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加州选民或将对亿万富翁征收'全球首个'财富税",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "加州选民即将决定是否对超级富豪征收数十亿美元财富税，用于改善医疗保健，扎克伯格已获Meta协议协助支付。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中期选举临近，白宫放宽部分加拿大商品关税",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "随着中期选举临近，美国自10月30日起放宽部分加拿大商品关税，同时对地毯等商品加征关税。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "驻日美军士兵因谋杀和抢劫被起诉",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "驻日美军士兵Devin Jacob Ballard因在日本谋杀并抢劫一名女性被起诉，案件在日本引发强烈愤慨。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "刚果(金)护士响应埃博拉警报时遭袭身亡",
+      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "刚果(金)一名护士在响应埃博拉警报时遭当地青年袭击身亡，袭击者指控医护人员污染水源并传播埃博拉。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯将主办入侵乌克兰以来首个奥运联合会世界赛事",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "国际举重联合会成为自俄乌冲突以来首个选择俄罗斯主办世界锦标赛的奥运联合会，引发争议。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "沈阳发生地震",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E5%9C%B0%E9%9C%87&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "沈阳发生地震，引发当地居民关注和社交媒体热议，具体震级和影响尚待官方进一步通报。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "潘展乐100米混合泳夺金",
+      "url": "https://s.weibo.com/weibo?q=%E6%BD%98%E5%B1%95%E4%B9%90100%E6%B7%B7%E9%87%91%E7%89%8C&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "中国游泳名将潘展乐在100米混合泳项目中夺得金牌，继续展现出色的竞技状态。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "我们应当对构建的软件更有野心",
+      "url": "https://danluu.com/ambitious/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News热帖讨论软件开发应有更大野心，引发734条评论，反思当前软件工程的局限与潜力。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 853,
+      "original_comments": 734
+    },
+    {
+      "title": "观鸟能重塑大脑并延缓认知衰退",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "研究表明观鸟活动能够重塑大脑神经连接，有助于延缓认知衰退，为老年人认知健康提供新思路。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 270,
+      "original_comments": 112
+    },
+    {
+      "title": "奥地利哈尔施塔特发现铁器时代盐矿建筑群",
+      "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "考古学家在奥地利哈尔施塔特地下发现铁器时代盐矿开采建筑群，为研究古代盐业贸易提供重要实物证据。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 100,
+      "original_comments": 47
+    },
+    {
+      "title": "布朗大学学生绘制支撑AI的全球隐藏劳动力地图",
+      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "布朗大学学生绘制了支撑AI产业背后的全球隐藏劳动力地图，揭示数据标注等底层工作的分布与现状。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 38,
+      "original_comments": 26
+    },
+    {
+      "title": "美司法部称总统应有权在eBay上出售机密",
+      "url": "https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "美国司法部在一份法律意见中主张总统应有权在eBay上出售机密信息，引发对行政权力边界的激烈争论。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 18,
+      "original_comments": 0
+    },
+    {
+      "title": "MiniMax发布M3.1 Flash模型，速度提升3倍成本降70%",
+      "url": "https://www.producthunt.com/products/minimax-4",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "MiniMax推出M3.1 Flash模型，面向AI代理场景速度提升3倍、成本降低70%，在Product Hunt引发关注。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "desigma：用Rust打造的免费Figma替代品",
+      "url": "https://www.producthunt.com/products/desigma",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "开发者推出基于Rust构建的免费设计工具desigma，作为Figma的替代方案，在Product Hunt亮相。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Flipcorder：把iPhone变成1991年的摄像机",
+      "url": "https://www.producthunt.com/products/flipcorder",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Flipcorder应用将iPhone模拟成1991年的便携摄像机，每天只能录制一盘'磁带'，复古体验引发怀旧热潮。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Show HN：TitleArt——让文字回到1997年的风格",
+      "url": "https://titleart.dvy.io/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "开发者推出TitleArt工具，可将文字渲染成1997年网页风格的复古艺术字，唤起早期互联网的怀旧记忆。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 325,
+      "original_comments": 61
+    },
+    {
+      "title": "影视飓风用70台iPhone打造'子弹时间'捕捉时空球",
+      "url": "https://www.bilibili.com/video/BV1aFno6wETM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "影视飓风团队用70台iPhone搭建升级版'子弹时间'拍摄装置，打造出一个能捕捉时空的球形矩阵，视觉效果震撼。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 589004,
+      "original_comments": 626
+    },
+    {
+      "title": "花4毛钱让1000条蓝色大肥鱼建造故宫",
+      "url": "https://www.bilibili.com/video/BV1nJHK6gEtd",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主用极低成本让1000条蓝色大肥鱼在游戏中'建造'故宫，脑洞大开的创意视频获157万播放。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1571493,
+      "original_comments": 419
+    },
+    {
+      "title": "澳大利亚杀人犯因狱中吃Vegemite诉求被驳回",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 4,
+      "summary": "澳大利亚一名杀人犯声称享用Vegemite是其文化权利，要求狱中提供该酱料，法院驳回其诉求。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 696.64 📉-7.76(-1.1%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 964984,
+      "summary": "今日 696.64 | 📉 -7.76(-1.1%) | 最高 704.65 最低 696.36 | 连涨 -5天 | 成交额 ¥4330万 | 成交量 964984件 | 📈1598 ➡2134 📉3762"
+    }
+  ]
+}
