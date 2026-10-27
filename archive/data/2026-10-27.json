@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-27",
+  "commentary": "今天最值得聊的，肯定是CSGO那个大盘。六连涨之后终于跌了，虽然只跌了0.76%，但看这成交量和涨跌比——1579涨、3768跌，像极了相亲市场里你看上的都名花有主，追你的又下不去手。饰品这玩意儿现在比A股还刺激，建议各位把“电子榨菜”当理财产品之前，先想想自己是不是那颗被割的韭菜。\n\n再说姆巴佩，小伙子球踢得好好的，非要在涉华话题上踩雷。195万播放、27条弹幕——弹幕少得离谱，说明大家不是不想骂，是骂都懒得打字了。公众人物管不住嘴，比管不住腿还致命，毕竟跑得快能进球，说错话只能进黑名单。\n\n至于那个“一号种子16强一场不胜创造历史”，我愿称之为电竞版《活着》——你以为看的是比赛，其实是大型纪录片《希望是怎么没的》。HOPE没有希望，这标题起得比编剧还狠。\n\n今日金句：**连涨六天不算本事，跌一天就上热搜才叫真顶流——不管是CSGO大盘还是某些人的嘴。**",
+  "news": [
+    {
+      "title": "万重山河皆侠骨！剑网3新50级版本MV《万重山》上线",
+      "url": "https://www.bilibili.com/video/BV1BBnb6aEww",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:326.0万 | 弹幕:4296 | UP主:剑网3",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3259991,
+      "original_comments": 4296
+    },
+    {
+      "title": "姆巴佩发表涉华不当言论遭批",
+      "url": "https://www.bilibili.com/video/BV1UYHF6KEte",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:195.2万 | 弹幕:27 | UP主:RT今日俄罗斯",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1951514,
+      "original_comments": 27
+    },
+    {
+      "title": "循环歌单【致童年の小曲】“所以呢，你也成为苦瓜大王了吗？”",
+      "url": "https://www.bilibili.com/video/BV1nbnB68E3E",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:161.1万 | 弹幕:1013 | UP主:FOCAL音梦空间",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1611059,
+      "original_comments": 1013
+    },
+    {
+      "title": "旗舰手机芯片大横评：苹果高通发哥玄戒谁最强？",
+      "url": "https://www.bilibili.com/video/BV1kMxM6FECM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:85.3万 | 弹幕:2.3万 | UP主:极客湾Geekerwan",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 853232,
+      "original_comments": 22763
+    },
+    {
+      "title": "第9期（上）：收官高能局！阿瓦隆烧脑智斗对决【时差五小时3】",
+      "url": "https://www.bilibili.com/video/BV1n4HG6fEXg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:75.0万 | 弹幕:2.0万 | UP主:综艺哔哔机",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 750015,
+      "original_comments": 20030
+    },
+    {
+      "title": "最逆天的一集，一号种子16强 一场不胜创造历史【火兰短报15】",
+      "url": "https://www.bilibili.com/video/BV1SXxN6aEyg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:70.3万 | 弹幕:1435 | UP主:火兰朋克",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 703089,
+      "original_comments": 1435
+    },
+    {
+      "title": "普通女同事的职场纠纷和爱恨情仇【卡黄盘点】",
+      "url": "https://www.bilibili.com/video/BV1HZnR6yEGj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:69.8万 | 弹幕:4988 | UP主:郭本尼",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 698487,
+      "original_comments": 4988
+    },
+    {
+      "title": "万字复盘AL惨败北美16强回家！HOPE没有希望，连还手的勇气都没！",
+      "url": "https://www.bilibili.com/video/BV1yyxK6oEiA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:69.8万 | 弹幕:5660 | UP主:阿皮apiOVO",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 698188,
+      "original_comments": 5660
+    },
+    {
+      "title": "《胡闹厨房》",
+      "url": "https://www.bilibili.com/video/BV1Xun96tEjo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.1万 | 弹幕:431 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 641270,
+      "original_comments": 431
+    },
+    {
+      "title": "根本就没有这种比赛！！",
+      "url": "https://www.bilibili.com/video/BV1uBnR6tELW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:50.3万 | 弹幕:427 | UP主:FoFTG",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 503176,
+      "original_comments": 427
+    },
+    {
+      "title": "秦始皇之死：真的是求长生不老，害了他吗？",
+      "url": "https://www.bilibili.com/video/BV15CxT67Ev4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.6万 | 弹幕:1227 | UP主:大圆镜科普",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 376031,
+      "original_comments": 1227
+    },
+    {
+      "title": "《阴阳师》UR大天狗·高天铁羽CG丨飞羽凌云（CV：前野智昭）",
+      "url": "https://www.bilibili.com/video/BV1KFxK6ZEUk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.5万 | 弹幕:233 | UP主:网易阴阳师手游",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 375267,
+      "original_comments": 233
+    },
+    {
+      "title": "复仇者联盟的农村生活",
+      "url": "https://www.bilibili.com/video/BV1Vino6qESX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.1万 | 弹幕:188 | UP主:赣邸",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 371381,
+      "original_comments": 188
+    },
+    {
+      "title": "领导当惯了，谈恋爱也有职业病",
+      "url": "https://www.bilibili.com/video/BV1A9nR67EhM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.2万 | 弹幕:829 | UP主:papi酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 291910,
+      "original_comments": 829
+    },
+    {
+      "title": "财神窦占龙 第13集 杀狼【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1zDnt6eELb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:24.6万 | 弹幕:508 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 246491,
+      "original_comments": 508
+    },
+    {
+      "title": "🐧当你上课忍不住犯困By Bike：",
+      "url": "https://www.bilibili.com/video/BV1zPnZ6EEzR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.0万 | 弹幕:338 | UP主:蓝风一十七",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 219966,
+      "original_comments": 338
+    },
+    {
+      "title": "AL十六强淘汰单曲《绝望是会窒息的痛》",
+      "url": "https://www.bilibili.com/video/BV1hSxN6vETP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:21.4万 | 弹幕:403 | UP主:卡西斯特利娅莎",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 214147,
+      "original_comments": 403
+    },
+    {
+      "title": "被人买凶杀死的自媒体人徽剑【热点详解01】",
+      "url": "https://www.bilibili.com/video/BV1mdxN68E7F",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:17.2万 | 弹幕:694 | UP主:温柔JUNZ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 171682,
+      "original_comments": 694
+    },
+    {
+      "title": "【2026年双11扫地机推荐】2000-6000全价位推荐！小白不踩坑 实拍实测一期看懂 覆盖不同需求 全场景推荐 科沃斯/石头/追觅/云鲸/友望",
+      "url": "https://www.bilibili.com/video/BV1dsxM6EECP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:8.0万 | 弹幕:145 | UP主:一期看懂",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 79542,
+      "original_comments": 145
+    },
+    {
+      "title": "病娇美人到底是谁？常乐真实身份考据，真相竟然是……",
+      "url": "https://www.bilibili.com/video/BV1AbxT6oEhj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:3.6万 | 弹幕:129 | UP主:川同学不穿童鞋",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 36152,
+      "original_comments": 129
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-72% | $8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7300,
+      "original_comments": 0
+    },
+    {
+      "title": "The Outlast Trials",
+      "url": "https://store.steampowered.com/app/1304930",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $12",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "REKA",
+      "url": "https://store.steampowered.com/app/1737870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Resident Evil Requiem",
+      "url": "https://store.steampowered.com/app/3764200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $49",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Active Matter",
+      "url": "https://store.steampowered.com/app/2887580",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "CRACK",
+      "url": "https://store.steampowered.com/app/4312190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $36",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Scam With Your Friends",
+      "url": "https://store.steampowered.com/app/4954910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1021,
+      "original_comments": 566
+    },
+    {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 773,
+      "original_comments": 104
+    },
+    {
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 700,
+      "original_comments": 256
+    },
+    {
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 517,
+      "original_comments": 108
+    },
+    {
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 484,
+      "original_comments": 284
+    },
+    {
+      "title": "Solar power is becoming bigger than nuclear",
+      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 444,
+      "original_comments": 627
+    },
+    {
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 376,
+      "original_comments": 208
+    },
+    {
+      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 335,
+      "original_comments": 200
+    },
+    {
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 286,
+      "original_comments": 189
+    },
+    {
+      "title": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 268,
+      "original_comments": 237
+    },
+    {
+      "title": "Type Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 255,
+      "original_comments": 172
+    },
+    {
+      "title": "New iPad mini",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 243,
+      "original_comments": 564
+    },
+    {
+      "title": "I will no longer upload to NEW",
+      "url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 187,
+      "original_comments": 100
+    },
+    {
+      "title": "A Printer Printing onto Paper",
+      "url": "https://twitter.com/macrofying/status/2112904628509528219",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 163,
+      "original_comments": 37
+    },
+    {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 157,
+      "original_comments": 56
+    },
+    {
+      "title": "Software may be getting worse, but it used to be horrible",
+      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 149,
+      "original_comments": 112
+    },
+    {
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 145,
+      "original_comments": 66
+    },
+    {
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 136,
+      "original_comments": 64
+    },
+    {
+      "title": "How to grow a cacao tree at home (2024)",
+      "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 114,
+      "original_comments": 37
+    },
+    {
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "url": "https://github.com/otya128/winevdm",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 111,
+      "original_comments": 28
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 693.28 📉-5.28(-0.76%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 966913,
+      "summary": "今日 693.28 | 📉 -5.28(-0.76%) | 最高 698.57 最低 693.28 | 连涨 -6天 | 成交额 ¥4204万 | 成交量 966913件 | 📈1579 ➡2147 📉3768"
+    }
+  ]
+}
