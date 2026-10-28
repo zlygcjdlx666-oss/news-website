@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-28",
+  "commentary": "今天这新闻单子一看，我差点以为手机中病毒了——CSGO大盘涨了0.09%，成交额四千多万，兄弟们管这叫“微涨”？这涨幅还没我早上煎饼果子加个蛋的波动大，但人家硬是能做成K线图给你看，还连涨1天，跟真事儿似的。要我说，这年头最魔幻的不是游戏道具能当股票炒，是炒的人自己都信了。\n\n但真正让我坐直了的是徽剑那条——一个自媒体人被买凶杀死，211万播放，弹幕才八千多。这数据比CSGO还冷。大家点进去看热闹，看完划走，仿佛死的是个NPC。温柔JUNZ做这期详解，说白了是在给算法喂“猎奇饲料”，可你我都清楚，徽剑这名字过两天就会被新的热点冲进下水道。这行业卷到最后，连命都成了流量耗材，讽刺不？\n\n再看特朗普“为了中期大选真拼了”，124万播放。老头儿七十多了还在台上蹦跶，底下观众当喜剧看。但别笑太早——咱们这边看热闹的，跟当年看希拉里邮件门的是同一批人。政治娱乐化这事儿，全球同此凉热。\n\n今日金句：**CSGO涨0.09%叫牛市，自媒体人死了叫热点，特朗普拼命叫节目——这世界最稳的K线，是吃瓜群众的注意力，永远横盘在下一个瓜上。**",
+  "news": [
+    {
+      "title": "被人买凶杀死的自媒体人徽剑【热点详解01】",
+      "url": "https://www.bilibili.com/video/BV1mdxN68E7F",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:211.1万 | 弹幕:8655 | UP主:温柔JUNZ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2111372,
+      "original_comments": 8655
+    },
+    {
+      "title": "疯狂十六强，启动！",
+      "url": "https://www.bilibili.com/video/BV1kaxT6RETB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:155.4万 | 弹幕:1032 | UP主:墨宸w",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1554006,
+      "original_comments": 1032
+    },
+    {
+      "title": "东北八大怪之大缸小缸腌酸菜",
+      "url": "https://www.bilibili.com/video/BV1VDxT6kEFL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:143.0万 | 弹幕:838 | UP主:八零彪子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1430424,
+      "original_comments": 838
+    },
+    {
+      "title": "对中国34个省的刻板印象",
+      "url": "https://www.bilibili.com/video/BV1oenS6REGE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:126.8万 | 弹幕:7558 | UP主:瑞啟在路上",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1267696,
+      "original_comments": 7558
+    },
+    {
+      "title": "特朗普为了中期大选真拼了",
+      "url": "https://www.bilibili.com/video/BV1znxg6fEKA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:124.2万 | 弹幕:8175 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1241628,
+      "original_comments": 8175
+    },
+    {
+      "title": "一瞬成刃【听伊莫不emo 02】",
+      "url": "https://www.bilibili.com/video/BV1xtxu6KEaz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:121.7万 | 弹幕:280 | UP主:伊莫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1217037,
+      "original_comments": 280
+    },
+    {
+      "title": "【捉迷躲猫王】😱太阴了躲在粪坑下面？？大哥你无敌了啊？！废弃监狱超高难度捉迷藏~！",
+      "url": "https://www.bilibili.com/video/BV1KwxM6NESD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:111.0万 | 弹幕:7003 | UP主:-超级小能猫-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1109683,
+      "original_comments": 7003
+    },
+    {
+      "title": "奶奶的皱纹里，藏着我一生的甜与暖",
+      "url": "https://www.bilibili.com/video/BV1chxT6xEyo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:109.3万 | 弹幕:1628 | UP主:睡不醒酒",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1092547,
+      "original_comments": 1628
+    },
+    {
+      "title": "做了一个错误的决定： 信了贵州辣卤不辣！",
+      "url": "https://www.bilibili.com/video/BV1fexT6pEQr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:109.2万 | 弹幕:495 | UP主:海潮有点潮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1091513,
+      "original_comments": 495
+    },
+    {
+      "title": "爸爸去哪儿 x Counting Stars",
+      "url": "https://www.bilibili.com/video/BV1HYnh6CEJc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.5万 | 弹幕:2566 | UP主:神秘天洛元",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1035015,
+      "original_comments": 2566
+    },
+    {
+      "title": "刚用四天iPhone Duo，喀嚓一声炸屏了",
+      "url": "https://www.bilibili.com/video/BV1hoxu6jEt8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.1万 | 弹幕:7858 | UP主:米奇沃克斯",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1030760,
+      "original_comments": 7858
+    },
+    {
+      "title": "【2026王者荣耀共创之夜】晚会完整回放",
+      "url": "https://www.bilibili.com/video/BV1zoxM64E9B",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:92.9万 | 弹幕:2202 | UP主:王者荣耀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 928962,
+      "original_comments": 2202
+    },
+    {
+      "title": "万万没想到！下完雨的小塘藏着这么大的货",
+      "url": "https://www.bilibili.com/video/BV1HunX6zEYa",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:86.1万 | 弹幕:769 | UP主:山野清道乎",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 861290,
+      "original_comments": 769
+    },
+    {
+      "title": "《信》信仰是什么",
+      "url": "https://www.bilibili.com/video/BV1TanZ6FEu2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.5万 | 弹幕:1034 | UP主:阿廖沙别害怕_",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 814906,
+      "original_comments": 1034
+    },
+    {
+      "title": "永远和你在一起",
+      "url": "https://www.bilibili.com/video/BV1hmx56oEPg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.4万 | 弹幕:1707 | UP主:李哥我饿了",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 584174,
+      "original_comments": 1707
+    },
+    {
+      "title": "“一丝温脉相牵，爱藏岁岁流年”【把回忆拼好给你DJ-变速】【母子连心の小曲】",
+      "url": "https://www.bilibili.com/video/BV1Bnxg6fEuq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:41.5万 | 弹幕:449 | UP主:早睡起大王",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 414623,
+      "original_comments": 449
+    },
+    {
+      "title": "《异环》1.5版本前瞻特别节目回顾",
+      "url": "https://www.bilibili.com/video/BV1AtxT6tETW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:39.6万 | 弹幕:4150 | UP主:异环",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 396451,
+      "original_comments": 4150
+    },
+    {
+      "title": "【究极佐菲格斗】第五集 危险的雄狮！佐菲机器人 雷欧 泰罗 超兽黑鸽子 黑暗星人巴巴尔 登场",
+      "url": "https://www.bilibili.com/video/BV1U3x56HE7v",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:39.6万 | 弹幕:2365 | UP主:Dennis飞昊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 395720,
+      "original_comments": 2365
+    },
+    {
+      "title": "“我会亲手阻止你！”",
+      "url": "https://www.bilibili.com/video/BV1FRx76SEB7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.7万 | 弹幕:349 | UP主:火影忍者手游情报君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 267463,
+      "original_comments": 349
+    },
+    {
+      "title": "男生最怕的事也莫过于此",
+      "url": "https://www.bilibili.com/video/BV1eyxj6qEjF",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:18.5万 | 弹幕:1171 | UP主:浑身头疼口牙",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 184568,
+      "original_comments": 1171
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-72% | $168",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7300,
+      "original_comments": 0
+    },
+    {
+      "title": "The Outlast Trials",
+      "url": "https://store.steampowered.com/app/1304930",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $674",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $178",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "CRACK",
+      "url": "https://store.steampowered.com/app/4312190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $165",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "A Simple Expurriment",
+      "url": "https://store.steampowered.com/app/2443900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $165",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1179,
+      "original_comments": 374
+    },
+    {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $269",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Project Exhibitionist",
+      "url": "https://store.steampowered.com/app/4688700",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $657",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Long Dark: Iron Road",
+      "url": "https://store.steampowered.com/app/4922630",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $359",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $764",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Scam With Your Friends",
+      "url": "https://store.steampowered.com/app/4954910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $207",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 971,
+      "original_comments": 555
+    },
+    {
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 549,
+      "original_comments": 299
+    },
+    {
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 522,
+      "original_comments": 324
+    },
+    {
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 485,
+      "original_comments": 185
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 440,
+      "original_comments": 166
+    },
+    {
+      "title": "New 14‑inch MacBook Pro with M6",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 395,
+      "original_comments": 547
+    },
+    {
+      "title": "Git for the US Code",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 360,
+      "original_comments": 184
+    },
+    {
+      "title": "New iMac with M6",
+      "url": "https://www.apple.com/imac/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 356,
+      "original_comments": 452
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 331,
+      "original_comments": 173
+    },
+    {
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 318,
+      "original_comments": 55
+    },
+    {
+      "title": "Start Doing Graph Theory",
+      "url": "https://vertex.degree/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 287,
+      "original_comments": 61
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 278,
+      "original_comments": 265
+    },
+    {
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 215,
+      "original_comments": 138
+    },
+    {
+      "title": "SS United States to be sunk as largest artificial reef",
+      "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 184,
+      "original_comments": 151
+    },
+    {
+      "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 132,
+      "original_comments": 56
+    },
+    {
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 120,
+      "original_comments": 56
+    },
+    {
+      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+      "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 119,
+      "original_comments": 24
+    },
+    {
+      "title": "Two high-speed trains collide near Toledo, Spain",
+      "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 112,
+      "original_comments": 69
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 692.45 📈+0.63(+0.09%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1052022,
+      "summary": "今日 692.45 | 📈 +0.63(+0.09%) | 最高 693.37 最低 689.86 | 连涨 1天 | 成交额 ¥4670万 | 成交量 1052022件 | 📈1924 ➡2117 📉3453"
+    }
+  ]
+}
