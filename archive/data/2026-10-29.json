@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-29",
+  "commentary": "今天这盘面，CSGO大盘涨了0.15%就敢叫“连涨两天”，成交额4673万，我寻思这数字搁股市里连个水花都算不上，搁饰品圈倒能吹成“牛市启动”。2121涨对3155跌，指数红着，散户绿着——经典指数失真，老伙计们别被那根小阳线骗了，饰品这玩意儿，涨的是情绪，跌的是钱包。\n\nB站那边，《新三国FUNK》166万播放，我点进去看了，好家伙，诸葛亮摇着羽扇打碟，曹操踩着鼓点rap，鬼畜区文艺复兴了属于是。但真正让我绷不住的是那个“不看尾巴挑战”，61万播放，标题一股擦边味儿，点进去全是正经动物——现在网友的阈值已经高到要靠“被骗”来获得快感了是吧？\n\n至于英雄联盟全球总决赛559万播放，我只能说：LYON打IG，弹幕6.1万，热度是有的，但跟当年S赛全民狂欢比，味儿淡了。游戏还在，上号的人少了，那条“忙着跟生活对线的你，有多久没上号了”104万播放，才是今天B站最扎心的标题。\n\n今日金句：指数连涨两天不代表你回本，鬼畜百万播放不代表你快乐——这届互联网，红的是数据，绿的是人心。",
+  "news": [
+    {
+      "title": "【2026全球总决赛】10月29日 LYON vs IG",
+      "url": "https://www.bilibili.com/video/BV1Eas967EY9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:559.2万 | 弹幕:6.1万 | UP主:哔哩哔哩英雄联盟赛事",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5592309,
+      "original_comments": 61465
+    },
+    {
+      "title": "《崩坏：星穹铁道》千星纪游PV：「有关星空的寓言集•其三」",
+      "url": "https://www.bilibili.com/video/BV1JYsd6sE4k",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:301.3万 | 弹幕:1.8万 | UP主:崩坏星穹铁道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3013047,
+      "original_comments": 17940
+    },
+    {
+      "title": "贴脸特写，是每个野生动物摄影师的必备技能！",
+      "url": "https://www.bilibili.com/video/BV16nxg6fE3s",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:227.6万 | 弹幕:3461 | UP主:即刻自然说",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2276151,
+      "original_comments": 3461
+    },
+    {
+      "title": "喝可乐不打嗝小游戏~",
+      "url": "https://www.bilibili.com/video/BV1rvxE6HEPT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:171.9万 | 弹幕:630 | UP主:瓜哥超爱玩QAQ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1719128,
+      "original_comments": 630
+    },
+    {
+      "title": "⚡《新 三 国 FUNK》⚡",
+      "url": "https://www.bilibili.com/video/BV1iXxV6vEmP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:166.5万 | 弹幕:603 | UP主:纽毕斯",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1664795,
+      "original_comments": 603
+    },
+    {
+      "title": "环大露认领，刘冲斗娜娜，众星躲娜扎……【近期红毯爆笑盘点】",
+      "url": "https://www.bilibili.com/video/BV1FGso6ZE7x",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:147.1万 | 弹幕:7270 | UP主:一只吐槽圆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1471019,
+      "original_comments": 7270
+    },
+    {
+      "title": "我是艺术家，我陪你拍这个",
+      "url": "https://www.bilibili.com/video/BV13uxE6gEkN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:136.2万 | 弹幕:473 | UP主:段俊piano",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1361680,
+      "original_comments": 473
+    },
+    {
+      "title": "忙着跟生活对线的你，有多久没上号了？谨以此片，致和游戏一起长大的我们。【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1uGxj68EKt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.9万 | 弹幕:1238 | UP主:我是日行一扇",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1048644,
+      "original_comments": 1238
+    },
+    {
+      "title": "《三鞭抽散厌学魂》",
+      "url": "https://www.bilibili.com/video/BV1ibxg6WEKW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:93.2万 | 弹幕:153 | UP主:IPx的粉红豹",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 931593,
+      "original_comments": 153
+    },
+    {
+      "title": "《原神》米提亚角色PV——「小小伎俩」",
+      "url": "https://www.bilibili.com/video/BV1dAxE6VErW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:87.8万 | 弹幕:9560 | UP主:原神",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 878059,
+      "original_comments": 9560
+    },
+    {
+      "title": "强子刚来啊，等你二十年了【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1LcxE61Euj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:75.7万 | 弹幕:1571 | UP主:Raymondsese",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 756707,
+      "original_comments": 1571
+    },
+    {
+      "title": "不 看 尾 巴 挑 战 💃",
+      "url": "https://www.bilibili.com/video/BV1GxsX6YEuP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.5万 | 弹幕:764 | UP主:兔总裁s",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 615473,
+      "original_comments": 764
+    },
+    {
+      "title": "做个八鲜捞饭！海鲜一锅端，黏糊糊太上头了！配葱油海肠，嘎吱脆啊",
+      "url": "https://www.bilibili.com/video/BV1Aan96CE6b",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:59.2万 | 弹幕:823 | UP主:了in林",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 591681,
+      "original_comments": 823
+    },
+    {
+      "title": "乱作一团：美国古巴当场互呛，会议被迫中止场面混乱",
+      "url": "https://www.bilibili.com/video/BV1D5sd6qE3M",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.6万 | 弹幕:2482 | UP主:小Q不是导盲犬",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 496403,
+      "original_comments": 2482
+    },
+    {
+      "title": "热烈欢迎张伟丽！原来格斗世界冠军的生活是这样的！！（当天伟丽签了好多名✍️",
+      "url": "https://www.bilibili.com/video/BV1Z9xL6rEDb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:47.6万 | 弹幕:6932 | UP主:papi酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 475758,
+      "original_comments": 6932
+    },
+    {
+      "title": "星爷版《Trouble Maker》喜剧之王&功夫【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV12Lxj64Ejt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:46.4万 | 弹幕:359 | UP主:明灯-专注脑洞一百年",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 463851,
+      "original_comments": 359
+    },
+    {
+      "title": "《明日方舟》EP - A Necessary Message",
+      "url": "https://www.bilibili.com/video/BV16fsf6PEBH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.4万 | 弹幕:4000 | UP主:明日方舟",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 364054,
+      "original_comments": 4000
+    },
+    {
+      "title": "吴站长&梅姐《Trouble Maker》【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1dEsX6TEGx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.6万 | 弹幕:590 | UP主:小朱佩琪66",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 316410,
+      "original_comments": 590
+    },
+    {
+      "title": "城市大富翁（番外篇）",
+      "url": "https://www.bilibili.com/video/BV1ySsf6gE2C",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.8万 | 弹幕:2105 | UP主:雨哥到处跑",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 297602,
+      "original_comments": 2105
+    },
+    {
+      "title": "王老菊教你影之刃01：破伤风刀法",
+      "url": "https://www.bilibili.com/video/BV1w7sf6AEVy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:20.0万 | 弹幕:4602 | UP主:怕上火暴王老菊",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 200083,
+      "original_comments": 4602
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-72% | $8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7300,
+      "original_comments": 0
+    },
+    {
+      "title": "No Man's Sky",
+      "url": "https://store.steampowered.com/app/275850",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Wolf Among Us Remastered",
+      "url": "https://store.steampowered.com/app/3884860",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "CRACK",
+      "url": "https://store.steampowered.com/app/4312190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1449,
+      "original_comments": 270
+    },
+    {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $36",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Project Exhibitionist",
+      "url": "https://store.steampowered.com/app/4688700",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $27",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Scam With Your Friends",
+      "url": "https://store.steampowered.com/app/4954910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "ANOMALITH",
+      "url": "https://store.steampowered.com/app/4017880",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $45",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 650,
+      "original_comments": 545
+    },
+    {
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 618,
+      "original_comments": 129
+    },
+    {
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 504,
+      "original_comments": 138
+    },
+    {
+      "title": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 323,
+      "original_comments": 51
+    },
+    {
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 301,
+      "original_comments": 207
+    },
+    {
+      "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 249,
+      "original_comments": 58
+    },
+    {
+      "title": "Zero click, silent, remote Android DoS",
+      "url": "https://smsofdeath.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 226,
+      "original_comments": 122
+    },
+    {
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 223,
+      "original_comments": 107
+    },
+    {
+      "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+      "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 210,
+      "original_comments": 112
+    },
+    {
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 202,
+      "original_comments": 156
+    },
+    {
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 187,
+      "original_comments": 120
+    },
+    {
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 177,
+      "original_comments": 29
+    },
+    {
+      "title": "DoorDash to Acquire Instacart",
+      "url": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 142,
+      "original_comments": 115
+    },
+    {
+      "title": "Hackers expose the identities of more than 40k DHS employees",
+      "url": "https://text.npr.org/nx-s1-6021497",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 133,
+      "original_comments": 23
+    },
+    {
+      "title": "Getting debug access on a Brother printer over Telnet",
+      "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 128,
+      "original_comments": 33
+    },
+    {
+      "title": "Google determines the names for bodies of water in Google Earth (2008)",
+      "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 126,
+      "original_comments": 97
+    },
+    {
+      "title": "A new faster algorithm to compute 64-bit signed floor division",
+      "url": "https://www.benjoffe.com/fast-floordiv",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 123,
+      "original_comments": 10
+    },
+    {
+      "title": "If IPv4 Were Land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 122,
+      "original_comments": 101
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$60",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 694.1 📈+1.03(+0.15%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1127291,
+      "summary": "今日 694.1 | 📈 +1.03(+0.15%) | 最高 696.15 最低 693.07 | 连涨 2天 | 成交额 ¥4673万 | 成交量 1127291件 | 📈2121 ➡2218 📉3155"
+    }
+  ]
+}
