@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-31",
+  "commentary": "今天这盘面，CSGO大盘688.92，跌了0.25%，成交额4421万——兄弟们，这点波动还不够我吃顿外卖的手续费。连涨两天就歇菜，涨的时候像蜗牛爬坡，跌的时候像电梯直降，饰品市场现在是真·修仙现场：有人在渡劫，有人在渡劫失败。我的态度很简单：别把游戏当K线炒，你是来打枪的，不是来当韭菜的。\n\n再看B站，《凡人修仙传》421万播放稳坐头把交椅，弹幕8.2万，说明大家嘴上说“国创疲劳”，身体比谁都诚实。但真正让我笑出声的是《假如主角身边全是奸臣》——390万播放，弹幕才879条。这说明什么？说明观众全程在憋笑，连打字都顾不上。这才是短视频时代的最高礼遇：沉默式爆笑。\n\n至于“全网搬大润发第一人”，103万播放，我只能说：当代网友的精神状态，已经发展到把超市当副本刷了。\n\n今日金句：**这年头，炒股不如修仙，修仙不如搬大润发。**",
+  "news": [
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第22集【总第198集】",
+      "url": "https://www.bilibili.com/video/BV1vVxi68EWD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:421.4万 | 弹幕:8.2万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4214493,
+      "original_comments": 82019
+    },
+    {
+      "title": "假如主角身边全是奸臣(大合集)一次性看完!",
+      "url": "https://www.bilibili.com/video/BV11Txg6BEPe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:390.7万 | 弹幕:879 | UP主:meme震惊猫",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3906861,
+      "original_comments": 879
+    },
+    {
+      "title": "灭建国的超能力",
+      "url": "https://www.bilibili.com/video/BV1ugxq6HEfH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:344.6万 | 弹幕:886 | UP主:抽象生活先生",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3445812,
+      "original_comments": 886
+    },
+    {
+      "title": "小时候直肠子就这样讲话",
+      "url": "https://www.bilibili.com/video/BV1QqxY6jEPY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:287.2万 | 弹幕:887 | UP主:破米库",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2872308,
+      "original_comments": 887
+    },
+    {
+      "title": "1944滇缅竹林：远征军教盟军吃虎皮笋，油手把风笛吹成妖笛【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1q8x56uEDU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:258.7万 | 弹幕:389 | UP主:墨八分钱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2587383,
+      "original_comments": 389
+    },
+    {
+      "title": "12月14日全球公测 |《白银之城》角色PV - 库拉蒂：愚者与勇者",
+      "url": "https://www.bilibili.com/video/BV1BJnR66Eij",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:228.2万 | 弹幕:1418 | UP主:白银之城",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2282247,
+      "original_comments": 1418
+    },
+    {
+      "title": "【逆水寒×中国歌剧舞剧院】再见仍是初遇的惊艳，国家队跳阿初祈月舞！",
+      "url": "https://www.bilibili.com/video/BV1ossf64EKA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:164.4万 | 弹幕:122 | UP主:网易逆水寒",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1644102,
+      "original_comments": 122
+    },
+    {
+      "title": "全网搬大润发第一人！！！",
+      "url": "https://www.bilibili.com/video/BV1sVxv6rEJ7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:103.8万 | 弹幕:1427 | UP主:李炮炮儿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1037541,
+      "original_comments": 1427
+    },
+    {
+      "title": "全球笑点下降2000倍而我不变【第二集】",
+      "url": "https://www.bilibili.com/video/BV1TxxC6vEo4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:98.8万 | 弹幕:9513 | UP主:逗比的雀巢",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 988234,
+      "original_comments": 9513
+    },
+    {
+      "title": "『复活局合集』死去的声音突然攻击我.",
+      "url": "https://www.bilibili.com/video/BV1ruxK6DEDY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:90.8万 | 弹幕:2469 | UP主:星空上-音符",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 907500,
+      "original_comments": 2469
+    },
+    {
+      "title": "实在抱歉！我哥疯了  （阿晴教学篇op/ed）【28】",
+      "url": "https://www.bilibili.com/video/BV1Z8xv6fEx9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:88.6万 | 弹幕:2795 | UP主:九晴九晴九",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 886040,
+      "original_comments": 2795
+    },
+    {
+      "title": "《烂梗下桌》与其怪食客的嘴，不如让烂梗下桌",
+      "url": "https://www.bilibili.com/video/BV159xe6sE5C",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:73.8万 | 弹幕:687 | UP主:泽华君呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 738088,
+      "original_comments": 687
+    },
+    {
+      "title": "我是草",
+      "url": "https://www.bilibili.com/video/BV1pkxi66ErX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:66.4万 | 弹幕:1739 | UP主:老番茄",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 663514,
+      "original_comments": 1739
+    },
+    {
+      "title": "纯黑《影之刃零》逆天者全程无伤一镜到底攻略解说 第一期",
+      "url": "https://www.bilibili.com/video/BV1Ntxr6xEjG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:58.4万 | 弹幕:5348 | UP主:-纯黑-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 584012,
+      "original_comments": 5348
+    },
+    {
+      "title": "【萌黄一槽】川木[楔二]全技能爆料！“小小”借过一下！",
+      "url": "https://www.bilibili.com/video/BV1KYx16BEG1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:56.2万 | 弹幕:3443 | UP主:火影忍者手游情报君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 561817,
+      "original_comments": 3443
+    },
+    {
+      "title": "【鬼谷闲谈】沧龙：问君能有几多愁，恰似鳞龙入海流",
+      "url": "https://www.bilibili.com/video/BV1qfxB6qEjD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:48.6万 | 弹幕:2391 | UP主:芳斯塔芙",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 486244,
+      "original_comments": 2391
+    },
+    {
+      "title": "“若神不能理解我，那祂便算不上神！！”",
+      "url": "https://www.bilibili.com/video/BV1wbxr6REXk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:34.5万 | 弹幕:807 | UP主:33不是山山",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 344540,
+      "original_comments": 807
+    },
+    {
+      "title": "【漫士】这可能是人类提出最深刻的数学/计算机问题",
+      "url": "https://www.bilibili.com/video/BV1Ntxr6xE7Y",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:26.5万 | 弹幕:2030 | UP主:漫士沉思录",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 265289,
+      "original_comments": 2030
+    },
+    {
+      "title": "【泛式/剧情MAD】你我的故事，写作『相互凌迟』......   [薇欧拉/bilibilionly同人扶持计划]",
+      "url": "https://www.bilibili.com/video/BV1sax16uEXm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.4万 | 弹幕:1189 | UP主:泛式",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253624,
+      "original_comments": 1189
+    },
+    {
+      "title": "耗资上万！我重制了网页版MC！【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1Nxxr6oES2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:7.5万 | 弹幕:294 | UP主:土豆味小哲",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 74815,
+      "original_comments": 294
+    },
+    {
+      "title": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-72% | $8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7300,
+      "original_comments": 0
+    },
+    {
+      "title": "Resident Evil Requiem",
+      "url": "https://store.steampowered.com/app/3764200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $49",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Gothic 1 Remake",
+      "url": "https://store.steampowered.com/app/1297900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $37",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "The Wolf Among Us Remastered",
+      "url": "https://store.steampowered.com/app/3884860",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Queen's Domain",
+      "url": "https://store.steampowered.com/app/1799840",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "CRACK",
+      "url": "https://store.steampowered.com/app/4312190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Nomad Drive",
+      "url": "https://store.steampowered.com/app/2223980",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Can 'Em All",
+      "url": "https://store.steampowered.com/app/5133900",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $6",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 930,
+      "original_comments": 537
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 509,
+      "original_comments": 357
+    },
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 477,
+      "original_comments": 292
+    },
+    {
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 456,
+      "original_comments": 331
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 338,
+      "original_comments": 102
+    },
+    {
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 328,
+      "original_comments": 49
+    },
+    {
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 320,
+      "original_comments": 59
+    },
+    {
+      "title": "The federated code forge",
+      "url": "https://tangled.org/blog/forge/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 306,
+      "original_comments": 89
+    },
+    {
+      "title": "Breaking the open web won't stop the bad bots",
+      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 290,
+      "original_comments": 128
+    },
+    {
+      "title": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 273,
+      "original_comments": 103
+    },
+    {
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 269,
+      "original_comments": 132
+    },
+    {
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 261,
+      "original_comments": 87
+    },
+    {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 232,
+      "original_comments": 281
+    },
+    {
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "url": "https://tng.episodle.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 211,
+      "original_comments": 62
+    },
+    {
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 177,
+      "original_comments": 73
+    },
+    {
+      "title": "Digital Minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 131,
+      "original_comments": 99
+    },
+    {
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "url": "https://zebra.rodeo/en/blog/marelleo/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 120,
+      "original_comments": 34
+    },
+    {
+      "title": "Switch Lowering in GCC",
+      "url": "https://xoranth.net/gcc-switch/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 112,
+      "original_comments": 22
+    },
+    {
+      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 108,
+      "original_comments": 70
+    },
+    {
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 107,
+      "original_comments": 48
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 688.92 📉-1.72(-0.25%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1172066,
+      "summary": "今日 688.92 | 📉 -1.72(-0.25%) | 最高 690.89 最低 688.17 | 连涨 -2天 | 成交额 ¥4421万 | 成交量 1172066件 | 📈1916 ➡2409 📉3169"
+    }
+  ]
+}
