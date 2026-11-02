@@ -1,0 +1,744 @@
+{
+  "date": "2026-11-02",
+  "commentary": "今天这新闻看得我血压跟币安的服务器一样——直接崩了。63亿美元啊兄弟们，黑客一晚上干出个独角兽公司，还是疑似朝鲜那帮人干的。你说这加密货币号称去中心化、安全加密，结果人家说来就来，跟逛自家后院似的，用户转头就提走36亿，这信任崩塌的速度比币价还快。我劝各位一句：链上资产再炫，也架不住人家有钥匙。\n\n再说谷歌，市值蒸发5000亿，理由居然是\"AI搜索影响广告收入\"。翻译翻译就是：我发明了个更聪明的东西，结果把自己饭碗砸了。这不就是养了条狗，狗把主人咬了，还顺便把房子点了？AI这波烧钱烧到一万亿美元，数据中心借债借到几百亿英镑，泡沫味儿隔着屏幕都闻得见——等哪天破了，别怪我没提醒。\n\n最离谱还得是欧洲那七国超市，冷冻柜被黑到50度。黑客这是图啥？不偷钱不勒索，专门给冻鸡翅做桑拿？这年头连冰柜都不安全了，我看下一步是不是该给酸奶配个防弹衣了。\n\n**今日金句：科技越进步，离谱越具体——以前黑客偷钱，现在黑客偷冷气。**",
+  "news": [
+    {
+      "title": "币安遭史上最大规模黑客攻击，损失63亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "加密货币交易所币安遭黑客攻击，损失约63亿美元，疑为朝鲜黑客组织TraderTraitor所为，创史上最大加密盗窃纪录。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌市值蒸发5000亿美元，AI搜索冲击广告收入",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "谷歌自研AI搜索摘要影响广告收入，投资者恐慌致股价跌至六个月低点，市值蒸发约5000亿美元。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国科技股大幅下跌，AI支出逼近1万亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "AI资本支出逼近1万亿美元引发泡沫担忧，英特尔股价续跌，纳斯达克开盘创两个多月新低。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲七国超市冷冻设备遭网络攻击",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "法国、比利时、瑞典等多国超市冷冻冷藏设备遭网络攻击，部分冰柜温度被篡改至高达50摄氏度。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌克兰战争最长停火结束后，赫尔松地区战火重燃",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "乌克兰战争经历六天史无前例的停火后，赫尔松地区战斗恢复，停火未改变战争整体走向。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "币安黑客事件后用户提现36亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "币安因史上最大加密黑客攻击冻结交易，用户随后集中提现36亿美元，事件被指与朝鲜黑客组织有关。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软宣布裁员数千人后利润飙升",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "微软在宣布向6万名员工提供买断方案、裁减数千岗位数日后，公布利润大幅增长，引发关注。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "鲜为人知的数据中心企业推高AI泡沫担忧",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "一批名不见经传的企业大举举债建设数据中心，债务规模达数百亿英镑，加剧AI泡沫破裂担忧。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌俄空袭警报应用遭黑客攻击，发布虚假核警告",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "乌克兰和俄罗斯的空袭警报应用遭黑客入侵，向用户推送虚假核警告，两国均未确认攻击来源。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国国家电视台因姆巴佩玩笑停播西甲",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "央视因姆巴佩相关玩笑内容停播西甲比赛，虽已收到姆巴佩道歉，但未说明停播将持续多久。",
+      "categories": [
+        "国际",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "威兹航空航班因炸弹威胁紧急迫降",
+      "url": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "威兹航空一架从卢顿起飞的航班收到炸弹威胁，匈牙利战机护航迫降布达佩斯，事件正在调查中。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国数千名移民执法人员信息遭大规模泄露",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "名为“和平部”的组织泄露逾4.1万名美国国土安全部员工信息，涉及大量移民执法人员。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "瑞安航空警告或冻结员工薪资并上调票价",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "瑞安航空称若美以与伊朗战争不结束，2028年燃油成本或增20亿欧元，可能冻结薪资并提高票价。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "数据中心抵消美国过去15年减排努力",
+      "url": "https://www.solidot.org/story?sid=85766",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "Sierra Club分析显示，AI数据中心电力需求激增，到2030年美国电力行业碳排放或比2025年高42%。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌AI Mode几乎不给网站带来流量",
+      "url": "https://www.solidot.org/story?sid=85767",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "Reddit财报证实，谷歌AI Mode以生成摘要替代链接，几乎不为外部网站导流，冲击互联网内容生态。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NASA征询拯救哈勃望远镜方案",
+      "url": "https://www.solidot.org/story?sid=85765",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "哈勃望远镜在轨36年，轨道高度大幅下降，NASA向商业公司征询提升轨道、维护或受控重返方案。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Proton强推工程师转向AI，CEO斥安全顾虑为失败者思维",
+      "url": "https://www.solidot.org/story?sid=85773",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "隐私服务商Proton强推工程师使用AI，CEO在内部Slack斥提安全顾虑员工为“失败者思维”，并计划重新面试。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "币安恢复提现后净流出36.4亿美元",
+      "url": "https://www.solidot.org/story?sid=85768",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "币安因黑客攻击暂停提现后恢复，期间处理46.65亿美元提现，净流出36.4亿美元资产。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究揭示鳄鱼为何躲过毁灭恐龙的小行星",
+      "url": "https://www.solidot.org/story?sid=85777",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "大规模化石与古气候分析表明，鳄鱼偏爱温暖环境，小行星撞击后栖身热带避难所而幸存。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "小鼠研究：骨骼运动时释放延缓衰老蛋白质",
+      "url": "https://www.solidot.org/story?sid=85771",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "《Cell Metabolism》研究显示，小鼠骨骼在运动机械应力下释放骨细胞因子，具抗衰老与延寿作用。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "小鼠研究显示阉割有助于延长寿命",
+      "url": "https://www.solidot.org/story?sid=85776",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "新研究发现对年长雄鼠去势可延长寿命逾30%，颠覆了阉割须在生命早期进行的既有认知。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "高黎贡山鸟类遗传多样性半世纪下降43%",
+      "url": "https://www.solidot.org/story?sid=85774",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "昆明动物所对62种鸣禽全基因组比较发现，过去半个世纪其遗传多样性平均下降43%。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Linux 7.4-rc1发布，变更集创纪录",
+      "url": "https://www.solidot.org/story?sid=85770",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Linux 7.4-rc1释出，含18591个非合并变更集创纪录，2678名开发者贡献代码，正式版预计圣诞节前发布。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Stack Overflow回应“已死”论：我们还活着",
+      "url": "https://www.solidot.org/story?sid=85769",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "Stack Overflow月新增问题数跌破1000引发死亡讨论，官方回应称死亡预测夸大其词，AI改变了知识获取方式。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "思科给27岁工程师无限token重写遗留代码",
+      "url": "https://www.solidot.org/story?sid=85764",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "思科总裁透露，公司给予一名27岁工程师无限AI token额度，用于重写陈旧遗留代码。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "荷兰警方悬赏200万欧元缉拿毒枭",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "荷兰警方开出创纪录200万欧元悬赏，缉拿缺席被判可卡因走私罪的毒枭Jos Leijdekkers，据信其藏身塞拉利昂。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌干达开始从索马里撤军，结束20年驻军",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "乌干达开始从索马里撤军，结束自2007年以来协助打击青年党武装的20年军事部署。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国连续第三周抗议，汽油弹袭警引发谋杀调查",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "法国连续第三个周末爆发抗议，有人向警察投掷汽油弹，检方以谋杀未遂立案，多地数百人被捕。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "以色列空袭加沙致8人死亡含儿童",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "医院方面称，以色列在加沙的空袭造成8人死亡，包括一名儿童和五名哈马斯警察。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "悉尼邦迪海滩袭击后武装警察上街巡逻",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "悉尼在邦迪海滩光明节袭击事件后部署武装警察巡逻，作为新的安保措施。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国Ofcom公布16岁以下社媒禁令年龄核验方式",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国Ofcom公布社交媒体16岁以下禁令的年龄核验方式，包括照片、数字身份证、银行核验和人脸年龄估算。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Virgin Media O2拟裁减数千岗位",
+      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国宽带运营商Virgin Media O2计划裁减数千个岗位以降低成本，具体人数尚未确定。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Airbnb新规禁止要求房客洗碗倒垃圾",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "Airbnb新规11月生效，房东不得再要求房客洗碗或倒垃圾，此举在房东与房客间引发分歧。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "新华社追问国乒男队怎么了",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%BF%BD%E9%97%AE%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E6%80%8E%E4%B9%88%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "新华社发文追问中国乒乓球男队现状，今年WTT高级别赛事国乒男单仅获1冠，引发广泛讨论。",
+      "categories": [
+        "社会",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "8岁女孩课间被同学冲撞至脑死亡",
+      "url": "https://s.weibo.com/weibo?q=8%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%BE%E9%97%B4%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%86%B2%E6%92%9E%E8%87%B3%E8%84%91%E6%AD%BB%E4%BA%A1&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "一名8岁女孩课间被同学冲撞后脑死亡，事件登上热搜，引发对校园安全的关注。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "长沙烈士公园有人穿和服带武士刀拍照",
+      "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%B2%99%E7%83%88%E5%A3%AB%E5%85%AC%E5%9B%AD%E7%A9%BF%E5%92%8C%E6%9C%8D%E5%B8%A6%E6%AD%A6%E5%A3%AB%E5%88%80%E6%8B%8D%E7%85%A7&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "长沙烈士公园内有人穿和服、携带武士刀拍照引发争议，登上微博热搜。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "黄金价格突然上涨",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E7%AA%81%E7%84%B6%E4%B8%8A%E6%B6%A8%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "黄金价格突然上涨引发市场关注，登上微博热搜，反映投资者避险情绪升温。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "HackerTube：基于HN推荐视频搭建的YouTube",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者推出HackerTube，用Hacker News上被推荐过的视频构建类YouTube平台，获615条讨论。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 2778,
+      "original_comments": 615
+    },
+    {
+      "title": "Show HN：HackerBooks，HN提及书籍版HackerTube",
+      "url": "https://hackerbooks.org",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者推出HackerBooks，汇集Hacker News上被提及的书籍，是HackerTube的书籍版本。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 1774,
+      "original_comments": 290
+    },
+    {
+      "title": "Show HN：Subvocal，不出声与电脑对话",
+      "url": "https://subvocal.company/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者推出Subvocal，可通过无声的默读式发声与电脑交互，无需真正出声。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 86,
+      "original_comments": 66
+    },
+    {
+      "title": "Show HN：华沙体素3D互动地图",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者用体素风格制作华沙市中心的互动3D地图，可自由浏览城市街区。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 73,
+      "original_comments": 14
+    },
+    {
+      "title": "AI智能体为小鼠实施脑部手术",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "据报道，一个AI智能体在夜间为一只小鼠完成了脑部手术，引发对AI自主医疗操作的讨论。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 88,
+      "original_comments": 86
+    },
+    {
+      "title": "Anthropic内部AI使用成本按零售价已超员工薪资",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "按零售价格计算，Anthropic内部AI使用支出已超过其员工薪酬总额，凸显AI算力成本之高。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 80,
+      "original_comments": 59
+    },
+    {
+      "title": "Postgres 19延期，因发现更多bug",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "PostgreSQL 19发布延期，原因是当前发现并需修复的bug数量显著增多，引发458条讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 772,
+      "original_comments": 458
+    },
+    {
+      "title": "电网60秒波动之谜被破解",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "科学家解开电网中周期性60秒功率波动的谜团，相关发现或有助于电网稳定管理。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 236,
+      "original_comments": 104
+    },
+    {
+      "title": "骨骼或释放延缓衰老、延长寿命的蛋白质",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "研究发现骨骼可能释放能延缓衰老并延长寿命的蛋白质，为抗衰老研究提供新方向。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 269,
+      "original_comments": 99
+    },
+    {
+      "title": "DeepSeek Harness超详细教程：50分钟吃透DSH",
+      "url": "https://www.bilibili.com/video/BV1REx46NEc4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主发布DeepSeek Harness详细教程，讲解如何用SuperAgent让AI替你干活。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 565481,
+      "original_comments": 806
+    },
+    {
+      "title": "DeepSeek Harness正式入驻B站",
+      "url": "https://www.bilibili.com/video/BV1i24P6rEmt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "DeepSeek Harness官方账号正式入驻B站并发布视频，播放量达37万。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 369803,
+      "original_comments": 463
+    },
+    {
+      "title": "纸绘动画爆肝600张，数形结合让你爱上数学",
+      "url": "https://www.bilibili.com/video/BV1yhxp66Ez8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "UP主手绘600张纸绘动画，以卡点形式演绎数形结合，参加手搓动画大赛，播放超92万。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 927822,
+      "original_comments": 492
+    },
+    {
+      "title": "AI MV大赛：如来演唱《金刚FUNK》",
+      "url": "https://www.bilibili.com/video/BV1RLxs6bEJW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站AI MV大赛作品，用AI让“如来”演唱《金刚FUNK》，脑洞大开，播放超62万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 621172,
+      "original_comments": 621
+    },
+    {
+      "title": "猫咖倒闭求救助，B站视频引关注",
+      "url": "https://www.bilibili.com/video/BV1rJxG6ME5x",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "一家猫咖倒闭，UP主发视频求助，播放超75万、评论近4000条，引发网友关注。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 754977,
+      "original_comments": 3992
+    },
+    {
+      "title": "MSI冠军16强回家！万字解析BLG零封HLE",
+      "url": "https://www.bilibili.com/video/BV1JLxh69EgU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "英雄联盟赛事中BLG零封HLE，MSI冠军止步16强，UP主万字解析背后原因。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 982491,
+      "original_comments": 2957
+    },
+    {
+      "title": "Product Hunt：Chorin，建造真实中世纪修道院",
+      "url": "https://www.producthunt.com/products/chorin-ora-et-labora",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上线Chorin，玩家可从1258年至今建造一座真实的中世纪修道院。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Product Hunt：CutCat，看Netflix时跳过标记场景",
+      "url": "https://www.producthunt.com/products/cutcat",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "CutCat工具可在观看Netflix时自动跳过或静音被标记的场景，方便用户规避不适内容。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国哪些男孩名字后来变成女孩名，反之亦然",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "source": "Hacker News",
+      "score": 4,
+      "summary": "一篇趣味文章梳理美国历史上由男孩名转为女孩名（及反向）的名字变迁现象。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 45,
+      "original_comments": 19
+    },
+    {
+      "title": "日本网友称中文“晕碳”太厉害",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E7%A7%B0%E4%B8%AD%E6%96%87%E6%99%95%E7%A2%B3%E5%A4%AA%E5%8E%89%E5%AE%B3&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "日本网友讨论中文“晕碳”一词表达力强，登上微博热搜，引发语言趣味讨论。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "新娘退场摔倒，新郎仍沉浸式撒娃娃",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%A8%98%E9%80%80%E5%9C%BA%E6%91%94%E5%80%92%E6%96%B0%E9%83%8E%E8%BF%98%E5%9C%A8%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%92%92%E5%A8%83%E5%A8%83&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "婚礼上新郎沉浸式撒娃娃，未察觉新娘退场时摔倒，搞笑画面登上热搜。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "“荆轲刺秦王监控视频”登上热搜",
+      "url": "https://s.weibo.com/weibo?q=%E8%8D%86%E8%BD%B2%E5%88%BA%E7%A7%A6%E7%8E%8B%E7%9B%91%E6%8E%A7%E8%A7%86%E9%A2%91&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "“荆轲刺秦王监控视频”这一脑洞话题登上微博热搜，网友以现代监控视角调侃历史典故。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 684.47 📈+0.32(+0.05%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 52638,
+      "summary": "今日 684.47 | 📈 +0.32(+0.05%) | 最高 684.47 最低 684.14 | 连涨 1天 | 成交额 ¥222万 | 成交量 52638件 | 📈947 ➡5462 📉1085"
+    }
+  ]
+}
