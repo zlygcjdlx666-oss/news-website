@@ -1,0 +1,661 @@
+{
+  "date": "2026-11-03",
+  "commentary": "今天这几条新闻凑一块儿，我差点以为打开的是科幻小说合集。先说币安，63亿美元——这不是黑客攻击，这是直接把金库搬走了还留了张纸条说“谢谢惠顾”。朝鲜说不是它干的，我信，毕竟人家忙着搞洲际导弹呢，哪有空敲键盘？但你看看这剧本：攻击、提现、否认三连，比某些明星公关还熟练。更魔幻的是谷歌，AI搜索一上，广告收入一抖，市值直接蒸发5000亿——合着AI没把人类取代，先把自家金主给优化了。这叫什么？叫“我杀我自己”的商业模式创新。\n\n最让我绷不住的是欧洲超市冰柜被黑。你以为是黑客帝国，结果是黑客让冰淇淋化了。从爱沙尼亚到葡萄牙，几千公里战线就为了让酸奶变质——这年头连制冷设备都能当人质，供应链安全？我看是供应链“全完”。不过跟俄军3000公斤炸弹砸援助中心比，冰柜这点事简直算温馨小品。31条人命，泽连斯基说“极其骇人”，我觉得这词儿都算克制了。\n\n**今日金句：当黑客偷钱、AI偷广告、炸弹偷命，2026年的新闻联播得配降压药看。**",
+  "news": [
+    {
+      "title": "币安遭史上最大规模黑客攻击，损失63亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "加密货币交易所币安遭黑客攻击，损失高达63亿美元，疑为朝鲜黑客组织TraderTraitor所为，用户已提现36亿美元。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌市值暴跌5000亿美元，AI搜索冲击广告收入",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "谷歌自研AI搜索摘要功能影响广告收入，引发投资者恐慌，股价跌至六个月新低，市值蒸发5000亿美元。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄军轰炸乌克兰援助中心致31人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "乌克兰称俄军向南部村庄投掷至少9枚3000公斤级航空炸弹，击中援助中心造成31人死亡，泽连斯基称袭击“极其骇人”。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国在中期选举前空袭伊朗格什姆岛",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国官员称对伊朗格什姆岛的袭击属有限防御性质，此举发生在中期选举前夕，地区局势进一步紧张。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI支出逼近1万亿美元，美国科技股大幅下挫",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "AI相关支出接近1万亿美元引发泡沫担忧，英特尔股价持续下跌，纳斯达克指数开盘创两个多月新低。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲10国超市冰柜遭网络攻击",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "从爱沙尼亚到葡萄牙，欧洲多国超市冰柜遭网络攻击导致温度异常升高，大量食品被迫丢弃，引发供应链安全担忧。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "最高法院驳回特朗普阻止加州计票请求",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "最高法院在中期选举前夕驳回特朗普政府要求停止加州争议选票计数的请求，实质上终结了其取消该州选票的努力。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "数千欧洲士兵将演练乌克兰部署方案",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "西方官员强调，若达成和平协议后派往乌克兰的部队不会参与任何进攻行动，数千欧洲士兵将进行部署演练。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国与欧盟达成食品出口脱欧协议草案",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国与欧盟就取消食品出口脱欧繁文缛节达成草案协议，为本月晚些时候的英欧峰会铺路，是脱欧重置最重大进展。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科学家发现1.15亿年前恐龙红细胞化石",
+      "url": "https://www.solidot.org/story?sid=85785",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "澳大利亚科廷大学团队在巴西阿拉塔龙骨骼化石中发现最古老红细胞化石，距今1.15亿年，成果发表于PNAS。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "朝鲜否认参与币安63亿美元黑客攻击",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "朝鲜否认对币安创纪录的63亿美元黑客攻击负责，但美国政府和网络分析人士均将矛头指向平壤。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "沙特遭袭后2027年亚洲杯延期",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "因东道主沙特阿拉伯遭受一系列致命袭击，原定2027年在沙特举办的亚洲杯被迫推迟。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果折叠屏iPhone供应紧张，圣诞前难补货",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "苹果财报显示销售强劲，但承认iPhone Duo折叠屏机型面临供应“限制”，无法确定圣诞前何时补货。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "名不见经传的企业推高AI泡沫担忧",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "数据中心债务规模达数百亿英镑，一批鲜为人知的企业正成为AI泡沫可能破裂的隐忧来源。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Astra可读写权重以改进Qwen模型",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "Hacker News热议Astra技术，通过直接读写模型权重来改进Qwen，引发社区对模型可解释性与安全性的广泛讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 2885,
+      "original_comments": 869
+    },
+    {
+      "title": "特朗普拟将卢旺达和南非移出美国贸易协定",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "特朗普政府计划将卢旺达和南非从美国贸易协定中移除，此举距美国财政部制裁卢旺达国防部仅一周。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚社交媒体禁令在高等法院开审",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "Reddit和数字权利组织律师主张，这项全球领先的儿童社交媒体禁令剥夺了未成年人的自由通信权。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌克兰最长停火结束后赫尔松战火重燃",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "为期六天的停火虽史无前例，但未能改变战争整体走向，赫尔松地区战斗重新爆发，战事持续胶着。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Virgin Media O2拟裁员数千人以削减成本",
+      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国宽带运营商Virgin Media O2计划裁减数千个岗位以降低成本，具体人数尚未最终确定但规模可观。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "瑞安航空警告或冻结工资并上调票价",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "瑞安航空称若美以与伊朗战争不结束，2028年燃油成本或增加20亿欧元，可能冻结员工工资并提高机票价格。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "富士胶片因AI归档需求将磁带产量提升5倍",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "AI推动数据归档需求激增，富士胶片宣布将磁带产量扩大5倍，凸显冷存储在大模型时代的重要地位。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 101,
+      "original_comments": 34
+    },
+    {
+      "title": "OpenAI疑似悄然重启Codex对话模型训练",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "有用户发现OpenAI似乎在未明确告知的情况下，重新启用对Codex聊天内容的模型训练，引发隐私争议。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 28,
+      "original_comments": 12
+    },
+    {
+      "title": "谷歌威胁对拒绝AI的学校关闭搜索服务",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "据报道，谷歌表示将对拒绝采用其AI工具的学校关闭搜索服务，引发教育界对科技巨头垄断的担忧。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 16,
+      "original_comments": 2
+    },
+    {
+      "title": "珠峰大本营附近两架直升机相撞，印度游客遇难",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "两架直升机在珠峰大本营附近试图降落同一地点时相撞，距地面仅数米，造成一名印度游客死亡。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特内里费前锋德米格尔赛场碰撞后去世",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "西乙特内里费队30岁前锋赫苏斯·德米格尔在一场比赛中发生场上碰撞后不幸去世，足坛哀悼。",
+      "categories": [
+        "社会",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度确认申办2036年夏季奥运会",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E7%A1%AE%E8%AE%A4%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A5%E8%BF%90%E4%BC%9A&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "印度正式确认申办2036年夏季奥运会，若成功将成为首个举办奥运会的南亚国家。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "王毅同菲律宾外长通话",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%AF%85%E5%90%8C%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E9%80%9A%E8%AF%9D&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "中国外长王毅与菲律宾外长通话，就双边关系及地区局势交换意见，引发广泛关注。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Vercel推出AI智能体计算机操作CLI工具",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "vercel-labs发布agent-desktop，一个用Rust编写的AI智能体计算机操作命令行工具，单日获3792星。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Scrapling：全能网页抓取框架登顶GitHub",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "Python网页抓取框架Scrapling支持从单次请求到大规模爬取，单日获1658星，成为开发者热门工具。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude Code游戏工作室：49个AI智能体协作",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目将Claude Code打造成完整游戏开发工作室，含49个AI智能体和72项工作流技能，模拟真实工作室层级。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "claude-mem：为每个智能体提供持久上下文",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目claude-mem可捕获智能体会话全过程，用AI压缩并回注相关上下文，实现跨会话持久记忆。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "2000年来首次读出赫库兰尼姆纸卷文字",
+      "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "研究人员首次读出PHerc. 306B纸卷中的文字，这是维苏威火山灾难中碳化古籍被破译的最新进展。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 32,
+      "original_comments": 1
+    },
+    {
+      "title": "1996年奔腾电脑上的国际象棋引擎能否击败卡斯帕罗夫？",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Hacker News热议：若1996年用普通奔腾电脑运行现代国际象棋引擎，能否击败当时的卡斯帕罗夫。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 221,
+      "original_comments": 109
+    },
+    {
+      "title": "Show HN：仿纽约时报风格的Hacker News",
+      "url": "https://hackertimes.ca/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者推出Hacker Times，将Hacker News以《纽约时报》的排版风格呈现，引发社区怀旧与设计讨论。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 408,
+      "original_comments": 128
+    },
+    {
+      "title": "DiscImageStudio：在光盘上烧录可见图案",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "新工具DiscImageStudio可在CD、DVD和蓝光光盘表面烧录可见艺术作品，为实体媒介增添个性化创意。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 316,
+      "original_comments": 71
+    },
+    {
+      "title": "为改时间而破解汽车导航系统",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一位车主为调整车载导航时间，不惜破解汽车系统，Hacker News网友热议现代汽车软件封闭性之弊。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 16,
+      "original_comments": 2
+    },
+    {
+      "title": "用大都会博物馆藏品玩《块魂》",
+      "url": "https://katamari.vaguespac.es/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者将大都会艺术博物馆藏品做成《块魂》风格游戏，玩家可滚动粘取艺术品，脑洞大开。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 100,
+      "original_comments": 29
+    },
+    {
+      "title": "Brink：把MacBook触控板边缘变成控制区",
+      "url": "https://www.producthunt.com/products/brink-2",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Brink可将MacBook触控板边缘变为快捷控制区，提升操作效率，创意十足。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "LidCommit：合上笔记本盖子自动提交代码",
+      "url": "https://www.producthunt.com/products/lidcommit",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt推出LidCommit，合上笔记本盖子时自动执行Git提交，为开发者省去手动操作。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Flockbay：基于Godot的免费AI游戏制作器",
+      "url": "https://www.producthunt.com/products/flockbay",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Flockbay是基于Godot引擎的免费AI游戏制作工具，让普通人也能快速开发游戏。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "MagicaLCore：在iPad上训练六类机器学习模型",
+      "url": "https://www.producthunt.com/products/magical-core-image-classifier",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt推出MagicaLCore，支持在iPad上训练六种机器学习模型，将AI开发带到移动端。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "DeepSeek Harness正式入驻B站",
+      "url": "https://www.bilibili.com/video/BV1i24P6rEmt",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "DeepSeek Harness官方账号入驻B站，首条视频播放量达224万，弹幕近3000条，引发AI社区关注。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 2243756,
+      "original_comments": 2987
+    },
+    {
+      "title": "《蓝色星球》第三季开播：热带海域",
+      "url": "https://www.bilibili.com/video/BV13dxa6LEe4",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "BBC纪录片《蓝色星球》第三季第一集聚焦热带海域，B站播放量超116万，展现海洋生态奇观。",
+      "categories": [
+        "娱乐",
+        "科学"
+      ],
+      "original_score": 1161443,
+      "original_comments": 844
+    },
+    {
+      "title": "无穷小亮网络热传生物鉴定第65期",
+      "url": "https://www.bilibili.com/video/BV18wxY63Erp",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "科普UP主无穷小亮更新生物鉴定第65期，播放量96.5万，继续以幽默方式辟谣网络流传的奇特生物。",
+      "categories": [
+        "娱乐",
+        "科学"
+      ],
+      "original_score": 965048,
+      "original_comments": 7934
+    },
+    {
+      "title": "一条没下巴的鱼如何杀穿奥陶纪？",
+      "url": "https://www.bilibili.com/video/BV1Xx4c6tEKM",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "科普视频讲述奥陶纪无颌鱼的生存策略，播放量216万，以趣味方式还原古生物演化故事。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 2164165,
+      "original_comments": 1241
+    },
+    {
+      "title": "倍速社会：是谁杀死了你的耐心？",
+      "url": "https://www.bilibili.com/video/BV1ap4g6HEVk",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "科普视频探讨倍速播放与碎片化信息如何侵蚀现代人的耐心，播放量38.8万，引发广泛共鸣。",
+      "categories": [
+        "社会",
+        "娱乐"
+      ],
+      "original_score": 388304,
+      "original_comments": 1297
+    },
+    {
+      "title": "开破车挑战纽北：中国人比德国人更会玩车？",
+      "url": "https://www.bilibili.com/video/BV1HH4u6PEsa",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "极速拍档驾驶改装破车挑战纽博格林赛道，播放量22.6万，弹幕5641条，展现中国车迷的硬核玩法。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 226482,
+      "original_comments": 5641
+    },
+    {
+      "title": "180万一平米的义乌爆火房引热议",
+      "url": "https://www.bilibili.com/video/BV1zUx16tEKg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "UP主假装要给男友买义乌1700万9平米爆火房，视频播放量超102万，折射楼市奇观与年轻人购房焦虑。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 1021531,
+      "original_comments": 2106
+    },
+    {
+      "title": "女子每天玩手机10小时患“手机痴呆症”",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%8E%A9%E6%89%8B%E6%9C%BA10%E5%B0%8F%E6%97%B6%E6%82%A3%E6%89%8B%E6%9C%BA%E7%97%B4%E5%91%86%E7%97%87&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜：一女子因每天玩手机长达10小时被诊断出“手机痴呆症”，引发公众对数字成瘾健康的讨论。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "女生刷到另一个自己竟是双胞胎",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E5%88%B7%E5%88%B0%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%AB%9F%E6%98%AF%E5%8F%8C%E8%83%9E%E8%83%8E&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜：一名女生在短视频中刷到与自己长相一模一样的陌生人，最终发现竟是失散双胞胎，剧情离奇。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "清华在读女生怀孕生娃的神级时间管理",
+      "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%9C%A8%E8%AF%BB%E5%A5%B3%E7%94%9F%E6%80%80%E5%AD%95%E7%94%9F%E5%A8%83%E7%A5%9E%E7%BA%A7%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86&t=31",
+      "source": "微博热搜",
+      "score": 5,
+      "summary": "微博热搜：一名清华在读女生分享怀孕生娃同时兼顾学业的时间管理经验，引发网友热议与敬佩。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 680.46 📉-3.69(-0.54%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 0,
+      "summary": "今日 680.46 | 📉 -3.69(-0.54%) | 最高 685.02 最低 680.46 | 连涨 -5天 | 成交额 ¥0万 | 成交量 0件 | 📈1815 ➡2128 📉3551"
+    }
+  ]
+}
