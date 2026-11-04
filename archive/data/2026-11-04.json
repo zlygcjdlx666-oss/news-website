@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-04",
+  "commentary": "今天这新闻单子一看，我差点以为CSGO大盘被人点了暂停键——680.34，涨跌0.04，成交量68件，成交额0万。哥们儿，这不是大盘，这是心电图停跳前的最后一条直线。连涨6天涨出个0万成交，韭菜都没了，就剩几个机器人搁那儿互相挂单玩呢。饰品市场凉成这样，建议改名叫CS:GOODBYE。\n\n再说B站那个“受网友诱骗跨省流浪一年，名下多6家公司欠一屁股债”——这剧情编剧都不敢写，怕被骂脱离现实。结果现实啪一下甩你脸上：不光真实，还上了热门。你说这年头，天上掉馅饼的事没有，天上掉公司法人的事倒是管够。建议列入年度反诈宣传片，片名就叫《我以为去见网友，结果成了董事长》。\n\n还有TES打IG播放766万，弹幕5.5万——英雄联盟还是B站的亲爹，这流量稳得像老狗。不过弹幕比播放少这么多，说明大伙儿都忙着看操作，没空吵架，难得清净。\n\n**今日金句：大盘不动、网友别信、比赛照看——这世界唯一靠谱的，就是别轻易跟陌生人跨省。**",
+  "news": [
+    {
+      "title": "【2026全球总决赛】11月4日 TES vs IG",
+      "url": "https://www.bilibili.com/video/BV1XwxU6xEnL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:766.4万 | 弹幕:5.5万 | UP主:哔哩哔哩英雄联盟赛事",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7663552,
+      "original_comments": 54645
+    },
+    {
+      "title": "总有世界，与你同频｜《弧光猎人》同频测试PV&国服全新PVP事件预告",
+      "url": "https://www.bilibili.com/video/BV1RA4w6AE74",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:427.8万 | 弹幕:1426 | UP主:弧光猎人_ARCRaiders",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4277979,
+      "original_comments": 1426
+    },
+    {
+      "title": "【只对你有感觉】|“【恋爱の小曲】”",
+      "url": "https://www.bilibili.com/video/BV1w5xh6sEEz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:344.6万 | 弹幕:658 | UP主:蛋某人音乐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3445592,
+      "original_comments": 658
+    },
+    {
+      "title": "抽象新闻：10月人类迷惑行为大赏（下）",
+      "url": "https://www.bilibili.com/video/BV14g4u6rEeH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:330.9万 | 弹幕:5664 | UP主:我是M菌",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3309404,
+      "original_comments": 5664
+    },
+    {
+      "title": "《崩坏：星穹铁道》即兴巡演PV——「当阿哈来敲门」",
+      "url": "https://www.bilibili.com/video/BV1XJ4g6WEyL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:266.9万 | 弹幕:2.6万 | UP主:崩坏星穹铁道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2669325,
+      "original_comments": 26283
+    },
+    {
+      "title": "《这是我儿子？》",
+      "url": "https://www.bilibili.com/video/BV1PF4g6ME26",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:217.9万 | 弹幕:596 | UP主:张小伙玩配音",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2179251,
+      "original_comments": 596
+    },
+    {
+      "title": "受网友诱骗跨省流浪一年，名下多了6家公司，欠了一屁股债，银行卡被封，全家低保也差点注销【出发去创作】",
+      "url": "https://www.bilibili.com/video/BV1gqpv65Ekw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:212.1万 | 弹幕:2415 | UP主:摩的司机徐师傅",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2120712,
+      "original_comments": 2415
+    },
+    {
+      "title": "屋里味太大",
+      "url": "https://www.bilibili.com/video/BV1CP4G6GE3p",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:136.1万 | 弹幕:1553 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1360768,
+      "original_comments": 1553
+    },
+    {
+      "title": "勃朗峰十二日｜170公里走入阿尔卑斯山深处，直到暴雪来临....【出发去创作】",
+      "url": "https://www.bilibili.com/video/BV1Rsxh62E9K",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:99.5万 | 弹幕:157 | UP主:生活探险家",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 995411,
+      "original_comments": 157
+    },
+    {
+      "title": "【时代少年团】系列纪录片《光辉岁月》——“小永远”",
+      "url": "https://www.bilibili.com/video/BV1ov4u6WEH4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:78.5万 | 弹幕:11.8万 | UP主:时代少年团",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 785300,
+      "original_comments": 117748
+    },
+    {
+      "title": "乖乖待在我身边学微积分不好吗？",
+      "url": "https://www.bilibili.com/video/BV1vW4G6bEuf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:70.9万 | 弹幕:1347 | UP主:社恐内向昭爷爷",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 708538,
+      "original_comments": 1347
+    },
+    {
+      "title": "吓哭了！冲碎天钉！钟离史上最帅高光！什么天钉、圣土化？还以为是减速带呢！钟离先其它七神和六国一步，直接出手用一枚摩拉通关僭继试炼过场动画！还让闲云传递情报",
+      "url": "https://www.bilibili.com/video/BV14qxS6HEwZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:65.0万 | 弹幕:1709 | UP主:不当咕咕咕的鸽子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 650043,
+      "original_comments": 1709
+    },
+    {
+      "title": "打地铺第一集",
+      "url": "https://www.bilibili.com/video/BV1XJ4M61E1J",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.5万 | 弹幕:177 | UP主:小新博主",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 644512,
+      "original_comments": 177
+    },
+    {
+      "title": "【返场】乐高车过障碍物",
+      "url": "https://www.bilibili.com/video/BV1Zg4g68Ef7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:55.3万 | 弹幕:1259 | UP主:BEC乐高实验",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 553421,
+      "original_comments": 1259
+    },
+    {
+      "title": "网 恋 VS 奔 现",
+      "url": "https://www.bilibili.com/video/BV1dw4V6YEBc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.6万 | 弹幕:449 | UP主:伢伢gagako",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 406010,
+      "original_comments": 449
+    },
+    {
+      "title": "《今日得吃朱古力》",
+      "url": "https://www.bilibili.com/video/BV1jcxX6CEyK",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.4万 | 弹幕:455 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 404155,
+      "original_comments": 455
+    },
+    {
+      "title": "【原神一条龙全收集】至冬7.2(更新中)新基捷城+如翼之峰/宝箱/摩拉堆/玉帛/冰之印/原神7.2一条龙",
+      "url": "https://www.bilibili.com/video/BV1PyxQ6sEbH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:35.9万 | 弹幕:1338 | UP主:你的影月月",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 359189,
+      "original_comments": 1338
+    },
+    {
+      "title": "早知道就想好再买了…",
+      "url": "https://www.bilibili.com/video/BV1ZwxR6SE89",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.4万 | 弹幕:804 | UP主:小杨Johnson",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253752,
+      "original_comments": 804
+    },
+    {
+      "title": "【S16分析】IG挺进四强！版本环境生态解读，大防守时代的进攻构筑逻辑是什么？",
+      "url": "https://www.bilibili.com/video/BV1Wgx96xEwH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.1万 | 弹幕:1398 | UP主:圆某人和四某人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 250808,
+      "original_comments": 1398
+    },
+    {
+      "title": "当各方知道诸葛亮冻死的消息？逆天联动！新三国被做成游戏恐怖如斯！",
+      "url": "https://www.bilibili.com/video/BV1KrxQ64E6U",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.5万 | 弹幕:496 | UP主:鲁过一世",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 224930,
+      "original_comments": 496
+    },
+    {
+      "title": "Human Fall Flat",
+      "url": "https://store.steampowered.com/app/477160",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $74",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "PEAK",
+      "url": "https://store.steampowered.com/app/3527290",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-38% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3900,
+      "original_comments": 0
+    },
+    {
+      "title": "R.E.P.O.",
+      "url": "https://store.steampowered.com/app/3241660",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $23",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Raft",
+      "url": "https://store.steampowered.com/app/648800",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $52",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Brotato + Abyssal Terrors DLC + Primal Dread DLC",
+      "url": "https://store.steampowered.com/app/94275",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $39",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Loftia",
+      "url": "https://store.steampowered.com/app/2320980",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-17% | $90",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1800,
+      "original_comments": 0
+    },
+    {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $50",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $241",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Nomad Drive",
+      "url": "https://store.steampowered.com/app/2223980",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $49",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Potato Please",
+      "url": "https://store.steampowered.com/app/5266240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $32",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 712,
+      "original_comments": 219
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 495,
+      "original_comments": 341
+    },
+    {
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 410,
+      "original_comments": 77
+    },
+    {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 374,
+      "original_comments": 185
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 362,
+      "original_comments": 104
+    },
+    {
+      "title": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 362,
+      "original_comments": 94
+    },
+    {
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 332,
+      "original_comments": 24
+    },
+    {
+      "title": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 276,
+      "original_comments": 179
+    },
+    {
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 231,
+      "original_comments": 34
+    },
+    {
+      "title": "US voters roundly reject data centers in ballot measures",
+      "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 204,
+      "original_comments": 334
+    },
+    {
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 194,
+      "original_comments": 114
+    },
+    {
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 190,
+      "original_comments": 94
+    },
+    {
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 157,
+      "original_comments": 92
+    },
+    {
+      "title": "Giant canyon on Mars is still tectonically active",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 127,
+      "original_comments": 28
+    },
+    {
+      "title": "The lost malloc()",
+      "url": "https://napcakes.nekoweb.org/posts/malloc/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 111,
+      "original_comments": 42
+    },
+    {
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 109,
+      "original_comments": 44
+    },
+    {
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 105,
+      "original_comments": 53
+    },
+    {
+      "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 103,
+      "original_comments": 37
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$268",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 680.34 📉-0.04(-0.01%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 68,
+      "summary": "今日 680.34 | 📉 -0.04(-0.01%) | 最高 680.34 最低 680.34 | 连涨 -6天 | 成交额 ¥0万 | 成交量 68件 | 📈2068 ➡2015 📉3411"
+    }
+  ]
+}
