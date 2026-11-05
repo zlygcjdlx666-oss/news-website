@@ -1,0 +1,660 @@
+{
+  "date": "2026-11-05",
+  "commentary": "好家伙，今天这新闻单子一看，我差点以为编辑把“科技圈翻车合集”误发过来了。先说谷歌，五千亿美元市值说没就没，跟变魔术似的。AI搜索摘要把广告收入啃了——这不就是自己养的狗把自己饭碗叼走了吗？当年靠广告吃饭，现在AI一上场，用户看完摘要直接走人，广告主原地懵圈。说白了，AI不是印钞机，是个碎钞机，只不过碎的是自家的钱。再看币安那63亿劫案，假面试骗工程师，黑客这操作简直是“招聘网站版杀猪盘”，正规平台当跳板，防不胜防。加密圈天天喊去中心化，结果安全防线还不如小区门禁。最后瞄一眼CS:GO大盘，连涨八天怒涨……哦不，跌了0.01%，成交额六万块，这波动幅度跟我家楼下菜市场白菜价差不多，建议改名叫“CS:GO微积分”。至于黄之锋判十年那条，我只说一句：法治社会，法律说了算，别的都是嘴皮子功夫。今天这堆新闻总结成一句话——AI烧钱、黑客烧脑、币圈烧心。\n\n今日金句：**“AI让谷歌市值蒸发五千亿，说明最狠的竞争对手往往是自己亲手喂大的。”**",
+  "news": [
+    {
+      "title": "谷歌市值暴跌5000亿美元，AI搜索摘要冲击广告收入",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "谷歌自研AI搜索摘要开始侵蚀广告收入，股价跌至六个月低点，市值蒸发约5000亿美元，引发市场对AI商业模式的担忧。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "币安63亿美元加密劫案：假面试成攻击入口",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "币安披露史上最大加密盗窃案细节，黑客通过正规招聘平台以虚假面试接触工程师实施攻击，损失达63亿美元。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "香港民主派代表人物黄之锋被判刑10年",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "现年30岁的黄之锋因国安法相关案件被判处10年监禁，是数百名依该法被拘捕的香港人之一。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI支出逼近1万亿美元，美股科技股大幅下挫",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "AI资本开支接近1万亿美元引发泡沫担忧，英特尔股价续跌，纳斯达克开盘创两个多月新低。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克豪掷5亿美元助选，共和党中期选举仍失利",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "马斯克在2026年美国中期选举中投入近5亿美元创个人政治支出纪录，但未能帮助共和党赢得关键选战。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "名不见经传的企业背负巨额债务，加剧AI泡沫破裂担忧",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "数据中心相关企业债务规模达数百亿英镑，市场担忧AI基础设施投资过热可能引发泡沫破裂。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "网络攻击致欧洲多国超市冷柜失灵，大量食品报废",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "七个欧洲国家数十家超市的冰箱和冷柜遭网络攻击温度被调高，大量食品被迫丢弃，法国血库冷藏设施亦受影响。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国央行三年多来首次加息至4%",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国央行将基准利率从3.75%上调至4%，为三年多来首次加息，多数分析师此前已有预期。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Canva经历“最艰难一年”后宣布大规模裁员",
+      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "Canva CEO梅兰妮·珀金斯宣布超过1000名员工将失业或被要求转岗，称公司刚经历“最艰难的一年”。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AMD季度营收预计将首次超越英特尔",
+      "url": "https://www.solidot.org/story?sid=85799",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "AMD第三季度营收同比增长45%达134亿美元，数据中心业务翻倍，下季度营收预计将首次超过英特尔。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国与欧盟就取消食品出口脱欧繁文缛节达成草案协议",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英欧在峰会前达成食品出口协议草案，被视为迄今“脱欧重置”中最实质性的进展。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "苹果折叠屏iPhone供应紧张，圣诞前恐难补货",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "苹果财报显示销售强劲，但承认iPhone Duo折叠机存在供应限制，无法确定圣诞节前能否补足库存。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "澳大利亚最老百货David Jones经营188年后倒闭",
+      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "拥有188年历史的澳洲老牌百货David Jones进入破产管理，38家门店和线上业务在接管方审查期间继续运营。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "万斯严厉批评共和党败选，与特朗普公开拉开距离",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "美国副总统万斯将中期选举失利归咎于伊朗战争等因素，成为近年现任副总统对在任总统最尖锐的公开切割之一。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "厄尔尼诺加剧，台风接连重创东亚",
+      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "厄尔尼诺使太平洋“高烧”，东亚多国遭遇异常猛烈台风季，即使惯于台风的地区也面临罕见极端天气。",
+      "categories": [
+        "科学",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：改用富钾盐每年或可预防近300万人死亡",
+      "url": "https://www.solidot.org/story?sid=85803",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "澳大利亚研究团队评估193国数据发现，用氯化钾部分替代食盐中的钠，每年可预防近300万例死亡和千万例心血管肾病。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI热潮冲击供应链，任天堂最大ROM芯片供应商拟退出",
+      "url": "https://www.solidot.org/story?sid=85801",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "旺宏电子宣布准备终止ROM芯片生产并退出游戏行业，该业务一年内产量缩减39%，Switch卡带供应或受影响。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Kimi K3.1 Pro模型权重开源发布",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "月之暗面发布Kimi K3.1 Pro模型权重，在Hacker News引发174条讨论，成为开源大模型领域重要进展。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 605,
+      "original_comments": 174
+    },
+    {
+      "title": "Ripple-65B预览版：美国开源权重模型在智能体编程上达SOTA",
+      "url": "https://www.ricursive.com/ripple",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "美国开源权重模型Ripple-65B预览版发布，在智能体编程任务上达到当前最优水平，引发社区关注。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 325,
+      "original_comments": 116
+    },
+    {
+      "title": "百度发布ERNIE 5.5 Flash Base模型",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "百度推出ERNIE 5.5 Flash Base，进一步扩充其大模型产品线，加入国内外开源与闭源模型的激烈竞争。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 134,
+      "original_comments": 73
+    },
+    {
+      "title": "GPT-6 Astra被指在安全研究上暗中表现不佳",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "有讨论指出GPT-6 Astra在安全相关研究任务中表现低于预期，引发对前沿模型能力宣传与实际表现的质疑。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 127,
+      "original_comments": 45
+    },
+    {
+      "title": "AI正迫使企业偿还40年技术债",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Hacker News热帖讨论AI落地暴露企业积压四十年的技术债务，改造旧系统成为AI转型的隐性成本。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 1234,
+      "original_comments": 721
+    },
+    {
+      "title": "白宫网络监测到住宅代理活动",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "安全公司在白宫所属自治系统中监测到236次住宅代理连接活动，源头疑为被入侵的Windows 11设备。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 1219,
+      "original_comments": 406
+    },
+    {
+      "title": "Alpine Linux发布OpenSSH服务器密码认证绕过高危漏洞公告",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Alpine Linux披露OpenSSH-server存在密码认证绕过漏洞，并发布针对无PAM环境的紧急修复方案。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 129,
+      "original_comments": 6
+    },
+    {
+      "title": "研究：谷歌与OpenAI模型对特定口音存在偏见",
+      "url": "https://www.solidot.org/story?sid=85804",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究测试Gemini与GPT-Audio等模型发现，它们在面试、口语测评等场景中对不同英语口音存在系统性评分偏见。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NASA Swift天文台从印尼上空重返大气层",
+      "url": "https://www.solidot.org/story?sid=85802",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "重1.5吨的Swift天文台于11月4日再入大气层，大部分组件烧毁，可能有残片坠落苏门答腊附近区域。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "越南法院判处足球直播盗版团伙最高一年徒刑",
+      "url": "https://www.solidot.org/story?sid=85807",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "越南法院对盗版足球直播网站Bun Cha TV的14名成员判刑，4名负责人获刑12个月，3名解说员获缓刑。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国警方就两起新强奸指控调查罗素·布兰德",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "警方表示正调查针对罗素·布兰德的两项新强奸指控，并希望更多潜在受害者从有罪判决中获得勇气。",
+      "categories": [
+        "娱乐",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "纽约一建筑火灾致6死多人受伤",
+      "url": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "纽约市一栋建筑发生火灾造成6人死亡、多人受伤，230名消防与急救人员到场，起火原因尚在调查。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国工会发起新一轮罢工与抗议",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "法国五大工会联合发起全国行动日罢工与抗议，要求政府就相关问题立即给出答复。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英镑升至脱欧公投以来最高水平",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英镑对一篮子货币汇率升至2016年脱欧公投以来最高，反映市场对英国经济与政策预期的改善。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "家乐氏承认更改配方后脆米花“声音变小”",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "家乐氏更改Rice Krispies和Coco Pops配方引发消费者不满，公司承认标志性的“噼啪”声确实变轻了。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "意大利主厨真因拒绝菠萝披萨被解雇？",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "一名意大利主厨称因拒绝在披萨上放菠萝而被解雇，并称此举“冒犯其文化”，事件真实性引发热议。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度最贵电影改编《罗摩衍那》口碑两极",
+      "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "印度年度最受期待大片《罗摩衍那：传说崛起》上部上映，以天价成本重述印度教史诗，评论界评价分化。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "新型牙刷靠刷毛发电对抗牙菌斑",
+      "url": "https://www.solidot.org/story?sid=85800",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "一款通过刷毛运动产生电能的牙刷在115人三个月试验中，减少致龋齿和牙周炎细菌的效果优于普通刷牙。",
+      "categories": [
+        "科学",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "做一副像普通眼镜的智能眼镜到底有多难？",
+      "url": "https://www.bilibili.com/video/BV1La4t6uEKb",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站UP主解析智能眼镜在形态、重量与功能间的工程难题，探讨如何做到外观与普通眼镜无异。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 294457,
+      "original_comments": 412
+    },
+    {
+      "title": "MacBook Pro 全新XDR屏上手体验",
+      "url": "https://www.bilibili.com/video/BV1NS4t6oEXQ",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "影视飓风评测新款MacBook Pro的ProLED XDR显示屏，讨论其显示素质与实际使用价值。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 230758,
+      "original_comments": 1167
+    },
+    {
+      "title": "腾讯Hy4：旗舰模型学会“看”和操作电脑",
+      "url": "https://www.producthunt.com/products/hunyuan-a13b",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "腾讯在Product Hunt发布旗舰模型Hy4，具备视觉理解与电脑操作能力，可执行智能体式任务。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Rerun：把AI订阅变成一支AI同事团队",
+      "url": "https://www.producthunt.com/products/rerun-2",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Product Hunt新品Rerun可将用户的多个AI订阅整合为协同工作的“AI同事团队”，提升自动化协作效率。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Glasshand：给AI智能体一台真实的iPhone和Mac",
+      "url": "https://www.producthunt.com/products/glasshand",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Glasshand让AI智能体操控真实的iPhone与Mac设备，为移动端自动化与测试提供新思路。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Nock：用1MB Rust代码为Windows造一个“刘海”",
+      "url": "https://www.producthunt.com/products/nock-2",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "开发者用仅1MB的Rust程序在Windows上实现类似MacBook的刘海区域功能，轻量且有趣。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SnapTiles：在浏览器里免费玩3D磁力拼块",
+      "url": "https://www.producthunt.com/products/snaptiles",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "SnapTiles让你在浏览器中免费搭建3D磁力拼块结构，是一款轻松上手的创意建造工具。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Lemmings CSS动画",
+      "url": "https://markblah.github.io/lemmings/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者用纯CSS复刻经典游戏《旅鼠总动员》的动画效果，引发Hacker News网友怀旧与讨论。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 327,
+      "original_comments": 64
+    },
+    {
+      "title": "用Three.js让液体在屏幕上蔓延",
+      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一个基于Three.js的流体扩散可视化项目，展示液体在3D空间中的动态蔓延效果，视觉效果出色。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 192,
+      "original_comments": 26
+    },
+    {
+      "title": "2000年代初做游戏的童年回忆",
+      "url": "https://jaytholen.net/teengamedev/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一篇怀旧文章回顾2000年代初期孩子自学做游戏的经历，引发Hacker News读者对早期编程时光的共鸣。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 92,
+      "original_comments": 38
+    },
+    {
+      "title": "冷门音频编码器竟完美适配N64",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者发现一款鲜为人知的音频编码器与N64硬件高度契合，为复古主机音频开发提供新可能。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 71,
+      "original_comments": 4
+    },
+    {
+      "title": "XKCD：众议院多数",
+      "url": "https://xkcd.com/3320/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃美国中期选举后众议院格局，笑称堪萨斯州民主党参议员将首次见到可编程自动数字计算机。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：电梯",
+      "url": "https://xkcd.com/3319/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画畅想“可重复使用的电梯”，调侃人们为防撞伤而使用的笨重昂贵护具将被省下。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：地球大小的行星",
+      "url": "https://xkcd.com/3318/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画讨论地球大小系外行星的冰幔与硅酸盐地质结构，并期待出现类似木卫一的奇特演化。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乐高车过障碍物实验",
+      "url": "https://www.bilibili.com/video/BV1Zg4g68Ef7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主用乐高搭建车辆挑战通过障碍物，播放量超255万，展示趣味机械设计与实验过程。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 2550343,
+      "original_comments": 4597
+    },
+    {
+      "title": "带猫狗去动物园，路上差点中毒",
+      "url": "https://www.bilibili.com/video/BV1qExQ6GEq4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主记录带猫狗逛动物园的趣事，途中意外遭遇疑似中毒险情，播放量超118万。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 1181547,
+      "original_comments": 337
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 679.92 📉-0.07(-0.01%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1108,
+      "summary": "今日 679.92 | 📉 -0.07(-0.01%) | 最高 679.98 最低 679.92 | 连涨 -8天 | 成交额 ¥6万 | 成交量 1108件 | 📈2331 ➡2069 📉3094"
+    }
+  ]
+}
