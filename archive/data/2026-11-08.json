@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-08",
+  "commentary": "今天这盘面，CSGO大盘跌了0.19%，成交额四千多万，看着挺热闹，仔细一瞅——涨的2100，跌的2906，这叫啥？这叫“指数装死，个股挨打”。连涨一天就歇菜，跟咱上班摸鱼一个节奏，刚支棱一下就躺平。饰品市场现在就是击鼓传花，别以为自己是镰刀，其实都是那茬韭菜。\n\n再说B站热门，我一眼扫过去差点笑出声——《原神》一条龙播放535万，UP主“你的影月月”这是把玩家从“探索的乐趣”直接送进“流水线打工”。至冬7.2，232个成就、90个冰神瞳，兄弟，这哪是玩游戏，这是电子厂计件工资。另一头《崩坏：星穹铁道》阿哈PV，“让骰子飞”，米哈游现在是真懂，角色还没抽呢，先把赌狗心理拿捏得死死的。\n\n最逗的是S赛那边IG打GEN，328万播放，配上《BLG带带我》怀旧金曲145万——比赛还没打完，梗先出圈了。这说明啥？观众早就不只看输赢了，看的是弹幕里那口“电子榨菜”。\n\n今日金句：**大盘装死不可怕，可怕的是你还在那儿数冰神瞳，人家米哈游已经让你把骰子捏手里了。**",
+  "news": [
+    {
+      "title": "【原神一条龙全收集】至冬7.2(成就数232/冰神瞳90/摩拉69/影生翼滴15)新基捷城+如翼之峰/宝箱/摩拉堆/玉帛/冰之印/原神7.2一条龙",
+      "url": "https://www.bilibili.com/video/BV1PyxQ6sEbH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:535.6万 | 弹幕:2.3万 | UP主:你的影月月",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5355727,
+      "original_comments": 22625
+    },
+    {
+      "title": "“这是给孩子的，不是给你的”",
+      "url": "https://www.bilibili.com/video/BV1Wx4i6LEmf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:411.5万 | 弹幕:1012 | UP主:上邪aa",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4114508,
+      "original_comments": 1012
+    },
+    {
+      "title": "《崩坏：星穹铁道》星神★阿哈角色PV——「让骰子飞」",
+      "url": "https://www.bilibili.com/video/BV1tS4n6CEoJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:342.2万 | 弹幕:2.6万 | UP主:崩坏星穹铁道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3421607,
+      "original_comments": 25913
+    },
+    {
+      "title": "【2026全球总决赛】11月8日 IG vs GEN",
+      "url": "https://www.bilibili.com/video/BV1ua4W6XEJd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:328.5万 | 弹幕:2.4万 | UP主:哔哩哔哩英雄联盟赛事",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3285432,
+      "original_comments": 24321
+    },
+    {
+      "title": "【独家】牧神记 第108集 相逢何必曾相识",
+      "url": "https://www.bilibili.com/video/BV1xt476wEp7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:207.1万 | 弹幕:7898 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2071411,
+      "original_comments": 7898
+    },
+    {
+      "title": "人类饲养指南",
+      "url": "https://www.bilibili.com/video/BV1Cn4n6YE29",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:196.7万 | 弹幕:497 | UP主:抽象生活先生",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1967003,
+      "original_comments": 497
+    },
+    {
+      "title": "农村大片! 大战外星人! 好莱坞都不敢这么拍",
+      "url": "https://www.bilibili.com/video/BV11S4z6xEpc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:185.4万 | 弹幕:2091 | UP主:神奇的老皮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1854464,
+      "original_comments": 2091
+    },
+    {
+      "title": "到底摔了几个",
+      "url": "https://www.bilibili.com/video/BV1JM4H6hEVi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:149.8万 | 弹幕:1172 | UP主:脱缰凯Kk",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1498075,
+      "original_comments": 1172
+    },
+    {
+      "title": "出现在餐桌上的清明上河图",
+      "url": "https://www.bilibili.com/video/BV1so4E6cEGi",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:148.2万 | 弹幕:3465 | UP主:小馒头的面食面艺",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1481747,
+      "original_comments": 3465
+    },
+    {
+      "title": "S赛怀旧金曲《BLG带带我》",
+      "url": "https://www.bilibili.com/video/BV1mK4E6NE82",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:145.7万 | 弹幕:953 | UP主:九夜听风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1457254,
+      "original_comments": 953
+    },
+    {
+      "title": "那天在丹霞山是在爬不动了，于是坐了人力轿子......",
+      "url": "https://www.bilibili.com/video/BV1KD4E6KEN9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:134.5万 | 弹幕:572 | UP主:丁广日记",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1344953,
+      "original_comments": 572
+    },
+    {
+      "title": "火柴人 VS 动画师 第十四集 黑暗时代（The Dark Age）",
+      "url": "https://www.bilibili.com/video/BV1Z24J6dEBk",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:121.8万 | 弹幕:6.6万 | UP主:火柴人AlanBecker",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1217895,
+      "original_comments": 65976
+    },
+    {
+      "title": "豆奶：非凡之爱【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1SN4n6CEXb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:120.4万 | 弹幕:243 | UP主:伍鸣石",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1204070,
+      "original_comments": 243
+    },
+    {
+      "title": "一条很长很长很长很长的人......",
+      "url": "https://www.bilibili.com/video/BV1qW456TE3b",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:115.3万 | 弹幕:1125 | UP主:青浦模子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1152917,
+      "original_comments": 1125
+    },
+    {
+      "title": "欢迎来到实力至上主义校园",
+      "url": "https://www.bilibili.com/video/BV1nx4n6cEst",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:99.5万 | 弹幕:2057 | UP主:阿玉老贼",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 994749,
+      "original_comments": 2057
+    },
+    {
+      "title": "你学会了吗",
+      "url": "https://www.bilibili.com/video/BV1oK476jExu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:84.0万 | 弹幕:653 | UP主:大雄哥Dxg",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 839952,
+      "original_comments": 653
+    },
+    {
+      "title": "【时间啊，向前！】TL-EX-1至TL-EX-8突袭 摆完挂机 简单好抄",
+      "url": "https://www.bilibili.com/video/BV1x8WJ6oE3H",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:63.2万 | 弹幕:423 | UP主:萧然Q",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 631725,
+      "original_comments": 423
+    },
+    {
+      "title": "你就不能一手抓保研，一手抓实习，一手抓竞赛，一手抓考公，一手抓考证，一手抓综测……",
+      "url": "https://www.bilibili.com/video/BV1j54H64ENc",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:59.6万 | 弹幕:326 | UP主:个大活人",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 596350,
+      "original_comments": 326
+    },
+    {
+      "title": "【IEM科隆Major纪录片】Field of View - Focus to Win",
+      "url": "https://www.bilibili.com/video/BV1vp4W6fEQR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:38.4万 | 弹幕:2358 | UP主:ESL官方账号",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 383986,
+      "original_comments": 2358
+    },
+    {
+      "title": "宿舍自制密室逃脱9《盗宿笔记》",
+      "url": "https://www.bilibili.com/video/BV1tEW764Ew5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.5万 | 弹幕:453 | UP主:小叮当的伙伴们",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 375295,
+      "original_comments": 453
+    },
+    {
+      "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "url": "https://store.steampowered.com/app/817628",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-67% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6800,
+      "original_comments": 0
+    },
+    {
+      "title": "007 First Light",
+      "url": "https://store.steampowered.com/app/3768760",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-40% | $48",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4100,
+      "original_comments": 0
+    },
+    {
+      "title": "CONTROL Resonant",
+      "url": "https://store.steampowered.com/app/3669870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $48",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Loftia",
+      "url": "https://store.steampowered.com/app/2320980",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-17% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1800,
+      "original_comments": 0
+    },
+    {
+      "title": "Find The Needle",
+      "url": "https://store.steampowered.com/app/5160800",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $12",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Horses of Hoofprint Bay",
+      "url": "https://store.steampowered.com/app/3727090",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $23",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Underkeep",
+      "url": "https://store.steampowered.com/app/2411200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Potato Please",
+      "url": "https://store.steampowered.com/app/5266240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Football Manager 27",
+      "url": "https://store.steampowered.com/app/4530370",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $54",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Nomad Drive",
+      "url": "https://store.steampowered.com/app/2223980",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1052,
+      "original_comments": 266
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 773,
+      "original_comments": 420
+    },
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 664,
+      "original_comments": 121
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 470,
+      "original_comments": 331
+    },
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 469,
+      "original_comments": 312
+    },
+    {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 379,
+      "original_comments": 378
+    },
+    {
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 343,
+      "original_comments": 95
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 258,
+      "original_comments": 61
+    },
+    {
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 182,
+      "original_comments": 117
+    },
+    {
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 169,
+      "original_comments": 46
+    },
+    {
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 165,
+      "original_comments": 111
+    },
+    {
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 159,
+      "original_comments": 108
+    },
+    {
+      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "url": "https://clj.rs/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 101,
+      "original_comments": 35
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1039",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 92,
+      "original_comments": 74
+    },
+    {
+      "title": "Petered (what happens after the Peter Principle)",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 91,
+      "original_comments": 55
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 679.28 📉-1.32(-0.19%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1021390,
+      "summary": "今日 679.28 | 📉 -1.32(-0.19%) | 最高 681.76 最低 678.88 | 连涨 -1天 | 成交额 ¥4169万 | 成交量 1021390件 | 📈2100 ➡2488 📉2906"
+    }
+  ]
+}
