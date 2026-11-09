@@ -1,0 +1,654 @@
+{
+  "date": "2026-11-09",
+  "commentary": "今天这新闻串起来看，简直是一出黑色喜剧。先说黄仁勋，昨天还是AI教父、穿皮衣的摇滚明星，今天就被爆出“与疑似间谍有染”接受调查，市值蒸发几千亿。我就想问：这剧情是编剧罢工期间写的吗？一个卖显卡的，硬生生被整成了谍战片男主。更绝的是同一天全球股市因为“AI放缓担忧”暴跌——合着黄老板一个人把全球科技股带沟里了？英伟达这股价，比他家显卡跑《赛博朋克》还刺激。\n\n再看特朗普，中期选举输了就质疑公正性，之前接受结果的时候可不是这副嘴脸。这操作我熟啊——打游戏输了就说对面开挂，经典“不是我军无能，是服务器针对我”。最讽刺的是马斯克砸了5亿美元助选，结果钱花了、票没捞着，转头还暗示Cybertruck要停产给Cybercab让路。5亿美金买了个寂寞，这投资回报率还不如买CS:GO的箱子——好歹今天大盘只跌了0.02%。\n\n**今日金句：这年头，AI会造梦也会蒸发市值，选举能花钱也能打水漂，唯有CS:GO的饰品，跌得稳定，亏得踏实。**",
+  "news": [
+    {
+      "title": "英伟达股价暴跌，黄仁勋被调查与疑似中国间谍有染",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "英伟达CEO黄仁勋被曝与疑似中国间谍女子有染，正接受调查，公司股价大跌，市值蒸发数千亿美元。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普质疑中期选举公正性",
+      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "特朗普在Truth Social上无证据质疑中期选举公正性，而此前他曾接受选举结果。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "土耳其钢铁厂爆炸致至少16人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "土耳其阿利亚加Habas Demir Celik钢铁厂发生爆炸，至少16人死亡，目击者称爆炸震感强烈如地震。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "全球股市暴跌，美国AI放缓担忧蔓延至亚欧",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "投资者对数据中心建设和AI行业可能面临更严格审查作出反应，全球股市大幅下挫。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克中期选举豪掷5亿美元未能助共和党获胜",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "马斯克在2026年美国中期选举中花费近5亿美元，创个人选举支出纪录，但未能为共和党带来胜利。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国指控伊朗黑客攻击超市冰箱",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "上月网络攻击导致法国数百家超市的冰箱和冰柜被加热，法国指控伊朗为幕后黑手。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克暗示Cybertruck将停产",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "马斯克表示将停产Cybertruck，为无方向盘自动驾驶出租车Cybercab的生产让路。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "克拉科夫枪击案嫌疑人死亡，共致6人遇难",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "波兰克拉科夫枪击案嫌疑人伤重不治，事件共造成6人死亡，其3名家属遗体在家中被发现。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "塞内加尔海域移民船沉没致至少39人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "一艘前往欧洲的移民船在塞内加尔附近海域沉没，至少39人遇难，大西洋至加那利群岛航线依然危险。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "火星发现存在活火山的证据",
+      "url": "https://www.solidot.org/story?sid=85841",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "科学家将岩浆气体证据与火星表面新发现的裂缝联系起来，指出火星可能存在火山活动，这对寻找生命是好消息。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "全球大城市普遍面临地面沉降问题",
+      "url": "https://www.solidot.org/story?sid=85840",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "北大团队在《Nature Cities》发表研究，利用卫星雷达分析全球465座百万人口城市，发现地面沉降最严重城市多在墨西哥、巴西和伊朗。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI股票在市值蒸发数万亿后反弹",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "投资者此前因担忧民主党胜选将放缓AI发展而抛售科技股，AI股票随后出现回升。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "共和党议员拟强行推动弹劾国防部长赫格塞斯",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "众议员托马斯·马西计划强行发起弹劾国防部长赫格塞斯的投票，虽可能失败，但意在施压特朗普解职。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯主要独立报纸遭驱逐后停刊",
+      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "俄罗斯领先独立报纸被逐出使用三十年的办公室，并被禁止接受捐款，宣布停刊。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Poundland无法采购新库存，倒闭担忧加剧",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国折扣连锁店Poundland濒临倒闭，内部人士称其“靠余油运行”，已无法采购新库存。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国政府考虑禁止16岁以下用户使用Vinted和eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英国文化大臣确认，Vinted和eBay可能被列入明年3月起禁止16岁以下用户使用的平台名单。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "法国血液储存受冰箱黑客攻击影响",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "法国血液机构EFS表示，储存血液的冷库受到黑客攻击影响，幕后黑手猜测纷纷。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国公务员秘密兼任五职被判欺诈罪",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "Kashim Chowdhury秘密持有多个全职公共部门职位，三年骗取纳税人28.4万英镑，被判欺诈罪。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "石家庄天降陨石，最大单体35公斤",
+      "url": "https://s.weibo.com/weibo?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%A4%A9%E9%99%8D%E9%99%A8%E7%9F%B3%E6%9C%80%E5%A4%A7%E5%8D%95%E4%BD%9335%E5%85%AC%E6%96%A4&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "石家庄发生陨石坠落事件，最大单体重达35公斤，引发广泛关注。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "我不认为AI泡沫存在",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Hacker News热议话题，作者论证当前AI热潮并非泡沫，引发885条评论激辩。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 520,
+      "original_comments": 885
+    },
+    {
+      "title": "星舰第15次飞行计划11月13日同时回收助推器和飞船",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "SpaceX计划在11月13日的星舰第15次试飞中同时捕获助推器和飞船，技术难度再创新高。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 134,
+      "original_comments": 91
+    },
+    {
+      "title": "Opus 5.5被削弱？11月3日思维模式发生变化",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Hacker News讨论Anthropic的Opus 5.5模型在11月3日后思维模式疑似改变，引发331条评论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 436,
+      "original_comments": 331
+    },
+    {
+      "title": "他花5万美元买Labubu，如今热潮正在消退",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "一位收藏者花费5万美元购买Labubu玩偶，但母公司泡泡玛特营收下滑，显示这一潮流正在退烧。",
+      "categories": [
+        "财经",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "邮轮钢琴师在太平洋漂流9小时后获救",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "两名美国渔民在加州海岸约32公里处发现一名踩水求生的邮轮钢琴师，他已在海中漂流9小时。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "塞尔达传说重制版能否重现原作魔力？",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "任天堂发布被誉为史上最佳游戏之一的重制版，BBC记者给出评测意见。",
+      "categories": [
+        "娱乐",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "同一块H100 GPU租金从每小时2.69美元到12.29美元不等",
+      "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "调查显示同一型号H100 GPU在不同云服务商处租金差异巨大，每小时2.69至12.29美元不等。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 122,
+      "original_comments": 69
+    },
+    {
+      "title": "品红色太阳能板或成农光互补最巧妙方案",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "品红色太阳能板可让特定光谱透过以利植物生长，同时发电，被认为是农光互补的创新方案。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 132,
+      "original_comments": 49
+    },
+    {
+      "title": "仿鸟无人机在美国空军技术演习中成功躲避探测",
+      "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "外形酷似鸟类的无人机在美国空军技术演习中成功规避探测，展示仿生侦察新可能。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 61,
+      "original_comments": 43
+    },
+    {
+      "title": "树莓派5 16GB售价涨至385美元",
+      "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "树莓派5 16GB单板计算机价格已涨至385美元，引发社区对涨价趋势的担忧。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 97,
+      "original_comments": 68
+    },
+    {
+      "title": "sherlock：跨社交网络追踪用户名账号的开源工具",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "GitHub热门项目sherlock可通过用户名在多个社交网络中追踪账号，今日获4294星。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meta开源设计系统astryx，完全可定制且适配AI代理",
+      "url": "https://github.com/meta/astryx",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "Meta发布开源设计系统astryx，支持完全定制并面向AI代理，今日获3324星。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "30公斤巨鼠曾生活在三千万年前的泰国",
+      "url": "https://www.solidot.org/story?sid=85839",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "科学家根据化石牙齿识别出一种体重约30公斤的巨型啮齿动物，3300万至3500万年前活跃于泰国南部。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国政府预计本周下调电动车目标",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国原计划2030年淘汰新燃油车、2035年全部零排放，预计本周将下调相关目标。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "利率上升冲击民众钱包：我的房贷每月涨200英镑",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国利率上升将使数百万人的房贷、信用卡和贷款成本增加，有民众房贷每月上涨200英镑。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "2026全球总决赛：BLG vs T1",
+      "url": "https://www.bilibili.com/video/BV1TgWp6MEHJ",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "B站英雄联盟赛事直播BLG对阵T1，播放量超1151万，弹幕13.5万，热度爆棚。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 11511563,
+      "original_comments": 134618
+    },
+    {
+      "title": "BLG打破T1对LPL十三年百胜率神话",
+      "url": "https://www.bilibili.com/video/BV1YxWx69Ens",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "BLG击败T1，打破后者对LPL长达十三年的百胜率神话，UP主锐评称“击碎梦魇”。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 288103,
+      "original_comments": 3378
+    },
+    {
+      "title": "耗时5个月5万元，他用AI拍出68分钟中国科幻长片",
+      "url": "https://www.bilibili.com/video/BV18GW76hEdg",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "UP主陶冶AI用5个月和5万元成本，借助AI制作了68分钟原创中国科幻长片《南天门计划：灰蚀危机》。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 208296,
+      "original_comments": 1231
+    },
+    {
+      "title": "If You Read This：像死人开关一样的每日签到应用",
+      "url": "https://www.producthunt.com/products/if-you-read-this",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品，一款每日签到应用，运作方式类似“死人开关”，若未按时签到会触发通知。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Pawse.ai：专为狗狗设计的音效",
+      "url": "https://www.producthunt.com/products/pawse-ai",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品，为狗狗而非人类设计的音效工程产品，帮助安抚宠物情绪。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Higgsfield Miracle：可编辑视频任意部分而不影响其余画面",
+      "url": "https://www.producthunt.com/products/higgsfield",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品，支持编辑视频中任意部分而保持其余画面不变，AI视频编辑新工具。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "KIKUmap：为Claude和ChatGPT对话生成思维导图",
+      "url": "https://www.producthunt.com/products/kikumap",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品，可将Claude和ChatGPT的聊天记录转化为思维导图，帮助梳理思路。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "折叠史诗级纸飞机",
+      "url": "https://www.foldableflight.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "Hacker News热门分享，介绍如何折叠史诗级纸飞机，获587点热度、94条评论。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 587,
+      "original_comments": 94
+    },
+    {
+      "title": "Qlobe：旋转的自产生程序（2010）",
+      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一个经典编程趣作：旋转的Quine（自复制程序），展示代码自我输出的巧妙设计。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 37,
+      "original_comments": 1
+    },
+    {
+      "title": "VM/370 CE大型机趣味玩法",
+      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "Hacker News分享在VM/370 CE大型机上的趣味实验，展示老式大型机的别样玩法。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 90,
+      "original_comments": 26
+    },
+    {
+      "title": "AI短剧《农村大席之抽象盛宴》联动MJ宇宙",
+      "url": "https://www.bilibili.com/video/BV1gcWn6iE9C",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站AI全民制作人作品，将农村大席与迈克尔·杰克逊宇宙联动，播放量291万。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 2915908,
+      "original_comments": 3528
+    },
+    {
+      "title": "AI长片《汤症》：当我死去，群山不会震颤",
+      "url": "https://www.bilibili.com/video/BV1vmWJ6LEmW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站AI全民制作人作品，AI长片《汤症》以诗意标题呈现，播放量175万。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 1757517,
+      "original_comments": 867
+    },
+    {
+      "title": "宿舍自制密室逃脱9《盗宿笔记》",
+      "url": "https://www.bilibili.com/video/BV1tEW764Ew5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主小叮当的伙伴们在宿舍自制密室逃脱系列第9集《盗宿笔记》，播放量145万。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 1452018,
+      "original_comments": 803
+    },
+    {
+      "title": "当杀手和律师都以为对方是同行",
+      "url": "https://www.bilibili.com/video/BV1eNW76KEdJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站搞笑短剧，杀手与律师互相误以为对方是同行，播放量77.8万。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 778481,
+      "original_comments": 83
+    },
+    {
+      "title": "用空气炸锅烤奶茶太香了",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E7%83%A4%E5%A5%B6%E8%8C%B6%E5%A4%AA%E9%A6%99%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热搜话题，网友分享用空气炸锅烤奶茶的做法，称味道太香。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "舍友狗去世全宿舍要披麻戴孝吗",
+      "url": "https://s.weibo.com/weibo?q=%E8%88%8D%E5%8F%8B%E7%8B%97%E5%8E%BB%E4%B8%96%E5%85%A8%E5%AE%BF%E8%88%8D%E8%A6%81%E6%8A%AB%E9%BA%BB%E6%88%B4%E5%AD%9D%E5%90%97&t=31",
+      "source": "微博热搜",
+      "score": 4,
+      "summary": "微博热议话题，讨论舍友的狗去世后全宿舍是否该披麻戴孝，引发网友趣味讨论。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 673.46 📉-0.12(-0.02%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 37354,
+      "summary": "今日 673.46 | 📉 -0.12(-0.02%) | 最高 673.64 最低 673.39 | 连涨 -3天 | 成交额 ¥169万 | 成交量 37354件 | 📈1108 ➡5214 📉1172"
+    }
+  ]
+}
