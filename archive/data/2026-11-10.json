@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-10",
+  "commentary": "今天这CSGO大盘，667.95，跌了0.84%，连涨三天就这？成交额0万，成交量0件——兄弟们，这不是大盘，这是心电图停跳前的最后一条直线。挂单两千多、卖单三千多，买的人比卖的人还怂，整个市场搁这儿玩“谁先眨眼谁输”呢。要我说，这盘子现在就像网吧里最后一台没关机的电脑，看着亮着，其实早没人了。\n\n再说B站，手工耿又整活了，半飞行玩具车，149万播放。耿哥这手艺，造啥都像从废品站里长出来的科学怪人，但偏偏孩子们爱看，成年人也爱看——为什么？因为他是真动手，不是真动嘴。对比某些UP主，标题起得比论文还唬人，点进去全是水时长。\n\n还有小约翰可汗，讲怎么盗《蒙娜丽莎》，9072条弹幕，硬核狠人系列永远稳。这年头大家不爱听正经历史课，就爱听“怎么把卢浮宫当自家后院”的野路子——知识得裹着段子才能咽下去。\n\n今日金句：市场没量叫躺平，内容没活叫摆烂，只有耿哥的车，是真能飞——虽然飞不高，但人家至少离地了。",
+  "news": [
+    {
+      "title": "《虚环》PV03｜致过去与未来的歌",
+      "url": "https://www.bilibili.com/video/BV1h4WW6LEEv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:596.8万 | 弹幕:1537 | UP主:虚环",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5967940,
+      "original_comments": 1537
+    },
+    {
+      "title": "当杀手和律师都以为对方是同行",
+      "url": "https://www.bilibili.com/video/BV1eNW76KEdJ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:183.8万 | 弹幕:157 | UP主:小草律师呀",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1837753,
+      "original_comments": 157
+    },
+    {
+      "title": "Faker了一辈子的蹲方魂 终于…",
+      "url": "https://www.bilibili.com/video/BV1aYW86vEte",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:170.2万 | 弹幕:353 | UP主:是大洋芋",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1701929,
+      "original_comments": 353
+    },
+    {
+      "title": "给孩子做了一个半飞行的玩具车",
+      "url": "https://www.bilibili.com/video/BV1QUW46oEuT",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:149.1万 | 弹幕:3562 | UP主:手工耿",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1491233,
+      "original_comments": 3562
+    },
+    {
+      "title": "《人皇步》",
+      "url": "https://www.bilibili.com/video/BV1BjWt6BEJd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:128.5万 | 弹幕:432 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1285317,
+      "original_comments": 432
+    },
+    {
+      "title": "豪门赘婿的万元周末：不想赢，你跑什么赛车？！",
+      "url": "https://www.bilibili.com/video/BV1G34B6eEtE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:124.7万 | 弹幕:1847 | UP主:是桃大",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1246925,
+      "original_comments": 1847
+    },
+    {
+      "title": "如何盗走《蒙娜丽莎》？【硬核狠人92】",
+      "url": "https://www.bilibili.com/video/BV1i4W86zEUS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:109.5万 | 弹幕:9072 | UP主:小约翰可汗",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1095417,
+      "original_comments": 9072
+    },
+    {
+      "title": "《鸣潮》共鸣者「莉莉」PV |  忘记恐惧",
+      "url": "https://www.bilibili.com/video/BV1VmW46bEfC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:104.2万 | 弹幕:2717 | UP主:鸣潮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1042127,
+      "original_comments": 2717
+    },
+    {
+      "title": "🎵玉帝的酒🎵 ~自制50音纸带八音盒 #邦友の酒 #朋友的酒",
+      "url": "https://www.bilibili.com/video/BV1Hu4W6BE7X",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:100.5万 | 弹幕:219 | UP主:调皮的码农Saineak-奇峰",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1004681,
+      "original_comments": 219
+    },
+    {
+      "title": "【爱你】王力宏&王心凌「最好的地方Ⅱ」官摄 | 限定 “双王组合”首次同台，甜度加倍！",
+      "url": "https://www.bilibili.com/video/BV1tBWt6WEVw",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:95.1万 | 弹幕:549 | UP主:王力宏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 951095,
+      "original_comments": 549
+    },
+    {
+      "title": "特厨探店|探店这么多年，没想到还是会震惊！",
+      "url": "https://www.bilibili.com/video/BV1LxW863EaB",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:84.0万 | 弹幕:832 | UP主:特厨隋坡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 839555,
+      "original_comments": 832
+    },
+    {
+      "title": "黄仁勋带她吃的饭店，我带你们去看看",
+      "url": "https://www.bilibili.com/video/BV1JCWM6JEFU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:78.0万 | 弹幕:4858 | UP主:王师傅の日记",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 779508,
+      "original_comments": 4858
+    },
+    {
+      "title": "每 天 亿 遍 🔥 防 止 早 恋！",
+      "url": "https://www.bilibili.com/video/BV1ZAWM61Evb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:71.5万 | 弹幕:598 | UP主:兔总裁s",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 714857,
+      "original_comments": 598
+    },
+    {
+      "title": "THANK YOU Smoggy",
+      "url": "https://www.bilibili.com/video/BV1v8WT6uEJH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.9万 | 弹幕:2517 | UP主:EDG电子竞技俱乐部",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 649242,
+      "original_comments": 2517
+    },
+    {
+      "title": "【纪录片】蓝色星球 第三季 02 辽阔远洋",
+      "url": "https://www.bilibili.com/video/BV1Lx4t6VEDt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:57.1万 | 弹幕:548 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 571258,
+      "original_comments": 548
+    },
+    {
+      "title": "《我的猫猫比我富》第三集",
+      "url": "https://www.bilibili.com/video/BV1JCWH6dEq2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.8万 | 弹幕:207 | UP主:小弹簧晓丹",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 447686,
+      "original_comments": 207
+    },
+    {
+      "title": "动态视频｜打败许昕，获得iPhone Duo！",
+      "url": "https://www.bilibili.com/video/BV1JnWT6LEVN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:44.2万 | 弹幕:331 | UP主:飓多多StormCrew",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 441587,
+      "original_comments": 331
+    },
+    {
+      "title": "地牢酒馆-33《日常招待与地下湖》",
+      "url": "https://www.bilibili.com/video/BV1bwWu6KEaS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:30.2万 | 弹幕:681 | UP主:粘土工厂",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 302112,
+      "original_comments": 681
+    },
+    {
+      "title": "⚡️黄仁勋 | Trouble Maker × 回家的诱惑⚡️英伟达年会现场双黄演绎崩老头【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1PDWT6RE3F",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:28.3万 | 弹幕:928 | UP主:抽乐个大象",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 283255,
+      "original_comments": 928
+    },
+    {
+      "title": "【1酱赛评四强篇·上】BLG突破LPL对S赛T1不胜历史！几代人的夙愿！14年的等待！终于在S赛战胜T1！爽爽爽爽爽！！！！",
+      "url": "https://www.bilibili.com/video/BV1QAW36VEWg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:21.8万 | 弹幕:2942 | UP主:你是想气死1酱么",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 218254,
+      "original_comments": 2942
+    },
+    {
+      "title": "Booster Pack Heroes",
+      "url": "https://store.steampowered.com/app/4618570",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Mortal Shell II",
+      "url": "https://store.steampowered.com/app/2584270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $37",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Ashes of the Singularity II",
+      "url": "https://store.steampowered.com/app/3499790",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $32",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "CONTROL Resonant",
+      "url": "https://store.steampowered.com/app/3669870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $48",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Casualties: Unknown",
+      "url": "https://store.steampowered.com/app/4576490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1140,
+      "original_comments": 159
+    },
+    {
+      "title": "Warhammer Survivors",
+      "url": "https://store.steampowered.com/app/3669620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "DREADMOOR",
+      "url": "https://store.steampowered.com/app/3629430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Annihilated",
+      "url": "https://store.steampowered.com/app/2638080",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Potato Please",
+      "url": "https://store.steampowered.com/app/5266240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 794,
+      "original_comments": 928
+    },
+    {
+      "title": "Vampire Survivors + Warhammer Survivors",
+      "url": "https://store.steampowered.com/app/92137",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-6% | $11",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 700,
+      "original_comments": 0
+    },
+    {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 699,
+      "original_comments": 362
+    },
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 566,
+      "original_comments": 326
+    },
+    {
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 552,
+      "original_comments": 196
+    },
+    {
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "url": "https://e-means.github.io/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 468,
+      "original_comments": 68
+    },
+    {
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 374,
+      "original_comments": 128
+    },
+    {
+      "title": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 280,
+      "original_comments": 143
+    },
+    {
+      "title": "Your TV can see through walls (2025)",
+      "url": "https://maurycyz.com/projects/fading/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 229,
+      "original_comments": 100
+    },
+    {
+      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 143,
+      "original_comments": 76
+    },
+    {
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "url": "https://connect.queenslibrary.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 137,
+      "original_comments": 87
+    },
+    {
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 131,
+      "original_comments": 44
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1059",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$99",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "How hard is it to check for whitespace?",
+      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 99,
+      "original_comments": 24
+    },
+    {
+      "title": "What's new in the .NET 11 runtime",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 89,
+      "original_comments": 26
+    },
+    {
+      "title": "Billion Watts in the Speaker [video]",
+      "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 79,
+      "original_comments": 39
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 667.95 📉-5.63(-0.84%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 0,
+      "summary": "今日 667.95 | 📉 -5.63(-0.84%) | 最高 667.95 最低 667.65 | 连涨 -3天 | 成交额 ¥0万 | 成交量 0件 | 📈2054 ➡2150 📉3290"
+    }
+  ]
+}
