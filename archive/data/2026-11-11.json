@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-11",
+  "commentary": "今天最值得盘的是CSGO大盘。665.69点，连跌4天，成交额还有4783万——兄弟们，这不是回调，这是钝刀子割肉。涨2415家、跌3038家，表面看是“结构性调整”，翻译成人话就是：大部分人都在亏，只有少数人在偷偷数钱。饰品市场现在就像前任的朋友圈，你明知道看了难受，还是忍不住刷新。\n\nB站这边，《崩坏：星穹铁道》一个动画短片257万播放，米哈游做动画的认真程度已经让不少正经番剧汗流浃背了——人家游戏公司顺手做的短片，比某些动画公司主业还像样。\n\n还有那条“12岁虚报17岁当红军”的王扶之将军，63万播放，弹幕4700。在一堆娱乐向内容里杀出来，说明大家心里还是有杆秤的——流量会骗人，但敬意不会。\n\n今日金句：市场连跌四天叫“调整”，你账户连跌四天叫“认清现实”。",
+  "news": [
+    {
+      "title": "《崩坏：星穹铁道》动画短片：「月下的欢快葬礼」",
+      "url": "https://www.bilibili.com/video/BV1gHWg6GEqj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:257.3万 | 弹幕:7627 | UP主:崩坏星穹铁道",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2573120,
+      "original_comments": 7627
+    },
+    {
+      "title": "地牢酒馆-33《日常招待与地下湖》",
+      "url": "https://www.bilibili.com/video/BV1bwWu6KEaS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:203.0万 | 弹幕:1301 | UP主:粘土工厂",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2030114,
+      "original_comments": 1301
+    },
+    {
+      "title": "辽阔的土地生不出狭隘的爱",
+      "url": "https://www.bilibili.com/video/BV1hrW367Emp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:177.9万 | 弹幕:269 | UP主:小王不爱干正事",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1778958,
+      "original_comments": 269
+    },
+    {
+      "title": "谁一周后的播放量高，谁就是流量王！！！【流量王番外篇红队】",
+      "url": "https://www.bilibili.com/video/BV1RLWW6XEfn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:136.3万 | 弹幕:7983 | UP主:雨哥到处跑",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1363212,
+      "original_comments": 7983
+    },
+    {
+      "title": "射击比赛vs赛车比赛！哪一个更好看？",
+      "url": "https://www.bilibili.com/video/BV1oA4i6cEF6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:136.0万 | 弹幕:489 | UP主:老李船长",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1359808,
+      "original_comments": 489
+    },
+    {
+      "title": "传奇历史人物志——麦克斯韦",
+      "url": "https://www.bilibili.com/video/BV1TUW36kE2z",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:117.3万 | 弹幕:534 | UP主:抽象历史人物志",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1172782,
+      "original_comments": 534
+    },
+    {
+      "title": "\"2027年将至，提前祝大家新年快乐\"",
+      "url": "https://www.bilibili.com/video/BV1qp4j61Edm",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:106.6万 | 弹幕:2779 | UP主:是青橘啦",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1065802,
+      "original_comments": 2779
+    },
+    {
+      "title": "顺直大改造S2EP1—长发男与短发女的恨海情天",
+      "url": "https://www.bilibili.com/video/BV1gjWb6tE8q",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:92.0万 | 弹幕:1216 | UP主:antoxic",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 919691,
+      "original_comments": 1216
+    },
+    {
+      "title": "旧衣服改造波士顿包",
+      "url": "https://www.bilibili.com/video/BV1EZWt66EjR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:64.9万 | 弹幕:483 | UP主:水木针线姐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 649250,
+      "original_comments": 483
+    },
+    {
+      "title": "12岁虚报17岁当红军，91年后他是最后一位开国将军｜王扶之（1923—2026）",
+      "url": "https://www.bilibili.com/video/BV1zjW86jEXp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:63.1万 | 弹幕:4700 | UP主:衔星渡鸦",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 631249,
+      "original_comments": 4700
+    },
+    {
+      "title": "中文要有魅力，真情不必美图！许飞厉娜、纯稚引发的时代感概",
+      "url": "https://www.bilibili.com/video/BV1qAWb6TEXY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:61.2万 | 弹幕:3902 | UP主:张志浩在剥柚",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 611710,
+      "original_comments": 3902
+    },
+    {
+      "title": "大胃王网红去世这么多，为啥良子依旧活着？",
+      "url": "https://www.bilibili.com/video/BV1PDWT6REGU",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:59.5万 | 弹幕:734 | UP主:吃瓜郭昱麟",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 594649,
+      "original_comments": 734
+    },
+    {
+      "title": "不要小瞧身边的任何一个唐人，系统的奖励丰厚的超乎你的想象",
+      "url": "https://www.bilibili.com/video/BV1THWM6eE9s",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:57.6万 | 弹幕:800 | UP主:难打发",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 575572,
+      "original_comments": 800
+    },
+    {
+      "title": "千 万 别 开 911 去 川 西 ！",
+      "url": "https://www.bilibili.com/video/BV1kBWg68Ejf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:54.9万 | 弹幕:2749 | UP主:极速拍档",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 548667,
+      "original_comments": 2749
+    },
+    {
+      "title": "【BilibiliToy】这个是一个普普通通的人机验证，真的",
+      "url": "https://www.bilibili.com/video/BV16xW36tEj5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:47.5万 | 弹幕:371 | UP主:魔魔园",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 474881,
+      "original_comments": 371
+    },
+    {
+      "title": "大肥鱼适合做女朋友吗？（3）",
+      "url": "https://www.bilibili.com/video/BV13hWj68ELy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:43.3万 | 弹幕:464 | UP主:学姐圆",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 433330,
+      "original_comments": 464
+    },
+    {
+      "title": "凭什么《水浒传》没有3A游戏？【水浒游戏发展史】",
+      "url": "https://www.bilibili.com/video/BV1jtWu6EEHS",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.1万 | 弹幕:887 | UP主:上海滩许Van强",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 400935,
+      "original_comments": 887
+    },
+    {
+      "title": "《崩坏：星穹铁道》星旅一瞬：「皆大欢喜！」",
+      "url": "https://www.bilibili.com/video/BV1gyW16VE28",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.1万 | 弹幕:277 | UP主:帕姆的收藏夹",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 400589,
+      "original_comments": 277
+    },
+    {
+      "title": "财神窦占龙 第15集 寻参【8月国创】",
+      "url": "https://www.bilibili.com/video/BV1yt4B6QEKG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:25.3万 | 弹幕:261 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 253293,
+      "original_comments": 261
+    },
+    {
+      "title": "把旧发条装新身体上会发生什么？",
+      "url": "https://www.bilibili.com/video/BV1sEW16cEJN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:23.9万 | 弹幕:475 | UP主:叶玲秋雨",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 239181,
+      "original_comments": 475
+    },
+    {
+      "title": "Booster Pack Heroes",
+      "url": "https://store.steampowered.com/app/4618570",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Mortal Shell II",
+      "url": "https://store.steampowered.com/app/2584270",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $37",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Never Sort By Color",
+      "url": "https://store.steampowered.com/app/4876650",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Casualties: Unknown",
+      "url": "https://store.steampowered.com/app/4576490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Wall World Strategy",
+      "url": "https://store.steampowered.com/app/4218360",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $17",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Find The Needle",
+      "url": "https://store.steampowered.com/app/5160800",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Warhammer Survivors",
+      "url": "https://store.steampowered.com/app/3669620",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "DREADMOOR",
+      "url": "https://store.steampowered.com/app/3629430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Potato Please",
+      "url": "https://store.steampowered.com/app/5266240",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 557,
+      "original_comments": 216
+    },
+    {
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 527,
+      "original_comments": 361
+    },
+    {
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 482,
+      "original_comments": 532
+    },
+    {
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 453,
+      "original_comments": 256
+    },
+    {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 422,
+      "original_comments": 437
+    },
+    {
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 326,
+      "original_comments": 119
+    },
+    {
+      "title": "Six Math Essentials",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 308,
+      "original_comments": 57
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 230,
+      "original_comments": 47
+    },
+    {
+      "title": "Why I wrote the BEAM book (2025)",
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 157,
+      "original_comments": 29
+    },
+    {
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 134,
+      "original_comments": 53
+    },
+    {
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 129,
+      "original_comments": 68
+    },
+    {
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 124,
+      "original_comments": 19
+    },
+    {
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 105,
+      "original_comments": 64
+    },
+    {
+      "title": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$99",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1059",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Deck",
+      "url": "https://store.steampowered.com/app/1675200",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$399",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 98,
+      "original_comments": 43
+    },
+    {
+      "title": "Apple is killing its Support Community forum next week",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 89,
+      "original_comments": 47
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 665.69 📉-2.04(-0.31%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 989100,
+      "summary": "今日 665.69 | 📉 -2.04(-0.31%) | 最高 669.96 最低 665.69 | 连涨 -4天 | 成交额 ¥4783万 | 成交量 989100件 | 📈2415 ➡2041 📉3038"
+    }
+  ]
+}
