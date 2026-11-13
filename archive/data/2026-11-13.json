@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-13",
+  "commentary": "好家伙，今天这新闻单子我一看，CSGO大盘连涨六天，成交额¥0万，成交量29件——29件！我楼下小卖部一天卖出的辣条都不止这个数。这叫大盘？这叫小区门口跳蚤市场。连涨六天涨了个寂寞，建议改名叫“CSGO玄学指数”，反正没人买，涨跌全看天意。\n\n再说B站，影视飓风1800万粉丝Q&A，标题问“为什么是最后一期”，我替他们答了：因为再答下去剪辑师要猝死了。倒是那个“拿中老年病痛玩梗被44万人点赞”的视频值得说道说道——王小七骂得对，但我想补一刀：44万人点赞烂梗，和29个人炒CSGO大盘，本质是同一种病，闲的。平台算法还就爱喂这口，你越骂它越推，最后大家都活在一个巨大的“抽象周刊”里。\n\n今日金句：**连涨六天成交29件，这市场比我二舅的血压还稳——稳得让人心慌。**",
+  "news": [
+    {
+      "title": "他真的太优雅了！灰太狼&红太狼【非凡之爱】",
+      "url": "https://www.bilibili.com/video/BV1aNWm6UEeC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:822.5万 | 弹幕:1240 | UP主:可口的红糖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8224882,
+      "original_comments": 1240
+    },
+    {
+      "title": "为什么是最后一期？影视飓风1800万粉丝Q&A！",
+      "url": "https://www.bilibili.com/video/BV1kZWX62ENY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:361.9万 | 弹幕:5.7万 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3618577,
+      "original_comments": 57416
+    },
+    {
+      "title": "无烟酒吧倒闭、张美玉抑郁、大学生无偿代跑拒绝供出同学【抽象周刊】",
+      "url": "https://www.bilibili.com/video/BV1f4WR61EnR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:212.0万 | 弹幕:2231 | UP主:喵喵即正义",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2119559,
+      "original_comments": 2231
+    },
+    {
+      "title": "臣妾要线上告发熹贵妃 2.0",
+      "url": "https://www.bilibili.com/video/BV1PZWR6xEqv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:201.9万 | 弹幕:856 | UP主:岩罗Crv",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2019313,
+      "original_comments": 856
+    },
+    {
+      "title": "【独家】《罗小黑战记》第43话 跟师父一起做任务啦【10月国创】",
+      "url": "https://www.bilibili.com/video/BV1nwWd6XEyv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:188.1万 | 弹幕:3.4万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1881248,
+      "original_comments": 33569
+    },
+    {
+      "title": "《蓝色星原：旅谣》公测预告PV",
+      "url": "https://www.bilibili.com/video/BV1NdWo6vEQL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:157.3万 | 弹幕:1246 | UP主:蓝色星原旅谣",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1572848,
+      "original_comments": 1246
+    },
+    {
+      "title": "竹子从来都不欺人，只要你顺着它的脾气，会给你惊喜！",
+      "url": "https://www.bilibili.com/video/BV1V9W96uEVa",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:156.7万 | 弹幕:393 | UP主:修竹大叔",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1567029,
+      "original_comments": 393
+    },
+    {
+      "title": "提辖老妈《暴躁老妈》雷霆丧病配音1~8大合集",
+      "url": "https://www.bilibili.com/video/BV1qAWJ6LER9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:141.3万 | 弹幕:1247 | UP主:烟小翼--雷霆配音员",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1413153,
+      "original_comments": 1247
+    },
+    {
+      "title": "拿中老年病痛玩梗，还被44万人点赞，这是最近最让我恶心的烂梗！",
+      "url": "https://www.bilibili.com/video/BV11CWD6EEjf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:138.0万 | 弹幕:2964 | UP主:王小七Fire",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1379501,
+      "original_comments": 2964
+    },
+    {
+      "title": "MJ宇宙校园之末日降临第一集",
+      "url": "https://www.bilibili.com/video/BV1jDW963EWf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:107.0万 | 弹幕:438 | UP主:MJ宇宙校园",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1070196,
+      "original_comments": 438
+    },
+    {
+      "title": "【烂奇迹】三毛：我的一生颠沛流离，活到现在算是个奇迹",
+      "url": "https://www.bilibili.com/video/BV14gW16iEq8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:98.3万 | 弹幕:488 | UP主:HA哈喽椰",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 982949,
+      "original_comments": 488
+    },
+    {
+      "title": "你发图，我变美少女",
+      "url": "https://www.bilibili.com/video/BV1HmWv6hE7w",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:95.0万 | 弹幕:325 | UP主:Adger仔",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 950374,
+      "original_comments": 325
+    },
+    {
+      "title": "“这是解锁了什么吗？！”",
+      "url": "https://www.bilibili.com/video/BV1xsWQ6nE2v",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:77.7万 | 弹幕:530 | UP主:汐汐不想睡大街",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 776877,
+      "original_comments": 530
+    },
+    {
+      "title": "开发了一个奴役我的AI...",
+      "url": "https://www.bilibili.com/video/BV1VeWu65Ewy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:69.4万 | 弹幕:335 | UP主:刘拖地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 693694,
+      "original_comments": 335
+    },
+    {
+      "title": "动态视频｜全网最高画质第一人称逛展，会拍到啥？",
+      "url": "https://www.bilibili.com/video/BV1exWq6WEF4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:56.7万 | 弹幕:390 | UP主:影视飓风",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 566676,
+      "original_comments": 390
+    },
+    {
+      "title": "极致的走线！",
+      "url": "https://www.bilibili.com/video/BV1bkW86bEij",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.7万 | 弹幕:674 | UP主:她和我都没有说",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 527156,
+      "original_comments": 674
+    },
+    {
+      "title": "THANK YOU nobody",
+      "url": "https://www.bilibili.com/video/BV1VYWT6TEb4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:45.5万 | 弹幕:2090 | UP主:EDG电子竞技俱乐部",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 454676,
+      "original_comments": 2090
+    },
+    {
+      "title": "THANK YOU CHICHOO",
+      "url": "https://www.bilibili.com/video/BV15hWT6BEGz",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:43.0万 | 弹幕:1182 | UP主:EDG电子竞技俱乐部",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 429799,
+      "original_comments": 1182
+    },
+    {
+      "title": "假⚡️面⚡️难⚡️藏⚡️泪",
+      "url": "https://www.bilibili.com/video/BV1GbWq6HEct",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:36.0万 | 弹幕:460 | UP主:哈米伦的弄笛者",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 360274,
+      "original_comments": 460
+    },
+    {
+      "title": "【S16决赛预热】信念不灭，一起为BLG加油！",
+      "url": "https://www.bilibili.com/video/BV1diWi6oE5q",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:32.8万 | 弹幕:422 | UP主:英雄联盟赛事",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 328413,
+      "original_comments": 422
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "url": "https://store.steampowered.com/app/489830",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-80% | $8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8100,
+      "original_comments": 0
+    },
+    {
+      "title": "9 Kings",
+      "url": "https://store.steampowered.com/app/2784470",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $10",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3834,
+      "original_comments": 3304
+    },
+    {
+      "title": "One More Lawn",
+      "url": "https://store.steampowered.com/app/5378110",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Slay the Spire 2",
+      "url": "https://store.steampowered.com/app/2868840",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Main Sequence",
+      "url": "https://store.steampowered.com/app/2487190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Slotbound",
+      "url": "https://store.steampowered.com/app/4459590",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "DREADMOOR",
+      "url": "https://store.steampowered.com/app/3629430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "CelSector",
+      "url": "https://store.steampowered.com/app/4651080",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $13",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Ski-E-O! Ski Resort Tycoon",
+      "url": "https://store.steampowered.com/app/4493130",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1083,
+      "original_comments": 911
+    },
+    {
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 802,
+      "original_comments": 293
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 660,
+      "original_comments": 218
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 467,
+      "original_comments": 144
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 433,
+      "original_comments": 167
+    },
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 402,
+      "original_comments": 335
+    },
+    {
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 381,
+      "original_comments": 414
+    },
+    {
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 361,
+      "original_comments": 157
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 308,
+      "original_comments": 91
+    },
+    {
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 304,
+      "original_comments": 201
+    },
+    {
+      "title": "IceWM",
+      "url": "https://ice-wm.org/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 302,
+      "original_comments": 155
+    },
+    {
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 296,
+      "original_comments": 115
+    },
+    {
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 247,
+      "original_comments": 33
+    },
+    {
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 224,
+      "original_comments": 40
+    },
+    {
+      "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 207,
+      "original_comments": 44
+    },
+    {
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 204,
+      "original_comments": 114
+    },
+    {
+      "title": "AI Is Destroying the Trust Between Writers and Readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 128,
+      "original_comments": 31
+    },
+    {
+      "title": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 124,
+      "original_comments": 39
+    },
+    {
+      "title": "The Dawn of the Data Intelligence Engineer",
+      "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 101,
+      "original_comments": 68
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1059",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 654.26 📉-7.17(-1.08%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 29,
+      "summary": "今日 654.26 | 📉 -7.17(-1.08%) | 最高 654.3 最低 654.26 | 连涨 -6天 | 成交额 ¥0万 | 成交量 29件 | 📈2117 ➡2022 📉3355"
+    }
+  ]
+}
