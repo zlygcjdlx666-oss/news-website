@@ -1,0 +1,632 @@
+{
+  "date": "2026-11-14",
+  "commentary": "今天这几条新闻摆一块儿看，简直像编剧喝多了写的剧本。先说最炸的——特朗普、普京、习近平要在中国搞三方会晤谈核裁军？这画面感太强了，我脑子里已经自动生成一张三人合影：一个想上头条，一个想松制裁，一个稳坐主位看你们聊。但说真的，核武器这事儿能坐下来谈就是好事，哪怕谈崩了也比互相瞪眼强，别整得跟真人秀似的最后来个\"你被解雇了\"就行。\n\n再说英伟达这摊子，黄仁勋被传唤、财长骂商务部长、员工请愿求复职、还被指资助AI公司买自家GPU造稀缺——好家伙，一家芯片公司愣是演出了白宫风云+华尔街之狼+甄嬛传的合体。最魔幻的是员工请愿\"给老黄第二次机会\"，大哥，人家是辞职不是被开除，你们这请愿搞得跟选秀复活赛似的。但背后那个\"资助客户买自己产品\"的指控才是真刀子，要是坐实了，这就不叫卖芯片，叫卖空气。\n\n最后提一嘴微软宕机24小时和FAA全国停飞——一个云挂了，一个天停了，二十一世纪了，人类最脆弱的两样东西：服务器和老旧设备。今日金句：**科技越发达，崩溃越体面——以前是断电，现在是\"根本问题已解决\"，翻译过来就是\"我也不知道咋回事但它自己好了\"。**",
+  "news": [
+    {
+      "title": "特朗普、普京、习近平计划下周在中国举行历史性三方会晤",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "白宫宣布特朗普、普京与习近平计划下周在中国举行史无前例的三方会晤，特朗普将讨论核武器削减议题。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英伟达前CEO黄仁勋被国会传唤，就涉中国间谍婚外情作证",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "黄仁勋因被曝与疑似中国间谍的女子有婚外情而突然辞职，现被美国国会传唤作证，事件持续发酵。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英伟达丑闻波及白宫，财长指责商务部长失职",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美财长贝森特暗示商务部长卢特尼克未及时将涉华芯片交易公司列入实体清单，英伟达丑闻政治影响扩大。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泽连斯基称美方提议以乌克兰放弃顿巴斯换取北约成员资格",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "泽连斯基透露美国特使提出以乌克兰割让顿巴斯地区换取北约成员国身份，作为结束俄乌战争的方案之一。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软云服务全球宕机持续逾24小时",
+      "url": "https://www.solidot.org/story?sid=85886",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "微软365全球服务中断超过24小时，Teams、Outlook和Copilot等应用受影响，公司称根本问题已解决。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国史上第三次全国航班大停飞，近万架次航班取消",
+      "url": "https://www.solidot.org/story?sid=85884",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "美国FAA宣布史上第三次全国航班停飞，持续4.5小时后解除，导致近1万架次航班取消，官方称系老旧设备过载所致。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "天问四号将尝试登陆木星卫星木卫四",
+      "url": "https://www.solidot.org/story?sid=85887",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "中国天问四号任务将执行环绕木星、环绕并着陆木卫四三大任务，相关有效载荷研制方案已开始征集。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英伟达被指通过资助AI初创公司购买自家GPU人为制造稀缺",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "有指控称英伟达通过资助AI初创企业购买其GPU来人为制造芯片稀缺局面，引发市场操纵质疑。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 823,
+      "original_comments": 492
+    },
+    {
+      "title": "旅行者1号与地球距离达到一光日",
+      "url": "https://www.solidot.org/story?sid=85883",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "1977年启程的旅行者1号将于11月18日达到距地球约259亿公里，即光在真空中传播24小时的距离。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：地球冰冻圈已不再处于安全运行空间内",
+      "url": "https://www.solidot.org/story?sid=85880",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "中外研究人员新分析显示，冰盖、冰川、海冰和永久冻土等冰冻圈基本功能已超出地球安全运行边界。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英伟达员工发起请愿要求黄仁勋复职",
+      "url": "https://www.solidot.org/story?sid=85878",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "黄仁勋辞职后英伟达内部员工发起请愿要求其复职，称其领导公司33年贡献巨大，应得到第二次机会。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "意大利因安卓用户数据访问问题对Meta罚款8.87亿美元",
+      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "意大利监管机构对Meta处以8.87亿美元罚款，指其在安卓用户数据访问方面违反相关规定。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 25,
+      "original_comments": 6
+    },
+    {
+      "title": "科学家发现驱动衰老但不引发炎症的蛋白质",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "研究人员发现一种能驱动衰老过程却不引发炎症的蛋白质，为抗衰老研究提供新方向。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 225,
+      "original_comments": 56
+    },
+    {
+      "title": "台积电内部员工数据泄露",
+      "url": "https://www.solidot.org/story?sid=85881",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "台积电向SEC披露部分现任及前任员工个人数据未经授权出现在外网，但称自身系统未被入侵。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "无印良品约109万条客户信用卡数据泄露",
+      "url": "https://www.solidot.org/story?sid=85877",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "良品计划社长就非法访问事件道歉，包括已解约信用卡在内的约109万条信息可能泄露，承认系统存在漏洞。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国扣押从币安盗走的逾12亿美元加密货币",
+      "url": "https://www.solidot.org/story?sid=85876",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "FBI宣布扣押黑客组织TraderTraitor从币安盗走的价值逾12亿美元加密货币，币安此前共被盗63亿美元。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国经济以两年多来最快速度增长",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "官方数据显示英国经济在截至9月的三个月内增长0.7%，为两年多来最快增速。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SpaceX星舰火箭进行第二次回收尝试",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "SpaceX再次尝试用发射塔机械臂回收星舰助推器，此前一次尝试失败导致助推器坠入海中。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "新奥尔良游轮相撞事故全员获救，32人送医",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "新奥尔良发生游轮相撞事故，所有乘客均获救，32人因非危重伤势住院，无人员失踪。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "黄仁勋丑闻给亲商的新加坡带来难题",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英伟达丑闻令新加坡作为芯片枢纽及涉嫌非法贸易地点的角色受到关注，给这个亲商城市国家带来压力。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "印度苹果代工厂三名合同工死亡事故",
+      "url": "https://www.solidot.org/story?sid=85873",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "塔塔电子位于泰米尔纳德邦的iPhone零部件工厂发生事故，三名合同工在处理废水设施时吸入气体死亡。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "《幻兽帕鲁》开发商给员工放五天假畅玩GTA 6",
+      "url": "https://www.solidot.org/story?sid=85879",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "Pocketpair宣布为员工提供五天特别假期，让大家畅玩11月19日发售的GTA 6，预计该作将创销售纪录。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "连GTA原版创作者都还没能玩上GTA 6",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "GTA 6预计将成为史上最大规模游戏发售，但连系列原版创作者都表示尚未能体验这款新作。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "罗莎莉亚在拉丁格莱美创纪录三夺最佳专辑奖",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "西班牙歌手罗莎莉亚凭第四张专辑《Lux》在拉丁格莱美奖上历史性第三次获得最佳专辑奖。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Jonathan Blow：若AI解决了编程，为何我的软件还是老样子？",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "知名开发者Jonathan Blow在视频中质疑AI编程的实际效果，引发关于AI对软件开发真实影响的讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 384,
+      "original_comments": 540
+    },
+    {
+      "title": "研究：生成式AI处理非英语文本耗能更多",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "研究发现生成式AI模型处理非英语文本时消耗的能源明显高于英语，引发AI能效公平性讨论。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 40,
+      "original_comments": 22
+    },
+    {
+      "title": "Gemini Robotics 2.5：谷歌最强机器人模型发布",
+      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "谷歌在Product Hunt发布Gemini Robotics 2.5，称其为公司迄今能力最强的机器人模型。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Blender 5.3发布，原生支持3D高斯泼溅",
+      "url": "https://www.producthunt.com/products/blender",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "开源3D软件Blender发布5.3版本，原生集成3D高斯泼溅技术，进一步提升三维内容创作能力。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "科技公司再次试图改变隐私概念",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "评论文章指出科技公司正再次尝试重新定义隐私概念，以削弱用户数据保护力度。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 104,
+      "original_comments": 19
+    },
+    {
+      "title": "德国情报机构获新权力应对境外混合威胁",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 5,
+      "summary": "德国通过改革赋予对外和对内情报机构更大权力，以打击间谍活动、恐怖主义和破坏行为。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美参议院民主党领袖舒默面临领导权挑战",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 5,
+      "summary": "马里兰州参议员范霍伦表示民主党中期选举获胜后需要新领导层，舒默的领导地位面临挑战。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "匈牙利当局在调查欧尔班时期部长时查获2000万美元",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 5,
+      "summary": "匈牙利当局在调查欧尔班时代一名部长时查获2000万美元，总理马扎尔承诺开展全面反腐行动。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI修图兴起：房产照片美化何时从增强变成误导？",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 5,
+      "summary": "专家警告用AI美化房产照片可能过度而误导潜在买家，'房屋钓鱼'现象引发关注。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "调查：用户抱怨难以在流媒体平台找到想看的内容",
+      "url": "https://www.solidot.org/story?sid=85874",
+      "source": "Solidot",
+      "score": 5,
+      "summary": "尼尔森调查显示逾51%的流媒体用户认为内容过度丰富反而让人更难找到想看的东西。",
+      "categories": [
+        "社会",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Poundland获额外10天寻找救援买家",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 5,
+      "summary": "英国折扣零售商Poundland原定午夜到期的买家寻找期限延长10天，紧急谈判仍在继续。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "报告建议部分25岁以下人群应减少福利",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 5,
+      "summary": "米尔本评估建议对福利制度进行彻底改革，将25岁以下人群移出主要疾病福利范围。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "黄仁勋辞职巡演AI MV大赛爆火B站",
+      "url": "https://www.bilibili.com/video/BV1nuWq6NENC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主用AI制作的'黄仁勋辞职巡演'MV播放量超207万，以创意方式调侃英伟达CEO辞职事件。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 2073006,
+      "original_comments": 1212
+    },
+    {
+      "title": "《凡人修仙传之慕兰之战》第200集上线B站",
+      "url": "https://www.bilibili.com/video/BV1XNWB6dE6g",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "国产动画《凡人修仙传》慕兰之战篇第24集（总第200集）在B站热播，播放量超403万。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 4033173,
+      "original_comments": 103040
+    },
+    {
+      "title": "抽象新闻：11月人类迷惑行为大赏",
+      "url": "https://www.bilibili.com/video/BV1bQWi62EGk",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "B站UP主盘点11月各种令人迷惑的人类行为，播放量超156万，弹幕超3300条。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 1560696,
+      "original_comments": 3309
+    },
+    {
+      "title": "HiringNow：抢先一步自动求职的AI代理",
+      "url": "https://www.producthunt.com/products/hiringnow",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上线HiringNow，一款能比他人更早发现并自动申请职位的AI求职代理工具。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Dynamic Edge：Windows版灵动岛",
+      "url": "https://www.producthunt.com/products/dynamic-edge",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt推出Dynamic Edge，将类似苹果灵动岛的交互体验带到Windows系统。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Uber Parking：在Uber应用内查找和预订停车位",
+      "url": "https://www.producthunt.com/products/uber",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Uber推出停车功能，用户可在应用内查找、比较并预订停车位，拓展出行服务场景。",
+      "categories": [
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "为什么买昂贵树莓派？我有旧手机就够了",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "source": "Hacker News",
+      "score": 4,
+      "summary": "Hacker News热帖讨论用旧手机替代树莓派做各种项目的可行性，引发DIY爱好者热议。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 251,
+      "original_comments": 159
+    },
+    {
+      "title": "测试垃圾桶法拉第笼效果",
+      "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "source": "Hacker News",
+      "score": 4,
+      "summary": "Hacker News用户分享用垃圾桶制作法拉第笼并测试其屏蔽效果的趣味实验。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 11,
+      "original_comments": 0
+    },
+    {
+      "title": "服务船员在奥斯威戈港发现罕见黄色江鳕",
+      "url": "https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor",
+      "source": "Hacker News",
+      "score": 3,
+      "summary": "美国奥斯威戈港的服务船员发现一条罕见的黄色江鳕，引发当地关注。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 20,
+      "original_comments": 9
+    },
+    {
+      "title": "Show HN：用Rust写的终端放置工厂游戏",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "source": "Hacker News",
+      "score": 3,
+      "summary": "开发者用Rust和ratatui库打造了一款终端原生的放置类工厂游戏，在Hacker News展示。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 13,
+      "original_comments": 0
+    },
+    {
+      "title": "Drops：通过朋友喜爱的音乐瞬间发现新歌",
+      "url": "https://www.producthunt.com/products/drops-4",
+      "source": "Product Hunt",
+      "score": 3,
+      "summary": "Product Hunt上线Drops，一款通过朋友分享的音乐瞬间来发现新音乐的社交应用。",
+      "categories": [
+        "产品",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "如果小时候幻想的职业成真会怎样？",
+      "url": "https://www.bilibili.com/video/BV1JVWq6aECe",
+      "source": "B站热门",
+      "score": 3,
+      "summary": "B站UP主李如儒演绎童年幻想职业成真的场景，播放量超186万，引发网友共鸣。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 1869191,
+      "original_comments": 957
+    },
+    {
+      "title": "打印店老板堪比AI",
+      "url": "https://s.weibo.com/weibo?q=%E6%89%93%E5%8D%B0%E5%BA%97%E8%80%81%E6%9D%BF%E5%A0%AA%E6%AF%94AI&t=31",
+      "source": "微博热搜",
+      "score": 3,
+      "summary": "微博热搜话题'打印店老板堪比AI'引发讨论，网友调侃打印店老板对各种排版需求的精准响应能力。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 650.7 📉-3.59(-0.55%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1068621,
+      "summary": "今日 650.7 | 📉 -3.59(-0.55%) | 最高 654.55 最低 650.39 | 连涨 -7天 | 成交额 ¥4625万 | 成交量 1068621件 | 📈2107 ➡2224 📉3163"
+    }
+  ]
+}
