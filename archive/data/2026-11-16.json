@@ -1,0 +1,633 @@
+{
+  "date": "2026-11-16",
+  "commentary": "今天这新闻表，看得我血压跟CSGO大盘似的，稳中有升但心里没底。先说最炸的——乌克兰一天甩出两千多架无人机，克里米亚大桥又挨锤，基辅十七次空袭警报拉得跟闹钟似的。这哪是打仗，这是拿无人机当双十一快递发啊。战事升级到这个份上，谈判桌怕是得先拿扫雷车开道。\n\n再看黄仁勋这出戏，比美剧还离谱。前脚被传跟疑似间谍搞婚外情辞职，后脚特朗普喊“带他回来”，国会还要传唤作证。一个卖芯片的掌门人，硬生生演成了国安惊悚片男主角。AI芯片出口管制本来就拧巴，现在好了，连CEO的私生活都成了供应链变量。我就想问：英伟达董事会现在开会，是不是得配个测谎仪？\n\n最后扫一眼——五个欧盟国家把移民往卢旺达送，微软宕机一天全球法院都歇菜，意大利罚Meta八个亿跟罚零花钱似的。这世界主打一个“各修各的漏水屋顶”。\n\n今日金句：**无人机飞得再远，也飞不出大国博弈的棋盘；芯片再先进，也算不清人心里的那本账。**",
+  "news": [
+    {
+      "title": "乌克兰发动战争以来最大规模无人机袭击，克里米亚大桥遭袭",
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "俄罗斯称乌克兰单日发射超2000架无人机，克里米亚地标大桥被击中，基辅创纪录拉响17次空袭警报，战事显著升级。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英伟达前CEO黄仁勋被传唤赴国会作证，涉与中国间谍婚外情",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 9,
+      "summary": "黄仁勋因被曝与疑似中国间谍有婚外情而突然辞职，现被传唤赴美国国会作证，事件牵动AI芯片出口管制与国家安全。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "五个欧盟国家宣布在卢旺达设立移民遣返中心",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "德国、丹麦、奥地利、希腊和荷兰联合宣布在卢旺达设立“遣返中心”，用于安置庇护申请失败者，引发人权争议。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软全球大范围宕机一天后服务全面恢复",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "Outlook、Teams和Copilot等微软服务因技术故障全球中断近一天，影响各国政府、法院和情报机构，现已全面恢复。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "意大利因Meta擅自访问用户照片对其罚款8.05亿欧元",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "意大利监管机构指控Meta未告知2000万用户即访问其照片，对其处以8.05亿欧元罚款，为欧洲隐私执法重大案例。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Qwen4-Max 发布引发热议",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "阿里通义千问Qwen4-Max在Hacker News引发430条讨论，被视为国产大模型能力与开源生态的重要进展。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 802,
+      "original_comments": 430
+    },
+    {
+      "title": "特朗普支持前英伟达掌门黄仁勋回归，网络发起“带黄仁勋回来”运动",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "多位科技人士要求英伟达董事会恢复黄仁勋职位，特朗普公开表态支持，芯片巨头高层动荡持续发酵。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Megaspeed称与英伟达前掌门有关的疑似中国间谍已于2025年离职",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英伟达丑闻引发质疑：先进AI芯片是否在美方限制下仍流入中国，新加坡作为芯片枢纽的角色受到审视。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "南非连发两起大规模枪击案致17人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "夸祖鲁-纳塔尔省和豪登省发生两起大规模枪击，共17人丧生，凸显南非暴力犯罪治理困境。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国及盟友呼吁以色列放行人道援助物资进入加沙",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "英国、澳大利亚、加拿大和意大利指以色列在边境扣留包括15万顶帐篷在内的关键物资，要求迅速放行人道准入。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "爱沙尼亚因无人机工厂纵火未遂关闭俄罗斯边境口岸",
+      "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "爱沙尼亚指俄罗斯策划了针对无人机工厂的纵火袭击，克里姆林宫否认，爱方随即关闭对俄边境口岸。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英特尔因PC销量下滑拖累股价遭投资者集体诉讼",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "拟议集体诉讼指控英特尔向股东隐瞒PC销量放缓的冲击，公司股价受挫，面临法律与经营双重压力。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中俄美元首会晤将在深圳举行",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "中俄美三方元首会晤定于深圳举行，成为微博热搜焦点，外界关注大国关系与亚太格局走向。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国税务会计考试最高分考生承认用AI作弊",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "34岁的韩元锡承认在重要考试中使用隐藏摄像头和AI取得近满分成绩，AI作弊引发考试公平性担忧。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6黑客出院后认罪",
+      "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "21岁的Arion Kurtaj对入侵Rockstar Games等罪行认罪，其青少年时期作案，案件凸显游戏行业网络安全风险。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "调查：亚马逊黑五和网一多数“优惠”并无实际折扣",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Hacker News热议调查显示，亚马逊黑五与网络星期一大量标称“特价”的商品实际并未省钱，消费者需警惕虚假促销。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 536,
+      "original_comments": 331
+    },
+    {
+      "title": "uBlock Origin 被曝存在通用XSS漏洞",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "安全研究者披露uBlock Origin的元素选择器可被网站驱动触发通用跨站脚本漏洞，广告拦截用户需尽快更新。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 565,
+      "original_comments": 162
+    },
+    {
+      "title": "Tor项目在持续DDoS攻击下发布快速响应防御补丁",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Tor网络遭持续分布式拒绝服务攻击，项目方紧急发布快速响应防御修复，以保障匿名网络可用性。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 226,
+      "original_comments": 62
+    },
+    {
+      "title": "英伟达下一步走向何方？",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "Hacker News逾500条讨论聚焦英伟达前景，在高层动荡与AI芯片竞争加剧背景下，市场关注其战略走向。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 420,
+      "original_comments": 533
+    },
+    {
+      "title": "大量旧Bitly短链接被劫持",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "安全社区发现旧版Bitly短链接遭劫持并被重定向至恶意站点，提醒用户警惕历史短链的安全风险。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 364,
+      "original_comments": 187
+    },
+    {
+      "title": "孟加拉国服装厂工人因加薪罢工致工厂停工",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "孟加拉服装工人罢工要求月最低工资3万塔卡（约182英镑），多家工厂停产，冲击全球服装供应链。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "A股迎来新利好",
+      "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E6%96%B0%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 6,
+      "summary": "A股新利好政策登上微博热搜，市场情绪受提振，多只个股涨停，投资者关注后续政策落地节奏。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "华帝股份涨停10.12%",
+      "url": "https://quote.eastmoney.com/002035.html",
+      "source": "财经",
+      "score": 6,
+      "summary": "华帝股份股价报4.68元涨停10.12%，领涨当日A股涨停潮，家电板块受资金追捧。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 10,
+      "original_comments": 0
+    },
+    {
+      "title": "Univer：用开源SDK打造AI办公套件",
+      "url": "https://github.com/dream-num/univer",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "GitHub项目Univer单日涨星1878，提供可扩展的AI办公SDK，将编辑、计算、协作与文件处理集成进产品。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AG-UI：智能体与前端交互协议开源",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "AG-UI协议开源项目单日涨星790，旨在把AI智能体接入前端应用，统一Agent与用户交互标准。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude-BugHunter：面向漏洞挖掘的AI技能包",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "source": "GitHub Trending",
+      "score": 6,
+      "summary": "开源项目Claude-BugHunter单日涨星1057，含82项技能与681种已披露报告模式，用于漏洞挖掘与红队工作。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Protomaps：自托管地图瓦片变得便宜又简单",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Protomaps展示自托管地图瓦片成本大幅下降、部署更简便，为开发者替代商业地图服务提供新选择。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 448,
+      "original_comments": 78
+    },
+    {
+      "title": "研究者仅用智能手表追踪全身运动",
+      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "研究团队实现仅凭单块智能手表追踪全身动作，为可穿戴健康监测与动作识别开辟新可能。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 167,
+      "original_comments": 59
+    },
+    {
+      "title": "太阳能电站与羊群共存的牧场模式",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "在光伏阵列间放牧羊群的做法引发讨论，兼顾发电与农业，被视为土地复合利用的可持续方案。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 53,
+      "original_comments": 24
+    },
+    {
+      "title": "三星与谷歌推出搭载Gemini AI的智能眼镜",
+      "url": "https://www.producthunt.com/products/sumsung",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "三星与谷歌合作发布智能眼镜，将Gemini AI融入可穿戴设备，标志AI硬件竞争延伸至眼镜形态。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Vercel发布UI SDK，让AI智能体生成界面",
+      "url": "https://www.producthunt.com/products/ui-sdk",
+      "source": "Product Hunt",
+      "score": 6,
+      "summary": "Vercel推出UI SDK，为AI智能体提供构建界面的基础组件，推动智能体直接生成前端UI。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Cookie Away：自动拒绝烦人的Cookie弹窗",
+      "url": "https://www.producthunt.com/products/cookie-away",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Cookie Away可自动替你拒绝各类Cookie横幅，包括隐蔽的诱导式弹窗，提升浏览体验。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "把手写笔迹做成字体",
+      "url": "https://ductus.sorenblank.com",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "Hacker News分享将个人手写笔迹转化为字体的项目，让数字文本保留手写温度，引发设计与怀旧讨论。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 430,
+      "original_comments": 72
+    },
+    {
+      "title": "让“死掉”的ThinkPad复活的隐藏电源键代码（2007）",
+      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一篇2007年旧文回顾ThinkPad隐藏电源键组合代码，可救活看似报废的笔记本，引发老用户怀旧热议。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 232,
+      "original_comments": 92
+    },
+    {
+      "title": "最小的“无孔”多面体：Septopert",
+      "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "数学爱好者展示最小的nopert多面体Septopert，以趣味几何探索挑战直觉，引发数学圈讨论。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 18,
+      "original_comments": 2
+    },
+    {
+      "title": "512KiB二进制消息在无共同语言下教会下棋",
+      "url": "https://artemlegotin.com/golden-board/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一个仅512KiB的二进制程序在双方无共同语言的情况下实现下棋教学，展示极简信息传递的巧妙设计。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 8,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：终极电影系列",
+      "url": "https://xkcd.com/3324/",
+      "source": "XKCD",
+      "score": 4,
+      "summary": "XKCD漫画调侃影史系列片排名，《恐龙时代》14部无一入榜，只有小众粉丝为其鸣不平。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：流星恐惧",
+      "url": "https://xkcd.com/3323/",
+      "source": "XKCD",
+      "score": 4,
+      "summary": "XKCD漫画安慰读者：小流星虽常撞击地球，但统计上你死于其他原因的概率其实高得多。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：蜻蜓号",
+      "url": "https://xkcd.com/3322/",
+      "source": "XKCD",
+      "score": 4,
+      "summary": "XKCD漫画表达对NASA蜻蜓号任务的期待，最想看到的新照片地点正是土卫六表面。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：模拟",
+      "url": "https://xkcd.com/3321/",
+      "source": "XKCD",
+      "score": 4,
+      "summary": "XKCD漫画吐槽打开宇宙沙盒模拟器后，总会像小孩玩玩具一样把行星胡乱撞在一起。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：众议院多数",
+      "url": "https://xkcd.com/3320/",
+      "source": "XKCD",
+      "score": 4,
+      "summary": "XKCD漫画以堪萨斯州民主党参议员首次见到可编程数字计算机为梗，调侃政治与科技的时空错位。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "江山时序：中国历史交互地图时间轴开源",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "source": "GitHub Trending",
+      "score": 5,
+      "summary": "开源项目“江山时序”以交互地图呈现公元前403年至今中国18个朝代、198个疆域快照与古今地名沿革。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "B站热门伪纪录片《镜化》播放破442万",
+      "url": "https://www.bilibili.com/video/BV1Uesp6yEsM",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主“虚构柠檬”的伪纪录片《镜化》登顶B站热门，播放442万、弹幕4636，成为当日最热视频。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 4421295,
+      "original_comments": 4636
+    },
+    {
+      "title": "B站脑洞视频《假如一家人都是在网上认识的》",
+      "url": "https://www.bilibili.com/video/BV1Cksn6hEYb",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主“修2”的创意视频设想一家人全靠网络相识，播放139.5万、评论6251，引发网友爆笑讨论。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 1395427,
+      "original_comments": 6251
+    },
+    {
+      "title": "河北邯郸美食实记：碳水封神",
+      "url": "https://www.bilibili.com/video/BV1QmWi6JEEj",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP主“花二Strange”用30分钟记录邯郸美食，称“河北菜要献祭一个人才好吃”，播放60.7万引发吃货围观。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 606980,
+      "original_comments": 1551
+    },
+    {
+      "title": "LPL“黄金左手”一穿四LCK夺冠纪念",
+      "url": "https://www.bilibili.com/video/BV1ufsA6oE8d",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站视频回顾LPL国产中单从“隐身骂名”到一穿四LCK夺冠的历程，播放31万、评论3807，电竞热度高涨。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 310100,
+      "original_comments": 3807
+    },
+    {
+      "title": "Steam《上古卷轴5：天际》特惠8美元",
+      "url": "https://store.steampowered.com/app/489830",
+      "source": "Steam",
+      "score": 4,
+      "summary": "Steam《上古卷轴5：天际》特别版打2折仅售8美元，登顶当日Steam热销，经典RPG再掀抢购。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 8100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Frame 售价1059美元",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 4,
+      "summary": "Steam新品Frame标价1059美元，与Steam Deck（399美元）、Steam Machine（1049美元）同列热榜，硬件阵容受关注。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "CS:GO大盘指数640.55微涨0.15%",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 3,
+      "summary": "CS:GO饰品大盘指数报640.55，微涨0.15%，成交额200万元、成交量62274件，涨跌家数5270对1274。",
+      "categories": [
+        "趣闻",
+        "财经"
+      ],
+      "original_score": 9,
+      "original_comments": 62274
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 640.55 📈+0.93(+0.15%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 62274,
+      "summary": "今日 640.55 | 📈 +0.93(+0.15%) | 最高 640.69 最低 639.48 | 连涨 1天 | 成交额 ¥200万 | 成交量 62274件 | 📈1054 ➡5270 📉1274"
+    }
+  ]
+}
