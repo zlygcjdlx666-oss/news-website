@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-18",
+  "commentary": "今天这新闻单子一看，我差点以为小编把日历翻错了。先说CSGO大盘，630.85，跌了0.45，连涨12天——注意啊，是连涨12天之后跌了0.07%。这点跌幅够干啥的？够我在楼下买根烤肠还得犹豫三秒。成交额77万，成交量一万六千多件，这盘面冷清得像我二舅家冬天没生炉子的客厅。炒CSGO饰品的兄弟们，你们管这叫“大盘”？这叫心电图快拉直线了。\n\n再看B站，IGN给《GTA6》打了个10分，标题直接封神“这个时代最伟大的游戏”。我寻思游戏还没出呢，评测先出来了，这操作比我妈还没尝菜就先说咸了还熟练。当然，IGN嘛，10分批发商，懂的都懂。倒是EDG那条“THANK YOU ZmjjKK”弹幕飘了七千多条，这才叫真情实感——电竞选手转会，粉丝比CSGO大盘波动还剧烈。\n\n最后说一句，B站热门里蜘蛛侠MJ真人版548万播放，猫尾草274万，原始人184万，大家嘴上喊着要看深度内容，手指头还是很诚实地奔着可爱和整活去了。\n\n**今日金句：CSGO大盘连涨12天跌了0.07%，B站热门靠猫尾巴和蜘蛛侠撑场——这世界最稳定的，永远是大家不想动脑子的那颗心。**",
+  "news": [
+    {
+      "title": "【蜘蛛侠/MJ】非凡之爱真人版",
+      "url": "https://www.bilibili.com/video/BV1xFs36uEvE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:548.9万 | 弹幕:1719 | UP主:Crazy-face",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5489082,
+      "original_comments": 1719
+    },
+    {
+      "title": "【动画】可爱的猫尾草",
+      "url": "https://www.bilibili.com/video/BV1LLsT6kESX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:274.3万 | 弹幕:644 | UP主:青默ya",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2743059,
+      "original_comments": 644
+    },
+    {
+      "title": "非凡魔丸",
+      "url": "https://www.bilibili.com/video/BV1LLsr66EC6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:261.7万 | 弹幕:643 | UP主:伊介书生",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2617479,
+      "original_comments": 643
+    },
+    {
+      "title": "在普罗米厄的怀抱下",
+      "url": "https://www.bilibili.com/video/BV16Bs26FEAM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:251.3万 | 弹幕:6484 | UP主:鸣潮",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2513193,
+      "original_comments": 6484
+    },
+    {
+      "title": "倘若我不用笔写字呢？",
+      "url": "https://www.bilibili.com/video/BV1hCs66aEmt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:231.0万 | 弹幕:464 | UP主:千屿安-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2309647,
+      "original_comments": 464
+    },
+    {
+      "title": "原始人",
+      "url": "https://www.bilibili.com/video/BV1rfsB6CERa",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:184.0万 | 弹幕:329 | UP主:阿代琇殷卡",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1840460,
+      "original_comments": 329
+    },
+    {
+      "title": "【IGN】10分，《GTA 6》评测：这个时代最伟大的游戏",
+      "url": "https://www.bilibili.com/video/BV1WMsm6zEfn",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:128.5万 | 弹幕:3829 | UP主:IGN中国",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1284514,
+      "original_comments": 3829
+    },
+    {
+      "title": "THANK YOU ZmjjKK",
+      "url": "https://www.bilibili.com/video/BV1YWsr6NEs7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:116.3万 | 弹幕:7745 | UP主:EDG电子竞技俱乐部",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1162991,
+      "original_comments": 7745
+    },
+    {
+      "title": "当bro一起去吃自助餐🍑",
+      "url": "https://www.bilibili.com/video/BV1PBsr6REhH",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:87.4万 | 弹幕:341 | UP主:凉255",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 873607,
+      "original_comments": 341
+    },
+    {
+      "title": "【CS2更新】熟悉的旋律加入CS2音乐盒~主菜单&MVP试听",
+      "url": "https://www.bilibili.com/video/BV1besC6KE6N",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:84.5万 | 弹幕:2183 | UP主:AYCS2",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 845167,
+      "original_comments": 2183
+    },
+    {
+      "title": "全球最火的电竞比赛！2W一张票！直接看哭了！",
+      "url": "https://www.bilibili.com/video/BV1fvsy6WEuC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:83.1万 | 弹幕:2738 | UP主:Super也好君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 831323,
+      "original_comments": 2738
+    },
+    {
+      "title": "历史性峰会！为什么是APEC？是中国？是深圳？",
+      "url": "https://www.bilibili.com/video/BV1nVs16tESg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:77.8万 | 弹幕:857 | UP主:小王Albert",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 778195,
+      "original_comments": 857
+    },
+    {
+      "title": "《都很漂亮》她是漂亮的，我们也是。",
+      "url": "https://www.bilibili.com/video/BV1XZsz6AE8g",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.6万 | 弹幕:925 | UP主:有个鹏友-",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 726495,
+      "original_comments": 925
+    },
+    {
+      "title": "【侠盗猎车手6】4K 最高画质 全网首发 全任务 全剧情流程通关攻略 开放世界冒险游戏 GTA6 - Grand Theft Auto VI",
+      "url": "https://www.bilibili.com/video/BV1NDsS6UE8D",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:72.3万 | 弹幕:4750 | UP主:11的游戏世界",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 723081,
+      "original_comments": 4750
+    },
+    {
+      "title": "《GTA6》已通关，无剧透聊聊R星有多无敌【视频播客 EP.81】",
+      "url": "https://www.bilibili.com/video/BV1NSsm6rEGE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.9万 | 弹幕:812 | UP主:核电波",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 409265,
+      "original_comments": 812
+    },
+    {
+      "title": "第一次在B站发视频，求关注！",
+      "url": "https://www.bilibili.com/video/BV1Z1sA6vEN6",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.3万 | 弹幕:353 | UP主:bili_77946368223",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 402657,
+      "original_comments": 353
+    },
+    {
+      "title": "《GTA6》游民评测10分：GOAT，毫无疑问【国内独家】",
+      "url": "https://www.bilibili.com/video/BV1Szsm6EEan",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:32.1万 | 弹幕:894 | UP主:游民星空官方",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 321169,
+      "original_comments": 894
+    },
+    {
+      "title": "【4K】全网首发《GTA6》主线全流程实况解说（持续更新中）",
+      "url": "https://www.bilibili.com/video/BV1t9sk6YE23",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.6万 | 弹幕:1306 | UP主:友利奈绪大魔王丶",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 316106,
+      "original_comments": 1306
+    },
+    {
+      "title": "⚡赵本山《Bad Guy》大忽悠｜象牙山蹦野迪⚡【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV15Ts26HERu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.8万 | 弹幕:845 | UP主:抽乐个大象",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 227833,
+      "original_comments": 845
+    },
+    {
+      "title": "RTX Spark N1X装进小主机！华硕ProArt GR1X新品首发实测~",
+      "url": "https://www.bilibili.com/video/BV186sS6xEiZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:12.8万 | 弹幕:194 | UP主:二斤啦啦啦啦",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 127617,
+      "original_comments": 194
+    },
+    {
+      "title": "Call of Duty®: Black Ops Cold War",
+      "url": "https://store.steampowered.com/app/1985810",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $74",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Persona 5 Royal",
+      "url": "https://store.steampowered.com/app/1687950",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-70% | $80",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7100,
+      "original_comments": 0
+    },
+    {
+      "title": "Kingdom Come: Deliverance II",
+      "url": "https://store.steampowered.com/app/1771300",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-67% | $75",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6800,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "url": "https://store.steampowered.com/app/817628",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-67% | $92",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6800,
+      "original_comments": 0
+    },
+    {
+      "title": "Worst Class Ever",
+      "url": "https://store.steampowered.com/app/5175310",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-35% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3600,
+      "original_comments": 0
+    },
+    {
+      "title": "Slay the Spire 2",
+      "url": "https://store.steampowered.com/app/2868840",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $70",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Bodycam",
+      "url": "https://store.steampowered.com/app/2406770",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $102",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $214",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1120,
+      "original_comments": 308
+    },
+    {
+      "title": "Slotbound",
+      "url": "https://store.steampowered.com/app/4459590",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $38",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 325,
+      "original_comments": 88
+    },
+    {
+      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 251,
+      "original_comments": 82
+    },
+    {
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 243,
+      "original_comments": 37
+    },
+    {
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 234,
+      "original_comments": 122
+    },
+    {
+      "title": "A Perfect SimCity",
+      "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 191,
+      "original_comments": 83
+    },
+    {
+      "title": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 176,
+      "original_comments": 55
+    },
+    {
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 139,
+      "original_comments": 63
+    },
+    {
+      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 123,
+      "original_comments": 85
+    },
+    {
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 109,
+      "original_comments": 83
+    },
+    {
+      "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
+      "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 105,
+      "original_comments": 20
+    },
+    {
+      "title": "Phantom Blade Zero",
+      "url": "https://store.steampowered.com/app/4115450",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$268",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "url": "https://store.steampowered.com/app/4348910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$55",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$149",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$248",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$298",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "EA SPORTS FC™ 26 & 27 Bundle",
+      "url": "https://store.steampowered.com/app/85334",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$183",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "My Emacs 31 contributions",
+      "url": "https://xenodium.com/my-emacs-31-contributions",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 98,
+      "original_comments": 12
+    },
+    {
+      "title": "Show HN: Type Fighter 2",
+      "url": "https://typefighter2.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 78,
+      "original_comments": 40
+    },
+    {
+      "title": "When AI Knows More Than It Can Offer",
+      "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 70,
+      "original_comments": 39
+    },
+    {
+      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 57,
+      "original_comments": 28
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 630.85 📉-0.45(-0.07%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 16678,
+      "summary": "今日 630.85 | 📉 -0.45(-0.07%) | 最高 631.29 最低 630.68 | 连涨 -12天 | 成交额 ¥77万 | 成交量 16678件 | 📈815 ➡5821 📉962"
+    }
+  ]
+}
