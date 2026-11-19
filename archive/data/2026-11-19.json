@@ -1,0 +1,659 @@
+{
+  "date": "2026-11-19",
+  "commentary": "今天这新闻单子，我扫一眼就乐了——特朗普、普京、习近平发《和平宣言》，普京转头就骂克里米亚大桥要“更痛苦”回应。哥仨刚握完手，墨迹没干呢，一个“痛苦”就甩出来了。这和平宣言，八成是印在草稿纸上的吧？签字笔还没撂下，导弹已经在路上了。国际政治这玩意儿，比GTA6的剧情还能反转。\n\n再说Anthropic，810亿美金IPO，史上最大。Claude背后这帮人，卖聊天机器人卖出个全球顶级市值，AI泡沫还是真金？我瞅着像——一边英伟达营收狂飙，一边Java曝出大漏洞、微软的包被黑客劫持偷开发者凭证。你们AI圈是不是光顾着造神，地基没人管了？楼盖到云彩里，下水道还堵着呢。\n\n哦对，CS:GO大盘涨了0.01%。在这么多人类大事里，它倔强地红了一点点，成交额89万。世界越乱，皮肤越香，这很合理。\n\n**今日金句：和平宣言签得快，报复宣言来得更快——国际政治最稳定的，就是它永远不稳定。**",
+  "news": [
+    {
+      "title": "特朗普、普京、习近平举行历史性会晤并发布《和平宣言》",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "美俄中三国元首举行首次三边会谈，会后共同发布《和平宣言》，引发全球高度关注。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic 上市募资 810 亿美元，创纪录 IPO",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "Claude 聊天机器人背后的 AI 公司 Anthropic 完成史上最大规模 IPO，募资 810 亿美元，跻身全球市值最高公司之列。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "联合国国际法院裁定缅甸对罗兴亚人实施种族灭绝",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "国际法院作出史无前例的裁决，认定缅甸在 2017 年军事镇压中对罗兴亚少数民族实施种族灭绝。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6 全球发售，英国陷入游戏狂热",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "开发历时 13 年的《侠盗猎车手 6》全球同步发售，有望成为史上最畅销的娱乐产品之一。",
+      "categories": [
+        "娱乐",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "普京誓言对乌克兰袭击克里米亚大桥作出“更痛苦”回应",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "克里米亚大桥遭乌克兰联合攻击严重受损后，普京警告将采取更为严厉的报复措施。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国财团击败中国对手，赢得肯尼亚 600 亿美元矿产大单",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国联合体中标肯尼亚 Mrima Hill 关键矿产开采项目，该矿藏估值超 600 亿美元，地缘资源竞争加剧。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "梵高画作以 1.904 亿美元创纪录成交，纳粹历史争议后落槌",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "梵高 1890 年绝笔之作《盛开的栗树》以 1.904 亿美元拍卖成交，此前该画作因纳粹时期归属问题引发争议。",
+      "categories": [
+        "娱乐",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英伟达季度营收飙升，但拒绝让黄仁勋复职",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "AI 芯片巨头英伟达公布强劲季报，同时明确表示不会重新任命此前戏剧性离职的黄仁勋。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "全球第三大编程语言 Java 曝出严重安全漏洞",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "曾发现 PHP 漏洞的初创公司利用 AI 在 Java 中发现关键软件缺陷，影响范围广泛。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软官方 agent-framework 软件包遭黑客劫持植入恶意程序",
+      "url": "https://www.solidot.org/story?sid=85931",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "微软 PyPI 上的 agent-framework 包（月下载近 20 万次）被劫持，v1.26.1 和 1.26.2 版本会窃取开发者凭证。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Waymo 全面撤出美国高速公路自动驾驶运营",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "加州因多起交通事故禁止 Waymo 无人驾驶车辆上高速后，Waymo 宣布撤出全美所有高速公路运营。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国能源账单预计明年 1 月起年增 443 英镑",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国通胀率升至一年新高，典型家庭年度能源账单预计上涨 26%，生活成本压力持续加大。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克称 4.46 亿美元中期选举支出“相当愚蠢”",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "亿万富翁马斯克反思其创纪录的政治捐款，并表示自己“不是 MAGA”，与特朗普政治运动保持距离。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "委内瑞拉与美军签署军事协议，马杜罗下台不到一年",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "美国防部长称委内瑞拉已“从最具侵略性的地区威胁转变为合规的安全伙伴”，两国签署军事合作协议。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "荷兰监管机构警告公众勿购买 AI 智能眼镜",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "测试显示部分 AI 智能眼镜误读药品说明，甚至假装已呼叫救护车，监管机构发布消费警示。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国广西发现新直立人群体化石",
+      "url": "https://www.solidot.org/story?sid=85929",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "中科院在广西崇左两处洞穴发现 9 枚古人类牙齿，其中 8 枚属于新识别的直立人群体，成果发表于《自然》。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "全球专利申请量创十年新高，中国居首",
+      "url": "https://www.solidot.org/story?sid=85933",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "世界知识产权组织报告显示 2025 年全球专利申请达 394 万件，同比增长 6%，中国以 191 万件继续领跑。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "黄仁勋下台或削弱开放权重模型生态，闭源模型受益",
+      "url": "https://www.solidot.org/story?sid=85932",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "分析认为黄仁勋离职可能削弱英伟达对开源 AI 生态的支持，OpenAI 和 Anthropic 等闭源厂商将从中受益。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "德国和奥地利呼吁欧洲共同管控 TikTok",
+      "url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "德奥两国政府提议由欧洲层面统一监管 TikTok，以应对数据安全和内容治理方面的担忧。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 92,
+      "original_comments": 78
+    },
+    {
+      "title": "英国政府被迫承认曾向苹果发出秘密加密命令",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "source": "Hacker News",
+      "score": 7,
+      "summary": "英国政府在一场法律诉讼中被迫披露，曾向苹果公司发出要求破解加密的秘密技术能力通知。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 45,
+      "original_comments": 10
+    },
+    {
+      "title": "欧盟委员会向逾 4 万名员工部署 Matrix 通信工具",
+      "url": "https://www.solidot.org/story?sid=85936",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "欧盟委员会已完成基于 Matrix 协议的自研通信工具部署，覆盖每台工作笔记本电脑，推动政府机构去中心化通信。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "城镇夜空人造卫星数量已超过肉眼可见星星",
+      "url": "https://www.solidot.org/story?sid=85935",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "研究显示中纬度城镇上空任意时刻有超 700 颗卫星掠过，低轨卫星总数达 15833 颗，Starlink 占比最大。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲布局下一代光子芯片产业",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "欧盟希望在新一代利用光处理数据的计算机芯片领域占据领先地位，减少对传统半导体供应链的依赖。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国黑客通过短信诈骗窃取 1100 万美元被判六年",
+      "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "苏格兰黑客 Tyler Buchanan 作为 Scattered Spider 团伙成员，因短信钓鱼诈骗在美获刑六年。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "以色列军队完成加沙“黄线”以外地面行动",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "以军称行动旨在摧毁“恐怖隧道”，哈马斯谴责此举为“公然”违反停火协议。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯公民因刺探美国防务公司 Palantir 被捕",
+      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "嫌疑人跟踪 Palantir 员工，持有伪造美国身份证件和两本俄罗斯护照，涉嫌因该公司支持乌克兰而进行间谍活动。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "SSD 价格预计明年下半年开始下降",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "行业分析预测固态硬盘价格将在明年下半年迎来拐点，结束此前的持续上涨趋势。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 233,
+      "original_comments": 193
+    },
+    {
+      "title": "Ruby2ßhell：Rails 应用曝出预认证远程代码执行漏洞",
+      "url": "https://verialabs.com/ruby2shell/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "安全研究人员披露 Rails 框架存在预认证 RCE 漏洞，攻击者可在未登录情况下远程执行代码。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 300,
+      "original_comments": 124
+    },
+    {
+      "title": "国际能源署：全球建筑制冷能耗需求已超过供暖",
+      "url": "https://maccus.fr/en/cooling-overtaking-heating/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "IEA 报告指出，随着全球变暖加剧，建筑制冷已超越供暖成为更大的能源需求来源。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 66,
+      "original_comments": 50
+    },
+    {
+      "title": "过度高强度运动可能扰乱大脑多巴胺调节",
+      "url": "https://www.solidot.org/story?sid=85934",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "巴西圣保罗大学研究发现，缺乏充分恢复的高强度训练会改变海马体多巴胺机制，影响记忆与情绪。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "蚊子在喜马拉雅冰川地区日益常见",
+      "url": "https://www.solidot.org/story?sid=85930",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "全球变暖导致冰川消退，蚊虫向高海拔地区扩散，给克什米尔拉达克居民带来新的流行病风险。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美破产法庭批准 Google 以千万美元收购 Spirit 航空内部数据",
+      "url": "https://www.solidot.org/story?sid=85928",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "法官批准 Google 以 1000 万美元收购已停运的 Spirit Airlines 内部数据，包括员工信息等敏感资料。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国监管初步认定 Viagogo 隐藏费用涉嫌违法",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "英国竞争监管机构初步调查发现，票务转售平台 Viagogo 使用“滴灌定价”隐瞒费用，可能违反消费者法。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "调查：贝叶斯号游艇沉没前船员未意识到风险",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "意大利调查人员称，科技大亨 Mike Lynch 遇难的游艇沉没前，船员对即将到来的危险缺乏认知。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究团队教会机器人雕刻大理石雕塑",
+      "url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "研究人员开发出能让机器人进行大理石雕刻的系统，将传统雕塑工艺与机器人技术相结合。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 95,
+      "original_comments": 74
+    },
+    {
+      "title": "美国俄勒冈州图书馆弃用杜威十进制分类法，改按书店方式排列",
+      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "俄勒冈州一图书馆放弃沿用百年的杜威十进制分类系统，改用类似书店的主题陈列方式，提升读者体验。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 96,
+      "original_comments": 74
+    },
+    {
+      "title": "Chrome 开发团队宣布“漏洞报告破产”",
+      "url": "https://blog.plover.com/tech/bug-reports.html",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Google Chrome 开发团队因漏洞报告积压过多，宣布进入“破产”状态，将集中处理现有报告。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 64,
+      "original_comments": 15
+    },
+    {
+      "title": "科学家实现基于重力的不可屏蔽通信",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "《科学进展》发表研究，利用重力信号实现无法被传统手段屏蔽的通信方式，具有潜在军事与科研价值。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 52,
+      "original_comments": 20
+    },
+    {
+      "title": "XKCD：旅行者号撞上“水晶球边界”",
+      "url": "https://xkcd.com/3326/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "幽默漫画：旅行者号探测器几个月前撞上的可能只是“水晶球区域”的起点，新数据证实了这一点。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：光日延迟——旅行者 1 号多人游戏服务器或关停",
+      "url": "https://xkcd.com/3325/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "漫画调侃 NASA 考虑关闭旅行者 1 号的“多人游戏服务器”，因为 172800000 毫秒的延迟实在太烦人。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：终极电影系列排行榜",
+      "url": "https://xkcd.com/3324/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "漫画列出终极电影系列榜单，《恐龙时代》14 部电影无一上榜，但忠实粉丝仍在为《大长颈龙》鸣不平。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：流星恐惧",
+      "url": "https://xkcd.com/3323/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "漫画安慰读者：虽然小型致命流星时常撞击地球，但统计上你更可能死于其他原因。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：蜻蜓号——最想看到更多照片的地方",
+      "url": "https://xkcd.com/3322/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "漫画表达对 NASA 蜻蜓号任务的期待，土卫六表面位列作者最渴望获得更多照片的太阳系地点榜首。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Mozilla 推出 Tabstack：让模型访问网络而不牺牲隐私",
+      "url": "https://www.producthunt.com/products/tabstack",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Mozilla 发布 Tabstack 工具，允许 AI 模型获取网络信息的同时保护用户隐私数据。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Netlify Server：支持 WebSocket、多人应用和长时运行智能体",
+      "url": "https://www.producthunt.com/products/netlify",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Netlify 推出新服务，支持运行 WebSocket、多人实时应用和长时间运行的 AI 智能体。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Launch HN：Onlook（YC W25）——面向设计师的开源开发工具",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "Y Combinator 孵化项目 Onlook 发布开源开发工具，帮助设计师更直接地参与代码开发流程。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 14,
+      "original_comments": 6
+    },
+    {
+      "title": "在浏览器中用一张 A4 纸制作 8 页折纸小志",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "开发者推出浏览器工具，可将单张 A4 纸折叠成 8 页小志（zine），无需剪刀胶水。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 114,
+      "original_comments": 30
+    },
+    {
+      "title": "万智牌中的指数级增长行为",
+      "url": "https://levineuwirth.org/essays/exponential-magic/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一篇技术文章分析万智牌卡牌组合中出现的指数级增长现象及其数学原理。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 56,
+      "original_comments": 33
+    },
+    {
+      "title": "如何制作书写《哈姆雷特》和《独立宣言》所用的墨水",
+      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "文章介绍历史上用于书写莎士比亚名作和美国《独立宣言》的墨水配方与制作工艺。",
+      "categories": [
+        "趣闻",
+        "科学"
+      ],
+      "original_score": 24,
+      "original_comments": 5
+    },
+    {
+      "title": "赵本山《Bad Guy》AI MV：象牙山蹦野迪",
+      "url": "https://www.bilibili.com/video/BV15Ts26HERu",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站 AI MV 大赛作品，将赵本山经典形象与 Billie Eilish 的《Bad Guy》混搭，播放量超 183 万。",
+      "categories": [
+        "趣闻",
+        "娱乐"
+      ],
+      "original_score": 1831755,
+      "original_comments": 2207
+    },
+    {
+      "title": "“被窝里”玩手机教程走红 B 站",
+      "url": "https://www.bilibili.com/video/BV1Nisz6EEuH",
+      "source": "B站热门",
+      "score": 4,
+      "summary": "UP 主“农民老杨”发布被窝里玩手机的趣味教程，播放量突破 307 万，弹幕互动热烈。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 3070950,
+      "original_comments": 711
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 627.48 📈+0.02(+0.01%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 33040,
+      "summary": "今日 627.48 | 📈 +0.02(+0.01%) | 最高 627.58 最低 626.94 | 连涨 1天 | 成交额 ¥89万 | 成交量 33040件 | 📈738 ➡5664 📉1196"
+    }
+  ]
+}
