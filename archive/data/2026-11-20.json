@@ -1,0 +1,661 @@
+{
+  "date": "2026-11-20",
+  "commentary": "好家伙，今天这新闻单子看得我血压跟CS:GO大盘似的——涨是涨了，就涨0.04%，跟我减肥的进度一样感人。但真正的大戏在别处。\n\n先说Anthropic，这家公司今天简直是开了挂：一边让Claude帮忙证黎曼猜想，一边IPO募了810亿美金，结果第二天股价就跌，全球股市跟着抖三抖。我就想问一句：你们到底是搞数学的还是搞金融的？黎曼猜想要是真证出来了，我建议先别急着开香槟，让子弹飞一会儿——毕竟上次说证明黎曼猜想的，坟头草都三米高了。但话说回来，AI要是真能把这事儿办了，那我磊哥以后点评新闻都得先问问Claude同不同意。\n\n另一边，胰腺癌口服药和病毒疗法双双传来好消息，这个我得正经说一句：这才是今天最该上头条的新闻。什么AI泡沫、什么三方会谈，都不如\"肿瘤消失\"四个字实在。特朗普、普京、习近平坐一块儿发和平声明固然历史性，但和平声明这东西，咱们见得多了，关键看后续。\n\n**今日金句：AI能证黎曼猜想，能设计CPU，就是证不了自己不是泡沫——这事儿，还得靠药。**",
+  "news": [
+    {
+      "title": "Anthropic数论学家声称证明黎曼猜想",
+      "url": "https://www.solidot.org/story?sid=85949",
+      "source": "Solidot",
+      "score": 10,
+      "summary": "Anthropic数学家Levent Alpöge声称与Claude合作获得黎曼猜想的一般性证明，并称该方法可推广至广义与扩展黎曼猜想。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic创纪录IPO募资810亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 10,
+      "summary": "Claude母公司Anthropic完成史上最大规模IPO，募资810亿美元，成为全球市值最高上市公司之一，也是首家纯AI上市公司。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "特朗普、习近平、普京举行历史性三方会谈并发表和平联合声明",
+      "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "summary": "特朗普、普京与习近平举行历史性三方会谈，会后发表“和平联合声明”，BBC分析各方在会谈中的得失。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6创游戏史最高首日销售额",
+      "url": "https://www.solidot.org/story?sid=85948",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "GTA 6上市首日预购加销量合计超2450万份，收入约23.6亿美元，超过今年全球票房冠军《蜘蛛侠：崭新之日》。",
+      "categories": [
+        "娱乐",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯导弹落入波兰境内，图斯克称系莫斯科挑衅",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "一枚俄罗斯导弹击中波兰领土，无人伤亡，华沙称此为莫斯科的“挑衅”，事发时乌克兰盟友正在举行军演。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿里巴巴警告未来两年算力紧缺",
+      "url": "https://www.solidot.org/story?sid=85947",
+      "source": "Solidot",
+      "score": 9,
+      "summary": "阿里CEO吴泳铭称全球算力政策剧变，2032年20吉瓦数据中心目标或下调，资本开支可能降低。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic员工声称获得黎曼猜想一般性证明",
+      "url": "https://alpo.ge/remark.pdf",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "Hacker News热议Anthropic员工发表的黎曼猜想证明论文，评论数超700条，学界与社区高度关注其真实性。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 1149,
+      "original_comments": 746
+    },
+    {
+      "title": "胰腺癌口服药试验取得重大突破，肿瘤消失",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "每日口服药daraxonrasib在试验中使部分最致命癌症胰腺癌患者的肿瘤缩小甚至消失，带来重大希望。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄罗斯大规模空袭基辅，回应乌克兰袭击克里米亚大桥",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "俄罗斯对基辅发动迄今最大规模空袭之一，并拒绝为乌克兰提供安全保障，局势进一步升级。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic创纪录IPO未能阻止AI抛售，全球股市下挫",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "Hacker News",
+      "score": 9,
+      "summary": "Anthropic上市次日股价下跌，带动科技股与全球股市普跌，市场对AI泡沫的担忧加剧。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 139,
+      "original_comments": 129
+    },
+    {
+      "title": "三名胰腺癌患者注射病毒后肿瘤得到遏制",
+      "url": "https://www.solidot.org/story?sid=85945",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "明尼苏达大学临床试验中，三名胰腺癌患者注射病毒后肿瘤停止发展，剂量仅为目标十分之一，疗效超预期。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加州就中国AI芯片问题对英伟达展开调查",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英伟达全球总部所在的加州对其展开中国AI芯片相关调查，此前CEO黄仁勋已离职。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude解决黑洞物理学两个开放问题",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "Hacker News热议Claude在黑洞物理领域解决两个开放问题的报道，显示AI在基础科研中的潜力。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 528,
+      "original_comments": 254
+    },
+    {
+      "title": "Frostbite：AI设计并验证的全新CPU架构",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "研究团队披露由AI发现、设计并验证的全新CPU架构Frostbite，引发对AI芯片设计能力的讨论。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 448,
+      "original_comments": 264
+    },
+    {
+      "title": "OpenSSL曝严重缓冲区溢出漏洞（CVSS 9.8）",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "OpenSSL的EVP_EncodeBlock()函数存在缓冲区溢出漏洞CVE-2026-121481，CVSS评分9.8，属最高危级别。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 335,
+      "original_comments": 292
+    },
+    {
+      "title": "《柳叶刀》报告：无限滚动与自动播放危害社会",
+      "url": "https://www.solidot.org/story?sid=85946",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "《柳叶刀精神病学》报告称全球逾十分之一人口受问题性互联网使用影响，年经济与社会成本达数十亿美元。",
+      "categories": [
+        "社会",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "白宫在系列技术故障后撤换网络安全主管",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "白宫网络安全主管因一系列技术故障失去幕僚长信任被解职，CBS报道称其已被免职。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国秘密行动为数万台冰箱修复黑客漏洞",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "英国秘密开展全国行动，为超市、仓库、餐厅和体育场的数万台联网冰箱修补安全漏洞，防范黑客攻击。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "南非三个月内近600名女性被杀",
+      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "南非警方数据显示三个月内近600名女性遇害，官员呼吁加大力度预防针对妇女和儿童的暴力。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "荷兰监管机构建议勿购买AI智能眼镜",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "荷兰监管机构测试发现部分AI智能眼镜误读用药说明、甚至假装已呼叫救护车，建议消费者不要购买。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "得州死囚行刑持续逾一小时，过程痛苦",
+      "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "得克萨斯州一次死刑执行耗时超过一小时，囚犯痛苦尖叫，数周前另一死囚注射同款药物后幸存。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲领导人称已准备好与俄罗斯谈判结束乌克兰战争",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "乌克兰的欧洲盟友在柏林峰会上表示已形成“统一”谈判立场，准备与俄罗斯就结束战争展开对话。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克称中期选举花费4.46亿美元“相当愚蠢”",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "马斯克称其在美国中期选举中创纪录的4.46亿美元支出“相当愚蠢”，并称自己“不是MAGA”。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国用紧急短信等手段查处111起高考作弊",
+      "url": "https://www.solidot.org/story?sid=85943",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "韩国高考期间通过全国紧急短信（持续响铃10.5秒）等方式，查处111起作弊，其中54起为未上交手机。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "韩国高考新措施抓获111名作弊学生",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "韩国在高风险高考Suneung中查获111名携带违禁智能设备的学生，采用新型反作弊手段。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "微软测试对丢失或被盗设备远程锁定",
+      "url": "https://www.solidot.org/story?sid=85942",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "微软测试Remote Lock功能，允许企业IT管理员在不清除数据的情况下远程锁定丢失或被盗的Windows设备。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Vint Cerf谈TCP/IP为何从未申请专利",
+      "url": "https://www.solidot.org/story?sid=85944",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "83岁的互联网之父Vint Cerf受访谈TCP/IP未申请专利的原因，并透露正创办星际互联网公司Tolero。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "firecrawl：为AI代理提供知识基础设施",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目firecrawl单日新增1226星，通过统一API提供搜索、抓取及550多家数据源，让AI代理更智能。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "minimind：两小时从零训练64M大模型",
+      "url": "https://github.com/jingyaogong/minimind",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源项目minimind单日获841星，可在两小时内从零训练一个6400万参数的大语言模型，降低入门门槛。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AutoClip：一键将长视频剪成短视频的开源AI工具",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源AI视频剪辑桌面工具AutoClip，可将播客、访谈、课程等长视频自动剪成短视频并生成字幕、封面与发布文案。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Ghost-Downloader-3：全能开源下载器",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "source": "GitHub Trending",
+      "score": 7,
+      "summary": "开源下载器Ghost-Downloader-3单日获1082星，号称“下载器的集大成者”，支持多种下载场景。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6带动下载需求激增，预估销售额超23亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Rockstar结束13年等待推出GTA 6，预计成为史上最大娱乐产品发布，带动全球下载需求激增。",
+      "categories": [
+        "娱乐",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "评论界称GTA 6为杰作",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "媒体评论认为GTA 6不负史上最受期待游戏之名，称其为杰作，评价普遍正面。",
+      "categories": [
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic上市首日跻身全球市值最高上市公司之列",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Anthropic成为首家纯AI上市公司，上市首日即跻身全球市值最高公司行列，为整个行业提供试金石。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Anthropic七位创始人即将成为亿万富翁",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "随着Anthropic登陆美股，Claude背后的七位创始人即将跻身亿万富翁行列，财富大幅增长。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "网红河马Fiona去世",
+      "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "辛辛那提动物园的网红河马Fiona在误吞进入围栏的针织帽数日后去世，它从早产儿成长为社交媒体明星。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "尼日利亚拟取消自杀未遂罪刑罚",
+      "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "尼日利亚拟改革法律，取消对自杀未遂者的监禁刑罚，回应精神病学家多年呼吁及参议院平行法案。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英欧削减成本贸易协议未必带来低价",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "分析称英欧新贸易协议虽应比脱欧后其他协议更提振经济，但不太可能降低食品价格。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Airbnb争议性新规生效",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 6,
+      "summary": "Airbnb关于房东可合理要求房客事项的新规生效，可能减少杂务但增加房客成本。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "AI是否应评判我们的信用？",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "BBC探讨AI是否适合评估个人房贷、车贷或手机合约的信用worthiness，引发公平与透明性讨论。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Postgres 19 Repack：更快的内置表膨胀清理",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "PostgreSQL 19引入内置表膨胀清理功能Repack，速度更快，简化数据库维护。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 161,
+      "original_comments": 27
+    },
+    {
+      "title": "Signal认真保护用户隐私",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Signal强调其对用户隐私保护的严肃承诺，在加密通讯领域持续强化安全立场。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 226,
+      "original_comments": 99
+    },
+    {
+      "title": "为何iOS上仍无WebKit之外的浏览器",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "文章分析苹果iOS平台至今不允许WebKit之外浏览器内核的原因，涉及垄断与生态控制争议。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 117,
+      "original_comments": 51
+    },
+    {
+      "title": "XKCD：旅行者号坠毁",
+      "url": "https://xkcd.com/3326/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画调侃旅行者号探测器撞上“水晶球区域”的开端，用幽默方式演绎深空探测的意外。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：光日",
+      "url": "https://xkcd.com/3325/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画戏称NASA考虑关闭旅行者1号的多人游戏服务器，因为172800000毫秒的延迟实在太烦人。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：终极电影系列",
+      "url": "https://xkcd.com/3324/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画盘点影史最长电影系列，调侃《恐龙时代》14部作品未能上榜，但仍有忠实粉丝辩护。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：流星恐惧",
+      "url": "https://xkcd.com/3323/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画安慰读者：小流星虽常撞击地面，但统计上你更可能死于其他原因，用数据化解恐惧。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD：蜻蜓号",
+      "url": "https://xkcd.com/3322/",
+      "source": "XKCD",
+      "score": 5,
+      "summary": "XKCD漫画表达对NASA蜻蜓号任务的期待，称土卫六表面是最想看到更多照片的太阳系地点之一。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Floppy3.5：便携式3.5英寸软驱WiFi NAS",
+      "url": "https://github.com/bigcrimping/floppy3.5",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "创客项目Floppy3.5将3.5英寸软驱改造成便携WiFi NAS，复古硬件与现代网络结合的脑洞之作。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 86,
+      "original_comments": 31
+    },
+    {
+      "title": "Show HN：耳鸣频率检测与音频陷波工具",
+      "url": "https://trynotched.com/find",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "开发者发布耳鸣频率查找与音频陷波工具，帮助耳鸣患者定位并缓解症状，获社区关注。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 107,
+      "original_comments": 71
+    },
+    {
+      "title": "Same Moon：为离家的孩子提供免费睡前故事",
+      "url": "https://www.producthunt.com/products/same-moon",
+      "source": "Product Hunt",
+      "score": 5,
+      "summary": "Product Hunt新品Same Moon为不得不离开家园的儿童提供免费睡前故事，用温情设计传递关怀。",
+      "categories": [
+        "趣闻",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 619.7 📈+0.22(+0.04%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 22759,
+      "summary": "今日 619.7 | 📈 +0.22(+0.04%) | 最高 619.76 最低 618.82 | 连涨 1天 | 成交额 ¥43万 | 成交量 22759件 | 📈672 ➡5993 📉933"
+    }
+  ]
+}
