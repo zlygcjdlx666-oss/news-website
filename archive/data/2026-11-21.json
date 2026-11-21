@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-21",
+  "commentary": "今天这盘面，啧，CSGO大盘连着跌了14天，成交额还有4192万，韭菜们是真不跑啊。指数就跌了0.35%，搁这儿温水煮青蛙呢？涨的2189家、跌的3520家，说明什么？说明大家不是在抄底，是在比谁跑得慢。饰品市场这玩意儿，涨的时候叫“数字资产”，跌的时候叫“电子骨灰盒”，14连跌还不割的兄弟，我敬你是条汉子，但钱包可能不这么想。\n\n再说B站这边，《凡人修仙传》第201集425万播放，这才是真·修仙——修的是观众的耐心，追了四年还没飞升，韩立不急我都替他急。反倒是《守护解放西》517万播放稳坐头把交椅，说明啥？现实比修仙好看，派出所比仙界热闹，人间烟火才是顶流。\n\n至于《明日方舟：终末地》一口气占了三席，鹰角这是把B站热门当自家客厅了，玩家一边骂一边看，属实是“恨得深沉”。\n\n今日金句：连跌14天不叫崩盘，叫给信仰充值；追番200集不叫长情，叫被编剧拿捏。",
+  "news": [
+    {
+      "title": "【纪录片】守护解放西·传承季 第1集 守护不止解放西",
+      "url": "https://www.bilibili.com/video/BV1cesv6PEM4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:517.1万 | 弹幕:1.7万 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5171167,
+      "original_comments": 16673
+    },
+    {
+      "title": "【独家】《凡人修仙传之慕兰之战》第25集【总第201集】",
+      "url": "https://www.bilibili.com/video/BV19Ny4zfEtW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:425.2万 | 弹幕:4.3万 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4251796,
+      "original_comments": 42792
+    },
+    {
+      "title": "【IGN独家】《鸣潮：永明的烬焰》实机演示",
+      "url": "https://www.bilibili.com/video/BV1jKsq6cEEP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:377.4万 | 弹幕:1.9万 | UP主:IGN中国",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3774216,
+      "original_comments": 18630
+    },
+    {
+      "title": "当我用AI续写爱情公寓4关谷悠悠婚礼【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1atse6EEfx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:291.6万 | 弹幕:7453 | UP主:Nero_闪灵",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2915953,
+      "original_comments": 7453
+    },
+    {
+      "title": "当你拥有超绝语感，把考点练到形成条件反射，交卷前30秒就这样……",
+      "url": "https://www.bilibili.com/video/BV1LHyWzHEMg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:285.4万 | 弹幕:358 | UP主:Mikiiii初高英语",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2853881,
+      "original_comments": 358
+    },
+    {
+      "title": "国外抢车位游戏撞的一塌糊涂，我们决定让智能驾驶也来试试！",
+      "url": "https://www.bilibili.com/video/BV14gsQ69EP3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:132.5万 | 弹幕:1712 | UP主:沙奔的汽车笔录",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1325290,
+      "original_comments": 1712
+    },
+    {
+      "title": "《无限暖暖》概念CG | 叩响新声",
+      "url": "https://www.bilibili.com/video/BV1hryaz6E1u",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:110.1万 | 弹幕:518 | UP主:无限暖暖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1101464,
+      "original_comments": 518
+    },
+    {
+      "title": "《明日方舟：终末地》干员影像-「群像：信号预联」",
+      "url": "https://www.bilibili.com/video/BV1yGyaz8EXM",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:94.0万 | 弹幕:3885 | UP主:明日方舟终末地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 940320,
+      "original_comments": 3885
+    },
+    {
+      "title": "为何去玩这个剧本杀的人都失踪了？",
+      "url": "https://www.bilibili.com/video/BV1UGyszjEGX",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:91.8万 | 弹幕:5511 | UP主:某幻君",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 917763,
+      "original_comments": 5511
+    },
+    {
+      "title": "炒蔬菜的底层逻辑：4种方法搞定99%的蔬菜？",
+      "url": "https://www.bilibili.com/video/BV1nuyWz8E7t",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:91.0万 | 弹幕:755 | UP主:我的样子平平无奇",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 910186,
+      "original_comments": 755
+    },
+    {
+      "title": "《明日方舟：终末地》「穿越甚大蘑境与你相逢」版本PV",
+      "url": "https://www.bilibili.com/video/BV1nHyazWEDV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:90.4万 | 弹幕:1503 | UP主:明日方舟终末地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 903618,
+      "original_comments": 1503
+    },
+    {
+      "title": "以防你不知道GTA6路人是如何暴富的💰",
+      "url": "https://www.bilibili.com/video/BV1QxyWzUE3a",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:89.4万 | 弹幕:1215 | UP主:盾盾盾反",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 893525,
+      "original_comments": 1215
+    },
+    {
+      "title": "《明日方舟：终末地》「全新版本&2.0揭幕前瞻」特别节目回顾",
+      "url": "https://www.bilibili.com/video/BV1pvyhzdER5",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:85.1万 | 弹幕:7383 | UP主:明日方舟终末地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 851128,
+      "original_comments": 7383
+    },
+    {
+      "title": "新生计划正式启动！这次特别出演的竟是……",
+      "url": "https://www.bilibili.com/video/BV1HSyWzAEuZ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:82.1万 | 弹幕:605 | UP主:穿越火线",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 821228,
+      "original_comments": 605
+    },
+    {
+      "title": "侠盗猎车手6 第一期，GTA 6 Part 1",
+      "url": "https://www.bilibili.com/video/BV1JpyazXEUD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:81.3万 | 弹幕:2.1万 | UP主:鲤鱼Ace",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 813038,
+      "original_comments": 20619
+    },
+    {
+      "title": "我是Tim，我爹太离谱了…",
+      "url": "https://www.bilibili.com/video/BV1VvyazyEBo",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:75.7万 | 弹幕:1359 | UP主:Tim潘子",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 757470,
+      "original_comments": 1359
+    },
+    {
+      "title": "《明日方舟：终末地》特别映像「基石」",
+      "url": "https://www.bilibili.com/video/BV1MMyazPEKy",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:63.6万 | 弹幕:3091 | UP主:明日方舟终末地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 636416,
+      "original_comments": 3091
+    },
+    {
+      "title": "donk首次打瓦实录",
+      "url": "https://www.bilibili.com/video/BV1K8yhzFEWh",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:56.8万 | 弹幕:1758 | UP主:无畏契约",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 567781,
+      "original_comments": 1758
+    },
+    {
+      "title": "《猫富贵 狗不让》",
+      "url": "https://www.bilibili.com/video/BV1rhyszPE6p",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:56.5万 | 弹幕:174 | UP主:IPx的粉红豹",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 565291,
+      "original_comments": 174
+    },
+    {
+      "title": "《蓝色星原：旅谣》公测动画短片",
+      "url": "https://www.bilibili.com/video/BV1oRsu6XE2o",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:29.6万 | 弹幕:404 | UP主:蓝色星原旅谣",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 295737,
+      "original_comments": 404
+    },
+    {
+      "title": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-85% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8600,
+      "original_comments": 0
+    },
+    {
+      "title": "Marvel’s Spider-Man Remastered",
+      "url": "https://store.steampowered.com/app/1817070",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "God of War",
+      "url": "https://store.steampowered.com/app/1593500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Ghost of Tsushima DIRECTOR'S CUT",
+      "url": "https://store.steampowered.com/app/2215430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Horizon Forbidden West™ Complete Edition",
+      "url": "https://store.steampowered.com/app/2420110",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Marvel's Spider-Man 2",
+      "url": "https://store.steampowered.com/app/2651280",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2780,
+      "original_comments": 1951
+    },
+    {
+      "title": "Forza Horizon 6",
+      "url": "https://store.steampowered.com/app/2483190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $52",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2274,
+      "original_comments": 1077
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $56",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "STAR WARS Zero Company™",
+      "url": "https://store.steampowered.com/app/2075800",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $40",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1174,
+      "original_comments": 225
+    },
+    {
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 516,
+      "original_comments": 288
+    },
+    {
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 499,
+      "original_comments": 212
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 450,
+      "original_comments": 132
+    },
+    {
+      "title": "Slopstrap – Make your site look hastily vibecoded",
+      "url": "https://slopstrap.mikelacher.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 442,
+      "original_comments": 74
+    },
+    {
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 419,
+      "original_comments": 739
+    },
+    {
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 380,
+      "original_comments": 393
+    },
+    {
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 353,
+      "original_comments": 116
+    },
+    {
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 312,
+      "original_comments": 81
+    },
+    {
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 305,
+      "original_comments": 96
+    },
+    {
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 255,
+      "original_comments": 103
+    },
+    {
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 191,
+      "original_comments": 75
+    },
+    {
+      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 175,
+      "original_comments": 112
+    },
+    {
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 170,
+      "original_comments": 60
+    },
+    {
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 150,
+      "original_comments": 64
+    },
+    {
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 137,
+      "original_comments": 46
+    },
+    {
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 135,
+      "original_comments": 31
+    },
+    {
+      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 133,
+      "original_comments": 94
+    },
+    {
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 125,
+      "original_comments": 39
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 617.3 📉-2.18(-0.35%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 1065148,
+      "summary": "今日 617.3 | 📉 -2.18(-0.35%) | 最高 617.3 最低 617.3 | 连涨 -14天 | 成交额 ¥4192万 | 成交量 1065148件 | 📈2189 ➡1889 📉3520"
+    }
+  ]
+}
