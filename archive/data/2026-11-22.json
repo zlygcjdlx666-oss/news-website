@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-22",
+  "commentary": "今天这盘面，我都不好意思叫它“大盘”，叫“小盘”都算抬举。CSGO饰品指数连涨-15天，跌了1.89%，成交额一万块——一万块！我楼下煎饼摊一天流水都比这高。272件成交量，搁这儿搞限量版呢？这市场现在就跟失恋后的朋友圈似的，看着还在更新，其实早就没人点赞了。\n\n再说B站这帮整活的。AI续写爱情公寓关谷悠悠婚礼，469万播放，我愿称之为“电子榨菜界的满汉全席”——明知道是假的，但就是忍不住扒拉两口。更绝的是GTA6，游戏还没出呢，第一集都整出来了，196万播放。R星看了都得愣三秒：我跳票这么多年，你们比我先通关了？还有那个Claude证明黎曼猜想的，107万播放，我点进去看了11分钟，出来还是只会算满减——但人家这流量玩明白了，数学的壳，玄学的魂。\n\n今日金句：**这届网友，游戏没发售先看通关，AI没证明先看解说，大盘没涨先看笑话——主打一个“结果不重要，参与感拉满”。**",
+  "news": [
+    {
+      "title": "当我用AI续写爱情公寓4关谷悠悠婚礼【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1atse6EEfx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:469.2万 | 弹幕:1.3万 | UP主:Nero_闪灵",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4692141,
+      "original_comments": 12984
+    },
+    {
+      "title": "侠盗猎车手6 第一集，GTA 6 Part 1",
+      "url": "https://www.bilibili.com/video/BV1JpyazXEUD",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:196.9万 | 弹幕:3.1万 | UP主:鲤鱼Ace",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1969453,
+      "original_comments": 30890
+    },
+    {
+      "title": "【独家】牧神记 第110集 诡异冥谷",
+      "url": "https://www.bilibili.com/video/BV1i4y8zGE2G",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:184.0万 | 弹幕:5913 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1839898,
+      "original_comments": 5913
+    },
+    {
+      "title": "真相，假是假了点，但看了不烧心。",
+      "url": "https://www.bilibili.com/video/BV1tdypzgEx2",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:180.2万 | 弹幕:3062 | UP主:吟游诗人AT",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1802292,
+      "original_comments": 3062
+    },
+    {
+      "title": "《无限暖暖》3.0版本套装PV | 若见沐光之窗&于此重见繁星",
+      "url": "https://www.bilibili.com/video/BV1d7yGzsEMG",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:128.2万 | 弹幕:539 | UP主:无限暖暖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1281586,
+      "original_comments": 539
+    },
+    {
+      "title": "《无限暖暖》3.0版本PV｜昨日之城，明日之声",
+      "url": "https://www.bilibili.com/video/BV1ovyezpEgP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:127.5万 | 弹幕:927 | UP主:无限暖暖",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1274645,
+      "original_comments": 927
+    },
+    {
+      "title": "不要自学韦伯斯特了！",
+      "url": "https://www.bilibili.com/video/BV1pFsr6DECd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:117.2万 | 弹幕:252 | UP主:重庆炫阳特技东哥",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1171986,
+      "original_comments": 252
+    },
+    {
+      "title": "Claude 证明了黎曼猜想？11分钟讲清它到底证明了什么、还差哪几步",
+      "url": "https://www.bilibili.com/video/BV15aytzcENP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:107.5万 | 弹幕:996 | UP主:频谱之外",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1075367,
+      "original_comments": 996
+    },
+    {
+      "title": "《GTA 6》：完美劫案（没惊动警察，也没触发警报）",
+      "url": "https://www.bilibili.com/video/BV1A9y8z9Ehb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:92.9万 | 弹幕:2767 | UP主:深夜游戏99",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 929337,
+      "original_comments": 2767
+    },
+    {
+      "title": "“我只是死在了讨厌的生活里”「烂奇迹·章鱼哥」",
+      "url": "https://www.bilibili.com/video/BV18mypzyEAV",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:85.0万 | 弹幕:1701 | UP主:纽毕斯",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 850495,
+      "original_comments": 1701
+    },
+    {
+      "title": "《520AM》司凤版⚡思罢吗乐队激情演奏！小时候这集听哭了😭【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1vQybzKEhr",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:82.9万 | 弹幕:550 | UP主:69岁牢二次元",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 829127,
+      "original_comments": 550
+    },
+    {
+      "title": "BLG全队看我视频，Bin哥说做的太牛逼了😋",
+      "url": "https://www.bilibili.com/video/BV1F4y3z8EEb",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:70.2万 | 弹幕:86 | UP主:困困君丶",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 702340,
+      "original_comments": 86
+    },
+    {
+      "title": "【合集】人类消失后，深度思考三百年的大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1Poyaz8Ep4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:67.8万 | 弹幕:2643 | UP主:奶糕兽",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 677725,
+      "original_comments": 2643
+    },
+    {
+      "title": "路边捡到的小狗千万不要扔，小伙教你做美味营养的小狗泡饭",
+      "url": "https://www.bilibili.com/video/BV1mRy3zgEp3",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.0万 | 弹幕:1978 | UP主:咸鱼梦想家vlog",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 519957,
+      "original_comments": 1978
+    },
+    {
+      "title": "【STN快报第8.5季28】不要小看一个老实本分的家政精英，他可能是GTA的超级大盗",
+      "url": "https://www.bilibili.com/video/BV12iyGzGEha",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:34.5万 | 弹幕:6103 | UP主:STN工作室",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 344744,
+      "original_comments": 6103
+    },
+    {
+      "title": "【凡人修仙传】边界之战即将开启！【PV】",
+      "url": "https://www.bilibili.com/video/BV1M6sm6mE6a",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:34.1万 | 弹幕:1545 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 340743,
+      "original_comments": 1545
+    },
+    {
+      "title": "【时代少年团】七周年互赠礼物时刻",
+      "url": "https://www.bilibili.com/video/BV17Yy3zxE9F",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:31.8万 | 弹幕:2.6万 | UP主:时代少年团",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 317793,
+      "original_comments": 26448
+    },
+    {
+      "title": "【BLG夺冠VLOG】这是属于我们的冠军记忆",
+      "url": "https://www.bilibili.com/video/BV1zGy5ziEnd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:20.2万 | 弹幕:4612 | UP主:BLG电子竞技俱乐部",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 202369,
+      "original_comments": 4612
+    },
+    {
+      "title": "禁止米提亚参与摩拉游戏",
+      "url": "https://www.bilibili.com/video/BV1AHyVzrErp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:18.6万 | 弹幕:343 | UP主:鼎芸",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 186495,
+      "original_comments": 343
+    },
+    {
+      "title": "【三轮霞无伤宿傩】大家好，我是没用的三轮【B站AI创造公开赛】",
+      "url": "https://www.bilibili.com/video/BV1eKyLz8E5h",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:5.7万 | 弹幕:258 | UP主:超绝可爱无邪酱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 56529,
+      "original_comments": 258
+    },
+    {
+      "title": "It Takes Two",
+      "url": "https://store.steampowered.com/app/1426210",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-80% | $8",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8100,
+      "original_comments": 0
+    },
+    {
+      "title": "Kingdom Come: Deliverance II",
+      "url": "https://store.steampowered.com/app/1771300",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-67% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6800,
+      "original_comments": 0
+    },
+    {
+      "title": "Marvel’s Spider-Man Remastered",
+      "url": "https://store.steampowered.com/app/1817070",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "God of War",
+      "url": "https://store.steampowered.com/app/1593500",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "EA SPORTS FC™ 27",
+      "url": "https://store.steampowered.com/app/4080220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $35",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Ghost of Tsushima DIRECTOR'S CUT",
+      "url": "https://store.steampowered.com/app/2215430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "The Last of Us™ Part II Remastered",
+      "url": "https://store.steampowered.com/app/2531310",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-33% | $33",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3400,
+      "original_comments": 0
+    },
+    {
+      "title": "Forza Horizon 6",
+      "url": "https://store.steampowered.com/app/2483190",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-25% | $52",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2600,
+      "original_comments": 0
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $56",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1208,
+      "original_comments": 264
+    },
+    {
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1147,
+      "original_comments": 954
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 878,
+      "original_comments": 513
+    },
+    {
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 663,
+      "original_comments": 409
+    },
+    {
+      "title": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 647,
+      "original_comments": 298
+    },
+    {
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 523,
+      "original_comments": 127
+    },
+    {
+      "title": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 421,
+      "original_comments": 145
+    },
+    {
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 414,
+      "original_comments": 515
+    },
+    {
+      "title": "Getting the mind to steer the body to steer you",
+      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 356,
+      "original_comments": 129
+    },
+    {
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 234,
+      "original_comments": 84
+    },
+    {
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 227,
+      "original_comments": 109
+    },
+    {
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "url": "https://github.com/pithings/unkernel",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 199,
+      "original_comments": 63
+    },
+    {
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 141,
+      "original_comments": 19
+    },
+    {
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 123,
+      "original_comments": 29
+    },
+    {
+      "title": "The Mythology of Conscious AI",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 118,
+      "original_comments": 312
+    },
+    {
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 106,
+      "original_comments": 85
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/app/4165910",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1039",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/app/4165890",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$1049",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Steam Controller",
+      "url": "https://store.steampowered.com/app/4165870",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$99",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "Moon Sweepers",
+      "url": "https://store.steampowered.com/app/5335510",
+      "source": "Steam",
+      "score": 5,
+      "summary": "$9",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 100,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 605.66 📉-11.64(-1.89%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 272,
+      "summary": "今日 605.66 | 📉 -11.64(-1.89%) | 最高 605.72 最低 605.65 | 连涨 -15天 | 成交额 ¥1万 | 成交量 272件 | 📈1639 ➡1625 📉4334"
+    }
+  ]
+}
