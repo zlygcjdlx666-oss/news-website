@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-23",
+  "commentary": "今天这盘面，CSGO大盘579.81，跌了0.21%，成交额481万——说句扎心的，这点波动还不如我早上买煎饼果子加不加肠的纠结来得刺激。连涨17天之后喘口气，正常，但成交量18万件、跌的比涨的多一倍，说明啥？说明兄弟们开始掂量了，韭菜不是不割，是得等长老了再割。\n\nB站那边倒热闹。国创发布会289万播放，灵笼PV弹幕4000多，国创这是真支棱起来了，但我就想问一句：预告片越燃，正片越鸽，这毛病啥时候改？另外那个“考公务员很难，但为人民服务很容易”，118万播放，标题属实把我看乐了——前半句是大实话，后半句是大智慧，合着难点在进门，进门之后全靠自觉呗？\n\n最后一条我得自夸一下，磊哥游戏那期“骗出红蓝buff牢玩家”63万播放，说明啥？说明观众就爱看老实人翻车，这年头真诚不如套路好使。\n\n今日金句：**连涨17天不敢追，跌0.21%就喊崩盘——散户的胆子，比CSGO的枪皮还虚。**",
+  "news": [
+    {
+      "title": "2026-2027国创动画作品发布会 全程回顾",
+      "url": "https://www.bilibili.com/video/BV17pWu6QEkp",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:289.9万 | 弹幕:1434 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2899473,
+      "original_comments": 1434
+    },
+    {
+      "title": "【小跳蛙】|“【跳蛙の小曲】”",
+      "url": "https://www.bilibili.com/video/BV1rryhzDEy8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:223.5万 | 弹幕:1112 | UP主:蛋某人音乐",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2235049,
+      "original_comments": 1112
+    },
+    {
+      "title": "《这波贪了》",
+      "url": "https://www.bilibili.com/video/BV1ofy5zNEti",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:137.0万 | 弹幕:311 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1370144,
+      "original_comments": 311
+    },
+    {
+      "title": "【合集】人类消失后，深度思考三百年的大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1Poyaz8Ep4",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:133.4万 | 弹幕:5622 | UP主:奶糕兽",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1334463,
+      "original_comments": 5622
+    },
+    {
+      "title": "🐧ai写 ai批 ai改🐧",
+      "url": "https://www.bilibili.com/video/BV1M5yVzjEDL",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:131.2万 | 弹幕:338 | UP主:吃撑的皮卡丘y",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1312312,
+      "original_comments": 338
+    },
+    {
+      "title": "扎堆产卵 同类相食！蝗虫诡异行为原理被中国科学家破解！【主播说三农】",
+      "url": "https://www.bilibili.com/video/BV121yjzQEWf",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:126.9万 | 弹幕:2797 | UP主:央视农业",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1268787,
+      "original_comments": 2797
+    },
+    {
+      "title": "今天还是老样子吗？",
+      "url": "https://www.bilibili.com/video/BV1txsq67EDg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:119.2万 | 弹幕:354 | UP主:随意饮食店",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1191550,
+      "original_comments": 354
+    },
+    {
+      "title": "考公务员很难，但是为人民服务却很容易！",
+      "url": "https://www.bilibili.com/video/BV1uyyazBEUA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:118.9万 | 弹幕:1445 | UP主:小阳yx",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1189111,
+      "original_comments": 1445
+    },
+    {
+      "title": "大大合集",
+      "url": "https://www.bilibili.com/video/BV1HpyazXEgA",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:113.4万 | 弹幕:994 | UP主:小新博主",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1133664,
+      "original_comments": 994
+    },
+    {
+      "title": "【灵笼:落子无悔】纵入存亡之局，亦落无悔之子【PV】",
+      "url": "https://www.bilibili.com/video/BV1M6sm6mE9b",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:101.0万 | 弹幕:4013 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1009877,
+      "original_comments": 4013
+    },
+    {
+      "title": "全国前10黄金矿工都匹配在一起了！",
+      "url": "https://www.bilibili.com/video/BV1zXyvzfEB7",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:91.6万 | 弹幕:791 | UP主:沉默寡言白河愁",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 915648,
+      "original_comments": 791
+    },
+    {
+      "title": "我想回家吃饭（两小时大电影）",
+      "url": "https://www.bilibili.com/video/BV1LoyGzZEX8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:79.0万 | 弹幕:833 | UP主:呖猪猫meme",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 789917,
+      "original_comments": 833
+    },
+    {
+      "title": "我们成为英雄，哪怕只有一天",
+      "url": "https://www.bilibili.com/video/BV1ioyGzZET8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:78.5万 | 弹幕:730 | UP主:怪东西StrangeStuff",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 785177,
+      "original_comments": 730
+    },
+    {
+      "title": "终于把对面带着红蓝buff的牢玩家骗出来了",
+      "url": "https://www.bilibili.com/video/BV1c8yVzKEmj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:63.2万 | 弹幕:306 | UP主:磊哥游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 631774,
+      "original_comments": 306
+    },
+    {
+      "title": "同样是牛奶，凭啥一个保15天，一个能放三个月？",
+      "url": "https://www.bilibili.com/video/BV1LwyVzsETP",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:60.4万 | 弹幕:735 | UP主:毕的二阶导",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 604096,
+      "original_comments": 735
+    },
+    {
+      "title": "对质",
+      "url": "https://www.bilibili.com/video/BV1szyHzwEg9",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:54.6万 | 弹幕:639 | UP主:安吉-AnJ",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 546427,
+      "original_comments": 639
+    },
+    {
+      "title": "先导片强势来袭！12月5日19点《2026灵笼盛典》B站独家直播【2026 灵笼盛典】",
+      "url": "https://www.bilibili.com/video/BV1AVs461E3B",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.5万 | 弹幕:68 | UP主:综艺哔哔机",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 404553,
+      "original_comments": 68
+    },
+    {
+      "title": "“别人过得好 你就要扣自己的分吗”",
+      "url": "https://www.bilibili.com/video/BV1oSyJz1EiC",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:37.3万 | 弹幕:214 | UP主:毕检索",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 372604,
+      "original_comments": 214
+    },
+    {
+      "title": "近十年最好的推理系列剧集之一！神级转场，爆火开头，悬疑神剧高分回归系列最终章！《大理石厅谋杀案》上",
+      "url": "https://www.bilibili.com/video/BV1hkynzgEnR",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:32.5万 | 弹幕:347 | UP主:小片片说大片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 324625,
+      "original_comments": 347
+    },
+    {
+      "title": "黄仁勋正式回归英伟达：恢复全部职务｜显卡日报11月24日",
+      "url": "https://www.bilibili.com/video/BV1mTyXzWEdv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:27.1万 | 弹幕:1125 | UP主:芝士华莱士",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 271289,
+      "original_comments": 1125
+    },
+    {
+      "title": "FINAL FANTASY VII REBIRTH",
+      "url": "https://store.steampowered.com/app/2909400",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-85% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 8600,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "Marvel’s Spider-Man Remastered",
+      "url": "https://store.steampowered.com/app/1817070",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-60% | $24",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6100,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "Ghost of Tsushima DIRECTOR'S CUT",
+      "url": "https://store.steampowered.com/app/2215430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $30",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "007 First Light",
+      "url": "https://store.steampowered.com/app/3768760",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $35",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "Crimson Desert Enhanced",
+      "url": "https://store.steampowered.com/app/3321460",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $56",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store.steampowered.com/app/4435490",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-15% | $59",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1600,
+      "original_comments": 0
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1373,
+      "original_comments": 2519
+    },
+    {
+      "title": "Warhammer 40,000: Dawn of War IV Commander Edition",
+      "url": "https://store.steampowered.com/app/1624417",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $81",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "Workers & Resources: Soviet Republic - Space Program",
+      "url": "https://store.steampowered.com/app/5303130",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $18",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 906,
+      "original_comments": 308
+    },
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 859,
+      "original_comments": 151
+    },
+    {
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 850,
+      "original_comments": 232
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 710,
+      "original_comments": 286
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 677,
+      "original_comments": 438
+    },
+    {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 559,
+      "original_comments": 234
+    },
+    {
+      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 251,
+      "original_comments": 129
+    },
+    {
+      "title": "Yes, 17M lines of Lean is a lot",
+      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 246,
+      "original_comments": 306
+    },
+    {
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 220,
+      "original_comments": 123
+    },
+    {
+      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "url": "https://arm.jonpalmisc.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 213,
+      "original_comments": 33
+    },
+    {
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 205,
+      "original_comments": 68
+    },
+    {
+      "title": "The next circle of security hell",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 201,
+      "original_comments": 105
+    },
+    {
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 193,
+      "original_comments": 241
+    },
+    {
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 186,
+      "original_comments": 140
+    },
+    {
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 168,
+      "original_comments": 90
+    },
+    {
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 166,
+      "original_comments": 28
+    },
+    {
+      "title": "Cyberleek posted the GTA 6 Xbox build executable",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 162,
+      "original_comments": 171
+    },
+    {
+      "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "url": "https://github.com/elixir-hls/elixir-hls",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 135,
+      "original_comments": 14
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 579.81 📉-1.22(-0.21%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 184467,
+      "summary": "今日 579.81 | 📉 -1.22(-0.21%) | 最高 581.04 最低 579.78 | 连涨 -17天 | 成交额 ¥481万 | 成交量 184467件 | 📈1163 ➡3952 📉2483"
+    }
+  ]
+}
