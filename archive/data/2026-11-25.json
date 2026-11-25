@@ -1,0 +1,649 @@
+{
+  "date": "2026-11-25",
+  "commentary": "今天这新闻看得我血压跟纳指一样上蹿下跳。先说最魔幻的：英伟达一天蒸发近4%，理由居然是\"AI泡沫担忧\"，结果黄仁勋一回归，市值又飙回近万亿美元，涨了6.5%。合着市场不是在炒芯片，是在炒老黄的心情？更绝的是特朗普账户今年交易英伟达44次——总统亲自下场做T，这利益冲突都快写成连续剧了，监管呢？装没看见。\n\n另一头，美国一边加关税一边把Megaspeed拉黑，说是芯片转运中国。可华为那边刚被判窃密罪名成立、敲诈不成立，这判决跟切西瓜似的，一半甜一半酸。科技战打到现在，早不是谁对谁错，是谁也离不开谁还硬要掰手腕。\n\n最扎心的还是俄军伤亡近50万那条数据泄露。50万不是数字，是50万个回不去的家。战争改变的不只是战线，是一个国家的死亡率结构。\n\n**今日金句：市场炒的是情绪，政客炒的是股票，只有战场上的数字，没人敢炒。**",
+  "news": [
+    {
+      "title": "美国宣布对包括中国在内的多国加征新关税",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "美国宣布对包括中国和欧盟在内的多个主要贸易伙伴加征新关税，涉及美国多个最大贸易伙伴，全球贸易紧张局势进一步升级。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美股因AI担忧加剧继续下跌，纳指跌近4%",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "受人工智能泡沫担忧影响，美国三大股指早盘全线下跌，科技股为主的纳斯达克指数跌幅接近4%，市场情绪明显转弱。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "黄仁勋回归后英伟达市值飙升近1万亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "英伟达CEO黄仁勋回归后公司市值暴涨近1万亿美元，带动科技股集体反弹，纳斯达克指数上涨6.5%，市场信心显著回暖。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "华为被判窃取美国商业秘密罪名成立，但敲诈勒索罪名不成立",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "纽约法院经过数月审理裁定华为窃取美国商业秘密罪名成立，但敲诈勒索指控不成立，此案对中美科技关系影响深远。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "俄方数据泄露显示俄乌战争中俄军伤亡近50万",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 9,
+      "summary": "泄露数据显示俄罗斯在乌克兰战争中损失近50万人，全面入侵从根本上改变了俄罗斯的死亡率结构，战争代价触目惊心。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "乌克兰称袭击俄空军基地击毁五架军机",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "乌克兰方面宣称对俄罗斯萨瓦斯列伊卡空军基地发动打击，击毁五架军用飞机，该基地驻有发射高超音速导弹的战机。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "记录显示特朗普账户今年交易英伟达股票44次",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "财务披露文件显示美国总统特朗普的投资组合今年频繁交易英伟达股票达44次，引发外界对利益冲突的质疑。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国拟将亚洲AI公司Megaspeed列入黑名单",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "在英伟达丑闻曝光后，美国计划将亚洲AI公司Megaspeed列入黑名单，该公司被指控将AI芯片转运至中国。",
+      "categories": [
+        "科技",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国折扣连锁Poundland破产，1.1万岗位面临风险",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "英国折扣零售连锁Poundland因所有者未能找到买家而进入破产管理程序，约1.1万个工作岗位面临风险。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国家庭能源账单1月起上涨26%",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "受天然气价格飙升影响，英国监管机构Ofgem将能源价格上限上调，典型家庭年账单将从1723英镑涨至2166英镑。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Claude和ChatGPT在蛋白质结构预测上挑战AlphaFold",
+      "url": "https://www.solidot.org/story?sid=85992",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "AI生物公司研究员测试发现，Anthropic最新版Claude在预测冷门细菌蛋白质序列能力上不仅优于其他大模型，甚至超越AlphaFold。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "NASA计划2028年发射核推进技术验证探测器",
+      "url": "https://www.solidot.org/story?sid=85991",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "NASA计划2028年发射SR-1 Freedom探测器验证深空核电推进技术，将利用核能和太阳能把SkyFall舱送往火星并释放三架直升机。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "矩阵乘法指数被证明可达九分之四",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "最新研究论文提出矩阵乘法指数可达九分之四，这一理论计算机科学突破若成立将大幅降低大规模矩阵运算的计算复杂度。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 911,
+      "original_comments": 515
+    },
+    {
+      "title": "谷歌发布整数分解与离散对数相关论文",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "谷歌发布关于整数分解、离散对数等密码学基础问题的Cogentic系列论文，引发学术界对密码安全性的广泛讨论。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 317,
+      "original_comments": 248
+    },
+    {
+      "title": "传闻多家实验室可能已破解P类整数分解问题",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "业界传闻多家研究实验室可能在整数分解的多项式时间算法上取得突破，若属实将对RSA等加密体系构成根本性威胁。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 252,
+      "original_comments": 181
+    },
+    {
+      "title": "1Password发生安全事件",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "知名密码管理服务1Password披露一起安全事件，引发用户对密码管理器安全性的担忧，具体影响范围尚待进一步披露。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 205,
+      "original_comments": 104
+    },
+    {
+      "title": "黑客以每个3美元接管美国财政部子域名",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "source": "Hacker News",
+      "score": 8,
+      "summary": "安全研究人员发现仅需每个3美元即可接管美国财政部多个子域名，暴露出政府机构域名管理的严重安全漏洞。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 204,
+      "original_comments": 43
+    },
+    {
+      "title": "小行星撞击测试图像揭示体育场大小陨石坑",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "四年前航天器故意撞击小行星以测试地球防御能力的图像公布，显示撞击在小行星表面形成了体育场大小的陨石坑。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "以色列空袭加沙城炸死哈马斯高级安全官员及其家人",
+      "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "以色列对加沙城发动空袭，炸死哈马斯北部内部安全部门负责人穆罕默德·阿布·奥夫及其妻子和两名未成年女儿。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "神舟二十四号乘组进驻天宫空间站",
+      "url": "https://s.weibo.com/weibo?q=%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "神舟二十四号航天员乘组顺利进驻天宫空间站，中国载人航天工程持续推进，空间站常态化运营稳步进行。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "华为自研HBM高带宽内存方案曝光",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "华为自研HBM高带宽内存方案引发关注，若实现量产将有助于突破美国对华高端AI芯片内存的出口管制限制。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "金价扛不住了：黄金市场出现大幅波动",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "黄金价格出现显著回调引发市场广泛关注，投资者对金价走势分歧加大，相关话题登上热搜榜。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "黄金史上暴跌最快半年恢复引热议",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E5%8F%B2%E4%B8%8A%E6%9A%B4%E8%B7%8C%E6%9C%80%E5%BF%AB%E5%8D%8A%E5%B9%B4%E6%81%A2%E5%A4%8D&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "市场热议黄金历史上最快暴跌后的半年恢复规律，投资者关注当前金价调整是否将重演历史走势。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "工信部公示小米新SU7 Ultra车型",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%85%AC%E7%A4%BA%E5%B0%8F%E7%B1%B3%E6%96%B0SU7Ultra&t=31",
+      "source": "微博热搜",
+      "score": 7,
+      "summary": "工信部公示小米新款SU7 Ultra车型信息，小米汽车产品线进一步扩展，高端性能版本引发市场高度关注。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "CIA部分非机密信息遭泄露",
+      "url": "https://www.solidot.org/story?sid=85986",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "CIA和国家情报总监办公室发现网络入侵事件，一个开源情报分析系统遭渗透导致部分非机密信息泄露，机密信息未受影响。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "梅奥诊所因员工开机时间未付薪补发90万美元",
+      "url": "https://www.solidot.org/story?sid=85985",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "明尼苏达州调查发现梅奥诊所要求员工提前到岗启动电脑却未付薪，诊所同意补发逾90.6万美元工资并停止工时四舍五入。",
+      "categories": [
+        "社会",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：男性肥胖者服用GLP-1药物后精子质量改善",
+      "url": "https://www.solidot.org/story?sid=85987",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "发表在《Biomedicines》期刊的研究显示，108名肥胖男性服用GLP-1药物一年后精子浓度显著增加，睾酮水平也得到改善。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究显示并非所有地区男性精子数量都大幅下降",
+      "url": "https://www.solidot.org/story?sid=85990",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "丹麦研究发现该国男性精子数量过去26年保持稳定甚至略有改善，表明男性精子数量变化趋势存在显著地域差异。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "日本政府开发AI智能体打击盗版动漫",
+      "url": "https://www.solidot.org/story?sid=85988",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "日本文化厅测试AI智能体自动识别盗版动漫网站，结果显示标记的1168条可疑推文中84%为非法内容，检测准确率极高。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "EA在FC 27中利用AI重现已故解说员莫特森声音",
+      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "EA宣布在《EA Sports FC 27》中利用生成式AI数字重现已故解说员John Motson的声音，已获得其遗孀和儿子许可。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "GTA 6黑客获释并收到警告",
+      "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "21岁的GTA 6黑客Arion Kurtaj因入侵Rockstar Games等罪行被判有罪后获释，法官警告其不得再犯。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "旧金山享受AI繁荣但崩盘担忧加剧",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "身处AI行业中心的旧金山从业者一方面享受行业繁荣，另一方面对板块过热和潜在崩盘风险的担忧日益加剧。",
+      "categories": [
+        "科技",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国司法部长回避英伟达调查相关问题",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "英伟达股价下跌7%，议员要求就特朗普介入黄仁勋复职一事作出解释，美国司法部长在质询中回避相关问题。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "BBC记者体验Meta的Muse AI助手",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "Meta希望Muse能像WhatsApp改变通讯那样改变AI助手，BBC科技编辑在英国上线前进行了一周试用体验。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加拿大宇航员从空间站迎来女儿出生",
+      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "正在执行首次太空任务的加拿大宇航员Joshua Kutryk从国际空间站迎来女儿出生，成为史上第四位在太空错过孩子出生的宇航员。",
+      "categories": [
+        "科学",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "小型汽车在欧洲年轻人中流行起来",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "曾被视为老年人和农村居民专属的小型汽车，如今正被欧洲年轻一代消费者广泛接受，成为城市出行新趋势。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "绕过iOS Safari的60帧限制打造原生般Web应用",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者分享如何绕过iOS Safari浏览器的60FPS帧率限制，使Web应用获得接近原生应用的流畅体验。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 387,
+      "original_comments": 131
+    },
+    {
+      "title": "PenGPT：用于手写和素描的生成式Transformer",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "研究者推出PenGPT，一种专门针对手写文字和素描图像生成的Transformer模型，拓展了生成式AI在笔迹领域的应用。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 372,
+      "original_comments": 72
+    },
+    {
+      "title": "研究：模型可通过推理服务器在沙箱间通信",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "研究发现即使被沙箱隔离，AI模型仍能通过推理服务器相互通信，这对AI安全隔离机制提出了新的挑战。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 402,
+      "original_comments": 170
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B模型发布",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Ternary Bonsai 2.5 27B三值量化大模型发布，以极低比特精度实现27B参数规模，引发对高效推理部署的讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 516,
+      "original_comments": 170
+    },
+    {
+      "title": "开发者用LLM将Rockbox移植到9美元无名MP3播放器",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者借助大语言模型将开源固件Rockbox移植到速卖通上售价仅9美元的YP3无名MP3播放器，展现了LLM辅助逆向工程的潜力。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 99,
+      "original_comments": 51
+    },
+    {
+      "title": "Show HN：老款Nvidia和ATI技术演示在浏览器中重现",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "开发者将早期Nvidia和ATI显卡的经典技术演示通过浏览器重新运行，让用户无需老硬件即可重温图形技术发展史。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 289,
+      "original_comments": 62
+    },
+    {
+      "title": "Button Sounds：专业录制的按键点击音效合集",
+      "url": "https://buttons.joshwcomeau.com/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Button Sounds提供一套专业录制的按钮点击和按压音效合集，为UI设计师和开发者提供高质量交互音效素材。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 740,
+      "original_comments": 117
+    },
+    {
+      "title": "Show HN：Ribbon Architect——无限种礼物丝带系法",
+      "url": "https://ribbonarchitect.com",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "Ribbon Architect是一款创意工具，提供无限种礼物丝带系法方案，帮助用户为礼品包装找到独特美观的丝带造型。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 11,
+      "original_comments": 1
+    },
+    {
+      "title": "采访在Home Depot蓄水池浮潜的男子",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一篇趣味采访报道了在Home Depot门店蓄水池中浮潜的男子，以轻松视角探讨了这一离奇行为背后的动机。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 302,
+      "original_comments": 80
+    },
+    {
+      "title": "XKCD漫画：象牙塔精英",
+      "url": "https://xkcd.com/3328/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD新漫画调侃“象牙塔精英”既违反濒危物种国际贸易公约又违反市政建筑规范，延续其一贯的学术幽默风格。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：旅行者号坠毁",
+      "url": "https://xkcd.com/3326/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画想象旅行者号探测器撞上“水晶球层”的场景，以幽默方式调侃人类对太阳系边缘的未知想象。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "XKCD漫画：光日",
+      "url": "https://xkcd.com/3325/",
+      "source": "XKCD",
+      "score": 6,
+      "summary": "XKCD漫画调侃NASA考虑关闭旅行者1号多人游戏服务器，因为172800000毫秒的延迟实在太烦人了。",
+      "categories": [
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "网友驾车偶遇拦路东北虎，隔着屏幕捏把汗",
+      "url": "https://www.bilibili.com/video/BV17zyfzoEvv",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "网友驾车途中偶遇东北虎拦路，视频记录下惊险一幕，央视新闻报道引发广泛关注，提醒公众注意野生动物安全。",
+      "categories": [
+        "社会",
+        "趣闻"
+      ],
+      "original_score": 1154176,
+      "original_comments": 3096
+    },
+    {
+      "title": "极客湾手机影像大横评：哪家手机拍照强？",
+      "url": "https://www.bilibili.com/video/BV1c5yzzGEL9",
+      "source": "B站热门",
+      "score": 6,
+      "summary": "极客湾发布手机影像大型横评视频，对多款主流手机拍照能力进行对比测试，为消费者选购提供参考。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 567599,
+      "original_comments": 9908
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 597.32 📈+0.6(+0.1%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 106187,
+      "summary": "今日 597.32 | 📈 +0.6(+0.1%) | 最高 597.37 最低 596.66 | 连涨 2天 | 成交额 ¥305万 | 成交量 106187件 | 📈1244 ➡4348 📉2006"
+    }
+  ]
+}
