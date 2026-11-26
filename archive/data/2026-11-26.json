@@ -1,0 +1,614 @@
+{
+  "date": "2026-11-26",
+  "commentary": "先说CSGO这大盘，599.68，涨了0.04，连涨三天——听着挺唬人，仔细一看涨幅0.01%，这不叫上涨，这叫心电图微颤。成交额255万，搁饰品市场里也就是大佬们一顿早饭钱。兄弟们，这叫“稳中向好”还是“装死式繁荣”？我看是庄家连拉盘的欲望都没有了，散户自己在那自我感动呢。\n\n再说B站这边，两个新游PV打得火热，《狩》679万播放，《蓝色星原》406万，看着热闹，但真正让我绷不住的是那个“AI全民制作人”标签——153分钟AI丧尸大合集188万播放，1.6万弹幕，还有AI版《西游记》131万。好家伙，人类创作者还在那抠PV，AI已经把丧尸和唐僧都安排明白了。这哪是全民制作人，这是全民当甲方，AI当苦力。至于特朗普和民主党那119万播放的抽象乱斗，我只能说：美国大选，B站整活，全球网友一起看乐子，弹幕比国会山还热闹。\n\n**今日金句：CSGO涨0.01%叫连涨三天，AI做视频153分钟叫短小精悍——这年头，数字比段子还会讲笑话。**",
+  "news": [
+    {
+      "title": "《狩》首曝PV&实机演示丨动作要秀，有狩就行！",
+      "url": "https://www.bilibili.com/video/BV1931AzhE1q",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:679.2万 | 弹幕:1812 | UP主:狩SHOU",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6792408,
+      "original_comments": 1812
+    },
+    {
+      "title": "《蓝色星原：旅谣》公测版本PV | 星跃始动",
+      "url": "https://www.bilibili.com/video/BV1UByzzRE4K",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:406.6万 | 弹幕:606 | UP主:蓝色星原旅谣",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 4066060,
+      "original_comments": 606
+    },
+    {
+      "title": "153分钟超长大合集！【末日来临，我从吃丧尸开始成神！】第1季+第2季完整版【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV16nyXzyEuQ",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:188.3万 | 弹幕:1.6万 | UP主:饭都还没吃饱",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1882659,
+      "original_comments": 16136
+    },
+    {
+      "title": "吴 众",
+      "url": "https://www.bilibili.com/video/BV1xvykzsEPv",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:186.0万 | 弹幕:3836 | UP主:白手套和马犬旺财",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1859885,
+      "original_comments": 3836
+    },
+    {
+      "title": "我 只 在 乎 你",
+      "url": "https://www.bilibili.com/video/BV12yyzzDEYg",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:185.6万 | 弹幕:571 | UP主:李诺Noomi",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1856398,
+      "original_comments": 571
+    },
+    {
+      "title": "「第一人称」真实的《西游记》有多恐怖？【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1j9ykzGEsK",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:131.9万 | 弹幕:348 | UP主:Sora_Vex",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1319020,
+      "original_comments": 348
+    },
+    {
+      "title": "特朗普与民主党抽象乱斗",
+      "url": "https://www.bilibili.com/video/BV1xzy2zMExY",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:119.0万 | 弹幕:8729 | UP主:燕三嘤嘤嘤",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1190189,
+      "original_comments": 8729
+    },
+    {
+      "title": "《我怎么又穿越了》",
+      "url": "https://www.bilibili.com/video/BV1UxykzhEGE",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:102.5万 | 弹幕:587 | UP主:伤心欲茄222",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1024507,
+      "original_comments": 587
+    },
+    {
+      "title": "长得帅就要被网爆么?",
+      "url": "https://www.bilibili.com/video/BV11AyUz6E6h",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:101.9万 | 弹幕:2811 | UP主:逗比的雀巢",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1019443,
+      "original_comments": 2811
+    },
+    {
+      "title": "系统bug强制让我挂机，但这反而让我变的更强了！",
+      "url": "https://www.bilibili.com/video/BV1A2yZzAEyq",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:100.2万 | 弹幕:449 | UP主:磊哥游戏",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1002270,
+      "original_comments": 449
+    },
+    {
+      "title": "“MJ宇宙之最正能量的一集”",
+      "url": "https://www.bilibili.com/video/BV1euy6zeEDx",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:94.0万 | 弹幕:653 | UP主:冬夏玛德發",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 939780,
+      "original_comments": 653
+    },
+    {
+      "title": "【纪录片】人生一串 第四季 04 边城浪子",
+      "url": "https://www.bilibili.com/video/BV1fFy6z6En1",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:82.1万 | 弹幕:810 | UP主:哔哩哔哩纪录片",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 821088,
+      "original_comments": 810
+    },
+    {
+      "title": "《不小心捡了只猫咪》",
+      "url": "https://www.bilibili.com/video/BV1FPykz2EYe",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:80.5万 | 弹幕:190 | UP主:龙馍馍",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 805258,
+      "original_comments": 190
+    },
+    {
+      "title": "天津.赵大姑 厨子探店¥350",
+      "url": "https://www.bilibili.com/video/BV1C2y2zYEV8",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:66.2万 | 弹幕:399 | UP主:真探唐仁杰",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 662108,
+      "original_comments": 399
+    },
+    {
+      "title": "真跳60分钟😡绝望算不算时间啊？ 超高校级的绝望舞步！【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1WvykzsEmt",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:52.1万 | 弹幕:771 | UP主:矮乐多Aliga",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 520740,
+      "original_comments": 771
+    },
+    {
+      "title": "一期长达40年的vlog...",
+      "url": "https://www.bilibili.com/video/BV1LMy6zKELW",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:49.0万 | 弹幕:254 | UP主:刘拖地",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 490410,
+      "original_comments": 254
+    },
+    {
+      "title": "黎曼猜想的1700万行证明被爆砍到了7.6万行",
+      "url": "https://www.bilibili.com/video/BV1QhyUzHE5s",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:40.2万 | 弹幕:438 | UP主:分析学爱好者",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 401908,
+      "original_comments": 438
+    },
+    {
+      "title": "吓哭了！华山长空栈道是人爬的？和有山挑战天下第一奇险",
+      "url": "https://www.bilibili.com/video/BV1dj1EzVE4L",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:28.4万 | 弹幕:5444 | UP主:超Carry的柴西",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 283532,
+      "original_comments": 5444
+    },
+    {
+      "title": "【镇魂街 第五季】你们带来的这片江山，我就先收下了【PV】",
+      "url": "https://www.bilibili.com/video/BV1Vhsm69EuN",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:22.4万 | 弹幕:612 | UP主:哔哩哔哩国创",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 223707,
+      "original_comments": 612
+    },
+    {
+      "title": "【Codex 调用 Unreal Engine】AI 如何操作 UE 虚幻引擎做三维建模？智能体 Claude Code、WorkBuddy 等均适用",
+      "url": "https://www.bilibili.com/video/BV1N6y2zBEHj",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "播放:3.2万 | 弹幕:33 | UP主:北航90后副教授何静",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 31732,
+      "original_comments": 33
+    },
+    {
+      "title": "Detroit: Become Human",
+      "url": "https://store.steampowered.com/app/1222140",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-90% | $4",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 9100,
+      "original_comments": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "url": "https://store.steampowered.com/app/1174180",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-75% | $15",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7600,
+      "original_comments": 0
+    },
+    {
+      "title": "SILENT HILL f",
+      "url": "https://store.steampowered.com/app/2947440",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-72% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 7300,
+      "original_comments": 0
+    },
+    {
+      "title": "SILENT HILL 2 & SILENT HILL f Standard Dual Pack",
+      "url": "https://store.steampowered.com/app/1412913",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-65% | $35",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 6600,
+      "original_comments": 0
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced",
+      "url": "https://store.steampowered.com/app/3240220",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-56% | $20",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5700,
+      "original_comments": 0
+    },
+    {
+      "title": "007 First Light",
+      "url": "https://store.steampowered.com/app/3768760",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-50% | $35",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 5100,
+      "original_comments": 0
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "url": "https://store.steampowered.com/app/1086940",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-30% | $42",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 3100,
+      "original_comments": 0
+    },
+    {
+      "title": "No Asteroids",
+      "url": "https://store.steampowered.com/app/5527800",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $6",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Reshine",
+      "url": "https://store.steampowered.com/app/4253570",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $7",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "STAR WARS: Galactic Racer™",
+      "url": "https://store.steampowered.com/app/4078430",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $48",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Charmosaic - Cozy Corners",
+      "url": "https://store.steampowered.com/app/5509010",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-20% | $5",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 2100,
+      "original_comments": 0
+    },
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1890,
+      "original_comments": 1734
+    },
+    {
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1606,
+      "original_comments": 696
+    },
+    {
+      "title": "Warhammer 40,000: Dawn of War IV Commander Edition",
+      "url": "https://store.steampowered.com/app/1624417",
+      "source": "Steam",
+      "score": 5,
+      "summary": "-10% | $81",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 1100,
+      "original_comments": 0
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 569,
+      "original_comments": 474
+    },
+    {
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 449,
+      "original_comments": 126
+    },
+    {
+      "title": "Tell HN: Happy Thanksgiving",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 403,
+      "original_comments": 110
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 394,
+      "original_comments": 231
+    },
+    {
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 369,
+      "original_comments": 147
+    },
+    {
+      "title": "Intel One Mono font",
+      "url": "https://github.com/intel/intel-one-mono",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 364,
+      "original_comments": 203
+    },
+    {
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 352,
+      "original_comments": 69
+    },
+    {
+      "title": "Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 348,
+      "original_comments": 147
+    },
+    {
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 259,
+      "original_comments": 39
+    },
+    {
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 222,
+      "original_comments": 48
+    },
+    {
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 208,
+      "original_comments": 77
+    },
+    {
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 201,
+      "original_comments": 85
+    },
+    {
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 188,
+      "original_comments": 115
+    },
+    {
+      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+      "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 178,
+      "original_comments": 84
+    },
+    {
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 151,
+      "original_comments": 44
+    },
+    {
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "",
+      "categories": [
+        "其他"
+      ],
+      "original_score": 125,
+      "original_comments": 16
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 599.68 📈+0.04(+0.01%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 68188,
+      "summary": "今日 599.68 | 📈 +0.04(+0.01%) | 最高 599.81 最低 599.31 | 连涨 3天 | 成交额 ¥255万 | 成交量 68188件 | 📈1122 ➡5068 📉1408"
+    }
+  ]
+}
