@@ -1,0 +1,679 @@
+{
+  "date": "2026-11-27",
+  "commentary": "今天这新闻串烧，我差点以为在看科幻小说合集。先说英伟达，黄仁勋一回来市值暴涨近万亿美元，纳斯达克跟着嗨了6.5%。老黄这哪是回归啊，这是自带印钞机返场，华尔街那帮人精跪得比谁都快。但我就想问一句：这万亿是AI真金白银堆出来的，还是大伙儿怕错过末班车硬挤上去的？旁边马斯克更离谱，百万颗数据卫星计划获批，说是给AI算力省电省钱。好家伙，地球装不下你了是吧？以后抬头看星星，得先分辨哪颗是北斗哪颗是马斯克的服务器——这哪是星辰大海，这是把太空变成机房天花板。\n\n哦对了，Poundland破产，1.1万岗位悬了。那边科技股放烟花，这边零售业在拉警报，这世界的参差比A股涨停板还刺激。至于A股史诗级暴涨和央行取消罚息上下限放一块儿看，我只能说：水龙头拧开了，接不接得住看各位本事。\n\n今日金句：**科技圈在造神，零售业在渡劫，普通人抬头看卫星，低头看K线——这年头，连焦虑都得分赛道。**",
+  "news": [
+    {
+      "title": "英伟达市值暴涨近万亿美元，黄仁勋回归引爆科技股",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "黄仁勋重返英伟达CEO职位后，公司市值飙升近1万亿美元，带动纳斯达克指数上涨6.5%，全球科技股随之大涨。",
+      "categories": [
+        "财经",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "马斯克百万颗SpaceX数据卫星计划获批",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 9,
+      "summary": "马斯克的Starmind星座计划获监管批准，拟向太空发射百万颗数据卫星，旨在以最低成本和能耗满足AI算力需求。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "华为被判窃取美国商业秘密，但敲诈勒索罪名不成立",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 8,
+      "summary": "纽约法院经数月审理后裁定华为窃取美国商业秘密罪名成立，但敲诈勒索指控不成立，案件引发广泛关注。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "泽连斯基批评特朗普与普京的'奇怪'友谊",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "summary": "泽连斯基在BBC专访中表达对美国的不满，称美方未在结束战争的和平谈判中对俄罗斯施加足够压力。",
+      "categories": [
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国折扣连锁Poundland破产，1.1万岗位面临风险",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 8,
+      "summary": "Poundland因所有者未能找到买家而进入破产管理程序，约1.1万个工作岗位面临风险，引发英国零售业震动。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "A股迎史诗级暴涨",
+      "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%BF%8E%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "A股市场出现罕见的大幅上涨行情，多只个股涨停，市场情绪高涨，引发投资者广泛关注。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "央行新规取消贷款罚息利率上下限",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A1%8C%E6%96%B0%E8%A7%84%E5%8F%96%E6%B6%88%E8%B4%B7%E6%AC%BE%E7%BD%9A%E6%81%AF%E5%88%A9%E7%8E%87%E4%B8%8A%E4%B8%8B%E9%99%90&t=31",
+      "source": "微博热搜",
+      "score": 8,
+      "summary": "央行发布新规取消贷款罚息利率的上下限限制，此举被视为利率市场化改革的重要一步，将影响借贷市场格局。",
+      "categories": [
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "基因编辑猪肾在人体内正常工作满一年",
+      "url": "https://www.solidot.org/story?sid=86003",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "58岁美国患者接受基因编辑猪肾移植满一周年，猪肾持续承担排毒、产尿及体液平衡功能，患者逐渐恢复正常生活。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "中国发现新古人类支系",
+      "url": "https://www.solidot.org/story?sid=86002",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "中科院团队对广西两处洞穴出土的4颗古人类牙齿进行古蛋白质组学和形态学分析，发现一个此前未知的古人类支系。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "极端高温引发地表淡水资源急剧下降",
+      "url": "https://www.solidot.org/story?sid=86007",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "《科学》期刊研究显示，2023至2024年全球极端高温导致河流流量及湖泊水库蓄水量前所未有地下降，湿润地区亦受影响。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "旅行者1号发回无法解读的信息",
+      "url": "https://www.solidot.org/story?sid=86009",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "旅行者1号在距地球约259亿公里（一光日）的里程碑时刻出现技术故障，11月14日发回的信号缺乏帧同步信息。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "IBM停止签证担保，H-1B持有者面临离职或离美",
+      "url": "https://www.solidot.org/story?sid=86010",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "IBM宣布停止为咨询部门员工提供美国工作签证及绿卡担保，受影响员工须选择外派他国或在2026年底前离职。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "一人户二人户占全国家庭构成近六成",
+      "url": "https://www.solidot.org/story?sid=86011",
+      "source": "Solidot",
+      "score": 8,
+      "summary": "最新抽样数据显示，一人户占26.4%、二人户占33.2%，合计接近六成，而传统三口之家占比已不足两成。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Kimi向科学家提供最高2万美元API免费额度",
+      "url": "https://www.solidot.org/story?sid=86015",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "月之暗面推出Kimi for Science项目，面向自然科学、工程学及交叉学科研究人员提供最高2万美元的API免费额度。",
+      "categories": [
+        "科技",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Take-Two无法阻止用户用AI将GTA 6移植到PC",
+      "url": "https://www.solidot.org/story?sid=86014",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "尽管Take-Two通过DMCA等手段遏制，PC玩家仍借助AI工具以惊人速度将主机独占的GTA 6移植到PC平台。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "物理学家利用重力穿墙传递信息",
+      "url": "https://www.solidot.org/story?sid=86008",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "昆士兰大学团队利用电梯移动1.8吨配重产生重力场变化，通过高灵敏度重力仪穿墙传递信号，成功拼出单词Gravity。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "今天的老年人记忆力衰退比上一代更慢",
+      "url": "https://www.solidot.org/story?sid=86006",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "针对21.9万人的研究发现，出生年份每推后十年，60岁时记忆力得分提高10%，过去四十年美国人痴呆症风险下降三分之二。",
+      "categories": [
+        "科学",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国人性生活频率大幅下降",
+      "url": "https://www.solidot.org/story?sid=86005",
+      "source": "Solidot",
+      "score": 7,
+      "summary": "《柳叶刀》研究显示，英国人性生活频率从1990年每月四次降至每月两次，三分之一16至24岁年轻人表示从未有过性行为。",
+      "categories": [
+        "社会",
+        "科学"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "EA在FC 27中加入AI生成的John Motson解说",
+      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "EA获得已故传奇解说员John Motson家属同意，用AI生成其声音加入FC 27游戏，将于11月26日上线。",
+      "categories": [
+        "科技",
+        "娱乐"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "美国拟将亚洲AI公司Megaspeed列入黑名单",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 7,
+      "summary": "在英伟达丑闻曝光后，美国计划将涉嫌向中国输送AI芯片的亚洲AI公司Megaspeed列入实体黑名单。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "肯尼亚末日邪教头目再因123人死亡被判有罪",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "邪教领袖Paul Mackenzie因杀害追随者再被定罪，数周前他已因大规模杀害儿童被判入狱。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "加拿大最高法院基本维持魁北克公务员宗教标志禁令",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "加拿大最高法院驳回多组团体对该禁令的挑战，包括穆斯林、锡克教及天主教教师的诉讼，裁定其基本合宪。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "研究：南亚数百万已婚女性不受婚内强奸法保护",
+      "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "研究指出全球逾100国已将婚内强奸入罪，但南亚大部分地区仍未立法，数百万已婚女性缺乏法律保护。",
+      "categories": [
+        "社会",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "毒蘑菇杀人犯Erin Patterson提起最高法院最后上诉",
+      "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "summary": "因用毒蘑菇午餐毒杀亲属被判终身监禁的Erin Patterson，向澳大利亚最高法院提出最后上诉。",
+      "categories": [
+        "国际",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国数百万人平均月供将增加100英镑",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国更多固定利率房贷到期者面临还款上涨，受影响人数超出此前估计，平均每月按揭还款将增加约100英镑。",
+      "categories": [
+        "财经",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "北欧航空Norse Atlantic暂停所有航班，面临倒闭",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "Norse Atlantic航空因急需融资暂停全部航班，若无资金救助将申请破产，旅客出行受到严重影响。",
+      "categories": [
+        "财经",
+        "国际"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国拟要求70岁以上司机每三年做一次视力测试",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国新计划拟规定70岁以上驾驶者每三年接受视力检测，未达标者可能被吊销驾照，以提升道路安全。",
+      "categories": [
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "英国-欧盟新条约含10年终止条款",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "score": 7,
+      "summary": "英国与欧盟公布新条约文本及配套立法，条约包含10年终止条款，并规定英国需向欧盟支付参与费用。",
+      "categories": [
+        "国际",
+        "财经"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "阿姆斯特丹机场行李中发现濒危稀有龟",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 6,
+      "summary": "海关在阿姆斯特丹机场旅客行李中发现被胶带捆绑的濒危稀有龟类，官方称此举是为防止其移动。",
+      "categories": [
+        "国际",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "欧洲微型汽车为何流行起来",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "曾被视作老年人乡村代步工具的微型汽车，如今正被欧洲年轻消费群体接受，市场快速增长。",
+      "categories": [
+        "财经",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "实测Meta的Muse：有用但略显笨拙",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "score": 6,
+      "summary": "BBC科技编辑在英国上线前试用Meta的AI产品Muse一周，认为其有望像WhatsApp改变通讯一样改变AI交互。",
+      "categories": [
+        "科技",
+        "产品"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "谷歌将让AI代理使用其MCP服务器，但Gmail版无法发邮件",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "谷歌计划让AI代理接入其MCP服务器，但Gmail相关功能存在限制，无法直接发送邮件，引发开发者讨论。",
+      "categories": [
+        "科技"
+      ],
+      "original_score": 404,
+      "original_comments": 327
+    },
+    {
+      "title": "美国空军云计算平台遭黑客攻击",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "美国空军使用的云计算平台遭到黑客入侵，事件引发对军方云基础设施安全的担忧。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 215,
+      "original_comments": 129
+    },
+    {
+      "title": "热门购物网站发现利用WebRTC的信用卡盗刷脚本",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "安全研究人员在多个热门购物网站发现利用WebRTC技术的信用卡信息窃取脚本，提醒用户注意支付安全。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 113,
+      "original_comments": 60
+    },
+    {
+      "title": "离散对数问题的确定性次指数时间算法论文发表",
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "一篇提出离散对数问题确定性次指数时间算法的论文在Hacker News引发热议，或对密码学产生重要影响。",
+      "categories": [
+        "科学",
+        "科技"
+      ],
+      "original_score": 181,
+      "original_comments": 77
+    },
+    {
+      "title": "'RansomwareHelp'首席技术官因电信欺诈被起诉",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "名为RansomwareHelp的服务平台首席技术官因电信欺诈罪名被起诉，该平台涉嫌协助勒索软件犯罪。",
+      "categories": [
+        "社会",
+        "科技"
+      ],
+      "original_score": 322,
+      "original_comments": 157
+    },
+    {
+      "title": "DART小行星偏转实验撞击效果首批图像公布",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "科学家公布DART小行星偏转实验撞击效果的首批图像，为行星防御研究提供关键数据。",
+      "categories": [
+        "科学"
+      ],
+      "original_score": 116,
+      "original_comments": 38
+    },
+    {
+      "title": "GPT 6.2 Astra破解一桩历史悬案",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "Hacker News",
+      "score": 6,
+      "summary": "据报道，GPT 6.2 Astra模型成功解开一桩历史谜案，展示大模型在历史研究领域的应用潜力。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 111,
+      "original_comments": 45
+    },
+    {
+      "title": "欧盟委员会称浏览器竞争是DMA优先事项",
+      "url": "https://www.solidot.org/story?sid=86012",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "欧盟委员会回应Open Web Advocacy公开信，确认浏览器竞争为《数字市场法》优先事项，正磋商确保iPhone和iPad上的浏览器公平竞争。",
+      "categories": [
+        "国际",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "已故网络工程师Dave Täht获Jonathan B. Postel服务奖",
+      "url": "https://www.solidot.org/story?sid=86004",
+      "source": "Solidot",
+      "score": 6,
+      "summary": "今年4月去世的网络工程师Dave Täht获互联网协会颁发Jonathan B. Postel服务奖，OpenWrt曾以其名字命名新版本。",
+      "categories": [
+        "科技",
+        "社会"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "BLG夺冠后新华社小编大喊NICE",
+      "url": "https://www.bilibili.com/video/BV1un1xz9E1c",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "BLG战队夺冠后，新华社小编在视频中激动大喊NICE，称这样才能争取到专访机会，引发网友热议。",
+      "categories": [
+        "娱乐",
+        "趣闻"
+      ],
+      "original_score": 671650,
+      "original_comments": 4412
+    },
+    {
+      "title": "UP主把Steam复刻搬进B站，点击即玩",
+      "url": "https://www.bilibili.com/video/BV119yCzcEBd",
+      "source": "B站热门",
+      "score": 5,
+      "summary": "B站UP主在AI创造公开赛中打造可在B站内直接游玩的Steam复刻项目ToyToy，实现点击即玩的创意体验。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 915324,
+      "original_comments": 175
+    },
+    {
+      "title": "开发者修复Palm最后一款设备并将其系统移植到其他平台",
+      "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一位开发者在Hacker News分享，他修复了Palm的最后一款设备，并将其操作系统移植到其他平台，引发怀旧热潮。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 16,
+      "original_comments": 0
+    },
+    {
+      "title": "Show HN：bouncemarket——弹跳球的实时预测市场游戏",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "开发者推出bouncemarket，一个围绕弹跳球运行的实时预测市场小游戏，玩法新颖，登上Hacker News。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 224,
+      "original_comments": 63
+    },
+    {
+      "title": "YouTube广告惩罚器：检测到广告即自动刷新页面",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一款名为YouTube Ad Punisher的工具在检测到广告播放时自动刷新YouTube页面，以另类方式对抗广告，引发热议。",
+      "categories": [
+        "科技",
+        "趣闻"
+      ],
+      "original_score": 503,
+      "original_comments": 603
+    },
+    {
+      "title": "像16世纪地图集那样制作3D奇幻地图",
+      "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "一篇教程分享如何仿照16世纪地图集风格制作3D奇幻地图，兼具艺术性与技术性，吸引地图爱好者关注。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 32,
+      "original_comments": 3
+    },
+    {
+      "title": "公司文化=Slack表情符号÷√员工人数",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "source": "Hacker News",
+      "score": 5,
+      "summary": "Hacker News热帖提出一个调侃式公式，用Slack表情符号使用量除以员工人数平方根来衡量公司文化，引发共鸣。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 517,
+      "original_comments": 265
+    },
+    {
+      "title": "为'长期在线'人群提供姑息治疗",
+      "url": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
+      "source": "Hacker News",
+      "score": 4,
+      "summary": "一篇带有黑色幽默的文章探讨如何为'长期在线'的网瘾人群提供类似姑息治疗的关怀，引发Hacker News讨论。",
+      "categories": [
+        "趣闻",
+        "社会"
+      ],
+      "original_score": 17,
+      "original_comments": 5
+    },
+    {
+      "title": "'Claude的兽设是什么？'及其他问题",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "source": "Hacker News",
+      "score": 4,
+      "summary": "Hacker News上一篇趣味文章探讨AI助手Claude的'兽设'等奇怪问题，引发网友轻松讨论。",
+      "categories": [
+        "趣闻",
+        "科技"
+      ],
+      "original_score": 116,
+      "original_comments": 85
+    },
+    {
+      "title": "snibl：从任意应用保存高亮文本并向AI提问",
+      "url": "https://www.producthunt.com/products/snibl",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt新品snibl支持从任意应用保存高亮文本，随后可就内容向AI提问，提升信息整理效率。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Remove Silence：浏览器内免费剪除音频静音",
+      "url": "https://www.producthunt.com/products/remove-silence",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "Product Hunt上线免费工具Remove Silence，可直接在浏览器中剪除音频中的静音片段，操作简单无需安装。",
+      "categories": [
+        "产品",
+        "趣闻"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "Meboki：适用于任意Mac应用的离线语法检查器",
+      "url": "https://www.producthunt.com/products/meboki",
+      "source": "Product Hunt",
+      "score": 4,
+      "summary": "开源工具Meboki为任意Mac应用提供离线语法检查功能，无需联网即可使用，注重隐私保护。",
+      "categories": [
+        "产品",
+        "科技"
+      ],
+      "original_score": 0,
+      "original_comments": 0
+    },
+    {
+      "title": "🔫 CS:GO 大盘指数 608.9 📈+0.42(+0.07%)",
+      "url": "https://firepulse.com.cn/#/home",
+      "source": "CSGO大盘",
+      "score": 9,
+      "comments": 55498,
+      "summary": "今日 608.9 | 📈 +0.42(+0.07%) | 最高 609.04 最低 608.23 | 连涨 4天 | 成交额 ¥227万 | 成交量 55498件 | 📈1190 ➡5178 📉1230"
+    }
+  ]
+}
